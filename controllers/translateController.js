@@ -8,7 +8,7 @@ function getOpenAI() {
 
 async function translate(req, res) {
   try {
-    const { text, targetLang } = req.body;
+    const { text, targetLang, literal } = req.body;
 
     if (!text || typeof text !== 'string') {
       return res.status(400).json({ error: 'text required' });
@@ -22,6 +22,7 @@ async function translate(req, res) {
     const lang = targetLang || 'es';
     const langNames = { es: 'Spanish', fr: 'French', it: 'Italian', en: 'English' };
     const targetName = langNames[lang] || 'Spanish';
+    const wordForWord = literal === true;
 
     const openai = getOpenAI();
     if (!openai) {
@@ -31,18 +32,22 @@ async function translate(req, res) {
       });
     }
 
+    const systemContent = wordForWord
+      ? `You are a literal translator. Translate the user's input to ${targetName} WORD FOR WORD.
+If the input is in ${targetName}, translate to English WORD FOR WORD.
+Preserve the original structure and order. One word or short phrase maps to one word or short phrase. Do not paraphrase, use idioms, or make it sound natural. Translate each word as literally as possible.
+Return ONLY the translation, nothing else. No explanations.`
+      : `You are a translator. Translate the user's input to ${targetName}. 
+If the input is in ${targetName}, translate to English.
+Return ONLY the translation, nothing else. No explanations.`;
+
     const response = await openai.chat.completions.create({
       model: 'gpt-4o-mini',
       messages: [
-        {
-          role: 'system',
-          content: `You are a translator. Translate the user's input to ${targetName}. 
-If the input is in ${targetName}, translate to English.
-Return ONLY the translation, nothing else. No explanations.`,
-        },
+        { role: 'system', content: systemContent },
         { role: 'user', content: trimmed },
       ],
-      max_tokens: 50,
+      max_tokens: 150,
     });
 
     const translation = response.choices[0]?.message?.content?.trim() || trimmed;
