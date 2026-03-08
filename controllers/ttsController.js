@@ -1,4 +1,4 @@
-const { OpenAI, toFile } = require('openai');
+const OpenAI = require('openai');
 
 function getOpenAI() {
   const key = process.env.OPENAI_API_KEY;
@@ -92,57 +92,4 @@ async function createSpeechStream(req, res) {
   }
 }
 
-async function createSpeechWithWords(req, res) {
-  try {
-    const { text, voice = 'marin', language } = req.body;
-
-    if (!text || typeof text !== 'string') {
-      return res.status(400).json({ error: 'text required' });
-    }
-
-    const trimmed = text.trim();
-    if (!trimmed) {
-      return res.status(400).json({ error: 'text cannot be empty' });
-    }
-
-    const openai = getOpenAI();
-    if (!openai) {
-      return res.status(503).json({ error: 'OPENAI_API_KEY not configured' });
-    }
-
-    const langInstructions = {
-      es: 'Speak in Spanish with natural pronunciation.',
-      fr: 'Speak in French with natural pronunciation.',
-      it: 'Speak in Italian with natural pronunciation.',
-      en: 'Speak in English with natural pronunciation.',
-    };
-    const instructions = language ? langInstructions[language] : undefined;
-
-    const speech = await openai.audio.speech.create({
-      model: 'gpt-4o-mini-tts',
-      voice,
-      input: trimmed,
-      ...(instructions && { instructions }),
-      response_format: 'mp3',
-    });
-
-    const buffer = Buffer.from(await speech.arrayBuffer());
-
-    const file = await toFile(buffer, 'speech.mp3');
-    const transcription = await openai.audio.transcriptions.create({
-      file,
-      model: 'whisper-1',
-      response_format: 'verbose_json',
-      timestamp_granularities: ['word'],
-    });
-
-    const words = transcription.words || [];
-    const base64 = buffer.toString('base64');
-    res.json({ audio: base64, format: 'mp3', words });
-  } catch (err) {
-    console.error('TTS with words error:', err);
-    res.status(500).json({ error: err.message || 'TTS failed' });
-  }
-}
-
-module.exports = { createSpeech, createSpeechStream, createSpeechWithWords };
+module.exports = { createSpeech, createSpeechStream };
