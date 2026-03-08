@@ -101,4 +101,40 @@ async function getOpeningMessage(scenario, language = 'es') {
   return response.choices[0].message.content.trim();
 }
 
-module.exports = { transcribeAudio, evaluatePronunciation, getConversationResponse, getOpeningMessage };
+async function getLessonIntro(scenario, nativeLang, targetLang) {
+  const openai = getOpenAI();
+  if (!openai) throw new Error('OPENAI_API_KEY not configured');
+  const nativeName = LANG_NAMES[nativeLang] || 'Spanish';
+  const targetName = LANG_NAMES[targetLang] || 'Spanish';
+  const scenarioLabels = {
+    restaurant: 'ordering at a restaurant',
+    airport: 'navigating the airport',
+    hotel: 'checking in at a hotel',
+    small_talk: 'basic introductions and small talk',
+  };
+  const topic = scenarioLabels[scenario] || scenarioLabels.small_talk;
+
+  const response = await openai.chat.completions.create({
+    model: 'gpt-4o-mini',
+    messages: [
+      {
+        role: 'system',
+        content: `You are Verba, a friendly language tutor. Generate a lesson intro in ${nativeName} (the user's native language).
+The user is learning ${targetName}. Today's lesson covers ${topic}.
+
+Return JSON only with exactly two keys:
+- "greeting": A short, warm welcome (1 sentence) in ${nativeName}
+- "explanation": A brief explanation (1-2 sentences) in ${nativeName} of what we'll do: you'll say a phrase in ${targetName}, they repeat it, and you'll give feedback. Keep it encouraging.`,
+      },
+      { role: 'user', content: 'Generate the lesson intro.' },
+    ],
+    response_format: { type: 'json_object' },
+  });
+  const parsed = JSON.parse(response.choices[0].message.content);
+  return {
+    greeting: (parsed.greeting || '').trim(),
+    explanation: (parsed.explanation || '').trim(),
+  };
+}
+
+module.exports = { transcribeAudio, evaluatePronunciation, getConversationResponse, getOpeningMessage, getLessonIntro };
