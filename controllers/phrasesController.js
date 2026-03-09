@@ -14,7 +14,7 @@ function loadPhrases() {
 }
 
 function getPhrases(req, res) {
-  const { lang, scenario } = req.query;
+  const { lang, scenario, limit } = req.query;
   let phrases = loadPhrases();
 
   if (lang) {
@@ -22,6 +22,11 @@ function getPhrases(req, res) {
   }
   if (scenario) {
     phrases = phrases.filter((p) => p.scenario === scenario);
+  }
+
+  const max = limit ? parseInt(limit, 10) : 100;
+  if (!isNaN(max) && max > 0) {
+    phrases = phrases.slice(0, max);
   }
 
   res.json(phrases);
