@@ -27,6 +27,7 @@ async function evaluateSpeech(req, res) {
     }
 
     const transcription = await transcribeAudio(audioBuffer);
+    console.log('[Whisper] heard:', transcription);
     const { feedback, score } = await evaluatePronunciation(transcription, expectedPhrase);
 
     res.json({
