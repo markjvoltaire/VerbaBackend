@@ -1,20 +1,16 @@
 const fs = require('fs');
 const path = require('path');
 
-let phrasesCache = null;
-
 function loadPhrases() {
-  if (phrasesCache) return phrasesCache;
   const filePath = path.join(__dirname, '../data/phrases.json');
   if (fs.existsSync(filePath)) {
-    phrasesCache = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-    return phrasesCache;
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
   }
   return [];
 }
 
 function getPhrases(req, res) {
-  const { lang, scenario, limit } = req.query;
+  const { lang, scenario, difficulty, limit } = req.query;
   let phrases = loadPhrases();
 
   if (lang) {
@@ -22,6 +18,9 @@ function getPhrases(req, res) {
   }
   if (scenario) {
     phrases = phrases.filter((p) => p.scenario === scenario);
+  }
+  if (difficulty) {
+    phrases = phrases.filter((p) => p.difficulty === difficulty);
   }
 
   const max = limit ? parseInt(limit, 10) : 100;
