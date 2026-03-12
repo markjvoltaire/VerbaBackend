@@ -1,5 +1,5 @@
 [
-  {"id": "1", "target_lang": "es", "phrase": "Hola", "translation": "Hello", "scenario": "restaurant", "difficulty": "medium"},
+  {"id": "1", "target_lang": "es", "phrase": "Hola", "translation": "Hello", "scenario": "restaurant", "difficulty": "easy"},
   {"id": "2", "target_lang": "es", "phrase": "Quiero pedir una pizza", "translation": "I want to order a pizza", "scenario": "restaurant", "difficulty": "medium"},
   {"id": "3", "target_lang": "es", "phrase": "La cuenta, por favor", "translation": "The check, please", "scenario": "restaurant", "difficulty": "medium"},
   {"id": "4", "target_lang": "es", "phrase": "¿Tiene mesa para dos?", "translation": "Do you have a table for two?", "scenario": "restaurant", "difficulty": "medium"},
