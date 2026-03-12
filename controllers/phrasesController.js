@@ -20,7 +20,18 @@ function getPhrases(req, res) {
     phrases = phrases.filter((p) => p.scenario === scenario);
   }
   if (difficulty) {
-    phrases = phrases.filter((p) => p.difficulty === difficulty);
+    const levelMap = {
+      easy: 'Beginner',
+      medium: 'Intermediate',
+      hard: 'Advanced',
+      beginner: 'Beginner',
+      intermediate: 'Intermediate',
+      advanced: 'Advanced',
+      advance: 'Advanced',
+    };
+    const normalized =
+      levelMap[String(difficulty).toLowerCase()] || difficulty;
+    phrases = phrases.filter((p) => p.difficulty === normalized);
   }
 
   const max = limit ? parseInt(limit, 10) : 100;
