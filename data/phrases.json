@@ -1,4 +1,5 @@
 [
+  {"id": "17", "target_lang": "es", "phrase": "Mucho gusto", "translation": "Nice to meet you", "scenario": "small_talk", "difficulty": "Beginner"},
   {"id": "1", "target_lang": "es", "phrase": "Hola", "translation": "Hello", "scenario": "restaurant", "difficulty": "Beginner"},
   {"id": "2", "target_lang": "es", "phrase": "Quiero pedir una pizza", "translation": "I want to order a pizza", "scenario": "restaurant", "difficulty": "Intermediate"},
   {"id": "3", "target_lang": "es", "phrase": "La cuenta, por favor", "translation": "The check, please", "scenario": "restaurant", "difficulty": "Intermediate"},
@@ -15,7 +16,6 @@
   {"id": "14", "target_lang": "es", "phrase": "¿A qué hora es el check-out?", "translation": "What time is check-out?", "scenario": "hotel", "difficulty": "Advanced"},
   {"id": "15", "target_lang": "es", "phrase": "¿Hay WiFi en la habitación?", "translation": "Is there WiFi in the room?", "scenario": "hotel", "difficulty": "Advanced"},
   {"id": "16", "target_lang": "es", "phrase": "Necesito una habitación para esta noche", "translation": "I need a room for tonight", "scenario": "hotel", "difficulty": "Advanced"},
-  {"id": "17", "target_lang": "es", "phrase": "Mucho gusto", "translation": "Nice to meet you", "scenario": "small_talk", "difficulty": "Beginner"},
   {"id": "18", "target_lang": "es", "phrase": "¿Cómo está usted?", "translation": "How are you?", "scenario": "small_talk", "difficulty": "Beginner"},
   {"id": "19", "target_lang": "es", "phrase": "¿De dónde es usted?", "translation": "Where are you from?", "scenario": "small_talk", "difficulty": "Beginner"},
   {"id": "20", "target_lang": "es", "phrase": "¿Habla inglés?", "translation": "Do you speak English?", "scenario": "small_talk", "difficulty": "Beginner"},
