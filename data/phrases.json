@@ -202,5 +202,35 @@
   {"id": "en38", "target_lang": "en", "phrase": "I have a reservation under the name of...", "translation": "I have a reservation under the name of...", "scenario": "hotel", "difficulty": "Advanced"},
   {"id": "en39", "target_lang": "en", "phrase": "What time is check-out?", "translation": "What time is check-out?", "scenario": "hotel", "difficulty": "Advanced"},
   {"id": "en40", "target_lang": "en", "phrase": "Is there WiFi in the room?", "translation": "Is there WiFi in the room?", "scenario": "hotel", "difficulty": "Advanced"},
-  {"id": "en41", "target_lang": "en", "phrase": "I need a room for tonight", "translation": "I need a room for tonight", "scenario": "hotel", "difficulty": "Advanced"}
+  {"id": "en41", "target_lang": "en", "phrase": "I need a room for tonight", "translation": "I need a room for tonight", "scenario": "hotel", "difficulty": "Advanced"},
+
+  {"id": "d_en_1", "target_lang": "en", "phrase": "Are you from around here?", "translation": "Are you from around here?", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_es_1", "target_lang": "es", "phrase": "¿Eres de por aquí?", "translation": "Are you from around here?", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_it_1", "target_lang": "it", "phrase": "Sei di queste parti?", "translation": "Are you from around here?", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_fr_1", "target_lang": "fr", "phrase": "Tu es du coin ?", "translation": "Are you from around here?", "scenario": "dating", "difficulty": "Beginner"},
+
+  {"id": "d_en_2", "target_lang": "en", "phrase": "Would you like to grab a drink?", "translation": "Would you like to grab a drink?", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_es_2", "target_lang": "es", "phrase": "¿Te gustaría tomar algo?", "translation": "Would you like to grab a drink?", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_it_2", "target_lang": "it", "phrase": "Ti va di bere qualcosa?", "translation": "Would you like to grab a drink?", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_fr_2", "target_lang": "fr", "phrase": "Tu veux aller boire un verre ?", "translation": "Would you like to grab a drink?", "scenario": "dating", "difficulty": "Intermediate"},
+
+  {"id": "d_en_3", "target_lang": "en", "phrase": "You have a great smile.", "translation": "You have a great smile.", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_es_3", "target_lang": "es", "phrase": "Tienes una sonrisa muy bonita.", "translation": "You have a very beautiful smile.", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_it_3", "target_lang": "it", "phrase": "Hai un bellissimo sorriso.", "translation": "You have a beautiful smile.", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_fr_3", "target_lang": "fr", "phrase": "Tu as un super sourire.", "translation": "You have a great smile.", "scenario": "dating", "difficulty": "Beginner"},
+
+  {"id": "d_en_4", "target_lang": "en", "phrase": "I would love to see you again.", "translation": "I would love to see you again.", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_es_4", "target_lang": "es", "phrase": "Me encantaría volver a verte.", "translation": "I would love to see you again.", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_it_4", "target_lang": "it", "phrase": "Mi piacerebbe rivederti.", "translation": "I would love to see you again.", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_fr_4", "target_lang": "fr", "phrase": "J'aimerais beaucoup te revoir.", "translation": "I would love to see you again.", "scenario": "dating", "difficulty": "Intermediate"},
+
+  {"id": "d_en_5", "target_lang": "en", "phrase": "Are you free this weekend?", "translation": "Are you free this weekend?", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_es_5", "target_lang": "es", "phrase": "¿Estás libre este fin de semana?", "translation": "Are you free this weekend?", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_it_5", "target_lang": "it", "phrase": "Sei libero questo fine settimana?", "translation": "Are you free this weekend?", "scenario": "dating", "difficulty": "Intermediate"},
+  {"id": "d_fr_5", "target_lang": "fr", "phrase": "Tu es libre ce week-end ?", "translation": "Are you free this weekend?", "scenario": "dating", "difficulty": "Intermediate"},
+
+  {"id": "d_en_6", "target_lang": "en", "phrase": "What is your phone number?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_es_6", "target_lang": "es", "phrase": "¿Cuál es tu número de teléfono?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_it_6", "target_lang": "it", "phrase": "Qual è il tuo numero di telefono?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
+  {"id": "d_fr_6", "target_lang": "fr", "phrase": "Quel est ton numéro de téléphone ?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"}
 ]
