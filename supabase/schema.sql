@@ -4,9 +4,18 @@
 -- Users table (extends Supabase auth.users or standalone)
 CREATE TABLE IF NOT EXISTS users (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  revenue_cat_user_id TEXT UNIQUE,
   email TEXT UNIQUE,
   plan TEXT DEFAULT 'free' CHECK (plan IN ('free', 'pro')),
-  created_at TIMESTAMPTZ DEFAULT NOW()
+  name TEXT,
+  learning_language TEXT,
+  language_level TEXT,
+  motivation TEXT,
+  native_language TEXT,
+  age_range TEXT,
+  learning_speed TEXT,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  updated_at TIMESTAMPTZ DEFAULT NOW()
 );
 
 -- Phrases for practice
@@ -54,3 +63,7 @@ ALTER TABLE streaks ENABLE ROW LEVEL SECURITY;
 
 -- Allow public read for phrases (no auth needed for phrase list)
 CREATE POLICY "Allow public read phrases" ON phrases FOR SELECT USING (true);
+
+-- Allow app to insert and update users (for onboarding sync with RevenueCat user ID)
+CREATE POLICY "Allow anon insert users" ON users FOR INSERT WITH CHECK (true);
+CREATE POLICY "Allow anon update users" ON users FOR UPDATE USING (true);
