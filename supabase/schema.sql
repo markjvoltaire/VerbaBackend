@@ -64,6 +64,6 @@ ALTER TABLE streaks ENABLE ROW LEVEL SECURITY;
 -- Allow public read for phrases (no auth needed for phrase list)
 CREATE POLICY "Allow public read phrases" ON phrases FOR SELECT USING (true);
 
--- Allow app to insert and update users (for onboarding sync with RevenueCat user ID)
-CREATE POLICY "Allow anon insert users" ON users FOR INSERT WITH CHECK (true);
-CREATE POLICY "Allow anon update users" ON users FOR UPDATE USING (true);
+-- Allow app (anon role) to insert and update users (for onboarding sync with RevenueCat user ID)
+CREATE POLICY "Allow anon insert users" ON users FOR INSERT TO anon WITH CHECK (true);
+CREATE POLICY "Allow anon update users" ON users FOR UPDATE TO anon USING (true) WITH CHECK (true);

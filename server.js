@@ -7,6 +7,7 @@ const phrasesRoutes = require('./routes/phrases');
 const translateRoutes = require('./routes/translate');
 const ttsRoutes = require('./routes/tts');
 const lessonRoutes = require('./routes/lesson');
+const usersRoutes = require('./routes/users');
 
 const app = express();
 
@@ -23,6 +24,7 @@ app.use('/conversation', conversationRoutes);
 app.use('/translate', translateRoutes);
 app.use('/tts', ttsRoutes);
 app.use('/lesson', lessonRoutes);
+app.use('/users', usersRoutes);
 
 const PORT = process.env.PORT || 3000;
 

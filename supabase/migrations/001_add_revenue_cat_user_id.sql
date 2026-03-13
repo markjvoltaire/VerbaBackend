@@ -11,8 +11,8 @@ ALTER TABLE users ADD COLUMN IF NOT EXISTS native_language TEXT;
 ALTER TABLE users ADD COLUMN IF NOT EXISTS age_range TEXT;
 ALTER TABLE users ADD COLUMN IF NOT EXISTS learning_speed TEXT;
 
--- Allow app to insert and update users (for onboarding sync)
+-- Allow app (anon role) to insert and update users (for onboarding sync)
 DROP POLICY IF EXISTS "Allow anon insert users" ON users;
-DROP POLICY IF EXISTS "Allow anon upsert users" ON users;
-CREATE POLICY "Allow anon insert users" ON users FOR INSERT WITH CHECK (true);
-CREATE POLICY "Allow anon update users" ON users FOR UPDATE USING (true);
+DROP POLICY IF EXISTS "Allow anon update users" ON users;
+CREATE POLICY "Allow anon insert users" ON users FOR INSERT TO anon WITH CHECK (true);
+CREATE POLICY "Allow anon update users" ON users FOR UPDATE TO anon USING (true) WITH CHECK (true);

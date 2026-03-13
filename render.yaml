@@ -1,5 +1,5 @@
 # Verba Backend - Render Web Service
-# Deploy: connect this repo at dashboard.render.com and add env vars (OPENAI_API_KEY, SUPABASE_URL, SUPABASE_ANON_KEY)
+# Deploy: connect this repo at dashboard.render.com and add env vars (OPENAI_API_KEY, SUPABASE_URL, SUPABASE_ANON_KEY, SUPABASE_SERVICE_ROLE_KEY)
 services:
   - type: web
     runtime: node
@@ -12,4 +12,6 @@ services:
       - key: SUPABASE_URL
         sync: false
       - key: SUPABASE_ANON_KEY
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
         sync: false
