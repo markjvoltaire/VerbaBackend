@@ -8,6 +8,7 @@ const translateRoutes = require('./routes/translate');
 const ttsRoutes = require('./routes/tts');
 const lessonRoutes = require('./routes/lesson');
 const usersRoutes = require('./routes/users');
+const progressRoutes = require('./routes/progress');
 
 const app = express();
 
@@ -25,6 +26,7 @@ app.use('/translate', translateRoutes);
 app.use('/tts', ttsRoutes);
 app.use('/lesson', lessonRoutes);
 app.use('/users', usersRoutes);
+app.use('/progress', progressRoutes);
 
 const PORT = process.env.PORT || 3000;
 
