@@ -47,4 +47,69 @@ async function upsertUser(req, res) {
   }
 }
 
-module.exports = { upsertUser };
+async function setPlanToPro(req, res) {
+  try {
+    const { revenue_cat_user_id } = req.body;
+
+    if (!revenue_cat_user_id) {
+      return res.status(400).json({ error: 'revenue_cat_user_id required' });
+    }
+
+    const supabase = getSupabaseAdmin();
+    if (!supabase) {
+      return res.status(503).json({ error: 'Supabase not configured' });
+    }
+
+    const { error } = await supabase.from('users').upsert(
+      {
+        revenue_cat_user_id,
+        plan: 'pro',
+        updated_at: new Date().toISOString(),
+      },
+      { onConflict: 'revenue_cat_user_id' }
+    );
+
+    if (error) {
+      console.error('Set plan error:', error);
+      return res.status(500).json({ error: error.message });
+    }
+
+    res.json({ ok: true });
+  } catch (err) {
+    console.error('Set plan error:', err);
+    res.status(500).json({ error: err.message || 'Failed to set plan' });
+  }
+}
+
+async function getPlan(req, res) {
+  try {
+    const { revenue_cat_user_id } = req.query;
+
+    if (!revenue_cat_user_id) {
+      return res.status(400).json({ error: 'revenue_cat_user_id required' });
+    }
+
+    const supabase = getSupabaseAdmin();
+    if (!supabase) {
+      return res.status(503).json({ error: 'Supabase not configured' });
+    }
+
+    const { data, error } = await supabase
+      .from('users')
+      .select('plan')
+      .eq('revenue_cat_user_id', revenue_cat_user_id)
+      .single();
+
+    if (error && error.code !== 'PGRST116') {
+      console.error('Get plan error:', error);
+      return res.status(500).json({ error: error.message });
+    }
+
+    res.json({ plan: data?.plan || 'free' });
+  } catch (err) {
+    console.error('Get plan error:', err);
+    res.status(500).json({ error: err.message || 'Failed to get plan' });
+  }
+}
+
+module.exports = { upsertUser, setPlanToPro, getPlan };
