@@ -232,5 +232,26 @@
   {"id": "d_en_6", "target_lang": "en", "phrase": "What is your phone number?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
   {"id": "d_es_6", "target_lang": "es", "phrase": "¿Cuál es tu número de teléfono?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
   {"id": "d_it_6", "target_lang": "it", "phrase": "Qual è il tuo numero di telefono?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
-  {"id": "d_fr_6", "target_lang": "fr", "phrase": "Quel est ton numéro de téléphone ?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"}
+  {"id": "d_fr_6", "target_lang": "fr", "phrase": "Quel est ton numéro de téléphone ?", "translation": "What is your phone number?", "scenario": "dating", "difficulty": "Beginner"},
+
+  {"id": "f_es_1", "target_lang": "es", "phrase": "¿Cómo se pronuncia esta palabra?", "translation": "How do you pronounce this word?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_2", "target_lang": "es", "phrase": "¿Puedes repetir eso?", "translation": "Can you repeat that?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_3", "target_lang": "es", "phrase": "No entiendo la pronunciación", "translation": "I don't understand the pronunciation", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_4", "target_lang": "es", "phrase": "¿Puedes hablar más despacio?", "translation": "Can you speak slower?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_5", "target_lang": "es", "phrase": "¿Cómo se escribe?", "translation": "How do you spell it?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_6", "target_lang": "es", "phrase": "Se escribe así", "translation": "It is spelled like this", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_7", "target_lang": "es", "phrase": "¿Cuál es la primera letra?", "translation": "What is the first letter?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_8", "target_lang": "es", "phrase": "¿Puedes deletrearlo?", "translation": "Can you spell it?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_9", "target_lang": "es", "phrase": "No sé cómo decirlo", "translation": "I don't know how to say it", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_10", "target_lang": "es", "phrase": "Eso suena diferente", "translation": "That sounds different", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_11", "target_lang": "es", "phrase": "La pronunciación es difícil", "translation": "The pronunciation is difficult", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_12", "target_lang": "es", "phrase": "Estoy practicando mi pronunciación", "translation": "I am practicing my pronunciation", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_13", "target_lang": "es", "phrase": "¿Es correcta mi pronunciación?", "translation": "Is my pronunciation correct?", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_14", "target_lang": "es", "phrase": "Intenta decirlo así", "translation": "Try saying it like this", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_15", "target_lang": "es", "phrase": "Escucha atentamente", "translation": "Listen carefully", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_16", "target_lang": "es", "phrase": "Repite después de mí", "translation": "Repeat after me", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_17", "target_lang": "es", "phrase": "La palabra es fácil", "translation": "The word is easy", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_18", "target_lang": "es", "phrase": "Es una palabra nueva", "translation": "It is a new word", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_19", "target_lang": "es", "phrase": "Practiquemos el sonido", "translation": "Let's practice the sound", "scenario": "learning", "difficulty": "Beginner"},
+  {"id": "f_es_20", "target_lang": "es", "phrase": "Estoy aprendiendo el alfabeto", "translation": "I am learning the alphabet", "scenario": "learning", "difficulty": "Beginner"}
 ]
