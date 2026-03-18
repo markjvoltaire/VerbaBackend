@@ -1,0 +1,132 @@
+[
+  {
+    "phrase": "Where is the boarding gate?",
+    "translations": {
+      "es": "¿Dónde está la puerta de embarque?",
+      "fr": "Où est la porte d'embarquement?",
+      "it": "Dov'è il gate d'imbarco?",
+      "en": "Where is the boarding gate?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I need to change my flight",
+    "translations": {
+      "es": "Necesito cambiar mi vuelo",
+      "fr": "Je dois changer mon vol",
+      "it": "Devo cambiare il mio volo",
+      "en": "I need to change my flight"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What is my flight number?",
+    "translations": {
+      "es": "¿Cuál es el número de mi vuelo?",
+      "fr": "Quel est le numéro de mon vol?",
+      "it": "Qual è il numero del mio volo?",
+      "en": "What is my flight number?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Where is the baggage?",
+    "translations": {
+      "es": "¿Dónde está el equipaje?",
+      "fr": "Où sont les bagages?",
+      "it": "Dov'è il bagaglio?",
+      "en": "Where is the baggage?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I have a reservation",
+    "translations": {
+      "es": "Tengo una reserva",
+      "fr": "J'ai une réservation",
+      "it": "Ho una prenotazione",
+      "en": "I have a reservation"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Where is the check-in counter?",
+    "translations": {
+      "es": "¿Dónde está el mostrador de facturación?",
+      "fr": "Où est le guichet d'enregistrement?",
+      "it": "Dov'è il banco del check-in?",
+      "en": "Where is the check-in counter?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "My flight is cancelled",
+    "translations": {
+      "es": "Mi vuelo está cancelado",
+      "fr": "Mon vol est annulé",
+      "it": "Il mio volo è cancellato",
+      "en": "My flight is cancelled"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I would like to buy a ticket",
+    "translations": {
+      "es": "Me gustaría comprar un billete",
+      "fr": "Je voudrais acheter un billet",
+      "it": "Vorrei comprare un biglietto",
+      "en": "I would like to buy a ticket"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "My luggage is lost",
+    "translations": {
+      "es": "Mi equipaje está perdido",
+      "fr": "Mon bagage est perdu",
+      "it": "Il mio bagaglio è perso",
+      "en": "My luggage is lost"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Where can I collect my luggage?",
+    "translations": {
+      "es": "¿Dónde puedo recoger mi equipaje?",
+      "fr": "Où puis-je récupérer mes bagages?",
+      "it": "Dove posso ritirare il mio bagaglio?",
+      "en": "Where can I collect my luggage?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Is the flight on time?",
+    "translations": {
+      "es": "¿El vuelo va a tiempo?",
+      "fr": "Le vol est à l'heure?",
+      "it": "Il volo è in orario?",
+      "en": "Is the flight on time?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I have a connecting flight",
+    "translations": {
+      "es": "Tengo un vuelo de conexión",
+      "fr": "J'ai une correspondance",
+      "it": "Ho un volo in coincidenza",
+      "en": "I have a connecting flight"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Where is the currency exchange?",
+    "translations": {
+      "es": "¿Dónde está la casa de cambio?",
+      "fr": "Où est le bureau de change?",
+      "it": "Dov'è il cambio valuta?",
+      "en": "Where is the currency exchange?"
+    },
+    "difficulty": "Advanced"
+  }
+]

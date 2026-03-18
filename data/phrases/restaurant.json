@@ -1,0 +1,312 @@
+[
+  {
+    "phrase": "Hello",
+    "translations": {
+      "es": "Hola",
+      "fr": "Bonjour",
+      "it": "Ciao",
+      "en": "Hello"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want to order a pizza",
+    "translations": {
+      "es": "Quiero pedir una pizza",
+      "fr": "Je veux commander une pizza",
+      "it": "Voglio ordinare una pizza",
+      "en": "I want to order a pizza"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The check, please",
+    "translations": {
+      "es": "La cuenta, por favor",
+      "fr": "L'addition, s'il vous plaît",
+      "it": "Il conto, per favore",
+      "en": "The check, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Do you have a table for two?",
+    "translations": {
+      "es": "¿Tiene mesa para dos?",
+      "fr": "Avez-vous une table pour deux?",
+      "it": "Avete un tavolo per due?",
+      "en": "Do you have a table for two?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "What do you recommend?",
+    "translations": {
+      "es": "¿Qué me recomienda?",
+      "fr": "Qu'est-ce que vous recommandez?",
+      "it": "Cosa mi consiglia?",
+      "en": "What do you recommend?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am ready to order",
+    "translations": {
+      "es": "Estoy listo para ordenar",
+      "fr": "Je suis prêt à commander",
+      "it": "Sono pronto per ordinare",
+      "en": "I am ready to order"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Can you bring more water?",
+    "translations": {
+      "es": "¿Puede traer más agua?",
+      "fr": "Pouvez-vous apporter plus d'eau?",
+      "it": "Potete portare altra acqua?",
+      "en": "Can you bring more water?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I would like the menu, please",
+    "translations": {
+      "es": "Me gustaría el menú, por favor",
+      "fr": "Je voudrais la carte, s'il vous plaît",
+      "it": "Vorrei il menu, per favore",
+      "en": "I would like the menu, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I would like to order",
+    "translations": {
+      "es": "Me gustaría ordenar",
+      "fr": "Je voudrais commander",
+      "it": "Vorrei ordinare",
+      "en": "I would like to order"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The bill, please",
+    "translations": {
+      "es": "La cuenta, por favor",
+      "fr": "L'addition, s'il vous plaît",
+      "it": "Il conto, per favore",
+      "en": "The bill, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "A table for two, please",
+    "translations": {
+      "es": "Una mesa para dos, por favor",
+      "fr": "Une table pour deux, s'il vous plaît",
+      "it": "Un tavolo per due, per favore",
+      "en": "A table for two, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Can you bring me some water?",
+    "translations": {
+      "es": "¿Puede traerme agua?",
+      "fr": "Pouvez-vous m'apporter de l'eau?",
+      "it": "Potete portarmi dell'acqua?",
+      "en": "Can you bring me some water?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I would like a pizza",
+    "translations": {
+      "es": "Me gustaría una pizza",
+      "fr": "Je voudrais une pizza",
+      "it": "Vorrei una pizza",
+      "en": "I would like a pizza"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "A coffee, please",
+    "translations": {
+      "es": "Un café, por favor",
+      "fr": "Un café, s'il vous plaît",
+      "it": "Un caffè, per favore",
+      "en": "A coffee, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am vegetarian",
+    "translations": {
+      "es": "Soy vegetariano",
+      "fr": "Je suis végétarien",
+      "it": "Sono vegetariano",
+      "en": "I am vegetarian"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It was delicious",
+    "translations": {
+      "es": "Estaba delicioso",
+      "fr": "C'était délicieux",
+      "it": "Era delizioso",
+      "en": "It was delicious"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I would like a latte",
+    "translations": {
+      "es": "Me gustaría un café con leche",
+      "fr": "Je voudrais un café au lait",
+      "it": "Vorrei un caffè latte",
+      "en": "I would like a latte"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "A bottle of water, please",
+    "translations": {
+      "es": "Una botella de agua, por favor",
+      "fr": "Une bouteille d'eau, s'il vous plaît",
+      "it": "Una bottiglia d'acqua, per favore",
+      "en": "A bottle of water, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I would like to pay",
+    "translations": {
+      "es": "Me gustaría pagar",
+      "fr": "Je voudrais payer",
+      "it": "Vorrei pagare",
+      "en": "I would like to pay"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Can I pay by card?",
+    "translations": {
+      "es": "¿Puedo pagar con tarjeta?",
+      "fr": "Puis-je payer par carte?",
+      "it": "Posso pagare con la carta?",
+      "en": "Can I pay by card?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Keep the change",
+    "translations": {
+      "es": "Quédese con el cambio",
+      "fr": "Gardez la monnaie",
+      "it": "Tenga il resto",
+      "en": "Keep the change"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "A beer, please",
+    "translations": {
+      "es": "Una cerveza, por favor",
+      "fr": "Une bière, s'il vous plaît",
+      "it": "Una birra, per favore",
+      "en": "A beer, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "A glass of red wine",
+    "translations": {
+      "es": "Una copa de vino tinto",
+      "fr": "Un verre de vin rouge",
+      "it": "Un bicchiere di vino rosso",
+      "en": "A glass of red wine"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Without ice, please",
+    "translations": {
+      "es": "Sin hielo, por favor",
+      "fr": "Sans glace, s'il vous plaît",
+      "it": "Senza ghiaccio, per favore",
+      "en": "Without ice, please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The bill is incorrect",
+    "translations": {
+      "es": "La cuenta es incorrecta",
+      "fr": "L'addition est incorrecte",
+      "it": "Il conto è errato",
+      "en": "The bill is incorrect"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "We have a reservation",
+    "translations": {
+      "es": "Tenemos una reserva",
+      "fr": "Nous avons une réservation",
+      "it": "Abbiamo una prenotazione",
+      "en": "We have a reservation"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Could you give us the menu in English?",
+    "translations": {
+      "es": "¿Podría darnos el menú en inglés?",
+      "fr": "Pourriez-vous nous donner le menu en anglais?",
+      "it": "Potreste darci il menu in inglese?",
+      "en": "Could you give us the menu in English?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am allergic to nuts",
+    "translations": {
+      "es": "Soy alérgico a los frutos secos",
+      "fr": "Je suis allergique aux noix",
+      "it": "Sono allergico alla frutta a guscio",
+      "en": "I am allergic to nuts"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I'm hungry",
+    "translations": {
+      "es": "Tengo hambre",
+      "fr": "J'ai faim",
+      "it": "Ho fame",
+      "en": "I'm hungry"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I'm thirsty",
+    "translations": {
+      "es": "Tengo sed",
+      "fr": "J'ai soif",
+      "it": "Ho sete",
+      "en": "I'm thirsty"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Can you bring some water?",
+    "translations": {
+      "es": "¿Puede traer agua?",
+      "fr": "Pouvez-vous apporter de l'eau?",
+      "it": "Può portare dell'acqua?",
+      "en": "Can you bring some water?"
+    },
+    "difficulty": "Intermediate"
+  }
+]

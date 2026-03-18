@@ -1,0 +1,202 @@
+[
+  {
+    "phrase": "How do you pronounce this word?",
+    "translations": {
+      "es": "¿Cómo se pronuncia esta palabra?",
+      "fr": "Comment prononce-t-on ce mot?",
+      "it": "Come si pronuncia questa parola?",
+      "en": "How do you pronounce this word?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you repeat that?",
+    "translations": {
+      "es": "¿Puedes repetir eso?",
+      "fr": "Pouvez-vous répéter?",
+      "it": "Puoi ripetere?",
+      "en": "Can you repeat that?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't understand the pronunciation",
+    "translations": {
+      "es": "No entiendo la pronunciación",
+      "fr": "Je ne comprends pas la prononciation",
+      "it": "Non capisco la pronuncia",
+      "en": "I don't understand the pronunciation"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you speak slower?",
+    "translations": {
+      "es": "¿Puedes hablar más despacio?",
+      "fr": "Pouvez-vous parler plus lentement?",
+      "it": "Puoi parlare più lentamente?",
+      "en": "Can you speak slower?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How do you spell it?",
+    "translations": {
+      "es": "¿Cómo se escribe?",
+      "fr": "Comment ça s'écrit?",
+      "it": "Come si scrive?",
+      "en": "How do you spell it?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is spelled like this",
+    "translations": {
+      "es": "Se escribe así",
+      "fr": "Ça s'écrit comme ça",
+      "it": "Si scrive così",
+      "en": "It is spelled like this"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What is the first letter?",
+    "translations": {
+      "es": "¿Cuál es la primera letra?",
+      "fr": "Quelle est la première lettre?",
+      "it": "Qual è la prima lettera?",
+      "en": "What is the first letter?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you spell it?",
+    "translations": {
+      "es": "¿Puedes deletrearlo?",
+      "fr": "Pouvez-vous l'épeler?",
+      "it": "Puoi sillabarlo?",
+      "en": "Can you spell it?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't know how to say it",
+    "translations": {
+      "es": "No sé cómo decirlo",
+      "fr": "Je ne sais pas comment le dire",
+      "it": "Non so come dirlo",
+      "en": "I don't know how to say it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "That sounds different",
+    "translations": {
+      "es": "Eso suena diferente",
+      "fr": "Ça sonne différent",
+      "it": "Suona diverso",
+      "en": "That sounds different"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The pronunciation is difficult",
+    "translations": {
+      "es": "La pronunciación es difícil",
+      "fr": "La prononciation est difficile",
+      "it": "La pronuncia è difficile",
+      "en": "The pronunciation is difficult"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am practicing my pronunciation",
+    "translations": {
+      "es": "Estoy practicando mi pronunciación",
+      "fr": "Je m'entraîne à ma prononciation",
+      "it": "Sto esercitando la mia pronuncia",
+      "en": "I am practicing my pronunciation"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Is my pronunciation correct?",
+    "translations": {
+      "es": "¿Es correcta mi pronunciación?",
+      "fr": "Ma prononciation est-elle correcte?",
+      "it": "La mia pronuncia è corretta?",
+      "en": "Is my pronunciation correct?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Try saying it like this",
+    "translations": {
+      "es": "Intenta decirlo así",
+      "fr": "Essayez de le dire comme ça",
+      "it": "Prova a dirlo così",
+      "en": "Try saying it like this"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Listen carefully",
+    "translations": {
+      "es": "Escucha atentamente",
+      "fr": "Écoutez attentivement",
+      "it": "Ascolta attentamente",
+      "en": "Listen carefully"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Repeat after me",
+    "translations": {
+      "es": "Repite después de mí",
+      "fr": "Répétez après moi",
+      "it": "Ripeti dopo di me",
+      "en": "Repeat after me"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The word is easy",
+    "translations": {
+      "es": "La palabra es fácil",
+      "fr": "Le mot est facile",
+      "it": "La parola è facile",
+      "en": "The word is easy"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is a new word",
+    "translations": {
+      "es": "Es una palabra nueva",
+      "fr": "C'est un nouveau mot",
+      "it": "È una parola nuova",
+      "en": "It is a new word"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Let's practice the sound",
+    "translations": {
+      "es": "Practiquemos el sonido",
+      "fr": "Pratiquons le son",
+      "it": "Esercitiamo il suono",
+      "en": "Let's practice the sound"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am learning the alphabet",
+    "translations": {
+      "es": "Estoy aprendiendo el alfabeto",
+      "fr": "J'apprends l'alphabet",
+      "it": "Sto imparando l'alfabeto",
+      "en": "I am learning the alphabet"
+    },
+    "difficulty": "Beginner"
+  }
+]

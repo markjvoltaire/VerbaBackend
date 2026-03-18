@@ -1,0 +1,82 @@
+[
+  {
+    "phrase": "Are you from around here?",
+    "translations": {
+      "en": "Are you from around here?",
+      "es": "¿Eres de por aquí?",
+      "it": "Sei di queste parti?",
+      "fr": "Tu es du coin ?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Would you like to grab a drink?",
+    "translations": {
+      "en": "Would you like to grab a drink?",
+      "es": "¿Te gustaría tomar algo?",
+      "it": "Ti va di bere qualcosa?",
+      "fr": "Tu veux aller boire un verre ?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "You have a great smile.",
+    "translations": {
+      "en": "You have a great smile.",
+      "es": "Tienes una gran sonrisa.",
+      "it": "Hai un sorriso fantastico.",
+      "fr": "Tu as un super sourire."
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "You have a very beautiful smile.",
+    "translations": {
+      "en": "You have a very beautiful smile.",
+      "es": "Tienes una sonrisa muy bonita.",
+      "it": "Hai un sorriso molto bello.",
+      "fr": "Tu as un très beau sourire."
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "You have a beautiful smile.",
+    "translations": {
+      "en": "You have a beautiful smile.",
+      "es": "Tienes una sonrisa hermosa.",
+      "it": "Hai un bellissimo sorriso.",
+      "fr": "Tu as un beau sourire."
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I would love to see you again.",
+    "translations": {
+      "en": "I would love to see you again.",
+      "es": "Me encantaría volver a verte.",
+      "it": "Mi piacerebbe rivederti.",
+      "fr": "J'aimerais beaucoup te revoir."
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Are you free this weekend?",
+    "translations": {
+      "en": "Are you free this weekend?",
+      "es": "¿Estás libre este fin de semana?",
+      "it": "Sei libero questo fine settimana?",
+      "fr": "Tu es libre ce week-end ?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "What is your phone number?",
+    "translations": {
+      "en": "What is your phone number?",
+      "es": "¿Cuál es tu número de teléfono?",
+      "it": "Qual è il tuo numero di telefono?",
+      "fr": "Quel est ton numéro de téléphone ?"
+    },
+    "difficulty": "Beginner"
+  }
+]

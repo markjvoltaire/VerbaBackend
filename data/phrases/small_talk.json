@@ -1,0 +1,552 @@
+[
+  {
+    "phrase": "Nice to meet you",
+    "translations": {
+      "es": "Mucho gusto",
+      "fr": "Enchanté",
+      "it": "Piacere",
+      "en": "Nice to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How are you?",
+    "translations": {
+      "es": "¿Cómo está usted?",
+      "fr": "Ça va?",
+      "it": "Come sta?",
+      "en": "How are you?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where are you from?",
+    "translations": {
+      "es": "¿De dónde es usted?",
+      "fr": "D'où venez-vous?",
+      "it": "Di dove è?",
+      "en": "Where are you from?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you speak English?",
+    "translations": {
+      "es": "¿Habla inglés?",
+      "fr": "Parlez-vous anglais?",
+      "it": "Parla inglese?",
+      "en": "Do you speak English?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't understand",
+    "translations": {
+      "es": "No entiendo",
+      "fr": "Je ne comprends pas",
+      "it": "Non capisco",
+      "en": "I don't understand"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you repeat, please?",
+    "translations": {
+      "es": "¿Puede repetir, por favor?",
+      "fr": "Pouvez-vous répéter, s'il vous plaît?",
+      "it": "Può ripetere, per favore?",
+      "en": "Can you repeat, please?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Hello",
+    "translations": {
+      "es": "Hola",
+      "fr": "Bonjour",
+      "it": "Ciao",
+      "en": "Hello"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Good evening",
+    "translations": {
+      "es": "Buenas noches",
+      "fr": "Bonsoir",
+      "it": "Buonasera",
+      "en": "Good evening"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Goodbye",
+    "translations": {
+      "es": "Adiós",
+      "fr": "Au revoir",
+      "it": "Arrivederci",
+      "en": "Goodbye"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Please",
+    "translations": {
+      "es": "Por favor",
+      "fr": "S'il vous plaît",
+      "it": "Per favore",
+      "en": "Please"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Thank you very much",
+    "translations": {
+      "es": "Muchas gracias",
+      "fr": "Merci beaucoup",
+      "it": "Grazie mille",
+      "en": "Thank you very much"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Excuse me",
+    "translations": {
+      "es": "Disculpe",
+      "fr": "Excusez-moi",
+      "it": "Scusi",
+      "en": "Excuse me"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Sorry",
+    "translations": {
+      "es": "Lo siento",
+      "fr": "Pardon",
+      "it": "Scusa",
+      "en": "Sorry"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yes",
+    "translations": {
+      "es": "Sí",
+      "fr": "Oui",
+      "it": "Sì",
+      "en": "Yes"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "No",
+    "translations": {
+      "es": "No",
+      "fr": "Non",
+      "it": "No",
+      "en": "No"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "My name is...",
+    "translations": {
+      "es": "Me llamo...",
+      "fr": "Je m'appelle...",
+      "it": "Mi chiamo...",
+      "en": "My name is..."
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you repeat?",
+    "translations": {
+      "es": "¿Puede repetir?",
+      "fr": "Pouvez-vous répéter?",
+      "it": "Può ripetere?",
+      "en": "Can you repeat?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is...?",
+    "translations": {
+      "es": "¿Dónde está...?",
+      "fr": "Où est...?",
+      "it": "Dov'è...?",
+      "en": "Where is...?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where are the toilets?",
+    "translations": {
+      "es": "¿Dónde están los baños?",
+      "fr": "Où sont les toilettes?",
+      "it": "Dove sono i bagni?",
+      "en": "Where are the toilets?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How much does it cost?",
+    "translations": {
+      "es": "¿Cuánto cuesta?",
+      "fr": "Combien ça coûte?",
+      "it": "Quanto costa?",
+      "en": "How much does it cost?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How much is it?",
+    "translations": {
+      "es": "¿Cuánto es?",
+      "fr": "C'est combien?",
+      "it": "Quanto costa?",
+      "en": "How much is it?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the train station?",
+    "translations": {
+      "es": "¿Dónde está la estación de tren?",
+      "fr": "Où est la gare?",
+      "it": "Dov'è la stazione?",
+      "en": "Where is the train station?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Is it far from here?",
+    "translations": {
+      "es": "¿Está lejos de aquí?",
+      "fr": "C'est loin d'ici?",
+      "it": "È lontano da qui?",
+      "en": "Is it far from here?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I'm looking for...",
+    "translations": {
+      "es": "Estoy buscando...",
+      "fr": "Je cherche...",
+      "it": "Sto cercando...",
+      "en": "I'm looking for..."
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "To the right",
+    "translations": {
+      "es": "A la derecha",
+      "fr": "À droite",
+      "it": "A destra",
+      "en": "To the right"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "To the left",
+    "translations": {
+      "es": "A la izquierda",
+      "fr": "À gauche",
+      "it": "A sinistra",
+      "en": "To the left"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Straight ahead",
+    "translations": {
+      "es": "Todo recto",
+      "fr": "Tout droit",
+      "it": "Dritto",
+      "en": "Straight ahead"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't know",
+    "translations": {
+      "es": "No sé",
+      "fr": "Je ne sais pas",
+      "it": "Non lo so",
+      "en": "I don't know"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Of course",
+    "translations": {
+      "es": "Por supuesto",
+      "fr": "Bien sûr",
+      "it": "Certo",
+      "en": "Of course"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "No problem",
+    "translations": {
+      "es": "No hay problema",
+      "fr": "Pas de problème",
+      "it": "Nessun problema",
+      "en": "No problem"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Okay",
+    "translations": {
+      "es": "De acuerdo",
+      "fr": "D'accord",
+      "it": "Va bene",
+      "en": "Okay"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Wait, please",
+    "translations": {
+      "es": "Espere, por favor",
+      "fr": "Attendez, s'il vous plaît",
+      "it": "Aspetti, per favore",
+      "en": "Wait, please"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "One moment",
+    "translations": {
+      "es": "Un momento",
+      "fr": "Un moment",
+      "it": "Un momento",
+      "en": "One moment"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am lost",
+    "translations": {
+      "es": "Estoy perdido",
+      "fr": "Je suis perdu",
+      "it": "Mi sono perso",
+      "en": "I am lost"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Help me, please",
+    "translations": {
+      "es": "Ayúdeme, por favor",
+      "fr": "Aidez-moi, s'il vous plaît",
+      "it": "Aiutatemi, per favore",
+      "en": "Help me, please"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the hospital?",
+    "translations": {
+      "es": "¿Dónde está el hospital?",
+      "fr": "Où est l'hôpital?",
+      "it": "Dov'è l'ospedale?",
+      "en": "Where is the hospital?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I need a doctor",
+    "translations": {
+      "es": "Necesito un médico",
+      "fr": "J'ai besoin d'un médecin",
+      "it": "Ho bisogno di un dottore",
+      "en": "I need a doctor"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Call the police",
+    "translations": {
+      "es": "Llame a la policía",
+      "fr": "Appelez la police",
+      "it": "Chiamate la polizia",
+      "en": "Call the police"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It's an emergency",
+    "translations": {
+      "es": "Es una emergencia",
+      "fr": "C'est une urgence",
+      "it": "È un'emergenza",
+      "en": "It's an emergency"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What time does the museum open?",
+    "translations": {
+      "es": "¿A qué hora abre el museo?",
+      "fr": "À quelle heure ouvre le musée?",
+      "it": "A che ora apre il museo?",
+      "en": "What time does the museum open?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Is it open today?",
+    "translations": {
+      "es": "¿Está abierto hoy?",
+      "fr": "C'est ouvert aujourd'hui?",
+      "it": "È aperto oggi?",
+      "en": "Is it open today?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the city center?",
+    "translations": {
+      "es": "¿Dónde está el centro de la ciudad?",
+      "fr": "Où est le centre-ville?",
+      "it": "Dov'è il centro città?",
+      "en": "Where is the city center?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It's beautiful here",
+    "translations": {
+      "es": "Es hermoso aquí",
+      "fr": "C'est beau ici",
+      "it": "È bello qui",
+      "en": "It's beautiful here"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I love France",
+    "translations": {
+      "es": "Me encanta Francia",
+      "fr": "J'aime la France",
+      "it": "Amo la Francia",
+      "en": "I love France"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What's the weather like?",
+    "translations": {
+      "es": "¿Cómo está el tiempo?",
+      "fr": "Quel temps fait-il?",
+      "it": "Com'è il tempo?",
+      "en": "What's the weather like?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The weather is nice",
+    "translations": {
+      "es": "Hace buen tiempo",
+      "fr": "Il fait beau",
+      "it": "Fa bel tempo",
+      "en": "The weather is nice"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Have a good day",
+    "translations": {
+      "es": "Que tenga un buen día",
+      "fr": "Bonne journée",
+      "it": "Buona giornata",
+      "en": "Have a good day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Have a good evening",
+    "translations": {
+      "es": "Que tenga una buena noche",
+      "fr": "Bonne soirée",
+      "it": "Buona serata",
+      "en": "Have a good evening"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "See you soon",
+    "translations": {
+      "es": "Hasta pronto",
+      "fr": "À bientôt",
+      "it": "A presto",
+      "en": "See you soon"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "See you tomorrow",
+    "translations": {
+      "es": "Hasta mañana",
+      "fr": "À demain",
+      "it": "A domani",
+      "en": "See you tomorrow"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Good luck",
+    "translations": {
+      "es": "Buena suerte",
+      "fr": "Bonne chance",
+      "it": "Buona fortuna",
+      "en": "Good luck"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Congratulations",
+    "translations": {
+      "es": "Felicitaciones",
+      "fr": "Félicitations",
+      "it": "Congratulazioni",
+      "en": "Congratulations"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Hello / Bye",
+    "translations": {
+      "es": "Hola / Adiós",
+      "fr": "Salut / Au revoir",
+      "it": "Ciao",
+      "en": "Hello / Bye"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Good morning",
+    "translations": {
+      "es": "Buenos días",
+      "fr": "Bonjour",
+      "it": "Buongiorno",
+      "en": "Good morning"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Thank you",
+    "translations": {
+      "es": "Gracias",
+      "fr": "Merci",
+      "it": "Grazie",
+      "en": "Thank you"
+    },
+    "difficulty": "Beginner"
+  }
+]

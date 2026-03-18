@@ -1,0 +1,102 @@
+[
+  {
+    "phrase": "I have a reservation under the name of...",
+    "translations": {
+      "es": "Tengo una reserva a nombre de...",
+      "fr": "J'ai une réservation au nom de...",
+      "it": "Ho una prenotazione a nome di...",
+      "en": "I have a reservation under the name of..."
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What time is check-out?",
+    "translations": {
+      "es": "¿A qué hora es el check-out?",
+      "fr": "À quelle heure est le check-out?",
+      "it": "A che ora è il check-out?",
+      "en": "What time is check-out?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Is there WiFi in the room?",
+    "translations": {
+      "es": "¿Hay WiFi en la habitación?",
+      "fr": "Y a-t-il le WiFi dans la chambre?",
+      "it": "C'è il WiFi in camera?",
+      "en": "Is there WiFi in the room?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I need a room for tonight",
+    "translations": {
+      "es": "Necesito una habitación para esta noche",
+      "fr": "J'ai besoin d'une chambre pour ce soir",
+      "it": "Ho bisogno di una camera per stanotte",
+      "en": "I need a room for tonight"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The key to my room, please",
+    "translations": {
+      "es": "La llave de mi habitación, por favor",
+      "fr": "La clé de ma chambre, s'il vous plaît",
+      "it": "La chiave della mia camera, per favore",
+      "en": "The key to my room, please"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Where is the pool?",
+    "translations": {
+      "es": "¿Dónde está la piscina?",
+      "fr": "Où est la piscine?",
+      "it": "Dov'è la piscina?",
+      "en": "Where is the pool?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Is breakfast included?",
+    "translations": {
+      "es": "¿Está incluido el desayuno?",
+      "fr": "Le petit-déjeuner est inclus?",
+      "it": "La colazione è inclusa?",
+      "en": "Is breakfast included?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The room is not clean",
+    "translations": {
+      "es": "La habitación no está limpia",
+      "fr": "La chambre n'est pas propre",
+      "it": "La camera non è pulita",
+      "en": "The room is not clean"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The air conditioning doesn't work",
+    "translations": {
+      "es": "El aire acondicionado no funciona",
+      "fr": "Le climatiseur ne fonctionne pas",
+      "it": "L'aria condizionata non funziona",
+      "en": "The air conditioning doesn't work"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Can you wake me at seven o'clock?",
+    "translations": {
+      "es": "¿Puede despertarme a las siete?",
+      "fr": "Pouvez-vous me réveiller à sept heures?",
+      "it": "Potete svegliarmi alle sette?",
+      "en": "Can you wake me at seven o'clock?"
+    },
+    "difficulty": "Advanced"
+  }
+]
