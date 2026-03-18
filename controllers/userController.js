@@ -81,6 +81,37 @@ async function setPlanToPro(req, res) {
   }
 }
 
+async function checkUserExists(req, res) {
+  try {
+    const { revenue_cat_user_id } = req.query;
+
+    if (!revenue_cat_user_id) {
+      return res.status(400).json({ error: 'revenue_cat_user_id required' });
+    }
+
+    const supabase = getSupabaseAdmin();
+    if (!supabase) {
+      return res.status(503).json({ error: 'Supabase not configured' });
+    }
+
+    const { data, error } = await supabase
+      .from('users')
+      .select('revenue_cat_user_id')
+      .eq('revenue_cat_user_id', revenue_cat_user_id)
+      .maybeSingle();
+
+    if (error) {
+      console.error('Check user exists error:', error);
+      return res.status(500).json({ error: error.message });
+    }
+
+    res.json({ exists: !!data });
+  } catch (err) {
+    console.error('Check user exists error:', err);
+    res.status(500).json({ error: err.message || 'Failed to check user' });
+  }
+}
+
 async function getPlan(req, res) {
   try {
     const { revenue_cat_user_id } = req.query;
@@ -112,4 +143,4 @@ async function getPlan(req, res) {
   }
 }
 
-module.exports = { upsertUser, setPlanToPro, getPlan };
+module.exports = { upsertUser, setPlanToPro, getPlan, checkUserExists };
