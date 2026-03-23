@@ -1,0 +1,202 @@
+[
+  {
+    "phrase": "My name is Juan",
+    "translations": {
+      "es": "Me llamo Juan",
+      "fr": "Je m'appelle Juan",
+      "it": "Mi chiamo Juan",
+      "en": "My name is Juan"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "My name is Ana",
+    "translations": {
+      "es": "Mi nombre es Ana",
+      "fr": "Je m'appelle Ana",
+      "it": "Mi chiamo Ana",
+      "en": "My name is Ana"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What is your name?",
+    "translations": {
+      "es": "¿Cómo te llamas?",
+      "fr": "Comment tu t'appelles ?",
+      "it": "Come ti chiami?",
+      "en": "What is your name?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What is your name? (formal)",
+    "translations": {
+      "es": "¿Cómo se llama usted?",
+      "fr": "Comment vous appelez-vous ?",
+      "it": "Come si chiama?",
+      "en": "What is your name? (formal)"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am a student",
+    "translations": {
+      "es": "Soy estudiante",
+      "fr": "Je suis étudiant",
+      "it": "Sono studente",
+      "en": "I am a student"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am a teacher",
+    "translations": {
+      "es": "Soy profesor",
+      "fr": "Je suis professeur",
+      "it": "Sono insegnante",
+      "en": "I am a teacher"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I work in an office",
+    "translations": {
+      "es": "Trabajo en una oficina",
+      "fr": "Je travaille dans un bureau",
+      "it": "Lavoro in un ufficio",
+      "en": "I work in an office"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am new here",
+    "translations": {
+      "es": "Soy nuevo aquí",
+      "fr": "Je suis nouveau ici",
+      "it": "Sono nuovo qui",
+      "en": "I am new here"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am 25 years old",
+    "translations": {
+      "es": "Tengo 25 años",
+      "fr": "J'ai 25 ans",
+      "it": "Ho 25 anni",
+      "en": "I am 25 years old"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Nice to meet you",
+    "translations": {
+      "es": "Mucho gusto",
+      "fr": "Enchanté",
+      "it": "Piacere",
+      "en": "Nice to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Nice to meet you",
+    "translations": {
+      "es": "Encantado de conocerte",
+      "fr": "Enchanté de te rencontrer",
+      "it": "Piacere di conoscerti",
+      "en": "Nice to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It's a pleasure to meet you",
+    "translations": {
+      "es": "Es un placer conocerte",
+      "fr": "C'est un plaisir de te rencontrer",
+      "it": "È un piacere conoscerti",
+      "en": "It's a pleasure to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "This is my friend",
+    "translations": {
+      "es": "Este es mi amigo",
+      "fr": "Voici mon ami",
+      "it": "Questo è il mio amico",
+      "en": "This is my friend"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Let me introduce you to Maria",
+    "translations": {
+      "es": "Te presento a María",
+      "fr": "Je te présente Maria",
+      "it": "Ti presento Maria",
+      "en": "Let me introduce you to Maria"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "We are coworkers",
+    "translations": {
+      "es": "Somos compañeros de trabajo",
+      "fr": "Nous sommes collègues",
+      "it": "Siamo colleghi",
+      "en": "We are coworkers"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am from the United States",
+    "translations": {
+      "es": "Soy de Estados Unidos",
+      "fr": "Je viens des États-Unis",
+      "it": "Vengo dagli Stati Uniti",
+      "en": "I am from the United States"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am learning Spanish",
+    "translations": {
+      "es": "Estoy aprendiendo español",
+      "fr": "J'apprends l'espagnol",
+      "it": "Sto imparando lo spagnolo",
+      "en": "I am learning Spanish"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "You speak English",
+    "translations": {
+      "es": "¿Hablas inglés?",
+      "fr": "Tu parles anglais",
+      "it": "Parli inglese",
+      "en": "You speak English"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I speak a little Spanish",
+    "translations": {
+      "es": "Hablo un poco de español",
+      "fr": "Je parle un peu espagnol",
+      "it": "Parlo un po' di spagnolo",
+      "en": "I speak a little Spanish"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am practicing Spanish",
+    "translations": {
+      "es": "Estoy practicando español",
+      "fr": "Je pratique l'espagnol",
+      "it": "Sto praticando lo spagnolo",
+      "en": "I am practicing Spanish"
+    },
+    "difficulty": "Beginner"
+  }
+]

@@ -1,5 +1,6 @@
 [
   { "id": "small_talk", "label": "First Connection", "description": "Greetings, introductions & casual chat", "icon": "👋", "difficulty": "beginner" },
+  { "id": "introduction", "label": "Introductions", "description": "Names, jobs, meeting people & practicing Spanish", "icon": "🙋", "difficulty": "beginner" },
   { "id": "dating", "label": "Dating", "description": "Flirting, compliments & making plans", "icon": "💕", "difficulty": "beginner" },
   { "id": "restaurant", "label": "Ordering a Meal", "description": "Menus, dietary needs & paying the bill", "icon": "🍽️", "difficulty": "intermediate" },
   { "id": "airport", "label": "At the Airport", "description": "Check-in, boarding & navigating terminals", "icon": "✈️", "difficulty": "advanced" },
