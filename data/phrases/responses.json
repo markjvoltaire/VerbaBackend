@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Yes",
+    "translations": {
+      "es": "Sí",
+      "en": "Yes"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "No",
+    "translations": {
+      "es": "No",
+      "en": "No"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yes, of course",
+    "translations": {
+      "es": "Sí, claro",
+      "en": "Yes, of course"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Of course",
+    "translations": {
+      "es": "Claro que sí",
+      "en": "Of course"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't think so",
+    "translations": {
+      "es": "No creo",
+      "en": "I don't think so"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't know",
+    "translations": {
+      "es": "No sé",
+      "en": "I don't know"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Maybe",
+    "translations": {
+      "es": "Tal vez",
+      "en": "Maybe"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Perhaps",
+    "translations": {
+      "es": "Quizás",
+      "en": "Perhaps"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Of course",
+    "translations": {
+      "es": "Por supuesto",
+      "en": "Of course"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Exactly",
+    "translations": {
+      "es": "Exacto",
+      "en": "Exactly"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Correct",
+    "translations": {
+      "es": "Correcto",
+      "en": "Correct"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Not exactly",
+    "translations": {
+      "es": "No exactamente",
+      "en": "Not exactly"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Not at all",
+    "translations": {
+      "es": "Para nada",
+      "en": "Not at all"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Sure",
+    "translations": {
+      "es": "Claro",
+      "en": "Sure"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It's okay",
+    "translations": {
+      "es": "Está bien",
+      "en": "It's okay"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Alright / agreed",
+    "translations": {
+      "es": "De acuerdo",
+      "en": "Alright / agreed"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "That's right",
+    "translations": {
+      "es": "Así es",
+      "en": "That's right"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Not yet",
+    "translations": {
+      "es": "No todavía",
+      "en": "Not yet"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yes, a little",
+    "translations": {
+      "es": "Sí, un poco",
+      "en": "Yes, a little"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Not much",
+    "translations": {
+      "es": "No mucho",
+      "en": "Not much"
+    },
+    "difficulty": "Beginner"
+  }
+]

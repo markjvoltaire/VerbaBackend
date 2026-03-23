@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I like to read",
+    "translations": {
+      "es": "Me gusta leer",
+      "en": "I like to read"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to write",
+    "translations": {
+      "es": "Me gusta escribir",
+      "en": "I like to write"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to listen to music",
+    "translations": {
+      "es": "Me gusta escuchar música",
+      "en": "I like to listen to music"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to dance",
+    "translations": {
+      "es": "Me gusta bailar",
+      "en": "I like to dance"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to travel",
+    "translations": {
+      "es": "Me gusta viajar",
+      "en": "I like to travel"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to cook",
+    "translations": {
+      "es": "Me gusta cocinar",
+      "en": "I like to cook"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to run",
+    "translations": {
+      "es": "Me gusta correr",
+      "en": "I like to run"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to swim",
+    "translations": {
+      "es": "Me gusta nadar",
+      "en": "I like to swim"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I play soccer",
+    "translations": {
+      "es": "Juego fútbol",
+      "en": "I play soccer"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I play video games",
+    "translations": {
+      "es": "Juego videojuegos",
+      "en": "I play video games"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I watch movies",
+    "translations": {
+      "es": "Veo películas",
+      "en": "I watch movies"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I watch TV",
+    "translations": {
+      "es": "Veo televisión",
+      "en": "I watch TV"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go out with friends",
+    "translations": {
+      "es": "Salgo con amigos",
+      "en": "I go out with friends"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I spend time alone",
+    "translations": {
+      "es": "Paso tiempo solo",
+      "en": "I spend time alone"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like learning languages",
+    "translations": {
+      "es": "Me gusta aprender idiomas",
+      "en": "I like learning languages"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't have much time",
+    "translations": {
+      "es": "No tengo mucho tiempo",
+      "en": "I don't have much time"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I do it every day",
+    "translations": {
+      "es": "Lo hago todos los días",
+      "en": "I do it every day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I do it on weekends",
+    "translations": {
+      "es": "Lo hago los fines de semana",
+      "en": "I do it on weekends"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is fun",
+    "translations": {
+      "es": "Es divertido",
+      "en": "It is fun"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is boring",
+    "translations": {
+      "es": "Es aburrido",
+      "en": "It is boring"
+    },
+    "difficulty": "Beginner"
+  }
+]

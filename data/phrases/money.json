@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "It costs ten dollars",
+    "translations": {
+      "es": "Cuesta diez dólares",
+      "en": "It costs ten dollars"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is very expensive",
+    "translations": {
+      "es": "Es muy caro",
+      "en": "It is very expensive"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cheap",
+    "translations": {
+      "es": "Es barato",
+      "en": "It is cheap"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I have money",
+    "translations": {
+      "es": "Tengo dinero",
+      "en": "I have money"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't have money",
+    "translations": {
+      "es": "No tengo dinero",
+      "en": "I don't have money"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I pay now",
+    "translations": {
+      "es": "Pago ahora",
+      "en": "I pay now"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I pay later",
+    "translations": {
+      "es": "Pago después",
+      "en": "I pay later"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How much is it total?",
+    "translations": {
+      "es": "¿Cuánto es en total?",
+      "en": "How much is it total?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The total is twenty",
+    "translations": {
+      "es": "El total es veinte",
+      "en": "The total is twenty"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I need change",
+    "translations": {
+      "es": "Necesito cambio",
+      "en": "I need change"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't have change",
+    "translations": {
+      "es": "No tengo cambio",
+      "en": "I don't have change"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Here you go",
+    "translations": {
+      "es": "Aquí tienes",
+      "en": "Here you go"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Thank you",
+    "translations": {
+      "es": "Gracias",
+      "en": "Thank you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is correct",
+    "translations": {
+      "es": "Es correcto",
+      "en": "It is correct"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Money is missing",
+    "translations": {
+      "es": "Falta dinero",
+      "en": "Money is missing"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "There is extra money",
+    "translations": {
+      "es": "Sobra dinero",
+      "en": "There is extra money"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I pay with card",
+    "translations": {
+      "es": "Pago con tarjeta",
+      "en": "I pay with card"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I pay cash",
+    "translations": {
+      "es": "Pago en efectivo",
+      "en": "I pay cash"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is too much",
+    "translations": {
+      "es": "Es demasiado",
+      "en": "It is too much"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The price is fine",
+    "translations": {
+      "es": "Está bien el precio",
+      "en": "The price is fine"
+    },
+    "difficulty": "Beginner"
+  }
+]

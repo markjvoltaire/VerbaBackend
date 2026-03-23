@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I want water",
+    "translations": {
+      "es": "Quiero agua",
+      "en": "I want water"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want coffee",
+    "translations": {
+      "es": "Quiero café",
+      "en": "I want coffee"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want tea",
+    "translations": {
+      "es": "Quiero té",
+      "en": "I want tea"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want a beer",
+    "translations": {
+      "es": "Quiero una cerveza",
+      "en": "I want a beer"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want a juice",
+    "translations": {
+      "es": "Quiero un jugo",
+      "en": "I want a juice"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I drink water every day",
+    "translations": {
+      "es": "Bebo agua todos los días",
+      "en": "I drink water every day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I drink coffee in the morning",
+    "translations": {
+      "es": "Bebo café por la mañana",
+      "en": "I drink coffee in the morning"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I prefer tea",
+    "translations": {
+      "es": "Prefiero té",
+      "en": "I prefer tea"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "No sugar",
+    "translations": {
+      "es": "Sin azúcar",
+      "en": "No sugar"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "With sugar",
+    "translations": {
+      "es": "Con azúcar",
+      "en": "With sugar"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "With milk",
+    "translations": {
+      "es": "Con leche",
+      "en": "With milk"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "No milk",
+    "translations": {
+      "es": "Sin leche",
+      "en": "No milk"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cold",
+    "translations": {
+      "es": "Está frío",
+      "en": "It is cold"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is hot",
+    "translations": {
+      "es": "Está caliente",
+      "en": "It is hot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want something to drink",
+    "translations": {
+      "es": "Quiero algo de beber",
+      "en": "I want something to drink"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What do you want to drink?",
+    "translations": {
+      "es": "¿Qué quieres beber?",
+      "en": "What do you want to drink?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Just water, thanks",
+    "translations": {
+      "es": "Solo agua, gracias",
+      "en": "Just water, thanks"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "A bottle of water",
+    "translations": {
+      "es": "Una botella de agua",
+      "en": "A bottle of water"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "A glass of juice",
+    "translations": {
+      "es": "Un vaso de jugo",
+      "en": "A glass of juice"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is delicious",
+    "translations": {
+      "es": "Está delicioso",
+      "en": "It is delicious"
+    },
+    "difficulty": "Beginner"
+  }
+]

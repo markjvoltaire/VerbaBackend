@@ -1,0 +1,322 @@
+[
+  {
+    "phrase": "Monday",
+    "translations": {
+      "es": "lunes",
+      "en": "Monday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tuesday",
+    "translations": {
+      "es": "martes",
+      "en": "Tuesday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Wednesday",
+    "translations": {
+      "es": "miércoles",
+      "en": "Wednesday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Thursday",
+    "translations": {
+      "es": "jueves",
+      "en": "Thursday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Friday",
+    "translations": {
+      "es": "viernes",
+      "en": "Friday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Saturday",
+    "translations": {
+      "es": "sábado",
+      "en": "Saturday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Sunday",
+    "translations": {
+      "es": "domingo",
+      "en": "Sunday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Today is Monday",
+    "translations": {
+      "es": "Hoy es lunes",
+      "en": "Today is Monday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow is Tuesday",
+    "translations": {
+      "es": "Mañana es martes",
+      "en": "Tomorrow is Tuesday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday was Sunday",
+    "translations": {
+      "es": "Ayer fue domingo",
+      "en": "Yesterday was Sunday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "See you on Monday",
+    "translations": {
+      "es": "Nos vemos el lunes",
+      "en": "See you on Monday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I work from Monday to Friday",
+    "translations": {
+      "es": "Trabajo de lunes a viernes",
+      "en": "I work from Monday to Friday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "On Saturday I go out with friends",
+    "translations": {
+      "es": "El sábado salgo con amigos",
+      "en": "On Saturday I go out with friends"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "On Sunday I rest",
+    "translations": {
+      "es": "El domingo descanso",
+      "en": "On Sunday I rest"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What day is today?",
+    "translations": {
+      "es": "¿Qué día es hoy?",
+      "en": "What day is today?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Today is Friday",
+    "translations": {
+      "es": "Hoy es viernes",
+      "en": "Today is Friday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I have a meeting on Monday",
+    "translations": {
+      "es": "El lunes tengo una reunión",
+      "en": "I have a meeting on Monday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "See you Wednesday",
+    "translations": {
+      "es": "Nos vemos el miércoles",
+      "en": "See you Wednesday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "We go out Friday",
+    "translations": {
+      "es": "El viernes salimos",
+      "en": "We go out Friday"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I rest on the weekend",
+    "translations": {
+      "es": "El fin de semana descanso",
+      "en": "I rest on the weekend"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "January",
+    "translations": {
+      "es": "enero",
+      "en": "January"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "February",
+    "translations": {
+      "es": "febrero",
+      "en": "February"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "March",
+    "translations": {
+      "es": "marzo",
+      "en": "March"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "April",
+    "translations": {
+      "es": "abril",
+      "en": "April"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "May",
+    "translations": {
+      "es": "mayo",
+      "en": "May"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "June",
+    "translations": {
+      "es": "junio",
+      "en": "June"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "July",
+    "translations": {
+      "es": "julio",
+      "en": "July"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "August",
+    "translations": {
+      "es": "agosto",
+      "en": "August"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "September",
+    "translations": {
+      "es": "septiembre",
+      "en": "September"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "October",
+    "translations": {
+      "es": "octubre",
+      "en": "October"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "November",
+    "translations": {
+      "es": "noviembre",
+      "en": "November"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "December",
+    "translations": {
+      "es": "diciembre",
+      "en": "December"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What month are we in?",
+    "translations": {
+      "es": "¿En qué mes estamos?",
+      "en": "What month are we in?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "We are in March",
+    "translations": {
+      "es": "Estamos en marzo",
+      "en": "We are in March"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "My birthday is in May",
+    "translations": {
+      "es": "Mi cumpleaños es en mayo",
+      "en": "My birthday is in May"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Today is January first",
+    "translations": {
+      "es": "Hoy es el primero de enero",
+      "en": "Today is January first"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is April tenth",
+    "translations": {
+      "es": "Es el diez de abril",
+      "en": "It is April tenth"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The meeting is in June",
+    "translations": {
+      "es": "La reunión es en junio",
+      "en": "The meeting is in June"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "See you in December",
+    "translations": {
+      "es": "Nos vemos en diciembre",
+      "en": "See you in December"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The event is in September",
+    "translations": {
+      "es": "El evento es en septiembre",
+      "en": "The event is in September"
+    },
+    "difficulty": "Beginner"
+  }
+]

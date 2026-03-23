@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "However",
+    "translations": {
+      "es": "Sin embargo",
+      "en": "However"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Therefore",
+    "translations": {
+      "es": "Por lo tanto",
+      "en": "Therefore"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Despite that",
+    "translations": {
+      "es": "A pesar de eso",
+      "en": "Despite that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "On the other hand",
+    "translations": {
+      "es": "Por otro lado",
+      "en": "On the other hand"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Instead",
+    "translations": {
+      "es": "En cambio",
+      "en": "Instead"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Additionally",
+    "translations": {
+      "es": "Además",
+      "en": "Additionally"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Likewise",
+    "translations": {
+      "es": "Asimismo",
+      "en": "Likewise"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In fact",
+    "translations": {
+      "es": "De hecho",
+      "en": "In fact"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That is to say",
+    "translations": {
+      "es": "Es decir",
+      "en": "That is to say"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In other words",
+    "translations": {
+      "es": "En otras palabras",
+      "en": "In other words"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "For example",
+    "translations": {
+      "es": "Por ejemplo",
+      "en": "For example"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In summary",
+    "translations": {
+      "es": "En resumen",
+      "en": "In summary"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Ultimately",
+    "translations": {
+      "es": "En definitiva",
+      "en": "Ultimately"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In the long term",
+    "translations": {
+      "es": "A largo plazo",
+      "en": "In the long term"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In the short term",
+    "translations": {
+      "es": "A corto plazo",
+      "en": "In the short term"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "At the same time",
+    "translations": {
+      "es": "Al mismo tiempo",
+      "en": "At the same time"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In that sense",
+    "translations": {
+      "es": "En ese sentido",
+      "en": "In that sense"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Certainly",
+    "translations": {
+      "es": "Desde luego",
+      "en": "Certainly"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Consequently",
+    "translations": {
+      "es": "Por consiguiente",
+      "en": "Consequently"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That being said",
+    "translations": {
+      "es": "Dicho esto",
+      "en": "That being said"
+    },
+    "difficulty": "Advanced"
+  }
+]

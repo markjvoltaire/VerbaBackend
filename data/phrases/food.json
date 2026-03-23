@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I am hungry",
+    "translations": {
+      "es": "Tengo hambre",
+      "en": "I am hungry"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am thirsty",
+    "translations": {
+      "es": "Tengo sed",
+      "en": "I am thirsty"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want to eat",
+    "translations": {
+      "es": "Quiero comer",
+      "en": "I want to eat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want to drink",
+    "translations": {
+      "es": "Quiero beber",
+      "en": "I want to drink"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am eating",
+    "translations": {
+      "es": "Estoy comiendo",
+      "en": "I am eating"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am drinking",
+    "translations": {
+      "es": "Estoy bebiendo",
+      "en": "I am drinking"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The food is good",
+    "translations": {
+      "es": "La comida es buena",
+      "en": "The food is good"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is delicious",
+    "translations": {
+      "es": "Está delicioso",
+      "en": "It is delicious"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is hot",
+    "translations": {
+      "es": "Está caliente",
+      "en": "It is hot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cold",
+    "translations": {
+      "es": "Está frío",
+      "en": "It is cold"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat rice",
+    "translations": {
+      "es": "Como arroz",
+      "en": "I eat rice"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat chicken",
+    "translations": {
+      "es": "Como pollo",
+      "en": "I eat chicken"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat meat",
+    "translations": {
+      "es": "Como carne",
+      "en": "I eat meat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat vegetables",
+    "translations": {
+      "es": "Como verduras",
+      "en": "I eat vegetables"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I drink water",
+    "translations": {
+      "es": "Bebo agua",
+      "en": "I drink water"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I drink coffee",
+    "translations": {
+      "es": "Bebo café",
+      "en": "I drink coffee"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I drink juice",
+    "translations": {
+      "es": "Bebo jugo",
+      "en": "I drink juice"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want more food",
+    "translations": {
+      "es": "Quiero más comida",
+      "en": "I want more food"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am not hungry",
+    "translations": {
+      "es": "No tengo hambre",
+      "en": "I am not hungry"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What do you want to eat?",
+    "translations": {
+      "es": "¿Qué quieres comer?",
+      "en": "What do you want to eat?"
+    },
+    "difficulty": "Beginner"
+  }
+]

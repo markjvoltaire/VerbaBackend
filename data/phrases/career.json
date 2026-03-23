@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I am looking for a job",
+    "translations": {
+      "es": "Busco trabajo",
+      "en": "I am looking for a job"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have experience",
+    "translations": {
+      "es": "Tengo experiencia",
+      "en": "I have experience"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I work in a company",
+    "translations": {
+      "es": "Trabajo en una empresa",
+      "en": "I work in a company"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I like my job",
+    "translations": {
+      "es": "Me gusta mi trabajo",
+      "en": "I like my job"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I don't like my job",
+    "translations": {
+      "es": "No me gusta mi trabajo",
+      "en": "I don't like my job"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to change jobs",
+    "translations": {
+      "es": "Quiero cambiar de trabajo",
+      "en": "I want to change jobs"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I work hard",
+    "translations": {
+      "es": "Trabajo duro",
+      "en": "I work hard"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I work in a team",
+    "translations": {
+      "es": "Trabajo en equipo",
+      "en": "I work in a team"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have an interview",
+    "translations": {
+      "es": "Tengo una entrevista",
+      "en": "I have an interview"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am prepared",
+    "translations": {
+      "es": "Estoy preparado",
+      "en": "I am prepared"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to grow professionally",
+    "translations": {
+      "es": "Quiero crecer profesionalmente",
+      "en": "I want to grow professionally"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I learn new skills",
+    "translations": {
+      "es": "Aprendo nuevas habilidades",
+      "en": "I learn new skills"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "My job is interesting",
+    "translations": {
+      "es": "Mi trabajo es interesante",
+      "en": "My job is interesting"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "My job is difficult",
+    "translations": {
+      "es": "Mi trabajo es difícil",
+      "en": "My job is difficult"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I gain experience",
+    "translations": {
+      "es": "Gano experiencia",
+      "en": "I gain experience"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I work many hours",
+    "translations": {
+      "es": "Trabajo muchas horas",
+      "en": "I work many hours"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need a break",
+    "translations": {
+      "es": "Necesito un descanso",
+      "en": "I need a break"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to succeed",
+    "translations": {
+      "es": "Quiero tener éxito",
+      "en": "I want to succeed"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "My goal is to improve",
+    "translations": {
+      "es": "Mi meta es mejorar",
+      "en": "My goal is to improve"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I work for the future",
+    "translations": {
+      "es": "Trabajo para el futuro",
+      "en": "I work for the future"
+    },
+    "difficulty": "Intermediate"
+  }
+]

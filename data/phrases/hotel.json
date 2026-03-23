@@ -98,5 +98,157 @@
       "en": "Can you wake me at seven o'clock?"
     },
     "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I want to book a room",
+    "translations": {
+      "es": "Quiero reservar una habitación",
+      "en": "I want to book a room"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have a reservation",
+    "translations": {
+      "es": "Tengo una reserva",
+      "en": "I have a reservation"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Are there rooms available?",
+    "translations": {
+      "es": "¿Hay habitaciones disponibles?",
+      "en": "Are there rooms available?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "How much is it per night?",
+    "translations": {
+      "es": "¿Cuánto cuesta por noche?",
+      "en": "How much is it per night?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want a single room",
+    "translations": {
+      "es": "Quiero una habitación individual",
+      "en": "I want a single room"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want a double room",
+    "translations": {
+      "es": "Quiero una habitación doble",
+      "en": "I want a double room"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Does it include breakfast?",
+    "translations": {
+      "es": "¿Incluye desayuno?",
+      "en": "Does it include breakfast?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "What time is check-in?",
+    "translations": {
+      "es": "¿A qué hora es el check-in?",
+      "en": "What time is check-in?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I stay two nights",
+    "translations": {
+      "es": "Me quedo dos noches",
+      "en": "I stay two nights"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need wifi",
+    "translations": {
+      "es": "Necesito wifi",
+      "en": "I need wifi"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The room is clean",
+    "translations": {
+      "es": "La habitación está limpia",
+      "en": "The room is clean"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The room is dirty",
+    "translations": {
+      "es": "La habitación está sucia",
+      "en": "The room is dirty"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "There is a problem",
+    "translations": {
+      "es": "Hay un problema",
+      "en": "There is a problem"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need help",
+    "translations": {
+      "es": "Necesito ayuda",
+      "en": "I need help"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Can I change rooms?",
+    "translations": {
+      "es": "¿Puedo cambiar de habitación?",
+      "en": "Can I change rooms?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Everything is fine",
+    "translations": {
+      "es": "Todo está bien",
+      "en": "Everything is fine"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Thanks for the service",
+    "translations": {
+      "es": "Gracias por el servicio",
+      "en": "Thanks for the service"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am going to stay here",
+    "translations": {
+      "es": "Voy a quedarme aquí",
+      "en": "I am going to stay here"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to cancel",
+    "translations": {
+      "es": "Quiero cancelar",
+      "en": "I want to cancel"
+    },
+    "difficulty": "Intermediate"
   }
 ]

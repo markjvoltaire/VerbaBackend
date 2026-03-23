@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I feel overwhelmed",
+    "translations": {
+      "es": "Me siento abrumado",
+      "en": "I feel overwhelmed"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am deeply grateful",
+    "translations": {
+      "es": "Estoy profundamente agradecido",
+      "en": "I am deeply grateful"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel frustrated",
+    "translations": {
+      "es": "Me siento frustrado",
+      "en": "I feel frustrated"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am disappointed",
+    "translations": {
+      "es": "Estoy decepcionado",
+      "en": "I am disappointed"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel fulfilled",
+    "translations": {
+      "es": "Me siento realizado",
+      "en": "I feel fulfilled"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel anxious",
+    "translations": {
+      "es": "Estoy ansioso",
+      "en": "I feel anxious"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel relieved",
+    "translations": {
+      "es": "Me siento aliviado",
+      "en": "I feel relieved"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am proud of myself",
+    "translations": {
+      "es": "Estoy orgulloso de mí mismo",
+      "en": "I am proud of myself"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel insecure",
+    "translations": {
+      "es": "Me siento inseguro",
+      "en": "I feel insecure"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel motivated",
+    "translations": {
+      "es": "Estoy motivado",
+      "en": "I feel motivated"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel lost",
+    "translations": {
+      "es": "Me siento perdido",
+      "en": "I feel lost"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am excited",
+    "translations": {
+      "es": "Estoy emocionado",
+      "en": "I am excited"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel empty",
+    "translations": {
+      "es": "Me siento vacío",
+      "en": "I feel empty"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am satisfied",
+    "translations": {
+      "es": "Estoy satisfecho",
+      "en": "I am satisfied"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel guilty",
+    "translations": {
+      "es": "Me siento culpable",
+      "en": "I feel guilty"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am confused",
+    "translations": {
+      "es": "Estoy confundido",
+      "en": "I am confused"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel calm",
+    "translations": {
+      "es": "Me siento tranquilo",
+      "en": "I feel calm"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am worried",
+    "translations": {
+      "es": "Estoy preocupado",
+      "en": "I am worried"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I feel inspired",
+    "translations": {
+      "es": "Me siento inspirado",
+      "en": "I feel inspired"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am mentally exhausted",
+    "translations": {
+      "es": "Estoy mentalmente agotado",
+      "en": "I am mentally exhausted"
+    },
+    "difficulty": "Advanced"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I am thinking about what I said",
+    "translations": {
+      "es": "Estoy pensando en lo que dije",
+      "en": "I am thinking about what I said"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It doesn't make much sense",
+    "translations": {
+      "es": "No tiene mucho sentido",
+      "en": "It doesn't make much sense"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It could be better",
+    "translations": {
+      "es": "Podría ser mejor",
+      "en": "It could be better"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am not fully convinced",
+    "translations": {
+      "es": "No estoy convencido del todo",
+      "en": "I am not fully convinced"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That changes things",
+    "translations": {
+      "es": "Eso cambia las cosas",
+      "en": "That changes things"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Now I see it clearly",
+    "translations": {
+      "es": "Ahora lo veo claro",
+      "en": "Now I see it clearly"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It makes sense",
+    "translations": {
+      "es": "Tiene lógica",
+      "en": "It makes sense"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I hadn't considered it",
+    "translations": {
+      "es": "No lo había considerado",
+      "en": "I hadn't considered it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That explains a lot",
+    "translations": {
+      "es": "Eso explica mucho",
+      "en": "That explains a lot"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm still not sure",
+    "translations": {
+      "es": "No estoy seguro todavía",
+      "en": "I'm still not sure"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm going to think about it more",
+    "translations": {
+      "es": "Voy a pensarlo mejor",
+      "en": "I'm going to think about it more"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Now I understand",
+    "translations": {
+      "es": "Ahora entiendo",
+      "en": "Now I understand"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It makes sense now",
+    "translations": {
+      "es": "Tiene sentido ahora",
+      "en": "It makes sense now"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It's not that complicated",
+    "translations": {
+      "es": "No es tan complicado",
+      "en": "It's not that complicated"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It depends on the situation",
+    "translations": {
+      "es": "Depende de la situación",
+      "en": "It depends on the situation"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That doesn't change anything",
+    "translations": {
+      "es": "Eso no cambia nada",
+      "en": "That doesn't change anything"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Everything fits now",
+    "translations": {
+      "es": "Todo encaja ahora",
+      "en": "Everything fits now"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It's clearer now",
+    "translations": {
+      "es": "Es más claro ahora",
+      "en": "It's clearer now"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm understanding little by little",
+    "translations": {
+      "es": "Voy entendiendo poco a poco",
+      "en": "I'm understanding little by little"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I've got it",
+    "translations": {
+      "es": "Ya lo tengo",
+      "en": "I've got it"
+    },
+    "difficulty": "Advanced"
+  }
+]

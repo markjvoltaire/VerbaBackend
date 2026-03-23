@@ -1,9 +1,583 @@
 [
-  { "id": "small_talk", "label": "First Connection", "description": "Greetings, introductions & casual chat", "icon": "👋", "difficulty": "beginner" },
-  { "id": "introduction", "label": "Introductions", "description": "Names, jobs, meeting people & practicing Spanish", "icon": "🙋", "difficulty": "beginner" },
-  { "id": "dating", "label": "Dating", "description": "Flirting, compliments & making plans", "icon": "💕", "difficulty": "beginner" },
-  { "id": "restaurant", "label": "Ordering a Meal", "description": "Menus, dietary needs & paying the bill", "icon": "🍽️", "difficulty": "intermediate" },
-  { "id": "airport", "label": "At the Airport", "description": "Check-in, boarding & navigating terminals", "icon": "✈️", "difficulty": "advanced" },
-  { "id": "hotel", "label": "At the Hotel", "description": "Reservations, requests & local tips", "icon": "🏨", "difficulty": "advanced" },
-  { "id": "learning", "label": "Learning Phrases", "description": "Pronunciation & language learning", "icon": "📚", "difficulty": "beginner" }
+  {
+    "id": "small_talk",
+    "label": "First Connection",
+    "description": "Greetings, introductions & casual chat",
+    "icon": "👋",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "introduction",
+    "label": "Introductions",
+    "description": "Names, jobs, meeting people & practicing Spanish",
+    "icon": "🙋",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "dating",
+    "label": "Dating",
+    "description": "Flirting, compliments & making plans",
+    "icon": "💕",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "restaurant",
+    "label": "Ordering a Meal",
+    "description": "Menus, dietary needs & paying the bill",
+    "icon": "🍽️",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "airport",
+    "label": "At the Airport",
+    "description": "Check-in, boarding & navigating terminals",
+    "icon": "✈️",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hotel",
+    "label": "At the Hotel",
+    "description": "Reservations, requests & local tips",
+    "icon": "🏨",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "learning",
+    "label": "Learning Phrases",
+    "description": "Pronunciation & language learning",
+    "icon": "📚",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "greeting",
+    "label": "Basic Greetings",
+    "description": "Hello, goodbye & common greetings",
+    "icon": "👋",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "numbers",
+    "label": "Numbers",
+    "description": "Counting and basic numbers",
+    "icon": "🔢",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "calendar",
+    "label": "Calendar",
+    "description": "Days, months & dates",
+    "icon": "📅",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "time",
+    "label": "Telling Time",
+    "description": "Hours, minutes & scheduling",
+    "icon": "🕐",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "questions",
+    "label": "Asking Questions",
+    "description": "Essential question words & patterns",
+    "icon": "❓",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "responses",
+    "label": "Yes / No Responses",
+    "description": "Common replies and reactions",
+    "icon": "💬",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "family",
+    "label": "Family",
+    "description": "Family members & relationships",
+    "icon": "👨‍👩‍👧‍👦",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "description",
+    "label": "Basic Adjectives",
+    "description": "Describing things with common adjectives",
+    "icon": "📝",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "colors",
+    "label": "Colors",
+    "description": "Colors and describing appearances",
+    "icon": "🎨",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "food",
+    "label": "Food",
+    "description": "Food vocabulary & eating",
+    "icon": "🍎",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "drinks",
+    "label": "Drinks",
+    "description": "Beverages & ordering drinks",
+    "icon": "🥤",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "shopping",
+    "label": "Shopping",
+    "description": "Buying things & store interactions",
+    "icon": "🛍️",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "money",
+    "label": "Money",
+    "description": "Prices, payments & currency",
+    "icon": "💰",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "directions",
+    "label": "Directions",
+    "description": "Asking for & giving directions",
+    "icon": "🧭",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "transport",
+    "label": "Transportation",
+    "description": "Buses, trains & getting around",
+    "icon": "🚌",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "work",
+    "label": "Work",
+    "description": "Talking about jobs & the workplace",
+    "icon": "💼",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hobbies",
+    "label": "Hobbies",
+    "description": "Free time activities & interests",
+    "icon": "🎯",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "home",
+    "label": "Home",
+    "description": "Describing your house & rooms",
+    "icon": "🏠",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "weather",
+    "label": "Weather",
+    "description": "Climate, seasons & forecasts",
+    "icon": "🌤️",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "health",
+    "label": "Health",
+    "description": "Body, illness & medical needs",
+    "icon": "🏥",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "daily_life",
+    "label": "Daily Life",
+    "description": "Routines & everyday activities",
+    "icon": "☀️",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "past",
+    "label": "Past Tense",
+    "description": "Talking about yesterday & past events",
+    "icon": "⏪",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "future",
+    "label": "Future Tense",
+    "description": "Plans, predictions & tomorrow",
+    "icon": "⏩",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "preferences",
+    "label": "Likes & Dislikes",
+    "description": "Expressing preferences & tastes",
+    "icon": "❤️",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "routine",
+    "label": "Routines",
+    "description": "Daily habits & frequency words",
+    "icon": "🔄",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "experience",
+    "label": "Experiences",
+    "description": "Describing past experiences",
+    "icon": "🌍",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "childhood",
+    "label": "Childhood",
+    "description": "Talking about growing up",
+    "icon": "👶",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "future_plans",
+    "label": "Future Plans",
+    "description": "Goals, dreams & upcoming plans",
+    "icon": "🎯",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "opinions",
+    "label": "Opinions",
+    "description": "Expressing & defending viewpoints",
+    "icon": "💭",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "comparison",
+    "label": "Comparisons",
+    "description": "Comparing things & making judgments",
+    "icon": "⚖️",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "cause_effect",
+    "label": "Cause & Effect",
+    "description": "Explaining reasons & consequences",
+    "icon": "🔗",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "advice",
+    "label": "Giving Advice",
+    "description": "Recommendations & suggestions",
+    "icon": "🤝",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "suggestions",
+    "label": "Making Suggestions",
+    "description": "Proposing ideas & plans",
+    "icon": "💡",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "persuasion",
+    "label": "Persuasion",
+    "description": "Convincing & influencing others",
+    "icon": "🎯",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "relationships",
+    "label": "Relationships",
+    "description": "Friendship, trust & social bonds",
+    "icon": "🤗",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "holidays",
+    "label": "Holidays",
+    "description": "Celebrations, parties & traditions",
+    "icon": "🎉",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "social",
+    "label": "Social Issues",
+    "description": "Society, problems & solutions",
+    "icon": "🌐",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "education",
+    "label": "Education",
+    "description": "School, university & learning",
+    "icon": "🎓",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "career",
+    "label": "Careers",
+    "description": "Professional growth & job search",
+    "icon": "📈",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "technology",
+    "label": "Technology",
+    "description": "Devices, internet & digital life",
+    "icon": "📱",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "social_media",
+    "label": "Social Media",
+    "description": "Online presence & digital culture",
+    "icon": "📲",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "news",
+    "label": "News",
+    "description": "Current events & media discussions",
+    "icon": "📰",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "environment",
+    "label": "Environment",
+    "description": "Nature, climate & sustainability",
+    "icon": "🌿",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "travel",
+    "label": "Travel",
+    "description": "Airports, flights & trip planning",
+    "icon": "✈️",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "customer_service",
+    "label": "Customer Service",
+    "description": "Getting help & resolving issues",
+    "icon": "🛎️",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "complaints",
+    "label": "Complaints",
+    "description": "Problem solving & expressing dissatisfaction",
+    "icon": "⚠️",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "housing",
+    "label": "Housing",
+    "description": "Renting, apartments & real estate",
+    "icon": "🏢",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "negotiation",
+    "label": "Negotiation",
+    "description": "Deals, prices & agreements",
+    "icon": "🤝",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "emergency",
+    "label": "Emergencies",
+    "description": "Urgent situations & getting help",
+    "icon": "🚨",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "legal",
+    "label": "Legal & Formal",
+    "description": "Contracts, documents & official matters",
+    "icon": "⚖️",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "storytelling",
+    "label": "Storytelling",
+    "description": "Narratives, flow & native expression",
+    "icon": "📖",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hypothetical",
+    "label": "Hypotheticals",
+    "description": "If-clauses, conditionals & what-ifs",
+    "icon": "🤔",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "debate",
+    "label": "Debate",
+    "description": "Formal discussion & argumentation",
+    "icon": "🎤",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "idioms",
+    "label": "Idioms",
+    "description": "Native expressions & figurative language",
+    "icon": "🗣️",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "emotions",
+    "label": "Emotions",
+    "description": "Advanced emotional expression",
+    "icon": "😌",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "business",
+    "label": "Business",
+    "description": "Professional & corporate Spanish",
+    "icon": "🏢",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "philosophy",
+    "label": "Philosophy",
+    "description": "Abstract concepts & deep thinking",
+    "icon": "🧠",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "academic",
+    "label": "Academic",
+    "description": "Research, analysis & scholarly language",
+    "icon": "📚",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "slang",
+    "label": "Slang",
+    "description": "Informal native speech & street talk",
+    "icon": "😎",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "sarcasm",
+    "label": "Sarcasm & Humor",
+    "description": "Tone, irony & wit",
+    "icon": "😏",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "regional",
+    "label": "Regional Variations",
+    "description": "Spain vs Latin America differences",
+    "icon": "🗺️",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "fast_speech",
+    "label": "Fast Speech",
+    "description": "Contractions & native speed patterns",
+    "icon": "⚡",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "connectors",
+    "label": "Connectors",
+    "description": "Advanced linking words for fluency",
+    "icon": "🔗",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "subjunctive",
+    "label": "Subjunctive",
+    "description": "Wishes, doubts & subjunctive mastery",
+    "icon": "🌀",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "probability",
+    "label": "Probability",
+    "description": "Expressing doubt, likelihood & certainty",
+    "icon": "🎲",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "conditional",
+    "label": "Conditionals",
+    "description": "Advanced if-then chains & hypotheticals",
+    "icon": "🔀",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "influence",
+    "label": "Influence",
+    "description": "Persuasive storytelling & rhetoric",
+    "icon": "🎯",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "culture",
+    "label": "Cultural References",
+    "description": "Cultural expressions & traditions",
+    "icon": "🎭",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "fluency",
+    "label": "Fluency",
+    "description": "Native flow & natural conversation",
+    "icon": "🌊",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "conversation",
+    "label": "Conversation",
+    "description": "Real conversation drills & natural responses",
+    "icon": "💬",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "thinking",
+    "label": "Thinking in Spanish",
+    "description": "Internal dialogue & processing in Spanish",
+    "icon": "🧠",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "roleplay",
+    "label": "Roleplay",
+    "description": "Real-life situational practice",
+    "icon": "🎭",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "quick_response",
+    "label": "Quick Responses",
+    "description": "Instant reactions & native speed replies",
+    "icon": "⚡",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "thinking_speaking",
+    "label": "Think & Speak",
+    "description": "Converting thoughts to speech naturally",
+    "icon": "💭",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "conversation_control",
+    "label": "Conversation Control",
+    "description": "Leading & steering conversations",
+    "icon": "🎯",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "pronunciation",
+    "label": "Pronunciation",
+    "description": "Accent training & sound mastery",
+    "icon": "🗣️",
+    "difficulty": "advanced"
+  }
 ]

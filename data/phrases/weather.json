@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "It is hot",
+    "translations": {
+      "es": "Hace calor",
+      "en": "It is hot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cold",
+    "translations": {
+      "es": "Hace frío",
+      "en": "It is cold"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The weather is nice",
+    "translations": {
+      "es": "Hace buen tiempo",
+      "en": "The weather is nice"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The weather is bad",
+    "translations": {
+      "es": "Hace mal tiempo",
+      "en": "The weather is bad"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is sunny",
+    "translations": {
+      "es": "Está soleado",
+      "en": "It is sunny"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cloudy",
+    "translations": {
+      "es": "Está nublado",
+      "en": "It is cloudy"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is raining",
+    "translations": {
+      "es": "Está lloviendo",
+      "en": "It is raining"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is snowing",
+    "translations": {
+      "es": "Está nevando",
+      "en": "It is snowing"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is windy",
+    "translations": {
+      "es": "Hace viento",
+      "en": "It is windy"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Today it is hot",
+    "translations": {
+      "es": "Hoy hace calor",
+      "en": "Today it is hot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Today it is cold",
+    "translations": {
+      "es": "Hoy hace frío",
+      "en": "Today it is cold"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow it will rain",
+    "translations": {
+      "es": "Mañana llueve",
+      "en": "Tomorrow it will rain"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday it was sunny",
+    "translations": {
+      "es": "Ayer hizo sol",
+      "en": "Yesterday it was sunny"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The weather is good",
+    "translations": {
+      "es": "El clima es bueno",
+      "en": "The weather is good"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The weather is bad",
+    "translations": {
+      "es": "El clima es malo",
+      "en": "The weather is bad"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like the weather",
+    "translations": {
+      "es": "Me gusta el clima",
+      "en": "I like the weather"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't like the cold",
+    "translations": {
+      "es": "No me gusta el frío",
+      "en": "I don't like the cold"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I prefer the heat",
+    "translations": {
+      "es": "Prefiero el calor",
+      "en": "I prefer the heat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How is the weather?",
+    "translations": {
+      "es": "¿Cómo está el clima?",
+      "en": "How is the weather?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The weather changes",
+    "translations": {
+      "es": "El clima cambia",
+      "en": "The weather changes"
+    },
+    "difficulty": "Beginner"
+  }
+]

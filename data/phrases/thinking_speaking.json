@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I'm trying to understand",
+    "translations": {
+      "es": "Estoy tratando de entender",
+      "en": "I'm trying to understand"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Let me think",
+    "translations": {
+      "es": "Déjame pensar",
+      "en": "Let me think"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Let me see how to say it",
+    "translations": {
+      "es": "A ver cómo lo digo",
+      "en": "Let me see how to say it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I don't know how to explain it",
+    "translations": {
+      "es": "No sé cómo explicarlo",
+      "en": "I don't know how to explain it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It's hard to explain",
+    "translations": {
+      "es": "Es complicado de explicar",
+      "en": "It's hard to explain"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "More or less like this",
+    "translations": {
+      "es": "Más o menos así",
+      "en": "More or less like this"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What I mean is",
+    "translations": {
+      "es": "Lo que quiero decir es",
+      "en": "What I mean is"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Actually",
+    "translations": {
+      "es": "En realidad",
+      "en": "Actually"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Well, it depends",
+    "translations": {
+      "es": "Bueno, depende",
+      "en": "Well, it depends"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That's a good question",
+    "translations": {
+      "es": "Es una buena pregunta",
+      "en": "That's a good question"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I had never thought about it",
+    "translations": {
+      "es": "Nunca lo había pensado",
+      "en": "I had never thought about it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It makes sense now that you say it",
+    "translations": {
+      "es": "Tiene sentido ahora que lo dices",
+      "en": "It makes sense now that you say it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Let me rephrase it",
+    "translations": {
+      "es": "Déjame reformularlo",
+      "en": "Let me rephrase it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Put another way",
+    "translations": {
+      "es": "Dicho de otra manera",
+      "en": "Put another way"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm not sure how to say it",
+    "translations": {
+      "es": "No estoy seguro de cómo decirlo",
+      "en": "I'm not sure how to say it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I think you get the idea",
+    "translations": {
+      "es": "Creo que entiendes la idea",
+      "en": "I think you get the idea"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm going little by little",
+    "translations": {
+      "es": "Voy poco a poco",
+      "en": "I'm going little by little"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm practicing",
+    "translations": {
+      "es": "Estoy practicando",
+      "en": "I'm practicing"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Getting better each time",
+    "translations": {
+      "es": "Cada vez mejor",
+      "en": "Getting better each time"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It comes more naturally now",
+    "translations": {
+      "es": "Ya me sale más natural",
+      "en": "It comes more naturally now"
+    },
+    "difficulty": "Advanced"
+  }
+]

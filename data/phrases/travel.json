@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I go to the airport",
+    "translations": {
+      "es": "Voy al aeropuerto",
+      "en": "I go to the airport"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have a flight",
+    "translations": {
+      "es": "Tengo un vuelo",
+      "en": "I have a flight"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Where is the gate?",
+    "translations": {
+      "es": "¿Dónde está la puerta?",
+      "en": "Where is the gate?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "What time does the flight leave?",
+    "translations": {
+      "es": "¿A qué hora sale el vuelo?",
+      "en": "What time does the flight leave?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The flight is delayed",
+    "translations": {
+      "es": "El vuelo está retrasado",
+      "en": "The flight is delayed"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The flight is canceled",
+    "translations": {
+      "es": "El vuelo está cancelado",
+      "en": "The flight is canceled"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need my passport",
+    "translations": {
+      "es": "Necesito mi pasaporte",
+      "en": "I need my passport"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have luggage",
+    "translations": {
+      "es": "Tengo equipaje",
+      "en": "I have luggage"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Where do I pick up my luggage?",
+    "translations": {
+      "es": "¿Dónde recojo mi equipaje?",
+      "en": "Where do I pick up my luggage?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am going to travel",
+    "translations": {
+      "es": "Voy a viajar",
+      "en": "I am going to travel"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is a long trip",
+    "translations": {
+      "es": "Es un viaje largo",
+      "en": "It is a long trip"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is a short trip",
+    "translations": {
+      "es": "Es un viaje corto",
+      "en": "It is a short trip"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am ready to travel",
+    "translations": {
+      "es": "Estoy listo para viajar",
+      "en": "I am ready to travel"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need help",
+    "translations": {
+      "es": "Necesito ayuda",
+      "en": "I need help"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Where is the exit?",
+    "translations": {
+      "es": "¿Dónde está la salida?",
+      "en": "Where is the exit?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Where is the entrance?",
+    "translations": {
+      "es": "¿Dónde está la entrada?",
+      "en": "Where is the entrance?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am waiting",
+    "translations": {
+      "es": "Estoy esperando",
+      "en": "I am waiting"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The flight is now",
+    "translations": {
+      "es": "El vuelo es ahora",
+      "en": "The flight is now"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Everything is ready",
+    "translations": {
+      "es": "Todo está listo",
+      "en": "Everything is ready"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Have a good trip",
+    "translations": {
+      "es": "Buen viaje",
+      "en": "Have a good trip"
+    },
+    "difficulty": "Intermediate"
+  }
+]

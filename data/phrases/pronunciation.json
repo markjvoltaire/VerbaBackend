@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Speak more slowly, please",
+    "translations": {
+      "es": "Habla más despacio, por favor",
+      "en": "Speak more slowly, please"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I didn't understand well",
+    "translations": {
+      "es": "No entendí bien",
+      "en": "I didn't understand well"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Can you repeat that?",
+    "translations": {
+      "es": "¿Puedes repetir eso?",
+      "en": "Can you repeat that?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I said it wrong",
+    "translations": {
+      "es": "Lo dije mal",
+      "en": "I said it wrong"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I want to improve my pronunciation",
+    "translations": {
+      "es": "Quiero mejorar mi pronunciación",
+      "en": "I want to improve my pronunciation"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It sounds different",
+    "translations": {
+      "es": "Suena diferente",
+      "en": "It sounds different"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It doesn't sound natural",
+    "translations": {
+      "es": "No suena natural",
+      "en": "It doesn't sound natural"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "How is it pronounced?",
+    "translations": {
+      "es": "¿Cómo se pronuncia?",
+      "en": "How is it pronounced?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Listen to this",
+    "translations": {
+      "es": "Escucha esto",
+      "en": "Listen to this"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Imitate this sound",
+    "translations": {
+      "es": "Imita este sonido",
+      "en": "Imitate this sound"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Repeat after me",
+    "translations": {
+      "es": "Repite conmigo",
+      "en": "Repeat after me"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "More natural",
+    "translations": {
+      "es": "Más natural",
+      "en": "More natural"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That sounds better",
+    "translations": {
+      "es": "Eso suena mejor",
+      "en": "That sounds better"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Almost perfect",
+    "translations": {
+      "es": "Casi perfecto",
+      "en": "Almost perfect"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Try it again",
+    "translations": {
+      "es": "Inténtalo otra vez",
+      "en": "Try it again"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Pay attention to the sound",
+    "translations": {
+      "es": "Presta atención al sonido",
+      "en": "Pay attention to the sound"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It's a matter of practice",
+    "translations": {
+      "es": "Es cuestión de práctica",
+      "en": "It's a matter of practice"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "You're doing well",
+    "translations": {
+      "es": "Lo estás haciendo bien",
+      "en": "You're doing well"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It sounds more fluent",
+    "translations": {
+      "es": "Suena más fluido",
+      "en": "It sounds more fluent"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It already sounds natural",
+    "translations": {
+      "es": "Ya suena natural",
+      "en": "It already sounds natural"
+    },
+    "difficulty": "Advanced"
+  }
+]

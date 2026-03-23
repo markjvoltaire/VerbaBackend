@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I want to make a complaint",
+    "translations": {
+      "es": "Quiero hacer una queja",
+      "en": "I want to make a complaint"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is not okay",
+    "translations": {
+      "es": "Esto no está bien",
+      "en": "This is not okay"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "There is a problem here",
+    "translations": {
+      "es": "Hay un problema aquí",
+      "en": "There is a problem here"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It doesn't work properly",
+    "translations": {
+      "es": "No funciona correctamente",
+      "en": "It doesn't work properly"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am not happy",
+    "translations": {
+      "es": "No estoy contento",
+      "en": "I am not happy"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am frustrated",
+    "translations": {
+      "es": "Estoy frustrado",
+      "en": "I am frustrated"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "We need to fix this",
+    "translations": {
+      "es": "Necesitamos arreglar esto",
+      "en": "We need to fix this"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "How do we solve this?",
+    "translations": {
+      "es": "¿Cómo solucionamos esto?",
+      "en": "How do we solve this?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This took too long",
+    "translations": {
+      "es": "Esto tomó demasiado tiempo",
+      "en": "This took too long"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is not acceptable",
+    "translations": {
+      "es": "No es aceptable",
+      "en": "It is not acceptable"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need an answer",
+    "translations": {
+      "es": "Necesito una respuesta",
+      "en": "I need an answer"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want a solution",
+    "translations": {
+      "es": "Quiero una solución",
+      "en": "I want a solution"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This must change",
+    "translations": {
+      "es": "Esto debe cambiar",
+      "en": "This must change"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I do not agree with this",
+    "translations": {
+      "es": "No estoy de acuerdo con esto",
+      "en": "I do not agree with this"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is unfair",
+    "translations": {
+      "es": "Esto es injusto",
+      "en": "This is unfair"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I expect a solution soon",
+    "translations": {
+      "es": "Espero una solución pronto",
+      "en": "I expect a solution soon"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is an inconvenience",
+    "translations": {
+      "es": "Esto es un inconveniente",
+      "en": "This is an inconvenience"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is not what I ordered",
+    "translations": {
+      "es": "No es lo que pedí",
+      "en": "This is not what I ordered"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need immediate help",
+    "translations": {
+      "es": "Necesito ayuda inmediata",
+      "en": "I need immediate help"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Thank you for solving it",
+    "translations": {
+      "es": "Gracias por resolverlo",
+      "en": "Thank you for solving it"
+    },
+    "difficulty": "Intermediate"
+  }
+]

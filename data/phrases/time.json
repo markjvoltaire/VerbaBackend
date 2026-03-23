@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "What time is it?",
+    "translations": {
+      "es": "¿Qué hora es?",
+      "en": "What time is it?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is one o'clock",
+    "translations": {
+      "es": "Es la una",
+      "en": "It is one o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is two o'clock",
+    "translations": {
+      "es": "Son las dos",
+      "en": "It is two o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is three o'clock",
+    "translations": {
+      "es": "Son las tres",
+      "en": "It is three o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is four o'clock",
+    "translations": {
+      "es": "Son las cuatro",
+      "en": "It is four o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is five o'clock",
+    "translations": {
+      "es": "Son las cinco",
+      "en": "It is five o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is six o'clock",
+    "translations": {
+      "es": "Son las seis",
+      "en": "It is six o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is seven o'clock",
+    "translations": {
+      "es": "Son las siete",
+      "en": "It is seven o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is eight o'clock",
+    "translations": {
+      "es": "Son las ocho",
+      "en": "It is eight o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is nine o'clock",
+    "translations": {
+      "es": "Son las nueve",
+      "en": "It is nine o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is ten o'clock",
+    "translations": {
+      "es": "Son las diez",
+      "en": "It is ten o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is eleven o'clock",
+    "translations": {
+      "es": "Son las once",
+      "en": "It is eleven o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is twelve o'clock",
+    "translations": {
+      "es": "Son las doce",
+      "en": "It is twelve o'clock"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is two thirty",
+    "translations": {
+      "es": "Son las dos y media",
+      "en": "It is two thirty"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is three fifteen",
+    "translations": {
+      "es": "Son las tres y cuarto",
+      "en": "It is three fifteen"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is three forty-five",
+    "translations": {
+      "es": "Son las cuatro menos cuarto",
+      "en": "It is three forty-five"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is noon",
+    "translations": {
+      "es": "Es mediodía",
+      "en": "It is noon"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is midnight",
+    "translations": {
+      "es": "Es medianoche",
+      "en": "It is midnight"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I arrive at five",
+    "translations": {
+      "es": "Llego a las cinco",
+      "en": "I arrive at five"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "The meeting is at eight",
+    "translations": {
+      "es": "La reunión es a las ocho",
+      "en": "The meeting is at eight"
+    },
+    "difficulty": "Beginner"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Of course",
+    "translations": {
+      "es": "Claro",
+      "en": "Of course"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It depends",
+    "translations": {
+      "es": "Depende",
+      "en": "It depends"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Maybe",
+    "translations": {
+      "es": "Puede ser",
+      "en": "Maybe"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "No idea",
+    "translations": {
+      "es": "Ni idea",
+      "en": "No idea"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Exactly",
+    "translations": {
+      "es": "Exacto",
+      "en": "Exactly"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Exactly / for real",
+    "translations": {
+      "es": "Tal cual",
+      "en": "Exactly / for real"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Obviously",
+    "translations": {
+      "es": "Obvio",
+      "en": "Obviously"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It might be yes",
+    "translations": {
+      "es": "Puede ser que sí",
+      "en": "It might be yes"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It might be no",
+    "translations": {
+      "es": "Puede ser que no",
+      "en": "It might be no"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "More or less",
+    "translations": {
+      "es": "Más o menos",
+      "en": "More or less"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Right away",
+    "translations": {
+      "es": "De una",
+      "en": "Right away"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Go ahead",
+    "translations": {
+      "es": "Dale",
+      "en": "Go ahead"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I see",
+    "translations": {
+      "es": "Ya veo",
+      "en": "I see"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Makes sense",
+    "translations": {
+      "es": "Tiene sentido",
+      "en": "Makes sense"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Not really",
+    "translations": {
+      "es": "No tanto",
+      "en": "Not really"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It could be better",
+    "translations": {
+      "es": "Puede ser mejor",
+      "en": "It could be better"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It's fine like that",
+    "translations": {
+      "es": "Está bien así",
+      "en": "It's fine like that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It doesn't matter",
+    "translations": {
+      "es": "No importa",
+      "en": "It doesn't matter"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Forget it",
+    "translations": {
+      "es": "Olvídalo",
+      "en": "Forget it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It's over / done",
+    "translations": {
+      "es": "Ya fue",
+      "en": "It's over / done"
+    },
+    "difficulty": "Advanced"
+  }
+]

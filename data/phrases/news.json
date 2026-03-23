@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I watch the news",
+    "translations": {
+      "es": "Veo las noticias",
+      "en": "I watch the news"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I read the news",
+    "translations": {
+      "es": "Leo las noticias",
+      "en": "I read the news"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is important news",
+    "translations": {
+      "es": "Es una noticia importante",
+      "en": "It is important news"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "What happened?",
+    "translations": {
+      "es": "¿Qué pasó?",
+      "en": "What happened?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It happened yesterday",
+    "translations": {
+      "es": "Pasó ayer",
+      "en": "It happened yesterday"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is happening now",
+    "translations": {
+      "es": "Está pasando ahora",
+      "en": "It is happening now"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is a serious situation",
+    "translations": {
+      "es": "Es una situación grave",
+      "en": "It is a serious situation"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The information is clear",
+    "translations": {
+      "es": "La información es clara",
+      "en": "The information is clear"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I don't have all the information",
+    "translations": {
+      "es": "No tengo toda la información",
+      "en": "I don't have all the information"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is difficult to understand",
+    "translations": {
+      "es": "Es difícil entender",
+      "en": "It is difficult to understand"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "There are different opinions",
+    "translations": {
+      "es": "Hay diferentes opiniones",
+      "en": "There are different opinions"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am informed",
+    "translations": {
+      "es": "Estoy informado",
+      "en": "I am informed"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am not informed",
+    "translations": {
+      "es": "No estoy informado",
+      "en": "I am not informed"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is an important topic",
+    "translations": {
+      "es": "Es un tema importante",
+      "en": "It is an important topic"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The news is recent",
+    "translations": {
+      "es": "La noticia es reciente",
+      "en": "The news is recent"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "People talk about that",
+    "translations": {
+      "es": "La gente habla de eso",
+      "en": "People talk about that"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is concerning",
+    "translations": {
+      "es": "Es preocupante",
+      "en": "It is concerning"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is positive",
+    "translations": {
+      "es": "Es positivo",
+      "en": "It is positive"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is negative",
+    "translations": {
+      "es": "Es negativo",
+      "en": "It is negative"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to know more",
+    "translations": {
+      "es": "Quiero saber más",
+      "en": "I want to know more"
+    },
+    "difficulty": "Intermediate"
+  }
+]

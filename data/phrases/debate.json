@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I would like to add something",
+    "translations": {
+      "es": "Me gustaría añadir algo",
+      "en": "I would like to add something"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Allow me to clarify",
+    "translations": {
+      "es": "Permíteme aclarar",
+      "en": "Allow me to clarify"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "With all due respect",
+    "translations": {
+      "es": "Con todo respeto",
+      "en": "With all due respect"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That is not necessarily the case",
+    "translations": {
+      "es": "No es necesariamente así",
+      "en": "That is not necessarily the case"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "There is evidence that suggests",
+    "translations": {
+      "es": "Hay evidencia que sugiere",
+      "en": "There is evidence that suggests"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is important to consider",
+    "translations": {
+      "es": "Es importante considerar",
+      "en": "It is important to consider"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We cannot ignore",
+    "translations": {
+      "es": "No podemos ignorar",
+      "en": "We cannot ignore"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "This raises a question",
+    "translations": {
+      "es": "Esto plantea una pregunta",
+      "en": "This raises a question"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The main issue is",
+    "translations": {
+      "es": "La cuestión principal es",
+      "en": "The main issue is"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "From a different perspective",
+    "translations": {
+      "es": "Desde una perspectiva diferente",
+      "en": "From a different perspective"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is a solid argument",
+    "translations": {
+      "es": "Es un argumento sólido",
+      "en": "It is a solid argument"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is not a convincing argument",
+    "translations": {
+      "es": "No es un argumento convincente",
+      "en": "It is not a convincing argument"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We must analyze this",
+    "translations": {
+      "es": "Debemos analizar esto",
+      "en": "We must analyze this"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We must go deeper",
+    "translations": {
+      "es": "Hay que profundizar",
+      "en": "We must go deeper"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "This deserves discussion",
+    "translations": {
+      "es": "Esto merece discusión",
+      "en": "This deserves discussion"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am not convinced by that argument",
+    "translations": {
+      "es": "No estoy convencido por ese argumento",
+      "en": "I am not convinced by that argument"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is a generalization",
+    "translations": {
+      "es": "Es una generalización",
+      "en": "It is a generalization"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That is not always true",
+    "translations": {
+      "es": "Eso no siempre es cierto",
+      "en": "That is not always true"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "There are exceptions",
+    "translations": {
+      "es": "Hay excepciones",
+      "en": "There are exceptions"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "In conclusion",
+    "translations": {
+      "es": "En conclusión",
+      "en": "In conclusion"
+    },
+    "difficulty": "Advanced"
+  }
+]

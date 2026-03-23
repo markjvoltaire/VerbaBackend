@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "We work as a team",
+    "translations": {
+      "es": "Trabajamos en equipo",
+      "en": "We work as a team"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We have a meeting",
+    "translations": {
+      "es": "Tenemos una reunión",
+      "en": "We have a meeting"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am going to present the project",
+    "translations": {
+      "es": "Voy a presentar el proyecto",
+      "en": "I am going to present the project"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We need results",
+    "translations": {
+      "es": "Necesitamos resultados",
+      "en": "We need results"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is a priority",
+    "translations": {
+      "es": "Es una prioridad",
+      "en": "It is a priority"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We are in process",
+    "translations": {
+      "es": "Estamos en proceso",
+      "en": "We are in process"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We meet the goals",
+    "translations": {
+      "es": "Cumplimos los objetivos",
+      "en": "We meet the goals"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We need to improve",
+    "translations": {
+      "es": "Necesitamos mejorar",
+      "en": "We need to improve"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Performance is high",
+    "translations": {
+      "es": "El rendimiento es alto",
+      "en": "Performance is high"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Performance is low",
+    "translations": {
+      "es": "El rendimiento es bajo",
+      "en": "Performance is low"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is a business opportunity",
+    "translations": {
+      "es": "Es una oportunidad de negocio",
+      "en": "It is a business opportunity"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We make a decision",
+    "translations": {
+      "es": "Tomamos una decisión",
+      "en": "We make a decision"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We analyze the data",
+    "translations": {
+      "es": "Analizamos los datos",
+      "en": "We analyze the data"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is an effective strategy",
+    "translations": {
+      "es": "Es una estrategia efectiva",
+      "en": "It is an effective strategy"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We need a plan",
+    "translations": {
+      "es": "Necesitamos un plan",
+      "en": "We need a plan"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The project progresses",
+    "translations": {
+      "es": "El proyecto avanza",
+      "en": "The project progresses"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "There is a technical problem",
+    "translations": {
+      "es": "Hay un problema técnico",
+      "en": "There is a technical problem"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We look for solutions",
+    "translations": {
+      "es": "Buscamos soluciones",
+      "en": "We look for solutions"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is a success",
+    "translations": {
+      "es": "Es un éxito",
+      "en": "It is a success"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "We move forward",
+    "translations": {
+      "es": "Seguimos adelante",
+      "en": "We move forward"
+    },
+    "difficulty": "Advanced"
+  }
+]

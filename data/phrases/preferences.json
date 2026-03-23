@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I like it",
+    "translations": {
+      "es": "Me gusta",
+      "en": "I like it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't like it",
+    "translations": {
+      "es": "No me gusta",
+      "en": "I don't like it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I love it",
+    "translations": {
+      "es": "Me encanta",
+      "en": "I love it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't love it",
+    "translations": {
+      "es": "No me encanta",
+      "en": "I don't love it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like it a lot",
+    "translations": {
+      "es": "Me gusta mucho",
+      "en": "I like it a lot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like it a little",
+    "translations": {
+      "es": "Me gusta un poco",
+      "en": "I like it a little"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't like it at all",
+    "translations": {
+      "es": "No me gusta nada",
+      "en": "I don't like it at all"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I prefer this",
+    "translations": {
+      "es": "Prefiero esto",
+      "en": "I prefer this"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I prefer that",
+    "translations": {
+      "es": "Prefiero eso",
+      "en": "I prefer that"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to eat",
+    "translations": {
+      "es": "Me gusta comer",
+      "en": "I like to eat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to travel",
+    "translations": {
+      "es": "Me gusta viajar",
+      "en": "I like to travel"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like to sleep",
+    "translations": {
+      "es": "Me gusta dormir",
+      "en": "I like to sleep"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't like to work",
+    "translations": {
+      "es": "No me gusta trabajar",
+      "en": "I don't like to work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like coffee",
+    "translations": {
+      "es": "Me gusta el café",
+      "en": "I like coffee"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't like the cold",
+    "translations": {
+      "es": "No me gusta el frío",
+      "en": "I don't like the cold"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like the heat",
+    "translations": {
+      "es": "Me gusta el calor",
+      "en": "I like the heat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I like this place",
+    "translations": {
+      "es": "Me gusta este lugar",
+      "en": "I like this place"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't like this place",
+    "translations": {
+      "es": "No me gusta este lugar",
+      "en": "I don't like this place"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you like it?",
+    "translations": {
+      "es": "¿Te gusta?",
+      "en": "Do you like it?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you like this?",
+    "translations": {
+      "es": "¿Te gusta esto?",
+      "en": "Do you like this?"
+    },
+    "difficulty": "Beginner"
+  }
+]

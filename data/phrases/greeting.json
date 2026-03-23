@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Hello",
+    "translations": {
+      "es": "Hola",
+      "en": "Hello"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Good morning",
+    "translations": {
+      "es": "Buenos días",
+      "en": "Good morning"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Good afternoon",
+    "translations": {
+      "es": "Buenas tardes",
+      "en": "Good afternoon"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Good evening",
+    "translations": {
+      "es": "Buenas noches",
+      "en": "Good evening"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How are you?",
+    "translations": {
+      "es": "¿Cómo estás?",
+      "en": "How are you?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How are you? (formal)",
+    "translations": {
+      "es": "¿Cómo está usted?",
+      "en": "How are you? (formal)"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How's it going?",
+    "translations": {
+      "es": "¿Qué tal?",
+      "en": "How's it going?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Nice to meet you",
+    "translations": {
+      "es": "Mucho gusto",
+      "en": "Nice to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Nice to meet you",
+    "translations": {
+      "es": "Encantado de conocerte",
+      "en": "Nice to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Everything good?",
+    "translations": {
+      "es": "¿Todo bien?",
+      "en": "Everything good?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What's up?",
+    "translations": {
+      "es": "¿Qué pasa?",
+      "en": "What's up?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Welcome",
+    "translations": {
+      "es": "¡Bienvenido!",
+      "en": "Welcome"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Hi, how are things going?",
+    "translations": {
+      "es": "Hola, ¿cómo te va?",
+      "en": "Hi, how are things going?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I'm glad to see you",
+    "translations": {
+      "es": "Me alegra verte",
+      "en": "I'm glad to see you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Long time no see",
+    "translations": {
+      "es": "Hace tiempo que no te veo",
+      "en": "Long time no see"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How is your day going?",
+    "translations": {
+      "es": "¿Cómo va tu día?",
+      "en": "How is your day going?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Pleased to meet you",
+    "translations": {
+      "es": "Encantado",
+      "en": "Pleased to meet you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Hello friend",
+    "translations": {
+      "es": "Hola amigo",
+      "en": "Hello friend"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Hello everyone",
+    "translations": {
+      "es": "Hola a todos",
+      "en": "Hello everyone"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Hi / Hello (casual)",
+    "translations": {
+      "es": "Buenas",
+      "en": "Hi / Hello (casual)"
+    },
+    "difficulty": "Beginner"
+  }
+]

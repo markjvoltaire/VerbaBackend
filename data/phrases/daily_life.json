@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I wake up early",
+    "translations": {
+      "es": "Me despierto temprano",
+      "en": "I wake up early"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I get up",
+    "translations": {
+      "es": "Me levanto",
+      "en": "I get up"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I shower",
+    "translations": {
+      "es": "Me ducho",
+      "en": "I shower"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat breakfast",
+    "translations": {
+      "es": "Desayuno",
+      "en": "I eat breakfast"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go to work",
+    "translations": {
+      "es": "Voy al trabajo",
+      "en": "I go to work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I work all day",
+    "translations": {
+      "es": "Trabajo todo el día",
+      "en": "I work all day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat lunch",
+    "translations": {
+      "es": "Almuerzo",
+      "en": "I eat lunch"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I finish work",
+    "translations": {
+      "es": "Termino el trabajo",
+      "en": "I finish work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I arrive home",
+    "translations": {
+      "es": "Llego a casa",
+      "en": "I arrive home"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I eat dinner",
+    "translations": {
+      "es": "Ceno",
+      "en": "I eat dinner"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I watch TV",
+    "translations": {
+      "es": "Veo televisión",
+      "en": "I watch TV"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I use my phone",
+    "translations": {
+      "es": "Uso mi teléfono",
+      "en": "I use my phone"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I relax",
+    "translations": {
+      "es": "Me relajo",
+      "en": "I relax"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go out with friends",
+    "translations": {
+      "es": "Salgo con amigos",
+      "en": "I go out with friends"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I exercise",
+    "translations": {
+      "es": "Hago ejercicio",
+      "en": "I exercise"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I study Spanish",
+    "translations": {
+      "es": "Estudio español",
+      "en": "I study Spanish"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go to bed",
+    "translations": {
+      "es": "Me acuesto",
+      "en": "I go to bed"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I sleep well",
+    "translations": {
+      "es": "Duermo bien",
+      "en": "I sleep well"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I sleep little",
+    "translations": {
+      "es": "Duermo poco",
+      "en": "I sleep little"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I have a good day",
+    "translations": {
+      "es": "Tengo un buen día",
+      "en": "I have a good day"
+    },
+    "difficulty": "Beginner"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I need a lawyer",
+    "translations": {
+      "es": "Necesito un abogado",
+      "en": "I need a lawyer"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is a legal matter",
+    "translations": {
+      "es": "Es un asunto legal",
+      "en": "It is a legal matter"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have an appointment",
+    "translations": {
+      "es": "Tengo una cita",
+      "en": "I have an appointment"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need to sign",
+    "translations": {
+      "es": "Necesito firmar",
+      "en": "I need to sign"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Read the document",
+    "translations": {
+      "es": "Lee el documento",
+      "en": "Read the document"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I don't understand this",
+    "translations": {
+      "es": "No entiendo esto",
+      "en": "I don't understand this"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Explain it please",
+    "translations": {
+      "es": "Explícalo por favor",
+      "en": "Explain it please"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is important",
+    "translations": {
+      "es": "Es importante",
+      "en": "It is important"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is mandatory",
+    "translations": {
+      "es": "Es obligatorio",
+      "en": "It is mandatory"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I agree",
+    "translations": {
+      "es": "Estoy de acuerdo",
+      "en": "I agree"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I do not agree",
+    "translations": {
+      "es": "No estoy de acuerdo",
+      "en": "I do not agree"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need more information",
+    "translations": {
+      "es": "Necesito más información",
+      "en": "I need more information"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is a contract",
+    "translations": {
+      "es": "Es un contrato",
+      "en": "It is a contract"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I must review this",
+    "translations": {
+      "es": "Debo revisar esto",
+      "en": "I must review this"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is confidential",
+    "translations": {
+      "es": "Es confidencial",
+      "en": "It is confidential"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need time",
+    "translations": {
+      "es": "Necesito tiempo",
+      "en": "I need time"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I agree with the terms",
+    "translations": {
+      "es": "Estoy de acuerdo con los términos",
+      "en": "I agree with the terms"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I do not accept the terms",
+    "translations": {
+      "es": "No acepto los términos",
+      "en": "I do not accept the terms"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Where do I sign?",
+    "translations": {
+      "es": "¿Dónde firmo?",
+      "en": "Where do I sign?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Everything is clear",
+    "translations": {
+      "es": "Todo está claro",
+      "en": "Everything is clear"
+    },
+    "difficulty": "Intermediate"
+  }
+]

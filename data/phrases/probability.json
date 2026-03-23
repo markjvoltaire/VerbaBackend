@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "He might be right",
+    "translations": {
+      "es": "Puede que tenga razón",
+      "en": "He might be right"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "He will probably come",
+    "translations": {
+      "es": "Probablemente venga",
+      "en": "He will probably come"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is likely to happen",
+    "translations": {
+      "es": "Es probable que pase",
+      "en": "It is likely to happen"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Maybe it is true",
+    "translations": {
+      "es": "Tal vez sea verdad",
+      "en": "Maybe it is true"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Maybe he will do it",
+    "translations": {
+      "es": "Quizás lo haga",
+      "en": "Maybe he will do it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am not sure",
+    "translations": {
+      "es": "No estoy seguro",
+      "en": "I am not sure"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I highly doubt it",
+    "translations": {
+      "es": "Lo dudo mucho",
+      "en": "I highly doubt it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is unlikely",
+    "translations": {
+      "es": "Es poco probable",
+      "en": "It is unlikely"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Surely yes",
+    "translations": {
+      "es": "Seguro que sí",
+      "en": "Surely yes"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Surely not",
+    "translations": {
+      "es": "Seguro que no",
+      "en": "Surely not"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Without a doubt",
+    "translations": {
+      "es": "Sin duda",
+      "en": "Without a doubt"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I am convinced",
+    "translations": {
+      "es": "Estoy convencido",
+      "en": "I am convinced"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "There is no doubt",
+    "translations": {
+      "es": "No cabe duda",
+      "en": "There is no doubt"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It is evident",
+    "translations": {
+      "es": "Es evidente",
+      "en": "It is evident"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It seems so",
+    "translations": {
+      "es": "Parece que sí",
+      "en": "It seems so"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It seems not",
+    "translations": {
+      "es": "Parece que no",
+      "en": "It seems not"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Everything indicates that",
+    "translations": {
+      "es": "Todo indica que",
+      "en": "Everything indicates that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Maybe",
+    "translations": {
+      "es": "A lo mejor",
+      "en": "Maybe"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I would say yes",
+    "translations": {
+      "es": "Diría que sí",
+      "en": "I would say yes"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I would say no",
+    "translations": {
+      "es": "Diría que no",
+      "en": "I would say no"
+    },
+    "difficulty": "Advanced"
+  }
+]

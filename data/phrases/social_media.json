@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I use social media",
+    "translations": {
+      "es": "Uso redes sociales",
+      "en": "I use social media"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I post photos",
+    "translations": {
+      "es": "Publico fotos",
+      "en": "I post photos"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I share videos",
+    "translations": {
+      "es": "Comparto videos",
+      "en": "I share videos"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I follow many people",
+    "translations": {
+      "es": "Sigo a muchas personas",
+      "en": "I follow many people"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I have many followers",
+    "translations": {
+      "es": "Tengo muchos seguidores",
+      "en": "I have many followers"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I like your post",
+    "translations": {
+      "es": "Me gusta tu publicación",
+      "en": "I like your post"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I comment on posts",
+    "translations": {
+      "es": "Comento en publicaciones",
+      "en": "I comment on posts"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I spend a lot of time online",
+    "translations": {
+      "es": "Paso mucho tiempo en línea",
+      "en": "I spend a lot of time online"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I use my phone too much",
+    "translations": {
+      "es": "Uso mi teléfono demasiado",
+      "en": "I use my phone too much"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is fun",
+    "translations": {
+      "es": "Es divertido",
+      "en": "It is fun"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is addictive",
+    "translations": {
+      "es": "Es adictivo",
+      "en": "It is addictive"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I learn new things",
+    "translations": {
+      "es": "Aprendo cosas nuevas",
+      "en": "I learn new things"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I see news",
+    "translations": {
+      "es": "Veo noticias",
+      "en": "I see news"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I talk with friends",
+    "translations": {
+      "es": "Hablo con amigos",
+      "en": "I talk with friends"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I send direct messages",
+    "translations": {
+      "es": "Envio mensajes directos",
+      "en": "I send direct messages"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I use the app every day",
+    "translations": {
+      "es": "Uso la aplicación todos los días",
+      "en": "I use the app every day"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is part of my life",
+    "translations": {
+      "es": "Es parte de mi vida",
+      "en": "It is part of my life"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Sometimes it is a waste of time",
+    "translations": {
+      "es": "A veces es una pérdida de tiempo",
+      "en": "Sometimes it is a waste of time"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It depends on the use",
+    "translations": {
+      "es": "Depende del uso",
+      "en": "It depends on the use"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I prefer to use it less",
+    "translations": {
+      "es": "Prefiero usarlo menos",
+      "en": "I prefer to use it less"
+    },
+    "difficulty": "Intermediate"
+  }
+]

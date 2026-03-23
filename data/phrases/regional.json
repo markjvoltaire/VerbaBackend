@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Computer (Spain)",
+    "translations": {
+      "es": "Ordenador (España)",
+      "en": "Computer (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Computer (Latin America)",
+    "translations": {
+      "es": "Computadora (LatAm)",
+      "en": "Computer (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Car (Spain)",
+    "translations": {
+      "es": "Coche (España)",
+      "en": "Car (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Car (Latin America)",
+    "translations": {
+      "es": "Carro / Auto (LatAm)",
+      "en": "Car (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Cell phone (Spain)",
+    "translations": {
+      "es": "Móvil (España)",
+      "en": "Cell phone (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Cell phone (Latin America)",
+    "translations": {
+      "es": "Celular (LatAm)",
+      "en": "Cell phone (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Juice (Spain)",
+    "translations": {
+      "es": "Zumo (España)",
+      "en": "Juice (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Juice (Latin America)",
+    "translations": {
+      "es": "Jugo (LatAm)",
+      "en": "Juice (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Okay (Spain)",
+    "translations": {
+      "es": "Vale (España)",
+      "en": "Okay (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Okay (Latin America)",
+    "translations": {
+      "es": "Está bien (LatAm)",
+      "en": "Okay (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "To drive (Spain)",
+    "translations": {
+      "es": "Conducir (España)",
+      "en": "To drive (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "To drive (Latin America)",
+    "translations": {
+      "es": "Manejar (LatAm)",
+      "en": "To drive (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "You all go (Spain)",
+    "translations": {
+      "es": "Vosotros vais",
+      "en": "You all go (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "You all go (Latin America)",
+    "translations": {
+      "es": "Ustedes van",
+      "en": "You all go (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Dude (Spain)",
+    "translations": {
+      "es": "Tío / Tía (España)",
+      "en": "Dude (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Dude (Latin America)",
+    "translations": {
+      "es": "Güey / Tipo (LatAm)",
+      "en": "Dude (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Apartment (Spain)",
+    "translations": {
+      "es": "Piso (España)",
+      "en": "Apartment (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Apartment (Latin America)",
+    "translations": {
+      "es": "Departamento (LatAm)",
+      "en": "Apartment (Latin America)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "To take (Spain)",
+    "translations": {
+      "es": "Coger (España)",
+      "en": "To take (Spain)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "To take (Latin America)",
+    "translations": {
+      "es": "Tomar (LatAm)",
+      "en": "To take (Latin America)"
+    },
+    "difficulty": "Advanced"
+  }
+]

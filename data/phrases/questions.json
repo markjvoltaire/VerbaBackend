@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "What is this?",
+    "translations": {
+      "es": "¿Qué es esto?",
+      "en": "What is this?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What do you want?",
+    "translations": {
+      "es": "¿Qué quieres?",
+      "en": "What do you want?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the bathroom?",
+    "translations": {
+      "es": "¿Dónde está el baño?",
+      "en": "Where is the bathroom?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where do you live?",
+    "translations": {
+      "es": "¿Dónde vives?",
+      "en": "Where do you live?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "When do you arrive?",
+    "translations": {
+      "es": "¿Cuándo llegas?",
+      "en": "When do you arrive?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Why are you here?",
+    "translations": {
+      "es": "¿Por qué estás aquí?",
+      "en": "Why are you here?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Who is he?",
+    "translations": {
+      "es": "¿Quién es él?",
+      "en": "Who is he?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How does this work?",
+    "translations": {
+      "es": "¿Cómo funciona esto?",
+      "en": "How does this work?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How much does it cost?",
+    "translations": {
+      "es": "¿Cuánto cuesta?",
+      "en": "How much does it cost?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How many are there?",
+    "translations": {
+      "es": "¿Cuántos hay?",
+      "en": "How many are there?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you help me?",
+    "translations": {
+      "es": "¿Puedes ayudarme?",
+      "en": "Can you help me?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you repeat?",
+    "translations": {
+      "es": "¿Puedes repetir?",
+      "en": "Can you repeat?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you speak slower?",
+    "translations": {
+      "es": "¿Puedes hablar más despacio?",
+      "en": "Can you speak slower?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you understand?",
+    "translations": {
+      "es": "¿Entiendes?",
+      "en": "Do you understand?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you speak English?",
+    "translations": {
+      "es": "¿Hablas inglés?",
+      "en": "Do you speak English?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What time is it?",
+    "translations": {
+      "es": "¿Qué hora es?",
+      "en": "What time is it?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What day is today?",
+    "translations": {
+      "es": "¿Qué día es hoy?",
+      "en": "What day is today?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where do you work?",
+    "translations": {
+      "es": "¿Dónde trabajas?",
+      "en": "Where do you work?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What are you doing?",
+    "translations": {
+      "es": "¿Qué haces?",
+      "en": "What are you doing?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "What does this mean?",
+    "translations": {
+      "es": "¿Qué significa esto?",
+      "en": "What does this mean?"
+    },
+    "difficulty": "Beginner"
+  }
+]

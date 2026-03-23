@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "It is big",
+    "translations": {
+      "es": "Es grande",
+      "en": "It is big"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is small",
+    "translations": {
+      "es": "Es pequeño",
+      "en": "It is small"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is good",
+    "translations": {
+      "es": "Es bueno",
+      "en": "It is good"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is bad",
+    "translations": {
+      "es": "Es malo",
+      "en": "It is bad"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is pretty",
+    "translations": {
+      "es": "Es bonito",
+      "en": "It is pretty"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is ugly",
+    "translations": {
+      "es": "Es feo",
+      "en": "It is ugly"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is fast",
+    "translations": {
+      "es": "Es rápido",
+      "en": "It is fast"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is slow",
+    "translations": {
+      "es": "Es lento",
+      "en": "It is slow"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is easy",
+    "translations": {
+      "es": "Es fácil",
+      "en": "It is easy"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is difficult",
+    "translations": {
+      "es": "Es difícil",
+      "en": "It is difficult"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is new",
+    "translations": {
+      "es": "Es nuevo",
+      "en": "It is new"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is old",
+    "translations": {
+      "es": "Es viejo",
+      "en": "It is old"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is expensive",
+    "translations": {
+      "es": "Es caro",
+      "en": "It is expensive"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cheap",
+    "translations": {
+      "es": "Es barato",
+      "en": "It is cheap"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is interesting",
+    "translations": {
+      "es": "Es interesante",
+      "en": "It is interesting"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is boring",
+    "translations": {
+      "es": "Es aburrido",
+      "en": "It is boring"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is important",
+    "translations": {
+      "es": "Es importante",
+      "en": "It is important"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is different",
+    "translations": {
+      "es": "Es diferente",
+      "en": "It is different"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is the same",
+    "translations": {
+      "es": "Es igual",
+      "en": "It is the same"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is perfect",
+    "translations": {
+      "es": "Es perfecto",
+      "en": "It is perfect"
+    },
+    "difficulty": "Beginner"
+  }
+]

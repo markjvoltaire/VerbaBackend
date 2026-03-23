@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I want to buy this",
+    "translations": {
+      "es": "Quiero comprar esto",
+      "en": "I want to buy this"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How much does it cost?",
+    "translations": {
+      "es": "¿Cuánto cuesta?",
+      "en": "How much does it cost?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is very expensive",
+    "translations": {
+      "es": "Es muy caro",
+      "en": "It is very expensive"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is cheap",
+    "translations": {
+      "es": "Es barato",
+      "en": "It is cheap"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you have this?",
+    "translations": {
+      "es": "¿Tienes esto?",
+      "en": "Do you have this?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't have it",
+    "translations": {
+      "es": "No lo tengo",
+      "en": "I don't have it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Is there a discount?",
+    "translations": {
+      "es": "¿Hay descuento?",
+      "en": "Is there a discount?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I buy it",
+    "translations": {
+      "es": "Lo compro",
+      "en": "I buy it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't want it",
+    "translations": {
+      "es": "No lo quiero",
+      "en": "I don't want it"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am just looking",
+    "translations": {
+      "es": "Estoy mirando",
+      "en": "I am just looking"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you accept card?",
+    "translations": {
+      "es": "¿Aceptas tarjeta?",
+      "en": "Do you accept card?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I pay cash",
+    "translations": {
+      "es": "Pago en efectivo",
+      "en": "I pay cash"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I need help",
+    "translations": {
+      "es": "Necesito ayuda",
+      "en": "I need help"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the register?",
+    "translations": {
+      "es": "¿Dónde está la caja?",
+      "en": "Where is the register?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "That's all",
+    "translations": {
+      "es": "Solo eso",
+      "en": "That's all"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I want another one",
+    "translations": {
+      "es": "Quiero otro",
+      "en": "I want another one"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you have another size?",
+    "translations": {
+      "es": "¿Tienes otro tamaño?",
+      "en": "Do you have another size?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Do you have another color?",
+    "translations": {
+      "es": "¿Tienes otro color?",
+      "en": "Do you have another color?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It's fine",
+    "translations": {
+      "es": "Está bien",
+      "en": "It's fine"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Thanks for your help",
+    "translations": {
+      "es": "Gracias por tu ayuda",
+      "en": "Thanks for your help"
+    },
+    "difficulty": "Beginner"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I always wake up early",
+    "translations": {
+      "es": "Siempre me levanto temprano",
+      "en": "I always wake up early"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I always eat breakfast",
+    "translations": {
+      "es": "Siempre desayuno",
+      "en": "I always eat breakfast"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I work every day",
+    "translations": {
+      "es": "Trabajo todos los días",
+      "en": "I work every day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go to the gym",
+    "translations": {
+      "es": "Voy al gimnasio",
+      "en": "I go to the gym"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I study every day",
+    "translations": {
+      "es": "Estudio todos los días",
+      "en": "I study every day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I always eat at twelve",
+    "translations": {
+      "es": "Siempre como a las doce",
+      "en": "I always eat at twelve"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I work in the morning",
+    "translations": {
+      "es": "Trabajo por la mañana",
+      "en": "I work in the morning"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I rest in the afternoon",
+    "translations": {
+      "es": "Descanso por la tarde",
+      "en": "I rest in the afternoon"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go out at night",
+    "translations": {
+      "es": "Salgo por la noche",
+      "en": "I go out at night"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I sleep eight hours",
+    "translations": {
+      "es": "Duermo ocho horas",
+      "en": "I sleep eight hours"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Sometimes I run",
+    "translations": {
+      "es": "A veces corro",
+      "en": "Sometimes I run"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Sometimes I read",
+    "translations": {
+      "es": "A veces leo",
+      "en": "Sometimes I read"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I never smoke",
+    "translations": {
+      "es": "Nunca fumo",
+      "en": "I never smoke"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I never drink alcohol",
+    "translations": {
+      "es": "Nunca bebo alcohol",
+      "en": "I never drink alcohol"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I always study Spanish",
+    "translations": {
+      "es": "Siempre estudio español",
+      "en": "I always study Spanish"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I almost always work",
+    "translations": {
+      "es": "Casi siempre trabajo",
+      "en": "I almost always work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I often go out",
+    "translations": {
+      "es": "A menudo salgo",
+      "en": "I often go out"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I rarely rest",
+    "translations": {
+      "es": "Raramente descanso",
+      "en": "I rarely rest"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Every day is the same",
+    "translations": {
+      "es": "Todos los días son iguales",
+      "en": "Every day is the same"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I have a routine",
+    "translations": {
+      "es": "Tengo una rutina",
+      "en": "I have a routine"
+    },
+    "difficulty": "Beginner"
+  }
+]

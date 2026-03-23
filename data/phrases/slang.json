@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "What's up?",
+    "translations": {
+      "es": "¿Qué tal?",
+      "en": "What's up?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "All good",
+    "translations": {
+      "es": "Todo bien",
+      "en": "All good"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What are you doing?",
+    "translations": {
+      "es": "¿Qué haces?",
+      "en": "What are you doing?"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm busy",
+    "translations": {
+      "es": "Estoy ocupado",
+      "en": "I'm busy"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Let's see",
+    "translations": {
+      "es": "Vamos a ver",
+      "en": "Let's see"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "No idea",
+    "translations": {
+      "es": "Ni idea",
+      "en": "No idea"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "How cool!",
+    "translations": {
+      "es": "¡Qué guay!",
+      "en": "How cool!"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That's awesome",
+    "translations": {
+      "es": "Está brutal",
+      "en": "That's awesome"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What a drag",
+    "translations": {
+      "es": "Qué rollo",
+      "en": "What a drag"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "No worries",
+    "translations": {
+      "es": "No pasa nada",
+      "en": "No worries"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Go ahead / do it",
+    "translations": {
+      "es": "Dale",
+      "en": "Go ahead / do it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Come on / alright",
+    "translations": {
+      "es": "Venga",
+      "en": "Come on / alright"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm exhausted",
+    "translations": {
+      "es": "Estoy hecho polvo",
+      "en": "I'm exhausted"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I was blown away",
+    "translations": {
+      "es": "Flipé",
+      "en": "I was blown away"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That's crazy",
+    "translations": {
+      "es": "Qué fuerte",
+      "en": "That's crazy"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I don't care",
+    "translations": {
+      "es": "Me da igual",
+      "en": "I don't care"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I'm not into that",
+    "translations": {
+      "es": "Paso de eso",
+      "en": "I'm not into that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That's cool (LatAm)",
+    "translations": {
+      "es": "Está chido",
+      "en": "That's cool (LatAm)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That's intense (Mexico)",
+    "translations": {
+      "es": "Está cañón",
+      "en": "That's intense (Mexico)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "See you",
+    "translations": {
+      "es": "Nos vemos",
+      "en": "See you"
+    },
+    "difficulty": "Advanced"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I am looking for an apartment",
+    "translations": {
+      "es": "Busco un apartamento",
+      "en": "I am looking for an apartment"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "How much is the rent?",
+    "translations": {
+      "es": "¿Cuánto cuesta el alquiler?",
+      "en": "How much is the rent?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The rent is expensive",
+    "translations": {
+      "es": "El alquiler es caro",
+      "en": "The rent is expensive"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "The rent is cheap",
+    "translations": {
+      "es": "El alquiler es barato",
+      "en": "The rent is cheap"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to rent this place",
+    "translations": {
+      "es": "Quiero alquilar este lugar",
+      "en": "I want to rent this place"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Is it available?",
+    "translations": {
+      "es": "¿Está disponible?",
+      "en": "Is it available?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "How many rooms does it have?",
+    "translations": {
+      "es": "¿Cuántas habitaciones tiene?",
+      "en": "How many rooms does it have?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It has two rooms",
+    "translations": {
+      "es": "Tiene dos habitaciones",
+      "en": "It has two rooms"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It has one bathroom",
+    "translations": {
+      "es": "Tiene un baño",
+      "en": "It has one bathroom"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is well located",
+    "translations": {
+      "es": "Está bien ubicado",
+      "en": "It is well located"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is far",
+    "translations": {
+      "es": "Está lejos",
+      "en": "It is far"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is close",
+    "translations": {
+      "es": "Está cerca",
+      "en": "It is close"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need something bigger",
+    "translations": {
+      "es": "Necesito algo más grande",
+      "en": "I need something bigger"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need something smaller",
+    "translations": {
+      "es": "Necesito algo más pequeño",
+      "en": "I need something smaller"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Does it include utilities?",
+    "translations": {
+      "es": "¿Incluye servicios?",
+      "en": "Does it include utilities?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Are pets allowed?",
+    "translations": {
+      "es": "¿Se permite mascotas?",
+      "en": "Are pets allowed?"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I want to see the place",
+    "translations": {
+      "es": "Quiero ver el lugar",
+      "en": "I want to see the place"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I like this apartment",
+    "translations": {
+      "es": "Me gusta este apartamento",
+      "en": "I like this apartment"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I don't like it",
+    "translations": {
+      "es": "No me gusta",
+      "en": "I don't like it"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I am going to think about it",
+    "translations": {
+      "es": "Voy a pensarlo",
+      "en": "I am going to think about it"
+    },
+    "difficulty": "Intermediate"
+  }
+]

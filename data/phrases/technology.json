@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I use my phone every day",
+    "translations": {
+      "es": "Uso mi teléfono todos los días",
+      "en": "I use my phone every day"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I use the computer",
+    "translations": {
+      "es": "Uso la computadora",
+      "en": "I use the computer"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I work online",
+    "translations": {
+      "es": "Trabajo en línea",
+      "en": "I work online"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I study online",
+    "translations": {
+      "es": "Estudio en línea",
+      "en": "I study online"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I use the internet a lot",
+    "translations": {
+      "es": "Uso internet mucho",
+      "en": "I use the internet a lot"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I search for information",
+    "translations": {
+      "es": "Busco información",
+      "en": "I search for information"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I download apps",
+    "translations": {
+      "es": "Descargo aplicaciones",
+      "en": "I download apps"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I use social media",
+    "translations": {
+      "es": "Uso redes sociales",
+      "en": "I use social media"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I send messages",
+    "translations": {
+      "es": "Envio mensajes",
+      "en": "I send messages"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I make video calls",
+    "translations": {
+      "es": "Hago videollamadas",
+      "en": "I make video calls"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Technology helps a lot",
+    "translations": {
+      "es": "La tecnología ayuda mucho",
+      "en": "Technology helps a lot"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Technology changes fast",
+    "translations": {
+      "es": "La tecnología cambia rápido",
+      "en": "Technology changes fast"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is easy to use",
+    "translations": {
+      "es": "Es fácil de usar",
+      "en": "It is easy to use"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is difficult to use",
+    "translations": {
+      "es": "Es difícil de usar",
+      "en": "It is difficult to use"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I need a connection",
+    "translations": {
+      "es": "Necesito conexión",
+      "en": "I need a connection"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I don't have internet",
+    "translations": {
+      "es": "No tengo internet",
+      "en": "I don't have internet"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It works well",
+    "translations": {
+      "es": "Funciona bien",
+      "en": "It works well"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It doesn't work",
+    "translations": {
+      "es": "No funciona",
+      "en": "It doesn't work"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is useful",
+    "translations": {
+      "es": "Es útil",
+      "en": "It is useful"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I use it every day",
+    "translations": {
+      "es": "Lo uso todos los días",
+      "en": "I use it every day"
+    },
+    "difficulty": "Intermediate"
+  }
+]

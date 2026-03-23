@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "This is better than that",
+    "translations": {
+      "es": "Esto es mejor que eso",
+      "en": "This is better than that"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is worse than that",
+    "translations": {
+      "es": "Esto es peor que eso",
+      "en": "This is worse than that"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is bigger",
+    "translations": {
+      "es": "Es más grande",
+      "en": "It is bigger"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is smaller",
+    "translations": {
+      "es": "Es más pequeño",
+      "en": "It is smaller"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is faster",
+    "translations": {
+      "es": "Es más rápido",
+      "en": "It is faster"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is slower",
+    "translations": {
+      "es": "Es más lento",
+      "en": "It is slower"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is more expensive",
+    "translations": {
+      "es": "Es más caro",
+      "en": "It is more expensive"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is cheaper",
+    "translations": {
+      "es": "Es más barato",
+      "en": "It is cheaper"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is the same",
+    "translations": {
+      "es": "Es igual",
+      "en": "It is the same"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is different",
+    "translations": {
+      "es": "Es diferente",
+      "en": "It is different"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is as good as",
+    "translations": {
+      "es": "Es tan bueno como",
+      "en": "It is as good as"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is better than before",
+    "translations": {
+      "es": "Es mejor que antes",
+      "en": "It is better than before"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is worse than before",
+    "translations": {
+      "es": "Es peor que antes",
+      "en": "It is worse than before"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is getting better",
+    "translations": {
+      "es": "Cada vez es mejor",
+      "en": "It is getting better"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is getting worse",
+    "translations": {
+      "es": "Cada vez es peor",
+      "en": "It is getting worse"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I prefer this to that",
+    "translations": {
+      "es": "Prefiero esto a eso",
+      "en": "I prefer this to that"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is more important",
+    "translations": {
+      "es": "Esto es más importante",
+      "en": "This is more important"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "This is less important",
+    "translations": {
+      "es": "Esto es menos importante",
+      "en": "This is less important"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is the best",
+    "translations": {
+      "es": "Es el mejor",
+      "en": "It is the best"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It is the worst",
+    "translations": {
+      "es": "Es el peor",
+      "en": "It is the worst"
+    },
+    "difficulty": "Intermediate"
+  }
+]

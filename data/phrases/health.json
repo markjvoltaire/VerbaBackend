@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "I am sick",
+    "translations": {
+      "es": "Estoy enfermo",
+      "en": "I am sick"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am well",
+    "translations": {
+      "es": "Estoy bien",
+      "en": "I am well"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "My head hurts",
+    "translations": {
+      "es": "Me duele la cabeza",
+      "en": "My head hurts"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "My stomach hurts",
+    "translations": {
+      "es": "Me duele el estómago",
+      "en": "My stomach hurts"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I have a fever",
+    "translations": {
+      "es": "Tengo fiebre",
+      "en": "I have a fever"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I have a cough",
+    "translations": {
+      "es": "Tengo tos",
+      "en": "I have a cough"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I need a doctor",
+    "translations": {
+      "es": "Necesito un médico",
+      "en": "I need a doctor"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I go to the hospital",
+    "translations": {
+      "es": "Voy al hospital",
+      "en": "I go to the hospital"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I take medicine",
+    "translations": {
+      "es": "Tomo medicina",
+      "en": "I take medicine"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I feel better",
+    "translations": {
+      "es": "Me siento mejor",
+      "en": "I feel better"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I feel bad",
+    "translations": {
+      "es": "Me siento mal",
+      "en": "I feel bad"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am tired",
+    "translations": {
+      "es": "Estoy cansado",
+      "en": "I am tired"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I need to rest",
+    "translations": {
+      "es": "Necesito descansar",
+      "en": "I need to rest"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am getting better",
+    "translations": {
+      "es": "Estoy mejorando",
+      "en": "I am getting better"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am not well",
+    "translations": {
+      "es": "No estoy bien",
+      "en": "I am not well"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It hurts here",
+    "translations": {
+      "es": "Me duele aquí",
+      "en": "It hurts here"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Are you okay?",
+    "translations": {
+      "es": "¿Estás bien?",
+      "en": "Are you okay?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Take care",
+    "translations": {
+      "es": "Cuídate",
+      "en": "Take care"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Rest",
+    "translations": {
+      "es": "Descansa",
+      "en": "Rest"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Drink water",
+    "translations": {
+      "es": "Bebe agua",
+      "en": "Drink water"
+    },
+    "difficulty": "Beginner"
+  }
+]

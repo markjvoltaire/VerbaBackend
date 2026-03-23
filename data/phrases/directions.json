@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Where is the bathroom?",
+    "translations": {
+      "es": "¿Dónde está el baño?",
+      "en": "Where is the bathroom?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the restaurant?",
+    "translations": {
+      "es": "¿Dónde está el restaurante?",
+      "en": "Where is the restaurant?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Where is the hotel?",
+    "translations": {
+      "es": "¿Dónde está el hotel?",
+      "en": "Where is the hotel?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "How do I get there?",
+    "translations": {
+      "es": "¿Cómo llego allí?",
+      "en": "How do I get there?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Go straight",
+    "translations": {
+      "es": "Sigue recto",
+      "en": "Go straight"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Turn right",
+    "translations": {
+      "es": "Gira a la derecha",
+      "en": "Turn right"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Turn left",
+    "translations": {
+      "es": "Gira a la izquierda",
+      "en": "Turn left"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is close",
+    "translations": {
+      "es": "Está cerca",
+      "en": "It is close"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is far",
+    "translations": {
+      "es": "Está lejos",
+      "en": "It is far"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is here",
+    "translations": {
+      "es": "Está aquí",
+      "en": "It is here"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is there",
+    "translations": {
+      "es": "Está allí",
+      "en": "It is there"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Is it far?",
+    "translations": {
+      "es": "¿Está lejos?",
+      "en": "Is it far?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Is it close?",
+    "translations": {
+      "es": "¿Está cerca?",
+      "en": "Is it close?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Cross the street",
+    "translations": {
+      "es": "Cruza la calle",
+      "en": "Cross the street"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It is on the corner",
+    "translations": {
+      "es": "Está en la esquina",
+      "en": "It is on the corner"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Thanks for the help",
+    "translations": {
+      "es": "Gracias por la ayuda",
+      "en": "Thanks for the help"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I don't understand",
+    "translations": {
+      "es": "No entiendo",
+      "en": "I don't understand"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Can you repeat?",
+    "translations": {
+      "es": "¿Puedes repetir?",
+      "en": "Can you repeat?"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am lost",
+    "translations": {
+      "es": "Estoy perdido",
+      "en": "I am lost"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am looking for this place",
+    "translations": {
+      "es": "Busco este lugar",
+      "en": "I am looking for this place"
+    },
+    "difficulty": "Beginner"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Yeah, right",
+    "translations": {
+      "es": "Claro, cómo no",
+      "en": "Yeah, right"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Yeah, sure",
+    "translations": {
+      "es": "Sí, seguro",
+      "en": "Yeah, sure"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What a surprise (sarcastic)",
+    "translations": {
+      "es": "Qué sorpresa",
+      "en": "What a surprise (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "No way (sarcastic)",
+    "translations": {
+      "es": "No me digas",
+      "en": "No way (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "What a coincidence (sarcastic)",
+    "translations": {
+      "es": "Qué casualidad",
+      "en": "What a coincidence (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Just what I needed (sarcastic)",
+    "translations": {
+      "es": "Justo lo que necesitaba",
+      "en": "Just what I needed (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Perfect (sarcastic or real)",
+    "translations": {
+      "es": "Perfecto",
+      "en": "Perfect (sarcastic or real)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "How nice (tone-dependent)",
+    "translations": {
+      "es": "Qué bien",
+      "en": "How nice (tone-dependent)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Wonderful (sarcastic)",
+    "translations": {
+      "es": "Qué maravilla",
+      "en": "Wonderful (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I love it (can be sarcastic)",
+    "translations": {
+      "es": "Me encanta",
+      "en": "I love it (can be sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "This is great (tone-based)",
+    "translations": {
+      "es": "Esto es genial",
+      "en": "This is great (tone-based)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Great (often ironic)",
+    "translations": {
+      "es": "Buenísimo",
+      "en": "Great (often ironic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Just what was missing (sarcastic)",
+    "translations": {
+      "es": "Lo que faltaba",
+      "en": "Just what was missing (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Very logical (sarcastic)",
+    "translations": {
+      "es": "Muy lógico",
+      "en": "Very logical (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Makes sense… sure",
+    "translations": {
+      "es": "Tiene sentido… claro",
+      "en": "Makes sense… sure"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "You're so smart (sarcastic)",
+    "translations": {
+      "es": "Qué listo eres",
+      "en": "You're so smart (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Impressive (tone-based)",
+    "translations": {
+      "es": "Impresionante",
+      "en": "Impressive (tone-based)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Unbelievable (tone-based)",
+    "translations": {
+      "es": "Increíble",
+      "en": "Unbelievable (tone-based)"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Exactly / for real",
+    "translations": {
+      "es": "Tal cual",
+      "en": "Exactly / for real"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Yeah, of course (sarcastic)",
+    "translations": {
+      "es": "Ya, claro",
+      "en": "Yeah, of course (sarcastic)"
+    },
+    "difficulty": "Advanced"
+  }
+]

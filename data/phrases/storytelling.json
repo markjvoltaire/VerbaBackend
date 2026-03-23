@@ -1,0 +1,322 @@
+[
+  {
+    "phrase": "I am going to tell you a story",
+    "translations": {
+      "es": "Te voy a contar una historia",
+      "en": "I am going to tell you a story"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It all started when",
+    "translations": {
+      "es": "Todo empezó cuando",
+      "en": "It all started when"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "One day",
+    "translations": {
+      "es": "Un día",
+      "en": "One day"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Suddenly",
+    "translations": {
+      "es": "De repente",
+      "en": "Suddenly"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Then something happened",
+    "translations": {
+      "es": "Entonces pasó algo",
+      "en": "Then something happened"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I couldn't believe it",
+    "translations": {
+      "es": "No lo podía creer",
+      "en": "I couldn't believe it"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It was incredible",
+    "translations": {
+      "es": "Fue increíble",
+      "en": "It was incredible"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It was terrible",
+    "translations": {
+      "es": "Fue terrible",
+      "en": "It was terrible"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "After that",
+    "translations": {
+      "es": "Después de eso",
+      "en": "After that"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "In the end",
+    "translations": {
+      "es": "Al final",
+      "en": "In the end"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Everything turned out well",
+    "translations": {
+      "es": "Todo salió bien",
+      "en": "Everything turned out well"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "Everything went wrong",
+    "translations": {
+      "es": "Todo salió mal",
+      "en": "Everything went wrong"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I learned a lot",
+    "translations": {
+      "es": "Aprendí mucho",
+      "en": "I learned a lot"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It was an experience",
+    "translations": {
+      "es": "Fue una experiencia",
+      "en": "It was an experience"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I will never forget it",
+    "translations": {
+      "es": "Nunca lo olvidaré",
+      "en": "I will never forget it"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I felt happy",
+    "translations": {
+      "es": "Me sentí feliz",
+      "en": "I felt happy"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "I felt sad",
+    "translations": {
+      "es": "Me sentí triste",
+      "en": "I felt sad"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It was surprising",
+    "translations": {
+      "es": "Fue sorprendente",
+      "en": "It was surprising"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "That changed everything",
+    "translations": {
+      "es": "Eso cambió todo",
+      "en": "That changed everything"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "And that's how it ended",
+    "translations": {
+      "es": "Y así terminó",
+      "en": "And that's how it ended"
+    },
+    "difficulty": "Intermediate"
+  },
+  {
+    "phrase": "It turns out that",
+    "translations": {
+      "es": "Resulta que",
+      "en": "It turns out that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The thing is that",
+    "translations": {
+      "es": "La cosa es que",
+      "en": "The thing is that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "So basically",
+    "translations": {
+      "es": "Total que",
+      "en": "So basically"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "At the end of the day",
+    "translations": {
+      "es": "Al final del día",
+      "en": "At the end of the day"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Without realizing it",
+    "translations": {
+      "es": "Sin darme cuenta",
+      "en": "Without realizing it"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Out of nowhere",
+    "translations": {
+      "es": "De la nada",
+      "en": "Out of nowhere"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "To make matters worse",
+    "translations": {
+      "es": "Para colmo",
+      "en": "To make matters worse"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "The worst part of all",
+    "translations": {
+      "es": "Lo peor de todo",
+      "en": "The worst part of all"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "And that's when",
+    "translations": {
+      "es": "Y entonces fue cuando",
+      "en": "And that's when"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "You can't imagine",
+    "translations": {
+      "es": "No te imaginas",
+      "en": "You can't imagine"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I swear that",
+    "translations": {
+      "es": "Te juro que",
+      "en": "I swear that"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "It was crazy",
+    "translations": {
+      "es": "Fue una locura",
+      "en": "It was crazy"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That had never happened to me",
+    "translations": {
+      "es": "Nunca me había pasado",
+      "en": "That had never happened to me"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I didn't know what to do",
+    "translations": {
+      "es": "No sabía qué hacer",
+      "en": "I didn't know what to do"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "I was in shock",
+    "translations": {
+      "es": "Me quedé en shock",
+      "en": "I was in shock"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "At first",
+    "translations": {
+      "es": "Al principio",
+      "en": "At first"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "After a while",
+    "translations": {
+      "es": "Después de un rato",
+      "en": "After a while"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "Over time",
+    "translations": {
+      "es": "Con el tiempo",
+      "en": "Over time"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "To this day",
+    "translations": {
+      "es": "A día de hoy",
+      "en": "To this day"
+    },
+    "difficulty": "Advanced"
+  },
+  {
+    "phrase": "That was the lesson",
+    "translations": {
+      "es": "Esa fue la lección",
+      "en": "That was the lesson"
+    },
+    "difficulty": "Advanced"
+  }
+]

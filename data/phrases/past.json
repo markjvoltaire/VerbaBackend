@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Yesterday I worked",
+    "translations": {
+      "es": "Ayer trabajé",
+      "en": "Yesterday I worked"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I ate",
+    "translations": {
+      "es": "Ayer comí",
+      "en": "Yesterday I ate"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I went to work",
+    "translations": {
+      "es": "Ayer fui al trabajo",
+      "en": "Yesterday I went to work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I was at home",
+    "translations": {
+      "es": "Ayer estuve en casa",
+      "en": "Yesterday I was at home"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I watched a movie",
+    "translations": {
+      "es": "Ayer vi una película",
+      "en": "Yesterday I watched a movie"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I went out with friends",
+    "translations": {
+      "es": "Ayer salí con amigos",
+      "en": "Yesterday I went out with friends"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I studied Spanish",
+    "translations": {
+      "es": "Ayer estudié español",
+      "en": "Yesterday I studied Spanish"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I bought food",
+    "translations": {
+      "es": "Ayer compré comida",
+      "en": "Yesterday I bought food"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I talked with my friend",
+    "translations": {
+      "es": "Ayer hablé con mi amigo",
+      "en": "Yesterday I talked with my friend"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Yesterday I slept well",
+    "translations": {
+      "es": "Ayer dormí bien",
+      "en": "Yesterday I slept well"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I went to the restaurant",
+    "translations": {
+      "es": "Fui al restaurante",
+      "en": "I went to the restaurant"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I ate a lot",
+    "translations": {
+      "es": "Comí mucho",
+      "en": "I ate a lot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I drank coffee",
+    "translations": {
+      "es": "Bebí café",
+      "en": "I drank coffee"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I arrived late",
+    "translations": {
+      "es": "Llegué tarde",
+      "en": "I arrived late"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I arrived early",
+    "translations": {
+      "es": "Llegué temprano",
+      "en": "I arrived early"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I worked a lot",
+    "translations": {
+      "es": "Trabajé mucho",
+      "en": "I worked a lot"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I did not work",
+    "translations": {
+      "es": "No trabajé",
+      "en": "I did not work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I did not go out",
+    "translations": {
+      "es": "No salí",
+      "en": "I did not go out"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I did not eat",
+    "translations": {
+      "es": "No comí",
+      "en": "I did not eat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It was a good day",
+    "translations": {
+      "es": "Fue un buen día",
+      "en": "It was a good day"
+    },
+    "difficulty": "Beginner"
+  }
+]

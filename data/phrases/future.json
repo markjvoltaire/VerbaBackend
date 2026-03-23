@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "Tomorrow I will work",
+    "translations": {
+      "es": "Mañana trabajaré",
+      "en": "Tomorrow I will work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will eat",
+    "translations": {
+      "es": "Mañana comeré",
+      "en": "Tomorrow I will eat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will go to work",
+    "translations": {
+      "es": "Mañana iré al trabajo",
+      "en": "Tomorrow I will go to work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will be at home",
+    "translations": {
+      "es": "Mañana estaré en casa",
+      "en": "Tomorrow I will be at home"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will watch a movie",
+    "translations": {
+      "es": "Mañana veré una película",
+      "en": "Tomorrow I will watch a movie"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will go out with friends",
+    "translations": {
+      "es": "Mañana saldré con amigos",
+      "en": "Tomorrow I will go out with friends"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will study Spanish",
+    "translations": {
+      "es": "Mañana estudiaré español",
+      "en": "Tomorrow I will study Spanish"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will buy food",
+    "translations": {
+      "es": "Mañana compraré comida",
+      "en": "Tomorrow I will buy food"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will talk with you",
+    "translations": {
+      "es": "Mañana hablaré contigo",
+      "en": "Tomorrow I will talk with you"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "Tomorrow I will sleep well",
+    "translations": {
+      "es": "Mañana dormiré bien",
+      "en": "Tomorrow I will sleep well"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am going to work",
+    "translations": {
+      "es": "Voy a trabajar",
+      "en": "I am going to work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am going to eat",
+    "translations": {
+      "es": "Voy a comer",
+      "en": "I am going to eat"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am going to go out",
+    "translations": {
+      "es": "Voy a salir",
+      "en": "I am going to go out"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am going to study",
+    "translations": {
+      "es": "Voy a estudiar",
+      "en": "I am going to study"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am going to travel",
+    "translations": {
+      "es": "Voy a viajar",
+      "en": "I am going to travel"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am not going to work",
+    "translations": {
+      "es": "No voy a trabajar",
+      "en": "I am not going to work"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "I am not going to go out",
+    "translations": {
+      "es": "No voy a salir",
+      "en": "I am not going to go out"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It will be a good day",
+    "translations": {
+      "es": "Será un buen día",
+      "en": "It will be a good day"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It will be difficult",
+    "translations": {
+      "es": "Será difícil",
+      "en": "It will be difficult"
+    },
+    "difficulty": "Beginner"
+  },
+  {
+    "phrase": "It will be easy",
+    "translations": {
+      "es": "Será fácil",
+      "en": "It will be easy"
+    },
+    "difficulty": "Beginner"
+  }
+]
