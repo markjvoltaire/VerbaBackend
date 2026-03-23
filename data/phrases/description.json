@@ -3,7 +3,9 @@
     "phrase": "It is big",
     "translations": {
       "es": "Es grande",
-      "en": "It is big"
+      "en": "It is big",
+      "fr": "C'est grand",
+      "it": "È grande"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "It is small",
     "translations": {
       "es": "Es pequeño",
-      "en": "It is small"
+      "en": "It is small",
+      "fr": "C'est petit",
+      "it": "È piccolo"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "It is good",
     "translations": {
       "es": "Es bueno",
-      "en": "It is good"
+      "en": "It is good",
+      "fr": "C'est bien",
+      "it": "È buono"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "It is bad",
     "translations": {
       "es": "Es malo",
-      "en": "It is bad"
+      "en": "It is bad",
+      "fr": "C'est mauvais",
+      "it": "È cattivo"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "It is pretty",
     "translations": {
       "es": "Es bonito",
-      "en": "It is pretty"
+      "en": "It is pretty",
+      "fr": "C'est joli",
+      "it": "È carino"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "It is ugly",
     "translations": {
       "es": "Es feo",
-      "en": "It is ugly"
+      "en": "It is ugly",
+      "fr": "C'est laid",
+      "it": "È brutto"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "It is fast",
     "translations": {
       "es": "Es rápido",
-      "en": "It is fast"
+      "en": "It is fast",
+      "fr": "C'est rapide",
+      "it": "È veloce"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "It is slow",
     "translations": {
       "es": "Es lento",
-      "en": "It is slow"
+      "en": "It is slow",
+      "fr": "C'est lent",
+      "it": "È lento"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "It is easy",
     "translations": {
       "es": "Es fácil",
-      "en": "It is easy"
+      "en": "It is easy",
+      "fr": "C'est facile",
+      "it": "È facile"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "It is difficult",
     "translations": {
       "es": "Es difícil",
-      "en": "It is difficult"
+      "en": "It is difficult",
+      "fr": "C'est difficile",
+      "it": "È difficile"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "It is new",
     "translations": {
       "es": "Es nuevo",
-      "en": "It is new"
+      "en": "It is new",
+      "fr": "C'est nouveau",
+      "it": "È nuovo"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "It is old",
     "translations": {
       "es": "Es viejo",
-      "en": "It is old"
+      "en": "It is old",
+      "fr": "C'est vieux",
+      "it": "È vecchio"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "It is expensive",
     "translations": {
       "es": "Es caro",
-      "en": "It is expensive"
+      "en": "It is expensive",
+      "fr": "C'est cher",
+      "it": "È caro"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "It is cheap",
     "translations": {
       "es": "Es barato",
-      "en": "It is cheap"
+      "en": "It is cheap",
+      "fr": "C'est bon marché",
+      "it": "È economico"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "It is interesting",
     "translations": {
       "es": "Es interesante",
-      "en": "It is interesting"
+      "en": "It is interesting",
+      "fr": "C'est intéressant",
+      "it": "È interessante"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "It is boring",
     "translations": {
       "es": "Es aburrido",
-      "en": "It is boring"
+      "en": "It is boring",
+      "fr": "C'est ennuyeux",
+      "it": "È noioso"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is important",
     "translations": {
       "es": "Es importante",
-      "en": "It is important"
+      "en": "It is important",
+      "fr": "C'est important",
+      "it": "È importante"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "It is different",
     "translations": {
       "es": "Es diferente",
-      "en": "It is different"
+      "en": "It is different",
+      "fr": "C'est différent",
+      "it": "È diverso"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is the same",
     "translations": {
       "es": "Es igual",
-      "en": "It is the same"
+      "en": "It is the same",
+      "fr": "C'est pareil",
+      "it": "È uguale"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "It is perfect",
     "translations": {
       "es": "Es perfecto",
-      "en": "It is perfect"
+      "en": "It is perfect",
+      "fr": "C'est parfait",
+      "it": "È perfetto"
     },
     "difficulty": "Beginner"
   }

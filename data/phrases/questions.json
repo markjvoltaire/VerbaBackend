@@ -3,7 +3,9 @@
     "phrase": "What is this?",
     "translations": {
       "es": "¿Qué es esto?",
-      "en": "What is this?"
+      "en": "What is this?",
+      "fr": "Qu'est-ce que c'est ?",
+      "it": "Cos'è questo?"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "What do you want?",
     "translations": {
       "es": "¿Qué quieres?",
-      "en": "What do you want?"
+      "en": "What do you want?",
+      "fr": "Qu'est-ce que tu veux ?",
+      "it": "Cosa vuoi?"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "Where is the bathroom?",
     "translations": {
       "es": "¿Dónde está el baño?",
-      "en": "Where is the bathroom?"
+      "en": "Where is the bathroom?",
+      "fr": "Où sont les toilettes ?",
+      "it": "Dov'è il bagno?"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "Where do you live?",
     "translations": {
       "es": "¿Dónde vives?",
-      "en": "Where do you live?"
+      "en": "Where do you live?",
+      "fr": "Où est-ce que tu habites ?",
+      "it": "Dove abiti?"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "When do you arrive?",
     "translations": {
       "es": "¿Cuándo llegas?",
-      "en": "When do you arrive?"
+      "en": "When do you arrive?",
+      "fr": "Quand est-ce que tu arrives ?",
+      "it": "Quando arrivi?"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "Why are you here?",
     "translations": {
       "es": "¿Por qué estás aquí?",
-      "en": "Why are you here?"
+      "en": "Why are you here?",
+      "fr": "Pourquoi es-tu ici ?",
+      "it": "Perché sei qui?"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "Who is he?",
     "translations": {
       "es": "¿Quién es él?",
-      "en": "Who is he?"
+      "en": "Who is he?",
+      "fr": "Qui est-il ?",
+      "it": "Chi è lui?"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "How does this work?",
     "translations": {
       "es": "¿Cómo funciona esto?",
-      "en": "How does this work?"
+      "en": "How does this work?",
+      "fr": "Comment ça marche ?",
+      "it": "Come funziona questo?"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "How much does it cost?",
     "translations": {
       "es": "¿Cuánto cuesta?",
-      "en": "How much does it cost?"
+      "en": "How much does it cost?",
+      "fr": "Combien ça coûte ?",
+      "it": "Quanto costa?"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "How many are there?",
     "translations": {
       "es": "¿Cuántos hay?",
-      "en": "How many are there?"
+      "en": "How many are there?",
+      "fr": "Combien y en a-t-il ?",
+      "it": "Quanti ce ne sono?"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "Can you help me?",
     "translations": {
       "es": "¿Puedes ayudarme?",
-      "en": "Can you help me?"
+      "en": "Can you help me?",
+      "fr": "Tu peux m'aider ?",
+      "it": "Puoi aiutarmi?"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "Can you repeat?",
     "translations": {
       "es": "¿Puedes repetir?",
-      "en": "Can you repeat?"
+      "en": "Can you repeat?",
+      "fr": "Tu peux répéter ?",
+      "it": "Puoi ripetere?"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "Can you speak slower?",
     "translations": {
       "es": "¿Puedes hablar más despacio?",
-      "en": "Can you speak slower?"
+      "en": "Can you speak slower?",
+      "fr": "Tu peux parler plus lentement ?",
+      "it": "Puoi parlare più lentamente?"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "Do you understand?",
     "translations": {
       "es": "¿Entiendes?",
-      "en": "Do you understand?"
+      "en": "Do you understand?",
+      "fr": "Tu comprends ?",
+      "it": "Capisci?"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "Do you speak English?",
     "translations": {
       "es": "¿Hablas inglés?",
-      "en": "Do you speak English?"
+      "en": "Do you speak English?",
+      "fr": "Tu parles anglais ?",
+      "it": "Parli inglese?"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "What time is it?",
     "translations": {
       "es": "¿Qué hora es?",
-      "en": "What time is it?"
+      "en": "What time is it?",
+      "fr": "Quelle heure est-il ?",
+      "it": "Che ora è?"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "What day is today?",
     "translations": {
       "es": "¿Qué día es hoy?",
-      "en": "What day is today?"
+      "en": "What day is today?",
+      "fr": "Quel jour sommes-nous ?",
+      "it": "Che giorno è oggi?"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "Where do you work?",
     "translations": {
       "es": "¿Dónde trabajas?",
-      "en": "Where do you work?"
+      "en": "Where do you work?",
+      "fr": "Où est-ce que tu travailles ?",
+      "it": "Dove lavori?"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "What are you doing?",
     "translations": {
       "es": "¿Qué haces?",
-      "en": "What are you doing?"
+      "en": "What are you doing?",
+      "fr": "Qu'est-ce que tu fais ?",
+      "it": "Cosa fai?"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "What does this mean?",
     "translations": {
       "es": "¿Qué significa esto?",
-      "en": "What does this mean?"
+      "en": "What does this mean?",
+      "fr": "Qu'est-ce que ça veut dire ?",
+      "it": "Cosa significa questo?"
     },
     "difficulty": "Beginner"
   }

@@ -3,6 +3,8 @@
     "phrase": "I am going to tell you a story",
     "translations": {
       "es": "Te voy a contar una historia",
+      "fr": "Je vais te raconter une histoire",
+      "it": "Ti racconto una storia",
       "en": "I am going to tell you a story"
     },
     "difficulty": "Intermediate"
@@ -11,6 +13,8 @@
     "phrase": "It all started when",
     "translations": {
       "es": "Todo empezó cuando",
+      "fr": "Tout a commencé quand",
+      "it": "Tutto è cominciato quando",
       "en": "It all started when"
     },
     "difficulty": "Intermediate"
@@ -19,6 +23,8 @@
     "phrase": "One day",
     "translations": {
       "es": "Un día",
+      "fr": "Un jour",
+      "it": "Un giorno",
       "en": "One day"
     },
     "difficulty": "Intermediate"
@@ -27,6 +33,8 @@
     "phrase": "Suddenly",
     "translations": {
       "es": "De repente",
+      "fr": "Soudain",
+      "it": "All'improvviso",
       "en": "Suddenly"
     },
     "difficulty": "Intermediate"
@@ -35,6 +43,8 @@
     "phrase": "Then something happened",
     "translations": {
       "es": "Entonces pasó algo",
+      "fr": "Alors quelque chose s'est passé",
+      "it": "Allora è successo qualcosa",
       "en": "Then something happened"
     },
     "difficulty": "Intermediate"
@@ -43,6 +53,8 @@
     "phrase": "I couldn't believe it",
     "translations": {
       "es": "No lo podía creer",
+      "fr": "Je n'arrivais pas à y croire",
+      "it": "Non riuscivo a crederci",
       "en": "I couldn't believe it"
     },
     "difficulty": "Intermediate"
@@ -51,6 +63,8 @@
     "phrase": "It was incredible",
     "translations": {
       "es": "Fue increíble",
+      "fr": "C'était incroyable",
+      "it": "È stato incredibile",
       "en": "It was incredible"
     },
     "difficulty": "Intermediate"
@@ -59,6 +73,8 @@
     "phrase": "It was terrible",
     "translations": {
       "es": "Fue terrible",
+      "fr": "C'était terrible",
+      "it": "È stato terribile",
       "en": "It was terrible"
     },
     "difficulty": "Intermediate"
@@ -67,6 +83,8 @@
     "phrase": "After that",
     "translations": {
       "es": "Después de eso",
+      "fr": "Après ça",
+      "it": "Dopo di che",
       "en": "After that"
     },
     "difficulty": "Intermediate"
@@ -75,6 +93,8 @@
     "phrase": "In the end",
     "translations": {
       "es": "Al final",
+      "fr": "À la fin",
+      "it": "Alla fine",
       "en": "In the end"
     },
     "difficulty": "Intermediate"
@@ -83,6 +103,8 @@
     "phrase": "Everything turned out well",
     "translations": {
       "es": "Todo salió bien",
+      "fr": "Tout s'est bien passé",
+      "it": "È andato tutto bene",
       "en": "Everything turned out well"
     },
     "difficulty": "Intermediate"
@@ -91,6 +113,8 @@
     "phrase": "Everything went wrong",
     "translations": {
       "es": "Todo salió mal",
+      "fr": "Tout a mal tourné",
+      "it": "È andato tutto male",
       "en": "Everything went wrong"
     },
     "difficulty": "Intermediate"
@@ -99,6 +123,8 @@
     "phrase": "I learned a lot",
     "translations": {
       "es": "Aprendí mucho",
+      "fr": "J'ai beaucoup appris",
+      "it": "Ho imparato molto",
       "en": "I learned a lot"
     },
     "difficulty": "Intermediate"
@@ -107,6 +133,8 @@
     "phrase": "It was an experience",
     "translations": {
       "es": "Fue una experiencia",
+      "fr": "C'était une expérience",
+      "it": "È stata un'esperienza",
       "en": "It was an experience"
     },
     "difficulty": "Intermediate"
@@ -115,6 +143,8 @@
     "phrase": "I will never forget it",
     "translations": {
       "es": "Nunca lo olvidaré",
+      "fr": "Je ne l'oublierai jamais",
+      "it": "Non lo dimenticherò mai",
       "en": "I will never forget it"
     },
     "difficulty": "Intermediate"
@@ -123,6 +153,8 @@
     "phrase": "I felt happy",
     "translations": {
       "es": "Me sentí feliz",
+      "fr": "Je me suis senti heureux",
+      "it": "Mi sono sentito felice",
       "en": "I felt happy"
     },
     "difficulty": "Intermediate"
@@ -131,6 +163,8 @@
     "phrase": "I felt sad",
     "translations": {
       "es": "Me sentí triste",
+      "fr": "Je me suis senti triste",
+      "it": "Mi sono sentito triste",
       "en": "I felt sad"
     },
     "difficulty": "Intermediate"
@@ -139,6 +173,8 @@
     "phrase": "It was surprising",
     "translations": {
       "es": "Fue sorprendente",
+      "fr": "C'était surprenant",
+      "it": "È stato sorprendente",
       "en": "It was surprising"
     },
     "difficulty": "Intermediate"
@@ -147,6 +183,8 @@
     "phrase": "That changed everything",
     "translations": {
       "es": "Eso cambió todo",
+      "fr": "Ça a tout changé",
+      "it": "Quello ha cambiato tutto",
       "en": "That changed everything"
     },
     "difficulty": "Intermediate"
@@ -155,6 +193,8 @@
     "phrase": "And that's how it ended",
     "translations": {
       "es": "Y así terminó",
+      "fr": "Et c'est comme ça que ça s'est terminé",
+      "it": "E così è finita",
       "en": "And that's how it ended"
     },
     "difficulty": "Intermediate"
@@ -163,6 +203,8 @@
     "phrase": "It turns out that",
     "translations": {
       "es": "Resulta que",
+      "fr": "Il s'avère que",
+      "it": "Si scopre che",
       "en": "It turns out that"
     },
     "difficulty": "Advanced"
@@ -171,6 +213,8 @@
     "phrase": "The thing is that",
     "translations": {
       "es": "La cosa es que",
+      "fr": "Le truc c'est que",
+      "it": "Il fatto è che",
       "en": "The thing is that"
     },
     "difficulty": "Advanced"
@@ -179,6 +223,8 @@
     "phrase": "So basically",
     "translations": {
       "es": "Total que",
+      "fr": "En gros",
+      "it": "In pratica",
       "en": "So basically"
     },
     "difficulty": "Advanced"
@@ -187,6 +233,8 @@
     "phrase": "At the end of the day",
     "translations": {
       "es": "Al final del día",
+      "fr": "Au bout du compte",
+      "it": "Alla fine della giornata",
       "en": "At the end of the day"
     },
     "difficulty": "Advanced"
@@ -195,6 +243,8 @@
     "phrase": "Without realizing it",
     "translations": {
       "es": "Sin darme cuenta",
+      "fr": "Sans m'en rendre compte",
+      "it": "Senza rendermene conto",
       "en": "Without realizing it"
     },
     "difficulty": "Advanced"
@@ -203,6 +253,8 @@
     "phrase": "Out of nowhere",
     "translations": {
       "es": "De la nada",
+      "fr": "De nulle part",
+      "it": "Dal nulla",
       "en": "Out of nowhere"
     },
     "difficulty": "Advanced"
@@ -211,6 +263,8 @@
     "phrase": "To make matters worse",
     "translations": {
       "es": "Para colmo",
+      "fr": "Pour couronner le tout",
+      "it": "Per giunta",
       "en": "To make matters worse"
     },
     "difficulty": "Advanced"
@@ -219,6 +273,8 @@
     "phrase": "The worst part of all",
     "translations": {
       "es": "Lo peor de todo",
+      "fr": "Le pire de tout",
+      "it": "La cosa peggiore di tutte",
       "en": "The worst part of all"
     },
     "difficulty": "Advanced"
@@ -227,6 +283,8 @@
     "phrase": "And that's when",
     "translations": {
       "es": "Y entonces fue cuando",
+      "fr": "Et c'est là que",
+      "it": "Ed è stato allora che",
       "en": "And that's when"
     },
     "difficulty": "Advanced"
@@ -235,6 +293,8 @@
     "phrase": "You can't imagine",
     "translations": {
       "es": "No te imaginas",
+      "fr": "Tu ne peux pas imaginer",
+      "it": "Non puoi immaginare",
       "en": "You can't imagine"
     },
     "difficulty": "Advanced"
@@ -243,6 +303,8 @@
     "phrase": "I swear that",
     "translations": {
       "es": "Te juro que",
+      "fr": "Je te jure que",
+      "it": "Ti giuro che",
       "en": "I swear that"
     },
     "difficulty": "Advanced"
@@ -251,6 +313,8 @@
     "phrase": "It was crazy",
     "translations": {
       "es": "Fue una locura",
+      "fr": "C'était de la folie",
+      "it": "È stata una follia",
       "en": "It was crazy"
     },
     "difficulty": "Advanced"
@@ -259,6 +323,8 @@
     "phrase": "That had never happened to me",
     "translations": {
       "es": "Nunca me había pasado",
+      "fr": "Ça ne m'était jamais arrivé",
+      "it": "Non mi era mai successo",
       "en": "That had never happened to me"
     },
     "difficulty": "Advanced"
@@ -267,6 +333,8 @@
     "phrase": "I didn't know what to do",
     "translations": {
       "es": "No sabía qué hacer",
+      "fr": "Je ne savais pas quoi faire",
+      "it": "Non sapevo cosa fare",
       "en": "I didn't know what to do"
     },
     "difficulty": "Advanced"
@@ -275,6 +343,8 @@
     "phrase": "I was in shock",
     "translations": {
       "es": "Me quedé en shock",
+      "fr": "J'étais sous le choc",
+      "it": "Sono rimasto sotto shock",
       "en": "I was in shock"
     },
     "difficulty": "Advanced"
@@ -283,6 +353,8 @@
     "phrase": "At first",
     "translations": {
       "es": "Al principio",
+      "fr": "Au début",
+      "it": "All'inizio",
       "en": "At first"
     },
     "difficulty": "Advanced"
@@ -291,6 +363,8 @@
     "phrase": "After a while",
     "translations": {
       "es": "Después de un rato",
+      "fr": "Au bout d'un moment",
+      "it": "Dopo un po'",
       "en": "After a while"
     },
     "difficulty": "Advanced"
@@ -299,6 +373,8 @@
     "phrase": "Over time",
     "translations": {
       "es": "Con el tiempo",
+      "fr": "Avec le temps",
+      "it": "Col tempo",
       "en": "Over time"
     },
     "difficulty": "Advanced"
@@ -307,6 +383,8 @@
     "phrase": "To this day",
     "translations": {
       "es": "A día de hoy",
+      "fr": "Encore aujourd'hui",
+      "it": "Ancora oggi",
       "en": "To this day"
     },
     "difficulty": "Advanced"
@@ -315,6 +393,8 @@
     "phrase": "That was the lesson",
     "translations": {
       "es": "Esa fue la lección",
+      "fr": "C'était la leçon",
+      "it": "Quella è stata la lezione",
       "en": "That was the lesson"
     },
     "difficulty": "Advanced"

@@ -3,7 +3,9 @@
     "phrase": "If I had time",
     "translations": {
       "es": "Si tuviera tiempo",
-      "en": "If I had time"
+      "en": "If I had time",
+      "fr": "Si j'avais le temps",
+      "it": "Se avessi tempo"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "If I could do it",
     "translations": {
       "es": "Si pudiera hacerlo",
-      "en": "If I could do it"
+      "en": "If I could do it",
+      "fr": "Si je pouvais le faire",
+      "it": "Se potessi farlo"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I would do it",
     "translations": {
       "es": "Lo haría",
-      "en": "I would do it"
+      "en": "I would do it",
+      "fr": "Je le ferais",
+      "it": "Lo farei"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "If it were possible",
     "translations": {
       "es": "Si fuera posible",
-      "en": "If it were possible"
+      "en": "If it were possible",
+      "fr": "Si c'était possible",
+      "it": "Se fosse possibile"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I could help you",
     "translations": {
       "es": "Podría ayudarte",
-      "en": "I could help you"
+      "en": "I could help you",
+      "fr": "Je pourrais t'aider",
+      "it": "Potrei aiutarti"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "It would be better",
     "translations": {
       "es": "Sería mejor",
-      "en": "It would be better"
+      "en": "It would be better",
+      "fr": "Ce serait mieux",
+      "it": "Sarebbe meglio"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "It would be different",
     "translations": {
       "es": "Sería diferente",
-      "en": "It would be different"
+      "en": "It would be different",
+      "fr": "Ce serait différent",
+      "it": "Sarebbe diverso"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "If you studied more",
     "translations": {
       "es": "Si estudiaras más",
-      "en": "If you studied more"
+      "en": "If you studied more",
+      "fr": "Si tu étudiais davantage",
+      "it": "Se studiassi di più"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "You would succeed",
     "translations": {
       "es": "Tendrías éxito",
-      "en": "You would succeed"
+      "en": "You would succeed",
+      "fr": "Tu réussirais",
+      "it": "Avresti successo"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "If I knew the answer",
     "translations": {
       "es": "Si supiera la respuesta",
-      "en": "If I knew the answer"
+      "en": "If I knew the answer",
+      "fr": "Si je connaissais la réponse",
+      "it": "Se conoscessi la risposta"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I would tell you",
     "translations": {
       "es": "Te lo diría",
-      "en": "I would tell you"
+      "en": "I would tell you",
+      "fr": "Je te le dirais",
+      "it": "Te lo direi"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "If I were you",
     "translations": {
       "es": "Si fuera tú",
-      "en": "If I were you"
+      "en": "If I were you",
+      "fr": "Si j'étais toi",
+      "it": "Se fossi in te"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I would try it",
     "translations": {
       "es": "Lo intentaría",
-      "en": "I would try it"
+      "en": "I would try it",
+      "fr": "J'essaierais",
+      "it": "Ci proverei"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "We could do it",
     "translations": {
       "es": "Podríamos hacerlo",
-      "en": "We could do it"
+      "en": "We could do it",
+      "fr": "Nous pourrions le faire",
+      "it": "Potremmo farlo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "If you came with me",
     "translations": {
       "es": "Si vinieras conmigo",
-      "en": "If you came with me"
+      "en": "If you came with me",
+      "fr": "Si tu venais avec moi",
+      "it": "Se venissi con me"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "It would be fun",
     "translations": {
       "es": "Sería divertido",
-      "en": "It would be fun"
+      "en": "It would be fun",
+      "fr": "Ce serait amusant",
+      "it": "Sarebbe divertente"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "If I had money",
     "translations": {
       "es": "Si tuviera dinero",
-      "en": "If I had money"
+      "en": "If I had money",
+      "fr": "Si j'avais de l'argent",
+      "it": "Se avessi soldi"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "I would travel more",
     "translations": {
       "es": "Viajaría más",
-      "en": "I would travel more"
+      "en": "I would travel more",
+      "fr": "Je voyagerais davantage",
+      "it": "Viaggerei di più"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "If it were easy",
     "translations": {
       "es": "Si fuera fácil",
-      "en": "If it were easy"
+      "en": "If it were easy",
+      "fr": "Si c'était facile",
+      "it": "Se fosse facile"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "Everyone would do it",
     "translations": {
       "es": "Todos lo harían",
-      "en": "Everyone would do it"
+      "en": "Everyone would do it",
+      "fr": "Tout le monde le ferait",
+      "it": "Tutti lo farebbero"
     },
     "difficulty": "Intermediate"
   }

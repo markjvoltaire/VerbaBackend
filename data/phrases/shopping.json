@@ -3,6 +3,8 @@
     "phrase": "I want to buy this",
     "translations": {
       "es": "Quiero comprar esto",
+      "fr": "Je veux acheter ça",
+      "it": "Voglio comprare questo",
       "en": "I want to buy this"
     },
     "difficulty": "Beginner"
@@ -11,6 +13,8 @@
     "phrase": "How much does it cost?",
     "translations": {
       "es": "¿Cuánto cuesta?",
+      "fr": "Combien ça coûte ?",
+      "it": "Quanto costa?",
       "en": "How much does it cost?"
     },
     "difficulty": "Beginner"
@@ -19,6 +23,8 @@
     "phrase": "It is very expensive",
     "translations": {
       "es": "Es muy caro",
+      "fr": "C'est très cher",
+      "it": "È molto caro",
       "en": "It is very expensive"
     },
     "difficulty": "Beginner"
@@ -27,6 +33,8 @@
     "phrase": "It is cheap",
     "translations": {
       "es": "Es barato",
+      "fr": "C'est bon marché",
+      "it": "È economico",
       "en": "It is cheap"
     },
     "difficulty": "Beginner"
@@ -35,6 +43,8 @@
     "phrase": "Do you have this?",
     "translations": {
       "es": "¿Tienes esto?",
+      "fr": "Vous avez ça ?",
+      "it": "Avete questo?",
       "en": "Do you have this?"
     },
     "difficulty": "Beginner"
@@ -43,6 +53,8 @@
     "phrase": "I don't have it",
     "translations": {
       "es": "No lo tengo",
+      "fr": "Je ne l'ai pas",
+      "it": "Non ce l'ho",
       "en": "I don't have it"
     },
     "difficulty": "Beginner"
@@ -51,6 +63,8 @@
     "phrase": "Is there a discount?",
     "translations": {
       "es": "¿Hay descuento?",
+      "fr": "Il y a une réduction ?",
+      "it": "C'è uno sconto?",
       "en": "Is there a discount?"
     },
     "difficulty": "Beginner"
@@ -59,6 +73,8 @@
     "phrase": "I buy it",
     "translations": {
       "es": "Lo compro",
+      "fr": "Je le prends",
+      "it": "Lo compro",
       "en": "I buy it"
     },
     "difficulty": "Beginner"
@@ -67,6 +83,8 @@
     "phrase": "I don't want it",
     "translations": {
       "es": "No lo quiero",
+      "fr": "Je n'en veux pas",
+      "it": "Non lo voglio",
       "en": "I don't want it"
     },
     "difficulty": "Beginner"
@@ -75,6 +93,8 @@
     "phrase": "I am just looking",
     "translations": {
       "es": "Estoy mirando",
+      "fr": "Je regarde juste",
+      "it": "Sto solo guardando",
       "en": "I am just looking"
     },
     "difficulty": "Beginner"
@@ -83,6 +103,8 @@
     "phrase": "Do you accept card?",
     "translations": {
       "es": "¿Aceptas tarjeta?",
+      "fr": "Vous acceptez la carte ?",
+      "it": "Accettate la carta?",
       "en": "Do you accept card?"
     },
     "difficulty": "Beginner"
@@ -91,6 +113,8 @@
     "phrase": "I pay cash",
     "translations": {
       "es": "Pago en efectivo",
+      "fr": "Je paie en espèces",
+      "it": "Pago in contanti",
       "en": "I pay cash"
     },
     "difficulty": "Beginner"
@@ -99,6 +123,8 @@
     "phrase": "I need help",
     "translations": {
       "es": "Necesito ayuda",
+      "fr": "J'ai besoin d'aide",
+      "it": "Ho bisogno di aiuto",
       "en": "I need help"
     },
     "difficulty": "Beginner"
@@ -107,6 +133,8 @@
     "phrase": "Where is the register?",
     "translations": {
       "es": "¿Dónde está la caja?",
+      "fr": "Où est la caisse ?",
+      "it": "Dov'è la cassa?",
       "en": "Where is the register?"
     },
     "difficulty": "Beginner"
@@ -115,6 +143,8 @@
     "phrase": "That's all",
     "translations": {
       "es": "Solo eso",
+      "fr": "C'est tout",
+      "it": "È tutto",
       "en": "That's all"
     },
     "difficulty": "Beginner"
@@ -123,6 +153,8 @@
     "phrase": "I want another one",
     "translations": {
       "es": "Quiero otro",
+      "fr": "J'en veux un autre",
+      "it": "Ne voglio un altro",
       "en": "I want another one"
     },
     "difficulty": "Beginner"
@@ -131,6 +163,8 @@
     "phrase": "Do you have another size?",
     "translations": {
       "es": "¿Tienes otro tamaño?",
+      "fr": "Vous avez une autre taille ?",
+      "it": "Avete un'altra taglia?",
       "en": "Do you have another size?"
     },
     "difficulty": "Beginner"
@@ -139,6 +173,8 @@
     "phrase": "Do you have another color?",
     "translations": {
       "es": "¿Tienes otro color?",
+      "fr": "Vous avez une autre couleur ?",
+      "it": "Avete un altro colore?",
       "en": "Do you have another color?"
     },
     "difficulty": "Beginner"
@@ -147,6 +183,8 @@
     "phrase": "It's fine",
     "translations": {
       "es": "Está bien",
+      "fr": "C'est bon",
+      "it": "Va bene",
       "en": "It's fine"
     },
     "difficulty": "Beginner"
@@ -155,6 +193,8 @@
     "phrase": "Thanks for your help",
     "translations": {
       "es": "Gracias por tu ayuda",
+      "fr": "Merci pour votre aide",
+      "it": "Grazie per il suo aiuto",
       "en": "Thanks for your help"
     },
     "difficulty": "Beginner"

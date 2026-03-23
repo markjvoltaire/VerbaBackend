@@ -3,6 +3,8 @@
     "phrase": "Yeah, right",
     "translations": {
       "es": "Claro, cómo no",
+      "fr": "Ouais, c'est ça",
+      "it": "Ma certo",
       "en": "Yeah, right"
     },
     "difficulty": "Advanced"
@@ -11,6 +13,8 @@
     "phrase": "Yeah, sure",
     "translations": {
       "es": "Sí, seguro",
+      "fr": "Ouais, bien sûr",
+      "it": "Sì, come no",
       "en": "Yeah, sure"
     },
     "difficulty": "Advanced"
@@ -19,6 +23,8 @@
     "phrase": "What a surprise (sarcastic)",
     "translations": {
       "es": "Qué sorpresa",
+      "fr": "Quelle surprise",
+      "it": "Che sorpresa",
       "en": "What a surprise (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -27,6 +33,8 @@
     "phrase": "No way (sarcastic)",
     "translations": {
       "es": "No me digas",
+      "fr": "Sans blague",
+      "it": "Ma va'",
       "en": "No way (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -35,6 +43,8 @@
     "phrase": "What a coincidence (sarcastic)",
     "translations": {
       "es": "Qué casualidad",
+      "fr": "Quelle coïncidence",
+      "it": "Che coincidenza",
       "en": "What a coincidence (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -43,6 +53,8 @@
     "phrase": "Just what I needed (sarcastic)",
     "translations": {
       "es": "Justo lo que necesitaba",
+      "fr": "Juste ce qu'il me fallait",
+      "it": "Proprio quello che mi serviva",
       "en": "Just what I needed (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -51,6 +63,8 @@
     "phrase": "Perfect (sarcastic or real)",
     "translations": {
       "es": "Perfecto",
+      "fr": "Parfait",
+      "it": "Perfetto",
       "en": "Perfect (sarcastic or real)"
     },
     "difficulty": "Advanced"
@@ -59,6 +73,8 @@
     "phrase": "How nice (tone-dependent)",
     "translations": {
       "es": "Qué bien",
+      "fr": "Comme c'est bien",
+      "it": "Che bello",
       "en": "How nice (tone-dependent)"
     },
     "difficulty": "Advanced"
@@ -67,6 +83,8 @@
     "phrase": "Wonderful (sarcastic)",
     "translations": {
       "es": "Qué maravilla",
+      "fr": "Merveilleux",
+      "it": "Meraviglioso",
       "en": "Wonderful (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -75,6 +93,8 @@
     "phrase": "I love it (can be sarcastic)",
     "translations": {
       "es": "Me encanta",
+      "fr": "J'adore",
+      "it": "Mi piace tantissimo",
       "en": "I love it (can be sarcastic)"
     },
     "difficulty": "Advanced"
@@ -83,6 +103,8 @@
     "phrase": "This is great (tone-based)",
     "translations": {
       "es": "Esto es genial",
+      "fr": "C'est génial",
+      "it": "Fantastico",
       "en": "This is great (tone-based)"
     },
     "difficulty": "Advanced"
@@ -91,6 +113,8 @@
     "phrase": "Great (often ironic)",
     "translations": {
       "es": "Buenísimo",
+      "fr": "Super",
+      "it": "Grandioso",
       "en": "Great (often ironic)"
     },
     "difficulty": "Advanced"
@@ -99,6 +123,8 @@
     "phrase": "Just what was missing (sarcastic)",
     "translations": {
       "es": "Lo que faltaba",
+      "fr": "Il ne manquait plus que ça",
+      "it": "Ci mancava solo questo",
       "en": "Just what was missing (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -107,6 +133,8 @@
     "phrase": "Very logical (sarcastic)",
     "translations": {
       "es": "Muy lógico",
+      "fr": "Très logique",
+      "it": "Molto logico",
       "en": "Very logical (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -115,6 +143,8 @@
     "phrase": "Makes sense… sure",
     "translations": {
       "es": "Tiene sentido… claro",
+      "fr": "Ça a du sens… bien sûr",
+      "it": "Ha senso… certo",
       "en": "Makes sense… sure"
     },
     "difficulty": "Advanced"
@@ -123,6 +153,8 @@
     "phrase": "You're so smart (sarcastic)",
     "translations": {
       "es": "Qué listo eres",
+      "fr": "T'es tellement intelligent",
+      "it": "Quanto sei furbo",
       "en": "You're so smart (sarcastic)"
     },
     "difficulty": "Advanced"
@@ -131,6 +163,8 @@
     "phrase": "Impressive (tone-based)",
     "translations": {
       "es": "Impresionante",
+      "fr": "Impressionnant",
+      "it": "Impressionante",
       "en": "Impressive (tone-based)"
     },
     "difficulty": "Advanced"
@@ -139,6 +173,8 @@
     "phrase": "Unbelievable (tone-based)",
     "translations": {
       "es": "Increíble",
+      "fr": "Incroyable",
+      "it": "Incredibile",
       "en": "Unbelievable (tone-based)"
     },
     "difficulty": "Advanced"
@@ -147,6 +183,8 @@
     "phrase": "Exactly / for real",
     "translations": {
       "es": "Tal cual",
+      "fr": "Exactement / carrément",
+      "it": "Esattamente / davvero",
       "en": "Exactly / for real"
     },
     "difficulty": "Advanced"
@@ -155,6 +193,8 @@
     "phrase": "Yeah, of course (sarcastic)",
     "translations": {
       "es": "Ya, claro",
+      "fr": "Ouais, bien sûr",
+      "it": "Sì, certo",
       "en": "Yeah, of course (sarcastic)"
     },
     "difficulty": "Advanced"

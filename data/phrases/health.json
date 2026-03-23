@@ -3,7 +3,9 @@
     "phrase": "I am sick",
     "translations": {
       "es": "Estoy enfermo",
-      "en": "I am sick"
+      "en": "I am sick",
+      "fr": "Je suis malade",
+      "it": "Sono malato"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "I am well",
     "translations": {
       "es": "Estoy bien",
-      "en": "I am well"
+      "en": "I am well",
+      "fr": "Je vais bien",
+      "it": "Sto bene"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "My head hurts",
     "translations": {
       "es": "Me duele la cabeza",
-      "en": "My head hurts"
+      "en": "My head hurts",
+      "fr": "J'ai mal à la tête",
+      "it": "Mi fa male la testa"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "My stomach hurts",
     "translations": {
       "es": "Me duele el estómago",
-      "en": "My stomach hurts"
+      "en": "My stomach hurts",
+      "fr": "J'ai mal au ventre",
+      "it": "Mi fa male lo stomaco"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I have a fever",
     "translations": {
       "es": "Tengo fiebre",
-      "en": "I have a fever"
+      "en": "I have a fever",
+      "fr": "J'ai de la fièvre",
+      "it": "Ho la febbre"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I have a cough",
     "translations": {
       "es": "Tengo tos",
-      "en": "I have a cough"
+      "en": "I have a cough",
+      "fr": "J'ai de la toux",
+      "it": "Ho la tosse"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "I need a doctor",
     "translations": {
       "es": "Necesito un médico",
-      "en": "I need a doctor"
+      "en": "I need a doctor",
+      "fr": "J'ai besoin d'un médecin",
+      "it": "Ho bisogno di un medico"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "I go to the hospital",
     "translations": {
       "es": "Voy al hospital",
-      "en": "I go to the hospital"
+      "en": "I go to the hospital",
+      "fr": "Je vais à l'hôpital",
+      "it": "Vado all'ospedale"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "I take medicine",
     "translations": {
       "es": "Tomo medicina",
-      "en": "I take medicine"
+      "en": "I take medicine",
+      "fr": "Je prends des médicaments",
+      "it": "Prendo le medicine"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "I feel better",
     "translations": {
       "es": "Me siento mejor",
-      "en": "I feel better"
+      "en": "I feel better",
+      "fr": "Je me sens mieux",
+      "it": "Mi sento meglio"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I feel bad",
     "translations": {
       "es": "Me siento mal",
-      "en": "I feel bad"
+      "en": "I feel bad",
+      "fr": "Je me sens mal",
+      "it": "Mi sento male"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "I am tired",
     "translations": {
       "es": "Estoy cansado",
-      "en": "I am tired"
+      "en": "I am tired",
+      "fr": "Je suis fatigué",
+      "it": "Sono stanco"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "I need to rest",
     "translations": {
       "es": "Necesito descansar",
-      "en": "I need to rest"
+      "en": "I need to rest",
+      "fr": "J'ai besoin de me reposer",
+      "it": "Ho bisogno di riposare"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "I am getting better",
     "translations": {
       "es": "Estoy mejorando",
-      "en": "I am getting better"
+      "en": "I am getting better",
+      "fr": "Je vais mieux",
+      "it": "Sto migliorando"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "I am not well",
     "translations": {
       "es": "No estoy bien",
-      "en": "I am not well"
+      "en": "I am not well",
+      "fr": "Je ne vais pas bien",
+      "it": "Non sto bene"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "It hurts here",
     "translations": {
       "es": "Me duele aquí",
-      "en": "It hurts here"
+      "en": "It hurts here",
+      "fr": "J'ai mal ici",
+      "it": "Mi fa male qui"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "Are you okay?",
     "translations": {
       "es": "¿Estás bien?",
-      "en": "Are you okay?"
+      "en": "Are you okay?",
+      "fr": "Tu vas bien ?",
+      "it": "Stai bene?"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "Take care",
     "translations": {
       "es": "Cuídate",
-      "en": "Take care"
+      "en": "Take care",
+      "fr": "Prends soin de toi",
+      "it": "Prenditi cura di te"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "Rest",
     "translations": {
       "es": "Descansa",
-      "en": "Rest"
+      "en": "Rest",
+      "fr": "Repose-toi",
+      "it": "Riposati"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "Drink water",
     "translations": {
       "es": "Bebe agua",
-      "en": "Drink water"
+      "en": "Drink water",
+      "fr": "Bois de l'eau",
+      "it": "Bevi acqua"
     },
     "difficulty": "Beginner"
   }

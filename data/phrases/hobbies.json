@@ -3,7 +3,9 @@
     "phrase": "I like to read",
     "translations": {
       "es": "Me gusta leer",
-      "en": "I like to read"
+      "en": "I like to read",
+      "fr": "J'aime lire",
+      "it": "Mi piace leggere"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "I like to write",
     "translations": {
       "es": "Me gusta escribir",
-      "en": "I like to write"
+      "en": "I like to write",
+      "fr": "J'aime écrire",
+      "it": "Mi piace scrivere"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "I like to listen to music",
     "translations": {
       "es": "Me gusta escuchar música",
-      "en": "I like to listen to music"
+      "en": "I like to listen to music",
+      "fr": "J'aime écouter de la musique",
+      "it": "Mi piace ascoltare la musica"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "I like to dance",
     "translations": {
       "es": "Me gusta bailar",
-      "en": "I like to dance"
+      "en": "I like to dance",
+      "fr": "J'aime danser",
+      "it": "Mi piace ballare"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I like to travel",
     "translations": {
       "es": "Me gusta viajar",
-      "en": "I like to travel"
+      "en": "I like to travel",
+      "fr": "J'aime voyager",
+      "it": "Mi piace viaggiare"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I like to cook",
     "translations": {
       "es": "Me gusta cocinar",
-      "en": "I like to cook"
+      "en": "I like to cook",
+      "fr": "J'aime cuisiner",
+      "it": "Mi piace cucinare"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "I like to run",
     "translations": {
       "es": "Me gusta correr",
-      "en": "I like to run"
+      "en": "I like to run",
+      "fr": "J'aime courir",
+      "it": "Mi piace correre"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "I like to swim",
     "translations": {
       "es": "Me gusta nadar",
-      "en": "I like to swim"
+      "en": "I like to swim",
+      "fr": "J'aime nager",
+      "it": "Mi piace nuotare"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "I play soccer",
     "translations": {
       "es": "Juego fútbol",
-      "en": "I play soccer"
+      "en": "I play soccer",
+      "fr": "Je joue au football",
+      "it": "Gioco a calcio"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "I play video games",
     "translations": {
       "es": "Juego videojuegos",
-      "en": "I play video games"
+      "en": "I play video games",
+      "fr": "Je joue aux jeux vidéo",
+      "it": "Gioco ai videogiochi"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I watch movies",
     "translations": {
       "es": "Veo películas",
-      "en": "I watch movies"
+      "en": "I watch movies",
+      "fr": "Je regarde des films",
+      "it": "Guardo dei film"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "I watch TV",
     "translations": {
       "es": "Veo televisión",
-      "en": "I watch TV"
+      "en": "I watch TV",
+      "fr": "Je regarde la télé",
+      "it": "Guardo la TV"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "I go out with friends",
     "translations": {
       "es": "Salgo con amigos",
-      "en": "I go out with friends"
+      "en": "I go out with friends",
+      "fr": "Je sors avec des amis",
+      "it": "Esco con gli amici"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "I spend time alone",
     "translations": {
       "es": "Paso tiempo solo",
-      "en": "I spend time alone"
+      "en": "I spend time alone",
+      "fr": "Je passe du temps seul",
+      "it": "Passo del tempo da solo"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "I like learning languages",
     "translations": {
       "es": "Me gusta aprender idiomas",
-      "en": "I like learning languages"
+      "en": "I like learning languages",
+      "fr": "J'aime apprendre des langues",
+      "it": "Mi piace imparare le lingue"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "I don't have much time",
     "translations": {
       "es": "No tengo mucho tiempo",
-      "en": "I don't have much time"
+      "en": "I don't have much time",
+      "fr": "Je n'ai pas beaucoup de temps",
+      "it": "Non ho molto tempo"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I do it every day",
     "translations": {
       "es": "Lo hago todos los días",
-      "en": "I do it every day"
+      "en": "I do it every day",
+      "fr": "Je le fais tous les jours",
+      "it": "Lo faccio tutti i giorni"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "I do it on weekends",
     "translations": {
       "es": "Lo hago los fines de semana",
-      "en": "I do it on weekends"
+      "en": "I do it on weekends",
+      "fr": "Je le fais le week-end",
+      "it": "Lo faccio nel fine settimana"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is fun",
     "translations": {
       "es": "Es divertido",
-      "en": "It is fun"
+      "en": "It is fun",
+      "fr": "C'est amusant",
+      "it": "È divertente"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "It is boring",
     "translations": {
       "es": "Es aburrido",
-      "en": "It is boring"
+      "en": "It is boring",
+      "fr": "C'est ennuyeux",
+      "it": "È noioso"
     },
     "difficulty": "Beginner"
   }

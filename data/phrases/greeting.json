@@ -3,7 +3,9 @@
     "phrase": "Hello",
     "translations": {
       "es": "Hola",
-      "en": "Hello"
+      "en": "Hello",
+      "fr": "Bonjour",
+      "it": "Ciao"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "Good morning",
     "translations": {
       "es": "Buenos días",
-      "en": "Good morning"
+      "en": "Good morning",
+      "fr": "Bonjour",
+      "it": "Buongiorno"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "Good afternoon",
     "translations": {
       "es": "Buenas tardes",
-      "en": "Good afternoon"
+      "en": "Good afternoon",
+      "fr": "Bon après-midi",
+      "it": "Buon pomeriggio"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "Good evening",
     "translations": {
       "es": "Buenas noches",
-      "en": "Good evening"
+      "en": "Good evening",
+      "fr": "Bonsoir",
+      "it": "Buonasera"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "How are you?",
     "translations": {
       "es": "¿Cómo estás?",
-      "en": "How are you?"
+      "en": "How are you?",
+      "fr": "Comment vas-tu ?",
+      "it": "Come stai?"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "How are you? (formal)",
     "translations": {
       "es": "¿Cómo está usted?",
-      "en": "How are you? (formal)"
+      "en": "How are you? (formal)",
+      "fr": "Comment allez-vous ?",
+      "it": "Come sta?"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "How's it going?",
     "translations": {
       "es": "¿Qué tal?",
-      "en": "How's it going?"
+      "en": "How's it going?",
+      "fr": "Comment ça va ?",
+      "it": "Come va?"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "Nice to meet you",
     "translations": {
       "es": "Mucho gusto",
-      "en": "Nice to meet you"
+      "en": "Nice to meet you",
+      "fr": "Enchanté",
+      "it": "Piacere di conoscerti"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "Nice to meet you",
     "translations": {
       "es": "Encantado de conocerte",
-      "en": "Nice to meet you"
+      "en": "Nice to meet you",
+      "fr": "Ravi de te rencontrer",
+      "it": "Lieto di conoscerti"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "Everything good?",
     "translations": {
       "es": "¿Todo bien?",
-      "en": "Everything good?"
+      "en": "Everything good?",
+      "fr": "Tout va bien ?",
+      "it": "Tutto bene?"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "What's up?",
     "translations": {
       "es": "¿Qué pasa?",
-      "en": "What's up?"
+      "en": "What's up?",
+      "fr": "Quoi de neuf ?",
+      "it": "Che succede?"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "Welcome",
     "translations": {
       "es": "¡Bienvenido!",
-      "en": "Welcome"
+      "en": "Welcome",
+      "fr": "Bienvenue !",
+      "it": "Benvenuto!"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "Hi, how are things going?",
     "translations": {
       "es": "Hola, ¿cómo te va?",
-      "en": "Hi, how are things going?"
+      "en": "Hi, how are things going?",
+      "fr": "Salut, comment ça se passe ?",
+      "it": "Ciao, come vanno le cose?"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "I'm glad to see you",
     "translations": {
       "es": "Me alegra verte",
-      "en": "I'm glad to see you"
+      "en": "I'm glad to see you",
+      "fr": "Je suis content de te voir",
+      "it": "Sono contento di vederti"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "Long time no see",
     "translations": {
       "es": "Hace tiempo que no te veo",
-      "en": "Long time no see"
+      "en": "Long time no see",
+      "fr": "Ça fait longtemps qu'on ne s'est pas vus",
+      "it": "È da tanto che non ci vediamo"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "How is your day going?",
     "translations": {
       "es": "¿Cómo va tu día?",
-      "en": "How is your day going?"
+      "en": "How is your day going?",
+      "fr": "Comment se passe ta journée ?",
+      "it": "Come sta andando la tua giornata?"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "Pleased to meet you",
     "translations": {
       "es": "Encantado",
-      "en": "Pleased to meet you"
+      "en": "Pleased to meet you",
+      "fr": "Enchanté",
+      "it": "Piacere"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "Hello friend",
     "translations": {
       "es": "Hola amigo",
-      "en": "Hello friend"
+      "en": "Hello friend",
+      "fr": "Salut mon ami",
+      "it": "Ciao amico"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "Hello everyone",
     "translations": {
       "es": "Hola a todos",
-      "en": "Hello everyone"
+      "en": "Hello everyone",
+      "fr": "Bonjour à tous",
+      "it": "Ciao a tutti"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "Hi / Hello (casual)",
     "translations": {
       "es": "Buenas",
-      "en": "Hi / Hello (casual)"
+      "en": "Hi / Hello (casual)",
+      "fr": "Salut",
+      "it": "Ciao"
     },
     "difficulty": "Beginner"
   }

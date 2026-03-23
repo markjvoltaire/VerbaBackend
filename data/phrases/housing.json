@@ -3,7 +3,9 @@
     "phrase": "I am looking for an apartment",
     "translations": {
       "es": "Busco un apartamento",
-      "en": "I am looking for an apartment"
+      "en": "I am looking for an apartment",
+      "fr": "Je cherche un appartement",
+      "it": "Sto cercando un appartamento"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "How much is the rent?",
     "translations": {
       "es": "¿Cuánto cuesta el alquiler?",
-      "en": "How much is the rent?"
+      "en": "How much is the rent?",
+      "fr": "Combien coûte le loyer ?",
+      "it": "Quanto costa l'affitto?"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "The rent is expensive",
     "translations": {
       "es": "El alquiler es caro",
-      "en": "The rent is expensive"
+      "en": "The rent is expensive",
+      "fr": "Le loyer est cher",
+      "it": "L'affitto è caro"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "The rent is cheap",
     "translations": {
       "es": "El alquiler es barato",
-      "en": "The rent is cheap"
+      "en": "The rent is cheap",
+      "fr": "Le loyer est bon marché",
+      "it": "L'affitto è economico"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I want to rent this place",
     "translations": {
       "es": "Quiero alquilar este lugar",
-      "en": "I want to rent this place"
+      "en": "I want to rent this place",
+      "fr": "Je veux louer cet endroit",
+      "it": "Voglio affittare questo posto"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "Is it available?",
     "translations": {
       "es": "¿Está disponible?",
-      "en": "Is it available?"
+      "en": "Is it available?",
+      "fr": "C'est disponible ?",
+      "it": "È disponibile?"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "How many rooms does it have?",
     "translations": {
       "es": "¿Cuántas habitaciones tiene?",
-      "en": "How many rooms does it have?"
+      "en": "How many rooms does it have?",
+      "fr": "Combien de pièces y a-t-il ?",
+      "it": "Quante stanze ha?"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "It has two rooms",
     "translations": {
       "es": "Tiene dos habitaciones",
-      "en": "It has two rooms"
+      "en": "It has two rooms",
+      "fr": "Il a deux pièces",
+      "it": "Ha due stanze"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "It has one bathroom",
     "translations": {
       "es": "Tiene un baño",
-      "en": "It has one bathroom"
+      "en": "It has one bathroom",
+      "fr": "Il a une salle de bain",
+      "it": "Ha un bagno"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "It is well located",
     "translations": {
       "es": "Está bien ubicado",
-      "en": "It is well located"
+      "en": "It is well located",
+      "fr": "C'est bien situé",
+      "it": "È ben posizionato"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "It is far",
     "translations": {
       "es": "Está lejos",
-      "en": "It is far"
+      "en": "It is far",
+      "fr": "C'est loin",
+      "it": "È lontano"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "It is close",
     "translations": {
       "es": "Está cerca",
-      "en": "It is close"
+      "en": "It is close",
+      "fr": "C'est près",
+      "it": "È vicino"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I need something bigger",
     "translations": {
       "es": "Necesito algo más grande",
-      "en": "I need something bigger"
+      "en": "I need something bigger",
+      "fr": "J'ai besoin de quelque chose de plus grand",
+      "it": "Ho bisogno di qualcosa di più grande"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I need something smaller",
     "translations": {
       "es": "Necesito algo más pequeño",
-      "en": "I need something smaller"
+      "en": "I need something smaller",
+      "fr": "J'ai besoin de quelque chose de plus petit",
+      "it": "Ho bisogno di qualcosa di più piccolo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "Does it include utilities?",
     "translations": {
       "es": "¿Incluye servicios?",
-      "en": "Does it include utilities?"
+      "en": "Does it include utilities?",
+      "fr": "Les charges sont-elles incluses ?",
+      "it": "Le spese sono incluse?"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "Are pets allowed?",
     "translations": {
       "es": "¿Se permite mascotas?",
-      "en": "Are pets allowed?"
+      "en": "Are pets allowed?",
+      "fr": "Les animaux sont-ils acceptés ?",
+      "it": "Sono ammessi gli animali domestici?"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "I want to see the place",
     "translations": {
       "es": "Quiero ver el lugar",
-      "en": "I want to see the place"
+      "en": "I want to see the place",
+      "fr": "Je veux voir l'endroit",
+      "it": "Voglio vedere il posto"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "I like this apartment",
     "translations": {
       "es": "Me gusta este apartamento",
-      "en": "I like this apartment"
+      "en": "I like this apartment",
+      "fr": "Cet appartement me plaît",
+      "it": "Mi piace questo appartamento"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "I don't like it",
     "translations": {
       "es": "No me gusta",
-      "en": "I don't like it"
+      "en": "I don't like it",
+      "fr": "Ça ne me plaît pas",
+      "it": "Non mi piace"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I am going to think about it",
     "translations": {
       "es": "Voy a pensarlo",
-      "en": "I am going to think about it"
+      "en": "I am going to think about it",
+      "fr": "Je vais y réfléchir",
+      "it": "Ci penserò"
     },
     "difficulty": "Intermediate"
   }

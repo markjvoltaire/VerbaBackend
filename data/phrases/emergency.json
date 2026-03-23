@@ -3,7 +3,9 @@
     "phrase": "I need urgent help",
     "translations": {
       "es": "Necesito ayuda urgente",
-      "en": "I need urgent help"
+      "en": "I need urgent help",
+      "fr": "J'ai besoin d'aide urgente",
+      "it": "Ho bisogno di aiuto urgente"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "Call the police",
     "translations": {
       "es": "Llama a la policía",
-      "en": "Call the police"
+      "en": "Call the police",
+      "fr": "Appelez la police",
+      "it": "Chiamate la polizia"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "Call an ambulance",
     "translations": {
       "es": "Llama a una ambulancia",
-      "en": "Call an ambulance"
+      "en": "Call an ambulance",
+      "fr": "Appelez une ambulance",
+      "it": "Chiamate un'ambulanza"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "There is an emergency",
     "translations": {
       "es": "Hay una emergencia",
-      "en": "There is an emergency"
+      "en": "There is an emergency",
+      "fr": "Il y a une urgence",
+      "it": "C'è un'emergenza"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I am injured",
     "translations": {
       "es": "Estoy herido",
-      "en": "I am injured"
+      "en": "I am injured",
+      "fr": "Je suis blessé",
+      "it": "Sono ferito"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I need a doctor",
     "translations": {
       "es": "Necesito un médico",
-      "en": "I need a doctor"
+      "en": "I need a doctor",
+      "fr": "J'ai besoin d'un médecin",
+      "it": "Ho bisogno di un medico"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "Where is the hospital?",
     "translations": {
       "es": "¿Dónde está el hospital?",
-      "en": "Where is the hospital?"
+      "en": "Where is the hospital?",
+      "fr": "Où est l'hôpital ?",
+      "it": "Dov'è l'ospedale?"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "It hurts a lot",
     "translations": {
       "es": "Me duele mucho",
-      "en": "It hurts a lot"
+      "en": "It hurts a lot",
+      "fr": "J'ai très mal",
+      "it": "Mi fa molto male"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "I can't breathe",
     "translations": {
       "es": "No puedo respirar",
-      "en": "I can't breathe"
+      "en": "I can't breathe",
+      "fr": "Je ne peux pas respirer",
+      "it": "Non riesco a respirare"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I lost my passport",
     "translations": {
       "es": "Perdí mi pasaporte",
-      "en": "I lost my passport"
+      "en": "I lost my passport",
+      "fr": "J'ai perdu mon passeport",
+      "it": "Ho perso il passaporto"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I was robbed",
     "translations": {
       "es": "Me robaron",
-      "en": "I was robbed"
+      "en": "I was robbed",
+      "fr": "J'ai été volé",
+      "it": "Sono stato derubato"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I need help now",
     "translations": {
       "es": "Necesito ayuda ahora",
-      "en": "I need help now"
+      "en": "I need help now",
+      "fr": "J'ai besoin d'aide maintenant",
+      "it": "Ho bisogno di aiuto adesso"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "It is very serious",
     "translations": {
       "es": "Es muy grave",
-      "en": "It is very serious"
+      "en": "It is very serious",
+      "fr": "C'est très grave",
+      "it": "È molto grave"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I am lost",
     "translations": {
       "es": "Estoy perdido",
-      "en": "I am lost"
+      "en": "I am lost",
+      "fr": "Je suis perdu",
+      "it": "Mi sono perso"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "Can you help me?",
     "translations": {
       "es": "¿Puedes ayudarme?",
-      "en": "Can you help me?"
+      "en": "Can you help me?",
+      "fr": "Pouvez-vous m'aider ?",
+      "it": "Può aiutarmi?"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I need to get out of here",
     "translations": {
       "es": "Necesito salir de aquí",
-      "en": "I need to get out of here"
+      "en": "I need to get out of here",
+      "fr": "J'ai besoin de sortir d'ici",
+      "it": "Ho bisogno di uscire di qui"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is dangerous",
     "translations": {
       "es": "Es peligroso",
-      "en": "It is dangerous"
+      "en": "It is dangerous",
+      "fr": "C'est dangereux",
+      "it": "È pericoloso"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "Stay calm",
     "translations": {
       "es": "Mantén la calma",
-      "en": "Stay calm"
+      "en": "Stay calm",
+      "fr": "Restez calme",
+      "it": "Stia calmo"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "Everything will be okay",
     "translations": {
       "es": "Todo estará bien",
-      "en": "Everything will be okay"
+      "en": "Everything will be okay",
+      "fr": "Tout ira bien",
+      "it": "Andrà tutto bene"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I am in danger",
     "translations": {
       "es": "Estoy en peligro",
-      "en": "I am in danger"
+      "en": "I am in danger",
+      "fr": "Je suis en danger",
+      "it": "Sono in pericolo"
     },
     "difficulty": "Intermediate"
   }

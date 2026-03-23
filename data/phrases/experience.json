@@ -3,7 +3,9 @@
     "phrase": "I have traveled to many countries",
     "translations": {
       "es": "He viajado a muchos países",
-      "en": "I have traveled to many countries"
+      "en": "I have traveled to many countries",
+      "fr": "J'ai voyagé dans beaucoup de pays",
+      "it": "Ho viaggiato in molti paesi"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I have tried new food",
     "translations": {
       "es": "He probado comida nueva",
-      "en": "I have tried new food"
+      "en": "I have tried new food",
+      "fr": "J'ai goûté de nouveaux plats",
+      "it": "Ho provato cibi nuovi"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I have lived here for years",
     "translations": {
       "es": "He vivido aquí por años",
-      "en": "I have lived here for years"
+      "en": "I have lived here for years",
+      "fr": "J'habite ici depuis des années",
+      "it": "Vivo qui da anni"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "I have never been there",
     "translations": {
       "es": "Nunca he ido allí",
-      "en": "I have never been there"
+      "en": "I have never been there",
+      "fr": "Je n'y suis jamais allé",
+      "it": "Non ci sono mai stato"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I have already seen that movie",
     "translations": {
       "es": "Ya he visto esa película",
-      "en": "I have already seen that movie"
+      "en": "I have already seen that movie",
+      "fr": "J'ai déjà vu ce film",
+      "it": "Ho già visto quel film"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I haven't eaten yet",
     "translations": {
       "es": "Todavía no he comido",
-      "en": "I haven't eaten yet"
+      "en": "I haven't eaten yet",
+      "fr": "Je n'ai pas encore mangé",
+      "it": "Non ho ancora mangiato"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "I have learned a lot",
     "translations": {
       "es": "He aprendido mucho",
-      "en": "I have learned a lot"
+      "en": "I have learned a lot",
+      "fr": "J'ai beaucoup appris",
+      "it": "Ho imparato molto"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "I have worked in different places",
     "translations": {
       "es": "He trabajado en diferentes lugares",
-      "en": "I have worked in different places"
+      "en": "I have worked in different places",
+      "fr": "J'ai travaillé dans différents endroits",
+      "it": "Ho lavorato in posti diversi"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "I have met many people",
     "translations": {
       "es": "He conocido a muchas personas",
-      "en": "I have met many people"
+      "en": "I have met many people",
+      "fr": "J'ai rencontré beaucoup de gens",
+      "it": "Ho conosciuto molte persone"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I have had good experiences",
     "translations": {
       "es": "He tenido buenas experiencias",
-      "en": "I have had good experiences"
+      "en": "I have had good experiences",
+      "fr": "J'ai eu de bonnes expériences",
+      "it": "Ho avuto buone esperienze"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I have had bad experiences",
     "translations": {
       "es": "He tenido malas experiencias",
-      "en": "I have had bad experiences"
+      "en": "I have had bad experiences",
+      "fr": "J'ai eu de mauvaises expériences",
+      "it": "Ho avuto brutte esperienze"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I have tried to learn Spanish",
     "translations": {
       "es": "He intentado aprender español",
-      "en": "I have tried to learn Spanish"
+      "en": "I have tried to learn Spanish",
+      "fr": "J'ai essayé d'apprendre l'espagnol",
+      "it": "Ho provato a imparare lo spagnolo"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I have visited that city",
     "translations": {
       "es": "He visitado esa ciudad",
-      "en": "I have visited that city"
+      "en": "I have visited that city",
+      "fr": "J'ai visité cette ville",
+      "it": "Ho visitato quella città"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I have changed a lot",
     "translations": {
       "es": "He cambiado mucho",
-      "en": "I have changed a lot"
+      "en": "I have changed a lot",
+      "fr": "J'ai beaucoup changé",
+      "it": "Sono cambiato molto"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "I have improved my Spanish",
     "translations": {
       "es": "He mejorado mi español",
-      "en": "I have improved my Spanish"
+      "en": "I have improved my Spanish",
+      "fr": "J'ai amélioré mon espagnol",
+      "it": "Ho migliorato il mio spagnolo"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I have seen incredible things",
     "translations": {
       "es": "He visto cosas increíbles",
-      "en": "I have seen incredible things"
+      "en": "I have seen incredible things",
+      "fr": "J'ai vu des choses incroyables",
+      "it": "Ho visto cose incredibili"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "I have made mistakes",
     "translations": {
       "es": "He cometido errores",
-      "en": "I have made mistakes"
+      "en": "I have made mistakes",
+      "fr": "J'ai fait des erreurs",
+      "it": "Ho fatto degli errori"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "I have learned from my mistakes",
     "translations": {
       "es": "He aprendido de mis errores",
-      "en": "I have learned from my mistakes"
+      "en": "I have learned from my mistakes",
+      "fr": "J'ai appris de mes erreurs",
+      "it": "Ho imparato dai miei errori"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "I have had good times",
     "translations": {
       "es": "He pasado buenos momentos",
-      "en": "I have had good times"
+      "en": "I have had good times",
+      "fr": "J'ai passé de bons moments",
+      "it": "Ho passato dei bei momenti"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I have made new friends",
     "translations": {
       "es": "He hecho nuevos amigos",
-      "en": "I have made new friends"
+      "en": "I have made new friends",
+      "fr": "Je me suis fait de nouveaux amis",
+      "it": "Ho fatto nuovi amici"
     },
     "difficulty": "Intermediate"
   }

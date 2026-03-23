@@ -3,7 +3,9 @@
     "phrase": "Para qué (why / what for)",
     "translations": {
       "es": "Pa' qué",
-      "en": "Para qué (why / what for)"
+      "en": "Para qué (why / what for)",
+      "fr": "Pourquoi / pour quoi faire",
+      "it": "Perché / a che scopo"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "Para allá (over there)",
     "translations": {
       "es": "Pa' allá",
-      "en": "Para allá (over there)"
+      "en": "Para allá (over there)",
+      "fr": "Par là-bas",
+      "it": "Da quella parte"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "Todo bien (all good)",
     "translations": {
       "es": "To' bien",
-      "en": "Todo bien (all good)"
+      "en": "Todo bien (all good)",
+      "fr": "Tout va bien",
+      "it": "Tutto bene"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "Nada que ver (not related at all)",
     "translations": {
       "es": "Na' que ver",
-      "en": "Nada que ver (not related at all)"
+      "en": "Nada que ver (not related at all)",
+      "fr": "Rien à voir",
+      "it": "Non c'entra niente"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "What's up?",
     "translations": {
       "es": "¿Qué más?",
-      "en": "What's up?"
+      "en": "What's up?",
+      "fr": "Quoi de neuf ?",
+      "it": "Come va?"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "Tell me / let's see",
     "translations": {
       "es": "Dime a ver",
-      "en": "Tell me / let's see"
+      "en": "Tell me / let's see",
+      "fr": "Dis-moi / voyons voir",
+      "it": "Dimmi / vediamo"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "I mean",
     "translations": {
       "es": "O sea",
-      "en": "I mean"
+      "en": "I mean",
+      "fr": "C'est-à-dire / enfin",
+      "it": "Cioè"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "Like / kind of",
     "translations": {
       "es": "En plan",
-      "en": "Like / kind of"
+      "en": "Like / kind of",
+      "fr": "Genre / en quelque sorte",
+      "it": "Tipo / in un certo senso"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "You know?",
     "translations": {
       "es": "¿Sabes?",
-      "en": "You know?"
+      "en": "You know?",
+      "fr": "Tu sais ?",
+      "it": "Sai?"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "It's just that",
     "translations": {
       "es": "Es que",
-      "en": "It's just that"
+      "en": "It's just that",
+      "fr": "C'est que",
+      "it": "È che"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "Well / so",
     "translations": {
       "es": "Pues",
-      "en": "Well / so"
+      "en": "Well / so",
+      "fr": "Eh bien / alors",
+      "it": "Beh / allora"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "Alright then",
     "translations": {
       "es": "Vale, pues",
-      "en": "Alright then"
+      "en": "Alright then",
+      "fr": "D'accord alors",
+      "it": "Va bene allora"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "Let's see",
     "translations": {
       "es": "A ver",
-      "en": "Let's see"
+      "en": "Let's see",
+      "fr": "Voyons voir",
+      "it": "Vediamo"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "Do you understand me?",
     "translations": {
       "es": "¿Me entiendes?",
-      "en": "Do you understand me?"
+      "en": "Do you understand me?",
+      "fr": "Tu me comprends ?",
+      "it": "Mi capisci?"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "Right or what?",
     "translations": {
       "es": "¿Sí o qué?",
-      "en": "Right or what?"
+      "en": "Right or what?",
+      "fr": "Oui ou quoi ?",
+      "it": "Sì o no?"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "That's it",
     "translations": {
       "es": "Ya está",
-      "en": "That's it"
+      "en": "That's it",
+      "fr": "C'est tout / voilà",
+      "it": "Ecco fatto"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "It's over / forget it",
     "translations": {
       "es": "Ya fue",
-      "en": "It's over / forget it"
+      "en": "It's over / forget it",
+      "fr": "C'est fini / laisse tomber",
+      "it": "È finita / lascia perdere"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "Right away",
     "translations": {
       "es": "De una",
-      "en": "Right away"
+      "en": "Right away",
+      "fr": "Tout de suite",
+      "it": "Subito"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "Alright then / go ahead",
     "translations": {
       "es": "Dale pues",
-      "en": "Alright then / go ahead"
+      "en": "Alright then / go ahead",
+      "fr": "Allez, vas-y",
+      "it": "Dai, vai pure"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "Done / ready",
     "translations": {
       "es": "Listo",
-      "en": "Done / ready"
+      "en": "Done / ready",
+      "fr": "C'est fait / prêt",
+      "it": "Fatto / pronto"
     },
     "difficulty": "Advanced"
   }

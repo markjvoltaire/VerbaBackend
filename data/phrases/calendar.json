@@ -3,7 +3,9 @@
     "phrase": "Monday",
     "translations": {
       "es": "lunes",
-      "en": "Monday"
+      "en": "Monday",
+      "fr": "lundi",
+      "it": "lunedì"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "Tuesday",
     "translations": {
       "es": "martes",
-      "en": "Tuesday"
+      "en": "Tuesday",
+      "fr": "mardi",
+      "it": "martedì"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "Wednesday",
     "translations": {
       "es": "miércoles",
-      "en": "Wednesday"
+      "en": "Wednesday",
+      "fr": "mercredi",
+      "it": "mercoledì"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "Thursday",
     "translations": {
       "es": "jueves",
-      "en": "Thursday"
+      "en": "Thursday",
+      "fr": "jeudi",
+      "it": "giovedì"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "Friday",
     "translations": {
       "es": "viernes",
-      "en": "Friday"
+      "en": "Friday",
+      "fr": "vendredi",
+      "it": "venerdì"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "Saturday",
     "translations": {
       "es": "sábado",
-      "en": "Saturday"
+      "en": "Saturday",
+      "fr": "samedi",
+      "it": "sabato"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "Sunday",
     "translations": {
       "es": "domingo",
-      "en": "Sunday"
+      "en": "Sunday",
+      "fr": "dimanche",
+      "it": "domenica"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "Today is Monday",
     "translations": {
       "es": "Hoy es lunes",
-      "en": "Today is Monday"
+      "en": "Today is Monday",
+      "fr": "Aujourd'hui, c'est lundi",
+      "it": "Oggi è lunedì"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "Tomorrow is Tuesday",
     "translations": {
       "es": "Mañana es martes",
-      "en": "Tomorrow is Tuesday"
+      "en": "Tomorrow is Tuesday",
+      "fr": "Demain, c'est mardi",
+      "it": "Domani è martedì"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "Yesterday was Sunday",
     "translations": {
       "es": "Ayer fue domingo",
-      "en": "Yesterday was Sunday"
+      "en": "Yesterday was Sunday",
+      "fr": "Hier, c'était dimanche",
+      "it": "Ieri era domenica"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "See you on Monday",
     "translations": {
       "es": "Nos vemos el lunes",
-      "en": "See you on Monday"
+      "en": "See you on Monday",
+      "fr": "À lundi",
+      "it": "Ci vediamo lunedì"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "I work from Monday to Friday",
     "translations": {
       "es": "Trabajo de lunes a viernes",
-      "en": "I work from Monday to Friday"
+      "en": "I work from Monday to Friday",
+      "fr": "Je travaille du lundi au vendredi",
+      "it": "Lavoro da lunedì a venerdì"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "On Saturday I go out with friends",
     "translations": {
       "es": "El sábado salgo con amigos",
-      "en": "On Saturday I go out with friends"
+      "en": "On Saturday I go out with friends",
+      "fr": "Le samedi, je sors avec des amis",
+      "it": "Il sabato esco con gli amici"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "On Sunday I rest",
     "translations": {
       "es": "El domingo descanso",
-      "en": "On Sunday I rest"
+      "en": "On Sunday I rest",
+      "fr": "Le dimanche, je me repose",
+      "it": "La domenica mi riposo"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "What day is today?",
     "translations": {
       "es": "¿Qué día es hoy?",
-      "en": "What day is today?"
+      "en": "What day is today?",
+      "fr": "Quel jour sommes-nous aujourd'hui ?",
+      "it": "Che giorno è oggi?"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "Today is Friday",
     "translations": {
       "es": "Hoy es viernes",
-      "en": "Today is Friday"
+      "en": "Today is Friday",
+      "fr": "Aujourd'hui, c'est vendredi",
+      "it": "Oggi è venerdì"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I have a meeting on Monday",
     "translations": {
       "es": "El lunes tengo una reunión",
-      "en": "I have a meeting on Monday"
+      "en": "I have a meeting on Monday",
+      "fr": "J'ai une réunion lundi",
+      "it": "Ho una riunione lunedì"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "See you Wednesday",
     "translations": {
       "es": "Nos vemos el miércoles",
-      "en": "See you Wednesday"
+      "en": "See you Wednesday",
+      "fr": "À mercredi",
+      "it": "Ci vediamo mercoledì"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "We go out Friday",
     "translations": {
       "es": "El viernes salimos",
-      "en": "We go out Friday"
+      "en": "We go out Friday",
+      "fr": "Usciamo venerdì",
+      "it": "Venerdì usciamo"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "I rest on the weekend",
     "translations": {
       "es": "El fin de semana descanso",
-      "en": "I rest on the weekend"
+      "en": "I rest on the weekend",
+      "fr": "Je me repose le week-end",
+      "it": "Nel fine settimana mi riposo"
     },
     "difficulty": "Beginner"
   },
@@ -163,7 +203,9 @@
     "phrase": "January",
     "translations": {
       "es": "enero",
-      "en": "January"
+      "en": "January",
+      "fr": "janvier",
+      "it": "gennaio"
     },
     "difficulty": "Beginner"
   },
@@ -171,7 +213,9 @@
     "phrase": "February",
     "translations": {
       "es": "febrero",
-      "en": "February"
+      "en": "February",
+      "fr": "février",
+      "it": "febbraio"
     },
     "difficulty": "Beginner"
   },
@@ -179,7 +223,9 @@
     "phrase": "March",
     "translations": {
       "es": "marzo",
-      "en": "March"
+      "en": "March",
+      "fr": "mars",
+      "it": "marzo"
     },
     "difficulty": "Beginner"
   },
@@ -187,7 +233,9 @@
     "phrase": "April",
     "translations": {
       "es": "abril",
-      "en": "April"
+      "en": "April",
+      "fr": "avril",
+      "it": "aprile"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +243,9 @@
     "phrase": "May",
     "translations": {
       "es": "mayo",
-      "en": "May"
+      "en": "May",
+      "fr": "mai",
+      "it": "maggio"
     },
     "difficulty": "Beginner"
   },
@@ -203,7 +253,9 @@
     "phrase": "June",
     "translations": {
       "es": "junio",
-      "en": "June"
+      "en": "June",
+      "fr": "juin",
+      "it": "giugno"
     },
     "difficulty": "Beginner"
   },
@@ -211,7 +263,9 @@
     "phrase": "July",
     "translations": {
       "es": "julio",
-      "en": "July"
+      "en": "July",
+      "fr": "juillet",
+      "it": "luglio"
     },
     "difficulty": "Beginner"
   },
@@ -219,7 +273,9 @@
     "phrase": "August",
     "translations": {
       "es": "agosto",
-      "en": "August"
+      "en": "August",
+      "fr": "août",
+      "it": "agosto"
     },
     "difficulty": "Beginner"
   },
@@ -227,7 +283,9 @@
     "phrase": "September",
     "translations": {
       "es": "septiembre",
-      "en": "September"
+      "en": "September",
+      "fr": "septembre",
+      "it": "settembre"
     },
     "difficulty": "Beginner"
   },
@@ -235,7 +293,9 @@
     "phrase": "October",
     "translations": {
       "es": "octubre",
-      "en": "October"
+      "en": "October",
+      "fr": "octobre",
+      "it": "ottobre"
     },
     "difficulty": "Beginner"
   },
@@ -243,7 +303,9 @@
     "phrase": "November",
     "translations": {
       "es": "noviembre",
-      "en": "November"
+      "en": "November",
+      "fr": "novembre",
+      "it": "novembre"
     },
     "difficulty": "Beginner"
   },
@@ -251,7 +313,9 @@
     "phrase": "December",
     "translations": {
       "es": "diciembre",
-      "en": "December"
+      "en": "December",
+      "fr": "décembre",
+      "it": "dicembre"
     },
     "difficulty": "Beginner"
   },
@@ -259,7 +323,9 @@
     "phrase": "What month are we in?",
     "translations": {
       "es": "¿En qué mes estamos?",
-      "en": "What month are we in?"
+      "en": "What month are we in?",
+      "fr": "Quel mois sommes-nous ?",
+      "it": "In che mese siamo?"
     },
     "difficulty": "Beginner"
   },
@@ -267,7 +333,9 @@
     "phrase": "We are in March",
     "translations": {
       "es": "Estamos en marzo",
-      "en": "We are in March"
+      "en": "We are in March",
+      "fr": "Nous sommes en mars",
+      "it": "Siamo a marzo"
     },
     "difficulty": "Beginner"
   },
@@ -275,7 +343,9 @@
     "phrase": "My birthday is in May",
     "translations": {
       "es": "Mi cumpleaños es en mayo",
-      "en": "My birthday is in May"
+      "en": "My birthday is in May",
+      "fr": "Mon anniversaire est en mai",
+      "it": "Il mio compleanno è a maggio"
     },
     "difficulty": "Beginner"
   },
@@ -283,7 +353,9 @@
     "phrase": "Today is January first",
     "translations": {
       "es": "Hoy es el primero de enero",
-      "en": "Today is January first"
+      "en": "Today is January first",
+      "fr": "Aujourd'hui, c'est le premier janvier",
+      "it": "Oggi è il primo di gennaio"
     },
     "difficulty": "Beginner"
   },
@@ -291,7 +363,9 @@
     "phrase": "It is April tenth",
     "translations": {
       "es": "Es el diez de abril",
-      "en": "It is April tenth"
+      "en": "It is April tenth",
+      "fr": "Nous sommes le dix avril",
+      "it": "È il dieci aprile"
     },
     "difficulty": "Beginner"
   },
@@ -299,7 +373,9 @@
     "phrase": "The meeting is in June",
     "translations": {
       "es": "La reunión es en junio",
-      "en": "The meeting is in June"
+      "en": "The meeting is in June",
+      "fr": "La réunion est en juin",
+      "it": "La riunione è a giugno"
     },
     "difficulty": "Beginner"
   },
@@ -307,7 +383,9 @@
     "phrase": "See you in December",
     "translations": {
       "es": "Nos vemos en diciembre",
-      "en": "See you in December"
+      "en": "See you in December",
+      "fr": "À décembre",
+      "it": "Ci vediamo a dicembre"
     },
     "difficulty": "Beginner"
   },
@@ -315,7 +393,9 @@
     "phrase": "The event is in September",
     "translations": {
       "es": "El evento es en septiembre",
-      "en": "The event is in September"
+      "en": "The event is in September",
+      "fr": "L'événement est en septembre",
+      "it": "L'evento è a settembre"
     },
     "difficulty": "Beginner"
   }

@@ -3,7 +3,9 @@
     "phrase": "My family is big",
     "translations": {
       "es": "Mi familia es grande",
-      "en": "My family is big"
+      "en": "My family is big",
+      "fr": "Ma famille est grande",
+      "it": "La mia famiglia è grande"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "I have a brother",
     "translations": {
       "es": "Tengo un hermano",
-      "en": "I have a brother"
+      "en": "I have a brother",
+      "fr": "J'ai un frère",
+      "it": "Ho un fratello"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "I have a sister",
     "translations": {
       "es": "Tengo una hermana",
-      "en": "I have a sister"
+      "en": "I have a sister",
+      "fr": "J'ai une sœur",
+      "it": "Ho una sorella"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "My mother lives here",
     "translations": {
       "es": "Mi madre vive aquí",
-      "en": "My mother lives here"
+      "en": "My mother lives here",
+      "fr": "Ma mère habite ici",
+      "it": "Mia madre vive qui"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "My father works a lot",
     "translations": {
       "es": "Mi padre trabaja mucho",
-      "en": "My father works a lot"
+      "en": "My father works a lot",
+      "fr": "Mon père travaille beaucoup",
+      "it": "Mio padre lavora molto"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I have two children",
     "translations": {
       "es": "Tengo dos hijos",
-      "en": "I have two children"
+      "en": "I have two children",
+      "fr": "J'ai deux enfants",
+      "it": "Ho due figli"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "She is my wife",
     "translations": {
       "es": "Ella es mi esposa",
-      "en": "She is my wife"
+      "en": "She is my wife",
+      "fr": "C'est ma femme",
+      "it": "Lei è mia moglie"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "He is my husband",
     "translations": {
       "es": "Él es mi esposo",
-      "en": "He is my husband"
+      "en": "He is my husband",
+      "fr": "C'est mon mari",
+      "it": "Lui è mio marito"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "I live with my family",
     "translations": {
       "es": "Vivo con mi familia",
-      "en": "I live with my family"
+      "en": "I live with my family",
+      "fr": "Je vis avec ma famille",
+      "it": "Vivo con la mia famiglia"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "My family lives far away",
     "translations": {
       "es": "Mi familia vive lejos",
-      "en": "My family lives far away"
+      "en": "My family lives far away",
+      "fr": "Ma famille habite loin",
+      "it": "La mia famiglia vive lontano"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I have many cousins",
     "translations": {
       "es": "Tengo muchos primos",
-      "en": "I have many cousins"
+      "en": "I have many cousins",
+      "fr": "J'ai beaucoup de cousins",
+      "it": "Ho molti cugini"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "My grandfather is older",
     "translations": {
       "es": "Mi abuelo es mayor",
-      "en": "My grandfather is older"
+      "en": "My grandfather is older",
+      "fr": "Mon grand-père est âgé",
+      "it": "Mio nonno è anziano"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "My grandmother cooks well",
     "translations": {
       "es": "Mi abuela cocina bien",
-      "en": "My grandmother cooks well"
+      "en": "My grandmother cooks well",
+      "fr": "Ma grand-mère cuisine bien",
+      "it": "Mia nonna cucina bene"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "My uncle lives in another city",
     "translations": {
       "es": "Mi tío vive en otra ciudad",
-      "en": "My uncle lives in another city"
+      "en": "My uncle lives in another city",
+      "fr": "Mon oncle habite dans une autre ville",
+      "it": "Mio zio vive in un'altra città"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "My aunt is kind",
     "translations": {
       "es": "Mi tía es amable",
-      "en": "My aunt is kind"
+      "en": "My aunt is kind",
+      "fr": "Ma tante est gentille",
+      "it": "Mia zia è gentile"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "We are a close family",
     "translations": {
       "es": "Somos una familia unida",
-      "en": "We are a close family"
+      "en": "We are a close family",
+      "fr": "Nous sommes une famille unie",
+      "it": "Siamo una famiglia unita"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I spend time with my family",
     "translations": {
       "es": "Paso tiempo con mi familia",
-      "en": "I spend time with my family"
+      "en": "I spend time with my family",
+      "fr": "Je passe du temps avec ma famille",
+      "it": "Passo del tempo con la mia famiglia"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "I visit my family on Sundays",
     "translations": {
       "es": "Visito a mi familia los domingos",
-      "en": "I visit my family on Sundays"
+      "en": "I visit my family on Sundays",
+      "fr": "Je rends visite à ma famille le dimanche",
+      "it": "Faccio visita alla mia famiglia la domenica"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "My family is important to me",
     "translations": {
       "es": "Mi familia es importante para mí",
-      "en": "My family is important to me"
+      "en": "My family is important to me",
+      "fr": "Ma famille est importante pour moi",
+      "it": "La mia famiglia è importante per me"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "I love my family",
     "translations": {
       "es": "Amo a mi familia",
-      "en": "I love my family"
+      "en": "I love my family",
+      "fr": "J'aime ma famille",
+      "it": "Amo la mia famiglia"
     },
     "difficulty": "Beginner"
   }

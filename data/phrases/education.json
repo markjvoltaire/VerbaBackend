@@ -3,7 +3,9 @@
     "phrase": "Education is important",
     "translations": {
       "es": "La educación es importante",
-      "en": "Education is important"
+      "en": "Education is important",
+      "fr": "L'éducation est importante",
+      "it": "L'istruzione è importante"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I go to school",
     "translations": {
       "es": "Voy a la escuela",
-      "en": "I go to school"
+      "en": "I go to school",
+      "fr": "Je vais à l'école",
+      "it": "Vado a scuola"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I study at the university",
     "translations": {
       "es": "Estudio en la universidad",
-      "en": "I study at the university"
+      "en": "I study at the university",
+      "fr": "J'étudie à l'université",
+      "it": "Studio all'università"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "I have an exam",
     "translations": {
       "es": "Tengo un examen",
-      "en": "I have an exam"
+      "en": "I have an exam",
+      "fr": "J'ai un examen",
+      "it": "Ho un esame"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I am studying",
     "translations": {
       "es": "Estoy estudiando",
-      "en": "I am studying"
+      "en": "I am studying",
+      "fr": "Je suis en train d'étudier",
+      "it": "Sto studiando"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I learn a lot",
     "translations": {
       "es": "Aprendo mucho",
-      "en": "I learn a lot"
+      "en": "I learn a lot",
+      "fr": "J'apprends beaucoup",
+      "it": "Imparo molto"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "The teacher explains well",
     "translations": {
       "es": "El profesor explica bien",
-      "en": "The teacher explains well"
+      "en": "The teacher explains well",
+      "fr": "Le professeur explique bien",
+      "it": "Il professore spiega bene"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "The class is interesting",
     "translations": {
       "es": "La clase es interesante",
-      "en": "The class is interesting"
+      "en": "The class is interesting",
+      "fr": "Le cours est intéressant",
+      "it": "La lezione è interessante"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "The class is boring",
     "translations": {
       "es": "La clase es aburrida",
-      "en": "The class is boring"
+      "en": "The class is boring",
+      "fr": "Le cours est ennuyeux",
+      "it": "La lezione è noiosa"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I have homework",
     "translations": {
       "es": "Tengo tarea",
-      "en": "I have homework"
+      "en": "I have homework",
+      "fr": "J'ai des devoirs",
+      "it": "Ho i compiti"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I do homework",
     "translations": {
       "es": "Hago la tarea",
-      "en": "I do homework"
+      "en": "I do homework",
+      "fr": "Je fais mes devoirs",
+      "it": "Faccio i compiti"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I pass the exam",
     "translations": {
       "es": "Paso el examen",
-      "en": "I pass the exam"
+      "en": "I pass the exam",
+      "fr": "Je réussis l'examen",
+      "it": "Passo l'esame"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I don't pass the exam",
     "translations": {
       "es": "No paso el examen",
-      "en": "I don't pass the exam"
+      "en": "I don't pass the exam",
+      "fr": "Je ne réussis pas l'examen",
+      "it": "Non passo l'esame"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I need to study more",
     "translations": {
       "es": "Necesito estudiar más",
-      "en": "I need to study more"
+      "en": "I need to study more",
+      "fr": "J'ai besoin d'étudier davantage",
+      "it": "Ho bisogno di studiare di più"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "The education system changes",
     "translations": {
       "es": "El sistema educativo cambia",
-      "en": "The education system changes"
+      "en": "The education system changes",
+      "fr": "Le système éducatif change",
+      "it": "Il sistema educativo cambia"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "Education is different here",
     "translations": {
       "es": "La educación es diferente aquí",
-      "en": "Education is different here"
+      "en": "Education is different here",
+      "fr": "L'éducation est différente ici",
+      "it": "L'istruzione è diversa qui"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "Students learn quickly",
     "translations": {
       "es": "Los estudiantes aprenden rápido",
-      "en": "Students learn quickly"
+      "en": "Students learn quickly",
+      "fr": "Les étudiants apprennent vite",
+      "it": "Gli studenti imparano in fretta"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "It is important to practice",
     "translations": {
       "es": "Es importante practicar",
-      "en": "It is important to practice"
+      "en": "It is important to practice",
+      "fr": "Il est important de pratiquer",
+      "it": "È importante fare pratica"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "Learning languages helps",
     "translations": {
       "es": "Aprender idiomas ayuda",
-      "en": "Learning languages helps"
+      "en": "Learning languages helps",
+      "fr": "Apprendre des langues aide",
+      "it": "Imparare le lingue aiuta"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I want to learn more",
     "translations": {
       "es": "Quiero aprender más",
-      "en": "I want to learn more"
+      "en": "I want to learn more",
+      "fr": "Je veux en apprendre davantage",
+      "it": "Voglio imparare di più"
     },
     "difficulty": "Intermediate"
   }

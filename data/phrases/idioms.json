@@ -3,7 +3,9 @@
     "phrase": "To be daydreaming",
     "translations": {
       "es": "Estar en las nubes",
-      "en": "To be daydreaming"
+      "en": "To be daydreaming",
+      "fr": "Être dans la lune",
+      "it": "Avere la testa tra le nuvole"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "To cost an arm and a leg",
     "translations": {
       "es": "Costar un ojo de la cara",
-      "en": "To cost an arm and a leg"
+      "en": "To cost an arm and a leg",
+      "fr": "Coûter les yeux de la tête",
+      "it": "Costare un occhio della testa"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "To mess up",
     "translations": {
       "es": "Meter la pata",
-      "en": "To mess up"
+      "en": "To mess up",
+      "fr": "Mettre les pieds dans le plat",
+      "it": "Fare una gaffe"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "To be exhausted",
     "translations": {
       "es": "Estar hecho polvo",
-      "en": "To be exhausted"
+      "en": "To be exhausted",
+      "fr": "Être lessivé",
+      "it": "Essere distrutto"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "To hit the nail on the head",
     "translations": {
       "es": "Dar en el clavo",
-      "en": "To hit the nail on the head"
+      "en": "To hit the nail on the head",
+      "fr": "Mettre le doigt dessus",
+      "it": "Colpire nel segno"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "To give up",
     "translations": {
       "es": "Tirar la toalla",
-      "en": "To give up"
+      "en": "To give up",
+      "fr": "Jeter l'éponge",
+      "it": "Gettare la spugna"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "To be fed up",
     "translations": {
       "es": "Estar hasta las narices",
-      "en": "To be fed up"
+      "en": "To be fed up",
+      "fr": "En avoir ras le bol",
+      "it": "Averne fin sopra i capelli"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "To speak bluntly",
     "translations": {
       "es": "No tener pelos en la lengua",
-      "en": "To speak bluntly"
+      "en": "To speak bluntly",
+      "fr": "Ne pas mâcher ses mots",
+      "it": "Non avere peli sulla lingua"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "To be a piece of cake",
     "translations": {
       "es": "Ser pan comido",
-      "en": "To be a piece of cake"
+      "en": "To be a piece of cake",
+      "fr": "Être du gâteau",
+      "it": "Essere un gioco da ragazzi"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "To get to the point",
     "translations": {
       "es": "Ir al grano",
-      "en": "To get to the point"
+      "en": "To get to the point",
+      "fr": "Aller droit au but",
+      "it": "Andare al sodo"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "To be between a rock and a hard place",
     "translations": {
       "es": "Estar entre la espada y la pared",
-      "en": "To be between a rock and a hard place"
+      "en": "To be between a rock and a hard place",
+      "fr": "Être entre le marteau et l'enclume",
+      "it": "Essere tra l'incudine e il martello"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "To not get anything right",
     "translations": {
       "es": "No dar pie con bola",
-      "en": "To not get anything right"
+      "en": "To not get anything right",
+      "fr": "Ne rien faire de bon",
+      "it": "Non azzeccarne una"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "To get your act together",
     "translations": {
       "es": "Ponerse las pilas",
-      "en": "To get your act together"
+      "en": "To get your act together",
+      "fr": "Se reprendre en main",
+      "it": "Darsi una mossa"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "To tease",
     "translations": {
       "es": "Tomar el pelo",
-      "en": "To tease"
+      "en": "To tease",
+      "fr": "Se moquer de quelqu'un",
+      "it": "Prendere in giro"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "To be in a bad mood",
     "translations": {
       "es": "Estar de mala leche",
-      "en": "To be in a bad mood"
+      "en": "To be in a bad mood",
+      "fr": "Être de mauvais poil",
+      "it": "Essere di cattivo umore"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "To be insignificant",
     "translations": {
       "es": "Ser un cero a la izquierda",
-      "en": "To be insignificant"
+      "en": "To be insignificant",
+      "fr": "Être un moins que rien",
+      "it": "Essere uno zero assoluto"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "To face the situation",
     "translations": {
       "es": "Dar la cara",
-      "en": "To face the situation"
+      "en": "To face the situation",
+      "fr": "Faire face à la situation",
+      "it": "Affrontare la situazione"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "To be in trouble",
     "translations": {
       "es": "Estar en apuros",
-      "en": "To be in trouble"
+      "en": "To be in trouble",
+      "fr": "Être dans le pétrin",
+      "it": "Essere nei guai"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "To lend a hand",
     "translations": {
       "es": "Echar una mano",
-      "en": "To lend a hand"
+      "en": "To lend a hand",
+      "fr": "Donner un coup de main",
+      "it": "Dare una mano"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "To be hopeless",
     "translations": {
       "es": "No tener remedio",
-      "en": "To be hopeless"
+      "en": "To be hopeless",
+      "fr": "Être un cas désespéré",
+      "it": "Essere un caso disperato"
     },
     "difficulty": "Advanced"
   }

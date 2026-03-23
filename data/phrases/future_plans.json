@@ -3,7 +3,9 @@
     "phrase": "I am going to travel soon",
     "translations": {
       "es": "Voy a viajar pronto",
-      "en": "I am going to travel soon"
+      "en": "I am going to travel soon",
+      "fr": "Je vais bientôt voyager",
+      "it": "Viaggerò presto"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I plan to study more",
     "translations": {
       "es": "Planeo estudiar más",
-      "en": "I plan to study more"
+      "en": "I plan to study more",
+      "fr": "Je compte étudier davantage",
+      "it": "Ho intenzione di studiare di più"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I want to learn Spanish",
     "translations": {
       "es": "Quiero aprender español",
-      "en": "I want to learn Spanish"
+      "en": "I want to learn Spanish",
+      "fr": "Je veux apprendre l'espagnol",
+      "it": "Voglio imparare lo spagnolo"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "I am going to start a new job",
     "translations": {
       "es": "Voy a empezar un nuevo trabajo",
-      "en": "I am going to start a new job"
+      "en": "I am going to start a new job",
+      "fr": "Je vais commencer un nouveau travail",
+      "it": "Inizierò un nuovo lavoro"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I am going to move",
     "translations": {
       "es": "Voy a mudarme",
-      "en": "I am going to move"
+      "en": "I am going to move",
+      "fr": "Je vais déménager",
+      "it": "Traslocherò"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I hope to improve",
     "translations": {
       "es": "Espero mejorar",
-      "en": "I hope to improve"
+      "en": "I hope to improve",
+      "fr": "J'espère m'améliorer",
+      "it": "Spero di migliorare"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "I want to travel more",
     "translations": {
       "es": "Quiero viajar más",
-      "en": "I want to travel more"
+      "en": "I want to travel more",
+      "fr": "Je veux voyager davantage",
+      "it": "Voglio viaggiare di più"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "I am going to save money",
     "translations": {
       "es": "Voy a ahorrar dinero",
-      "en": "I am going to save money"
+      "en": "I am going to save money",
+      "fr": "Je vais économiser de l'argent",
+      "it": "Risparmierò dei soldi"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "I am going to start a project",
     "translations": {
       "es": "Voy a comenzar un proyecto",
-      "en": "I am going to start a project"
+      "en": "I am going to start a project",
+      "fr": "Je vais lancer un projet",
+      "it": "Inizierò un progetto"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I plan to go out this weekend",
     "translations": {
       "es": "Planeo salir este fin de semana",
-      "en": "I plan to go out this weekend"
+      "en": "I plan to go out this weekend",
+      "fr": "Je compte sortir ce week-end",
+      "it": "Ho intenzione di uscire questo fine settimana"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I want to change my life",
     "translations": {
       "es": "Quiero cambiar mi vida",
-      "en": "I want to change my life"
+      "en": "I want to change my life",
+      "fr": "Je veux changer ma vie",
+      "it": "Voglio cambiare la mia vita"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I am going to exercise",
     "translations": {
       "es": "Voy a hacer ejercicio",
-      "en": "I am going to exercise"
+      "en": "I am going to exercise",
+      "fr": "Je vais faire de l'exercice",
+      "it": "Farò esercizio"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I am going to learn something new",
     "translations": {
       "es": "Voy a aprender algo nuevo",
-      "en": "I am going to learn something new"
+      "en": "I am going to learn something new",
+      "fr": "Je vais apprendre quelque chose de nouveau",
+      "it": "Imparerò qualcosa di nuovo"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I hope to succeed",
     "translations": {
       "es": "Espero tener éxito",
-      "en": "I hope to succeed"
+      "en": "I hope to succeed",
+      "fr": "J'espère réussir",
+      "it": "Spero di avere successo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "I want to be better",
     "translations": {
       "es": "Quiero ser mejor",
-      "en": "I want to be better"
+      "en": "I want to be better",
+      "fr": "Je veux être meilleur",
+      "it": "Voglio essere migliore"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I am going to try",
     "translations": {
       "es": "Voy a intentarlo",
-      "en": "I am going to try"
+      "en": "I am going to try",
+      "fr": "Je vais essayer",
+      "it": "Ci proverò"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "I plan to visit my family",
     "translations": {
       "es": "Planeo visitar a mi familia",
-      "en": "I plan to visit my family"
+      "en": "I plan to visit my family",
+      "fr": "Je compte rendre visite à ma famille",
+      "it": "Ho intenzione di visitare la mia famiglia"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "I am going to study tomorrow",
     "translations": {
       "es": "Voy a estudiar mañana",
-      "en": "I am going to study tomorrow"
+      "en": "I am going to study tomorrow",
+      "fr": "Je vais étudier demain",
+      "it": "Domani studierò"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "I want to improve my Spanish",
     "translations": {
       "es": "Quiero mejorar mi español",
-      "en": "I want to improve my Spanish"
+      "en": "I want to improve my Spanish",
+      "fr": "Je veux améliorer mon espagnol",
+      "it": "Voglio migliorare il mio spagnolo"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I am going to achieve my goals",
     "translations": {
       "es": "Voy a lograr mis metas",
-      "en": "I am going to achieve my goals"
+      "en": "I am going to achieve my goals",
+      "fr": "Je vais atteindre mes objectifs",
+      "it": "Raggiungerò i miei obiettivi"
     },
     "difficulty": "Intermediate"
   }

@@ -3,7 +3,9 @@
     "phrase": "When I was a child, I played a lot",
     "translations": {
       "es": "Cuando era niño jugaba mucho",
-      "en": "When I was a child, I played a lot"
+      "en": "When I was a child, I played a lot",
+      "fr": "Quand j'étais enfant, je jouais beaucoup",
+      "it": "Quando ero bambino, giocavo molto"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I used to live with my parents",
     "translations": {
       "es": "Vivía con mis padres",
-      "en": "I used to live with my parents"
+      "en": "I used to live with my parents",
+      "fr": "Je vivais avec mes parents",
+      "it": "Vivevo con i miei genitori"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I used to go to school",
     "translations": {
       "es": "Iba a la escuela",
-      "en": "I used to go to school"
+      "en": "I used to go to school",
+      "fr": "J'allais à l'école",
+      "it": "Andavo a scuola"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "I had many friends",
     "translations": {
       "es": "Tenía muchos amigos",
-      "en": "I had many friends"
+      "en": "I had many friends",
+      "fr": "J'avais beaucoup d'amis",
+      "it": "Avevo molti amici"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I liked to play soccer",
     "translations": {
       "es": "Me gustaba jugar fútbol",
-      "en": "I liked to play soccer"
+      "en": "I liked to play soccer",
+      "fr": "J'aimais jouer au football",
+      "it": "Mi piaceva giocare a calcio"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I didn't like to study",
     "translations": {
       "es": "No me gustaba estudiar",
-      "en": "I didn't like to study"
+      "en": "I didn't like to study",
+      "fr": "Je n'aimais pas étudier",
+      "it": "Non mi piaceva studiare"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "My family was happy",
     "translations": {
       "es": "Mi familia era feliz",
-      "en": "My family was happy"
+      "en": "My family was happy",
+      "fr": "Ma famille était heureuse",
+      "it": "La mia famiglia era felice"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "We lived in a small house",
     "translations": {
       "es": "Vivíamos en una casa pequeña",
-      "en": "We lived in a small house"
+      "en": "We lived in a small house",
+      "fr": "Nous vivions dans une petite maison",
+      "it": "Vivevamo in una casa piccola"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "I used to play every day",
     "translations": {
       "es": "Jugaba todos los días",
-      "en": "I used to play every day"
+      "en": "I used to play every day",
+      "fr": "Je jouais tous les jours",
+      "it": "Giocavo tutti i giorni"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I used to watch TV",
     "translations": {
       "es": "Miraba televisión",
-      "en": "I used to watch TV"
+      "en": "I used to watch TV",
+      "fr": "Je regardais la télévision",
+      "it": "Guardavo la televisione"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I had a dog",
     "translations": {
       "es": "Tenía un perro",
-      "en": "I had a dog"
+      "en": "I had a dog",
+      "fr": "J'avais un chien",
+      "it": "Avevo un cane"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I used to wake up early",
     "translations": {
       "es": "Me levantaba temprano",
-      "en": "I used to wake up early"
+      "en": "I used to wake up early",
+      "fr": "Je me levais tôt",
+      "it": "Mi svegliavo presto"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I used to eat with my family",
     "translations": {
       "es": "Comía con mi familia",
-      "en": "I used to eat with my family"
+      "en": "I used to eat with my family",
+      "fr": "Je mangeais avec ma famille",
+      "it": "Mangiavo con la mia famiglia"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I was very active",
     "translations": {
       "es": "Era muy activo",
-      "en": "I was very active"
+      "en": "I was very active",
+      "fr": "J'étais très actif",
+      "it": "Ero molto attivo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "I was shy",
     "translations": {
       "es": "Era tímido",
-      "en": "I was shy"
+      "en": "I was shy",
+      "fr": "J'étais timide",
+      "it": "Ero timido"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I was happy",
     "translations": {
       "es": "Era feliz",
-      "en": "I was happy"
+      "en": "I was happy",
+      "fr": "J'étais heureux",
+      "it": "Ero felice"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "I learned quickly",
     "translations": {
       "es": "Aprendía rápido",
-      "en": "I learned quickly"
+      "en": "I learned quickly",
+      "fr": "J'apprenais vite",
+      "it": "Imparavo in fretta"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "I had many dreams",
     "translations": {
       "es": "Tenía muchos sueños",
-      "en": "I had many dreams"
+      "en": "I had many dreams",
+      "fr": "J'avais beaucoup de rêves",
+      "it": "Avevo molti sogni"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "I had a lot of fun",
     "translations": {
       "es": "Me divertía mucho",
-      "en": "I had a lot of fun"
+      "en": "I had a lot of fun",
+      "fr": "Je m'amusais beaucoup",
+      "it": "Mi divertivo molto"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "It was a good time",
     "translations": {
       "es": "Fue una buena época",
-      "en": "It was a good time"
+      "en": "It was a good time",
+      "fr": "C'était une bonne époque",
+      "it": "È stata una bella epoca"
     },
     "difficulty": "Intermediate"
   }

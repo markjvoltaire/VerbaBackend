@@ -3,7 +3,9 @@
     "phrase": "Where is the bathroom?",
     "translations": {
       "es": "¿Dónde está el baño?",
-      "en": "Where is the bathroom?"
+      "en": "Where is the bathroom?",
+      "fr": "Où sont les toilettes ?",
+      "it": "Dov'è il bagno?"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "Where is the restaurant?",
     "translations": {
       "es": "¿Dónde está el restaurante?",
-      "en": "Where is the restaurant?"
+      "en": "Where is the restaurant?",
+      "fr": "Où est le restaurant ?",
+      "it": "Dov'è il ristorante?"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "Where is the hotel?",
     "translations": {
       "es": "¿Dónde está el hotel?",
-      "en": "Where is the hotel?"
+      "en": "Where is the hotel?",
+      "fr": "Où est l'hôtel ?",
+      "it": "Dov'è l'hotel?"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "How do I get there?",
     "translations": {
       "es": "¿Cómo llego allí?",
-      "en": "How do I get there?"
+      "en": "How do I get there?",
+      "fr": "Comment y aller ?",
+      "it": "Come ci arrivo?"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "Go straight",
     "translations": {
       "es": "Sigue recto",
-      "en": "Go straight"
+      "en": "Go straight",
+      "fr": "Allez tout droit",
+      "it": "Vada dritto"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "Turn right",
     "translations": {
       "es": "Gira a la derecha",
-      "en": "Turn right"
+      "en": "Turn right",
+      "fr": "Tournez à droite",
+      "it": "Giri a destra"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "Turn left",
     "translations": {
       "es": "Gira a la izquierda",
-      "en": "Turn left"
+      "en": "Turn left",
+      "fr": "Tournez à gauche",
+      "it": "Giri a sinistra"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "It is close",
     "translations": {
       "es": "Está cerca",
-      "en": "It is close"
+      "en": "It is close",
+      "fr": "C'est près d'ici",
+      "it": "È vicino"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "It is far",
     "translations": {
       "es": "Está lejos",
-      "en": "It is far"
+      "en": "It is far",
+      "fr": "C'est loin",
+      "it": "È lontano"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "It is here",
     "translations": {
       "es": "Está aquí",
-      "en": "It is here"
+      "en": "It is here",
+      "fr": "C'est ici",
+      "it": "È qui"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "It is there",
     "translations": {
       "es": "Está allí",
-      "en": "It is there"
+      "en": "It is there",
+      "fr": "C'est là-bas",
+      "it": "È laggiù"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "Is it far?",
     "translations": {
       "es": "¿Está lejos?",
-      "en": "Is it far?"
+      "en": "Is it far?",
+      "fr": "C'est loin ?",
+      "it": "È lontano?"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "Is it close?",
     "translations": {
       "es": "¿Está cerca?",
-      "en": "Is it close?"
+      "en": "Is it close?",
+      "fr": "C'est près ?",
+      "it": "È vicino?"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "Cross the street",
     "translations": {
       "es": "Cruza la calle",
-      "en": "Cross the street"
+      "en": "Cross the street",
+      "fr": "Traversez la rue",
+      "it": "Attraversi la strada"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "It is on the corner",
     "translations": {
       "es": "Está en la esquina",
-      "en": "It is on the corner"
+      "en": "It is on the corner",
+      "fr": "C'est au coin",
+      "it": "È all'angolo"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "Thanks for the help",
     "translations": {
       "es": "Gracias por la ayuda",
-      "en": "Thanks for the help"
+      "en": "Thanks for the help",
+      "fr": "Merci pour l'aide",
+      "it": "Grazie per l'aiuto"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I don't understand",
     "translations": {
       "es": "No entiendo",
-      "en": "I don't understand"
+      "en": "I don't understand",
+      "fr": "Je ne comprends pas",
+      "it": "Non capisco"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "Can you repeat?",
     "translations": {
       "es": "¿Puedes repetir?",
-      "en": "Can you repeat?"
+      "en": "Can you repeat?",
+      "fr": "Pouvez-vous répéter ?",
+      "it": "Può ripetere?"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "I am lost",
     "translations": {
       "es": "Estoy perdido",
-      "en": "I am lost"
+      "en": "I am lost",
+      "fr": "Je suis perdu",
+      "it": "Mi sono perso"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "I am looking for this place",
     "translations": {
       "es": "Busco este lugar",
-      "en": "I am looking for this place"
+      "en": "I am looking for this place",
+      "fr": "Je cherche cet endroit",
+      "it": "Sto cercando questo posto"
     },
     "difficulty": "Beginner"
   }

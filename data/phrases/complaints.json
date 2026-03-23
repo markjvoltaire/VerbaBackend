@@ -3,7 +3,9 @@
     "phrase": "I want to make a complaint",
     "translations": {
       "es": "Quiero hacer una queja",
-      "en": "I want to make a complaint"
+      "en": "I want to make a complaint",
+      "fr": "Je voudrais faire une réclamation",
+      "it": "Vorrei fare un reclamo"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "This is not okay",
     "translations": {
       "es": "Esto no está bien",
-      "en": "This is not okay"
+      "en": "This is not okay",
+      "fr": "Ce n'est pas acceptable",
+      "it": "Questo non va bene"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "There is a problem here",
     "translations": {
       "es": "Hay un problema aquí",
-      "en": "There is a problem here"
+      "en": "There is a problem here",
+      "fr": "Il y a un problème ici",
+      "it": "C'è un problema qui"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "It doesn't work properly",
     "translations": {
       "es": "No funciona correctamente",
-      "en": "It doesn't work properly"
+      "en": "It doesn't work properly",
+      "fr": "Ça ne fonctionne pas correctement",
+      "it": "Non funziona correttamente"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I am not happy",
     "translations": {
       "es": "No estoy contento",
-      "en": "I am not happy"
+      "en": "I am not happy",
+      "fr": "Je ne suis pas satisfait",
+      "it": "Non sono contento"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I am frustrated",
     "translations": {
       "es": "Estoy frustrado",
-      "en": "I am frustrated"
+      "en": "I am frustrated",
+      "fr": "Je suis frustré",
+      "it": "Sono frustrato"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "We need to fix this",
     "translations": {
       "es": "Necesitamos arreglar esto",
-      "en": "We need to fix this"
+      "en": "We need to fix this",
+      "fr": "Nous devons régler ça",
+      "it": "Dobbiamo risolvere questo"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "How do we solve this?",
     "translations": {
       "es": "¿Cómo solucionamos esto?",
-      "en": "How do we solve this?"
+      "en": "How do we solve this?",
+      "fr": "Comment résolvons-nous cela ?",
+      "it": "Come risolviamo questo?"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "This took too long",
     "translations": {
       "es": "Esto tomó demasiado tiempo",
-      "en": "This took too long"
+      "en": "This took too long",
+      "fr": "Cela a pris trop de temps",
+      "it": "Ci è voluto troppo tempo"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "It is not acceptable",
     "translations": {
       "es": "No es aceptable",
-      "en": "It is not acceptable"
+      "en": "It is not acceptable",
+      "fr": "Ce n'est pas acceptable",
+      "it": "Non è accettabile"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I need an answer",
     "translations": {
       "es": "Necesito una respuesta",
-      "en": "I need an answer"
+      "en": "I need an answer",
+      "fr": "J'ai besoin d'une réponse",
+      "it": "Ho bisogno di una risposta"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I want a solution",
     "translations": {
       "es": "Quiero una solución",
-      "en": "I want a solution"
+      "en": "I want a solution",
+      "fr": "Je veux une solution",
+      "it": "Voglio una soluzione"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "This must change",
     "translations": {
       "es": "Esto debe cambiar",
-      "en": "This must change"
+      "en": "This must change",
+      "fr": "Cela doit changer",
+      "it": "Questo deve cambiare"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I do not agree with this",
     "translations": {
       "es": "No estoy de acuerdo con esto",
-      "en": "I do not agree with this"
+      "en": "I do not agree with this",
+      "fr": "Je ne suis pas d'accord avec cela",
+      "it": "Non sono d'accordo con questo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "This is unfair",
     "translations": {
       "es": "Esto es injusto",
-      "en": "This is unfair"
+      "en": "This is unfair",
+      "fr": "C'est injuste",
+      "it": "Questo è ingiusto"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I expect a solution soon",
     "translations": {
       "es": "Espero una solución pronto",
-      "en": "I expect a solution soon"
+      "en": "I expect a solution soon",
+      "fr": "J'attends une solution rapidement",
+      "it": "Mi aspetto una soluzione presto"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "This is an inconvenience",
     "translations": {
       "es": "Esto es un inconveniente",
-      "en": "This is an inconvenience"
+      "en": "This is an inconvenience",
+      "fr": "C'est un désagrément",
+      "it": "Questo è un inconveniente"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "This is not what I ordered",
     "translations": {
       "es": "No es lo que pedí",
-      "en": "This is not what I ordered"
+      "en": "This is not what I ordered",
+      "fr": "Ce n'est pas ce que j'ai commandé",
+      "it": "Non è quello che ho ordinato"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "I need immediate help",
     "translations": {
       "es": "Necesito ayuda inmediata",
-      "en": "I need immediate help"
+      "en": "I need immediate help",
+      "fr": "J'ai besoin d'aide immédiatement",
+      "it": "Ho bisogno di aiuto immediato"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "Thank you for solving it",
     "translations": {
       "es": "Gracias por resolverlo",
-      "en": "Thank you for solving it"
+      "en": "Thank you for solving it",
+      "fr": "Merci de l'avoir résolu",
+      "it": "Grazie per averlo risolto"
     },
     "difficulty": "Intermediate"
   }

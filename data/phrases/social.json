@@ -3,6 +3,8 @@
     "phrase": "It is a serious problem",
     "translations": {
       "es": "Es un problema serio",
+      "fr": "C'est un problème sérieux",
+      "it": "È un problema serio",
       "en": "It is a serious problem"
     },
     "difficulty": "Intermediate"
@@ -11,6 +13,8 @@
     "phrase": "There are many problems",
     "translations": {
       "es": "Hay muchos problemas",
+      "fr": "Il y a beaucoup de problèmes",
+      "it": "Ci sono molti problemi",
       "en": "There are many problems"
     },
     "difficulty": "Intermediate"
@@ -19,6 +23,8 @@
     "phrase": "People need help",
     "translations": {
       "es": "La gente necesita ayuda",
+      "fr": "Les gens ont besoin d'aide",
+      "it": "La gente ha bisogno di aiuto",
       "en": "People need help"
     },
     "difficulty": "Intermediate"
@@ -27,6 +33,8 @@
     "phrase": "It is important to act",
     "translations": {
       "es": "Es importante actuar",
+      "fr": "Il est important d'agir",
+      "it": "È importante agire",
       "en": "It is important to act"
     },
     "difficulty": "Intermediate"
@@ -35,6 +43,8 @@
     "phrase": "The situation is difficult",
     "translations": {
       "es": "La situación es difícil",
+      "fr": "La situation est difficile",
+      "it": "La situazione è difficile",
       "en": "The situation is difficult"
     },
     "difficulty": "Intermediate"
@@ -43,6 +53,8 @@
     "phrase": "We need solutions",
     "translations": {
       "es": "Necesitamos soluciones",
+      "fr": "Nous avons besoin de solutions",
+      "it": "Abbiamo bisogno di soluzioni",
       "en": "We need solutions"
     },
     "difficulty": "Intermediate"
@@ -51,6 +63,8 @@
     "phrase": "This affects everyone",
     "translations": {
       "es": "Esto afecta a todos",
+      "fr": "Cela touche tout le monde",
+      "it": "Questo riguarda tutti",
       "en": "This affects everyone"
     },
     "difficulty": "Intermediate"
@@ -59,6 +73,8 @@
     "phrase": "It is a global problem",
     "translations": {
       "es": "Es un problema global",
+      "fr": "C'est un problème mondial",
+      "it": "È un problema globale",
       "en": "It is a global problem"
     },
     "difficulty": "Intermediate"
@@ -67,6 +83,8 @@
     "phrase": "Poverty is a problem",
     "translations": {
       "es": "La pobreza es un problema",
+      "fr": "La pauvreté est un problème",
+      "it": "La povertà è un problema",
       "en": "Poverty is a problem"
     },
     "difficulty": "Intermediate"
@@ -75,6 +93,8 @@
     "phrase": "Unemployment is high",
     "translations": {
       "es": "El desempleo es alto",
+      "fr": "Le chômage est élevé",
+      "it": "La disoccupazione è alta",
       "en": "Unemployment is high"
     },
     "difficulty": "Intermediate"
@@ -83,6 +103,8 @@
     "phrase": "Education is important",
     "translations": {
       "es": "La educación es importante",
+      "fr": "L'éducation est importante",
+      "it": "L'istruzione è importante",
       "en": "Education is important"
     },
     "difficulty": "Intermediate"
@@ -91,6 +113,8 @@
     "phrase": "There is a lack of education",
     "translations": {
       "es": "Falta educación",
+      "fr": "Il manque d'éducation",
+      "it": "Manca l'istruzione",
       "en": "There is a lack of education"
     },
     "difficulty": "Intermediate"
@@ -99,6 +123,8 @@
     "phrase": "Violence is a problem",
     "translations": {
       "es": "La violencia es un problema",
+      "fr": "La violence est un problème",
+      "it": "La violenza è un problema",
       "en": "Violence is a problem"
     },
     "difficulty": "Intermediate"
@@ -107,6 +133,8 @@
     "phrase": "People suffer",
     "translations": {
       "es": "La gente sufre",
+      "fr": "Les gens souffrent",
+      "it": "La gente soffre",
       "en": "People suffer"
     },
     "difficulty": "Intermediate"
@@ -115,6 +143,8 @@
     "phrase": "We must help",
     "translations": {
       "es": "Debemos ayudar",
+      "fr": "Nous devons aider",
+      "it": "Dobbiamo aiutare",
       "en": "We must help"
     },
     "difficulty": "Intermediate"
@@ -123,6 +153,8 @@
     "phrase": "We can improve this",
     "translations": {
       "es": "Podemos mejorar esto",
+      "fr": "Nous pouvons améliorer ça",
+      "it": "Possiamo migliorare questo",
       "en": "We can improve this"
     },
     "difficulty": "Intermediate"
@@ -131,6 +163,8 @@
     "phrase": "It is necessary to change",
     "translations": {
       "es": "Es necesario cambiar",
+      "fr": "Il est nécessaire de changer",
+      "it": "È necessario cambiare",
       "en": "It is necessary to change"
     },
     "difficulty": "Intermediate"
@@ -139,6 +173,8 @@
     "phrase": "Everything can improve",
     "translations": {
       "es": "Todo puede mejorar",
+      "fr": "Tout peut s'améliorer",
+      "it": "Tutto può migliorare",
       "en": "Everything can improve"
     },
     "difficulty": "Intermediate"
@@ -147,6 +183,8 @@
     "phrase": "It is a challenge",
     "translations": {
       "es": "Es un desafío",
+      "fr": "C'est un défi",
+      "it": "È una sfida",
       "en": "It is a challenge"
     },
     "difficulty": "Intermediate"
@@ -155,6 +193,8 @@
     "phrase": "There is hope",
     "translations": {
       "es": "Hay esperanza",
+      "fr": "Il y a de l'espoir",
+      "it": "C'è speranza",
       "en": "There is hope"
     },
     "difficulty": "Intermediate"

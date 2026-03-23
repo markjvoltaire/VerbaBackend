@@ -3,6 +3,8 @@
     "phrase": "We are good friends",
     "translations": {
       "es": "Somos buenos amigos",
+      "fr": "Nous sommes de bons amis",
+      "it": "Siamo buoni amici",
       "en": "We are good friends"
     },
     "difficulty": "Intermediate"
@@ -11,6 +13,8 @@
     "phrase": "I trust you",
     "translations": {
       "es": "Confío en ti",
+      "fr": "Je te fais confiance",
+      "it": "Mi fido di te",
       "en": "I trust you"
     },
     "difficulty": "Intermediate"
@@ -19,6 +23,8 @@
     "phrase": "You can count on me",
     "translations": {
       "es": "Puedes contar conmigo",
+      "fr": "Tu peux compter sur moi",
+      "it": "Puoi contare su di me",
       "en": "You can count on me"
     },
     "difficulty": "Intermediate"
@@ -27,6 +33,8 @@
     "phrase": "I support you",
     "translations": {
       "es": "Te apoyo",
+      "fr": "Je te soutiens",
+      "it": "Ti sostengo",
       "en": "I support you"
     },
     "difficulty": "Intermediate"
@@ -35,6 +43,8 @@
     "phrase": "I'm always here for you",
     "translations": {
       "es": "Siempre estoy aquí para ti",
+      "fr": "Je suis toujours là pour toi",
+      "it": "Sono sempre qui per te",
       "en": "I'm always here for you"
     },
     "difficulty": "Intermediate"
@@ -43,6 +53,8 @@
     "phrase": "We have a good relationship",
     "translations": {
       "es": "Tenemos una buena relación",
+      "fr": "Nous avons une bonne relation",
+      "it": "Abbiamo un buon rapporto",
       "en": "We have a good relationship"
     },
     "difficulty": "Intermediate"
@@ -51,6 +63,8 @@
     "phrase": "We get along well",
     "translations": {
       "es": "Nos llevamos bien",
+      "fr": "Nous nous entendons bien",
+      "it": "Andiamo d'accordo",
       "en": "We get along well"
     },
     "difficulty": "Intermediate"
@@ -59,6 +73,8 @@
     "phrase": "We have known each other for years",
     "translations": {
       "es": "Nos conocemos desde hace años",
+      "fr": "Nous nous connaissons depuis des années",
+      "it": "Ci conosciamo da anni",
       "en": "We have known each other for years"
     },
     "difficulty": "Intermediate"
@@ -67,6 +83,8 @@
     "phrase": "He/She is a special person",
     "translations": {
       "es": "Es una persona especial",
+      "fr": "C'est une personne spéciale",
+      "it": "È una persona speciale",
       "en": "He/She is a special person"
     },
     "difficulty": "Intermediate"
@@ -75,6 +93,8 @@
     "phrase": "He/She matters a lot to me",
     "translations": {
       "es": "Me importa mucho",
+      "fr": "Il/Elle compte beaucoup pour moi",
+      "it": "Per me conta molto",
       "en": "He/She matters a lot to me"
     },
     "difficulty": "Intermediate"
@@ -83,6 +103,8 @@
     "phrase": "We have trust",
     "translations": {
       "es": "Tenemos confianza",
+      "fr": "Nous avons confiance",
+      "it": "Abbiamo fiducia",
       "en": "We have trust"
     },
     "difficulty": "Intermediate"
@@ -91,6 +113,8 @@
     "phrase": "Sometimes we argue",
     "translations": {
       "es": "A veces discutimos",
+      "fr": "Parfois nous nous disputons",
+      "it": "A volte litighiamo",
       "en": "Sometimes we argue"
     },
     "difficulty": "Intermediate"
@@ -99,6 +123,8 @@
     "phrase": "But we understand each other",
     "translations": {
       "es": "Pero nos entendemos",
+      "fr": "Mais nous nous comprenons",
+      "it": "Ma ci capiamo",
       "en": "But we understand each other"
     },
     "difficulty": "Intermediate"
@@ -107,6 +133,8 @@
     "phrase": "It's important to communicate",
     "translations": {
       "es": "Es importante comunicar",
+      "fr": "C'est important de communiquer",
+      "it": "È importante comunicare",
       "en": "It's important to communicate"
     },
     "difficulty": "Intermediate"
@@ -115,6 +143,8 @@
     "phrase": "I respect your opinion",
     "translations": {
       "es": "Respeto tu opinión",
+      "fr": "Je respecte ton opinion",
+      "it": "Rispetto la tua opinione",
       "en": "I respect your opinion"
     },
     "difficulty": "Intermediate"
@@ -123,6 +153,8 @@
     "phrase": "Thanks for your support",
     "translations": {
       "es": "Gracias por tu apoyo",
+      "fr": "Merci pour ton soutien",
+      "it": "Grazie per il tuo sostegno",
       "en": "Thanks for your support"
     },
     "difficulty": "Intermediate"
@@ -131,6 +163,8 @@
     "phrase": "I am happy with you",
     "translations": {
       "es": "Estoy feliz contigo",
+      "fr": "Je suis heureux avec toi",
+      "it": "Sono felice con te",
       "en": "I am happy with you"
     },
     "difficulty": "Intermediate"
@@ -139,6 +173,8 @@
     "phrase": "We spend time together",
     "translations": {
       "es": "Pasamos tiempo juntos",
+      "fr": "Nous passons du temps ensemble",
+      "it": "Passiamo del tempo insieme",
       "en": "We spend time together"
     },
     "difficulty": "Intermediate"
@@ -147,6 +183,8 @@
     "phrase": "We share interests",
     "translations": {
       "es": "Compartimos intereses",
+      "fr": "Nous partageons des intérêts",
+      "it": "Condividiamo degli interessi",
       "en": "We share interests"
     },
     "difficulty": "Intermediate"
@@ -155,6 +193,8 @@
     "phrase": "You are important to me",
     "translations": {
       "es": "Eres importante para mí",
+      "fr": "Tu es important pour moi",
+      "it": "Sei importante per me",
       "en": "You are important to me"
     },
     "difficulty": "Intermediate"

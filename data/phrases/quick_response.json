@@ -3,7 +3,9 @@
     "phrase": "Of course",
     "translations": {
       "es": "Claro",
-      "en": "Of course"
+      "en": "Of course",
+      "fr": "Bien sûr",
+      "it": "Certo"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "It depends",
     "translations": {
       "es": "Depende",
-      "en": "It depends"
+      "en": "It depends",
+      "fr": "Ça dépend",
+      "it": "Dipende"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "Maybe",
     "translations": {
       "es": "Puede ser",
-      "en": "Maybe"
+      "en": "Maybe",
+      "fr": "Peut-être",
+      "it": "Può darsi"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "No idea",
     "translations": {
       "es": "Ni idea",
-      "en": "No idea"
+      "en": "No idea",
+      "fr": "Aucune idée",
+      "it": "Nessuna idea"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "Exactly",
     "translations": {
       "es": "Exacto",
-      "en": "Exactly"
+      "en": "Exactly",
+      "fr": "Exactement",
+      "it": "Esatto"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "Exactly / for real",
     "translations": {
       "es": "Tal cual",
-      "en": "Exactly / for real"
+      "en": "Exactly / for real",
+      "fr": "Carrément",
+      "it": "Proprio così"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "Obviously",
     "translations": {
       "es": "Obvio",
-      "en": "Obviously"
+      "en": "Obviously",
+      "fr": "Évidemment",
+      "it": "Ovviamente"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "It might be yes",
     "translations": {
       "es": "Puede ser que sí",
-      "en": "It might be yes"
+      "en": "It might be yes",
+      "fr": "C'est possible que oui",
+      "it": "Può darsi di sì"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "It might be no",
     "translations": {
       "es": "Puede ser que no",
-      "en": "It might be no"
+      "en": "It might be no",
+      "fr": "C'est possible que non",
+      "it": "Può darsi di no"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "More or less",
     "translations": {
       "es": "Más o menos",
-      "en": "More or less"
+      "en": "More or less",
+      "fr": "Plus ou moins",
+      "it": "Più o meno"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "Right away",
     "translations": {
       "es": "De una",
-      "en": "Right away"
+      "en": "Right away",
+      "fr": "Tout de suite",
+      "it": "Subito"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "Go ahead",
     "translations": {
       "es": "Dale",
-      "en": "Go ahead"
+      "en": "Go ahead",
+      "fr": "Vas-y",
+      "it": "Vai pure"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "I see",
     "translations": {
       "es": "Ya veo",
-      "en": "I see"
+      "en": "I see",
+      "fr": "Je vois",
+      "it": "Capisco"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "Makes sense",
     "translations": {
       "es": "Tiene sentido",
-      "en": "Makes sense"
+      "en": "Makes sense",
+      "fr": "Ça a du sens",
+      "it": "Ha senso"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "Not really",
     "translations": {
       "es": "No tanto",
-      "en": "Not really"
+      "en": "Not really",
+      "fr": "Pas vraiment",
+      "it": "Non proprio"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "It could be better",
     "translations": {
       "es": "Puede ser mejor",
-      "en": "It could be better"
+      "en": "It could be better",
+      "fr": "Ça pourrait être mieux",
+      "it": "Potrebbe essere meglio"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "It's fine like that",
     "translations": {
       "es": "Está bien así",
-      "en": "It's fine like that"
+      "en": "It's fine like that",
+      "fr": "C'est bien comme ça",
+      "it": "Va bene così"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "It doesn't matter",
     "translations": {
       "es": "No importa",
-      "en": "It doesn't matter"
+      "en": "It doesn't matter",
+      "fr": "Ça ne fait rien",
+      "it": "Non importa"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "Forget it",
     "translations": {
       "es": "Olvídalo",
-      "en": "Forget it"
+      "en": "Forget it",
+      "fr": "Laisse tomber",
+      "it": "Lascia perdere"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "It's over / done",
     "translations": {
       "es": "Ya fue",
-      "en": "It's over / done"
+      "en": "It's over / done",
+      "fr": "C'est fini",
+      "it": "È finita"
     },
     "difficulty": "Advanced"
   }

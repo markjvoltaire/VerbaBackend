@@ -3,7 +3,9 @@
     "phrase": "Life is unpredictable",
     "translations": {
       "es": "La vida es impredecible",
-      "en": "Life is unpredictable"
+      "en": "Life is unpredictable",
+      "fr": "La vie est imprévisible",
+      "it": "La vita è imprevedibile"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "Everything has a purpose",
     "translations": {
       "es": "Todo tiene un propósito",
-      "en": "Everything has a purpose"
+      "en": "Everything has a purpose",
+      "fr": "Tout a un but",
+      "it": "Tutto ha uno scopo"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "Nothing is permanent",
     "translations": {
       "es": "Nada es permanente",
-      "en": "Nothing is permanent"
+      "en": "Nothing is permanent",
+      "fr": "Rien n'est permanent",
+      "it": "Niente è permanente"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "Time is valuable",
     "translations": {
       "es": "El tiempo es valioso",
-      "en": "Time is valuable"
+      "en": "Time is valuable",
+      "fr": "Le temps est précieux",
+      "it": "Il tempo è prezioso"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "Reality is subjective",
     "translations": {
       "es": "La realidad es subjetiva",
-      "en": "Reality is subjective"
+      "en": "Reality is subjective",
+      "fr": "La réalité est subjective",
+      "it": "La realtà è soggettiva"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "Truth is relative",
     "translations": {
       "es": "La verdad es relativa",
-      "en": "Truth is relative"
+      "en": "Truth is relative",
+      "fr": "La vérité est relative",
+      "it": "La verità è relativa"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "Everything is connected",
     "translations": {
       "es": "Todo está conectado",
-      "en": "Everything is connected"
+      "en": "Everything is connected",
+      "fr": "Tout est lié",
+      "it": "Tutto è collegato"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "Change is inevitable",
     "translations": {
       "es": "El cambio es inevitable",
-      "en": "Change is inevitable"
+      "en": "Change is inevitable",
+      "fr": "Le changement est inévitable",
+      "it": "Il cambiamento è inevitabile"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "The mind is powerful",
     "translations": {
       "es": "La mente es poderosa",
-      "en": "The mind is powerful"
+      "en": "The mind is powerful",
+      "fr": "L'esprit est puissant",
+      "it": "La mente è potente"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "Knowledge is power",
     "translations": {
       "es": "El conocimiento es poder",
-      "en": "Knowledge is power"
+      "en": "Knowledge is power",
+      "fr": "Le savoir, c'est le pouvoir",
+      "it": "La conoscenza è potere"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "Freedom is essential",
     "translations": {
       "es": "La libertad es esencial",
-      "en": "Freedom is essential"
+      "en": "Freedom is essential",
+      "fr": "La liberté est essentielle",
+      "it": "La libertà è essenziale"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "Happiness is a choice",
     "translations": {
       "es": "La felicidad es una elección",
-      "en": "Happiness is a choice"
+      "en": "Happiness is a choice",
+      "fr": "Le bonheur est un choix",
+      "it": "La felicità è una scelta"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "Suffering teaches",
     "translations": {
       "es": "El sufrimiento enseña",
-      "en": "Suffering teaches"
+      "en": "Suffering teaches",
+      "fr": "La souffrance enseigne",
+      "it": "La sofferenza insegna"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "Balance is important",
     "translations": {
       "es": "El equilibrio es importante",
-      "en": "Balance is important"
+      "en": "Balance is important",
+      "fr": "L'équilibre est important",
+      "it": "L'equilibrio è importante"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "Everything has consequences",
     "translations": {
       "es": "Todo tiene consecuencias",
-      "en": "Everything has consequences"
+      "en": "Everything has consequences",
+      "fr": "Tout a des conséquences",
+      "it": "Tutto ha delle conseguenze"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "Intention matters",
     "translations": {
       "es": "La intención importa",
-      "en": "Intention matters"
+      "en": "Intention matters",
+      "fr": "L'intention compte",
+      "it": "L'intenzione conta"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "Silence also communicates",
     "translations": {
       "es": "El silencio también comunica",
-      "en": "Silence also communicates"
+      "en": "Silence also communicates",
+      "fr": "Le silence communique aussi",
+      "it": "Anche il silenzio comunica"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "Perception defines reality",
     "translations": {
       "es": "La percepción define la realidad",
-      "en": "Perception defines reality"
+      "en": "Perception defines reality",
+      "fr": "La perception définit la réalité",
+      "it": "La percezione definisce la realtà"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "Experience shapes character",
     "translations": {
       "es": "La experiencia forma el carácter",
-      "en": "Experience shapes character"
+      "en": "Experience shapes character",
+      "fr": "L'expérience forge le caractère",
+      "it": "L'esperienza forma il carattere"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "Thought creates action",
     "translations": {
       "es": "El pensamiento crea acción",
-      "en": "Thought creates action"
+      "en": "Thought creates action",
+      "fr": "La pensée crée l'action",
+      "it": "Il pensiero crea l'azione"
     },
     "difficulty": "Advanced"
   }

@@ -3,7 +3,9 @@
     "phrase": "The truth is that",
     "translations": {
       "es": "La verdad es que",
-      "en": "The truth is that"
+      "en": "The truth is that",
+      "fr": "La vérité c'est que",
+      "it": "La verità è che"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "I'll tell you the truth",
     "translations": {
       "es": "Te digo la verdad",
-      "en": "I'll tell you the truth"
+      "en": "I'll tell you the truth",
+      "fr": "Je te dis la vérité",
+      "it": "Ti dico la verità"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "If I'm being honest",
     "translations": {
       "es": "Si te soy sincero",
-      "en": "If I'm being honest"
+      "en": "If I'm being honest",
+      "fr": "Si je suis honnête",
+      "it": "Se devo essere sincero"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "To be honest with you",
     "translations": {
       "es": "Para serte honesto",
-      "en": "To be honest with you"
+      "en": "To be honest with you",
+      "fr": "Pour être honnête avec toi",
+      "it": "A essere onesto con te"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "I'm not going to lie to you",
     "translations": {
       "es": "No te voy a mentir",
-      "en": "I'm not going to lie to you"
+      "en": "I'm not going to lie to you",
+      "fr": "Je ne vais pas te mentir",
+      "it": "Non ti mentirò"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "Let me explain",
     "translations": {
       "es": "Te explico",
-      "en": "Let me explain"
+      "en": "Let me explain",
+      "fr": "Laisse-moi t'expliquer",
+      "it": "Lascia che ti spieghi"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "Look",
     "translations": {
       "es": "Mira",
-      "en": "Look"
+      "en": "Look",
+      "fr": "Regarde",
+      "it": "Guarda"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "The problem is",
     "translations": {
       "es": "Es que el problema es",
-      "en": "The problem is"
+      "en": "The problem is",
+      "fr": "Le problème c'est que",
+      "it": "Il problema è che"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "What happens is that",
     "translations": {
       "es": "Lo que pasa es que",
-      "en": "What happens is that"
+      "en": "What happens is that",
+      "fr": "Ce qui se passe c'est que",
+      "it": "Quello che succede è che"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "At the end of the day",
     "translations": {
       "es": "Al final",
-      "en": "At the end of the day"
+      "en": "At the end of the day",
+      "fr": "Au bout du compte",
+      "it": "Alla fine dei conti"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "So of course",
     "translations": {
       "es": "Entonces claro",
-      "en": "So of course"
+      "en": "So of course",
+      "fr": "Alors bien sûr",
+      "it": "Quindi ovviamente"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "And yeah / anyway",
     "translations": {
       "es": "Y nada",
-      "en": "And yeah / anyway"
+      "en": "And yeah / anyway",
+      "fr": "Et voilà / bref",
+      "it": "E niente / insomma"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "So basically",
     "translations": {
       "es": "Total",
-      "en": "So basically"
+      "en": "So basically",
+      "fr": "En gros",
+      "it": "In pratica"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "Like / kind of",
     "translations": {
       "es": "En plan",
-      "en": "Like / kind of"
+      "en": "Like / kind of",
+      "fr": "Genre / en quelque sorte",
+      "it": "Tipo / in un certo senso"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "You know what I mean?",
     "translations": {
       "es": "¿Sabes lo que te digo?",
-      "en": "You know what I mean?"
+      "en": "You know what I mean?",
+      "fr": "Tu vois ce que je veux dire ?",
+      "it": "Capisci cosa intendo?"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "Do I make myself clear?",
     "translations": {
       "es": "¿Me explico?",
-      "en": "Do I make myself clear?"
+      "en": "Do I make myself clear?",
+      "fr": "Est-ce que je suis clair ?",
+      "it": "Mi spiego?"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "So that means",
     "translations": {
       "es": "O sea que",
-      "en": "So that means"
+      "en": "So that means",
+      "fr": "Ce qui veut dire que",
+      "it": "Cioè vuol dire che"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "At the same time",
     "translations": {
       "es": "Al mismo tiempo",
-      "en": "At the same time"
+      "en": "At the same time",
+      "fr": "En même temps",
+      "it": "Allo stesso tempo"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "That's exactly why",
     "translations": {
       "es": "Por eso mismo",
-      "en": "That's exactly why"
+      "en": "That's exactly why",
+      "fr": "C'est exactement pour ça",
+      "it": "È proprio per questo"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "And that's it",
     "translations": {
       "es": "Y ya está",
-      "en": "And that's it"
+      "en": "And that's it",
+      "fr": "Et c'est tout",
+      "it": "E basta così"
     },
     "difficulty": "Advanced"
   },
@@ -163,7 +203,9 @@
     "phrase": "I'm going to practice today",
     "translations": {
       "es": "Voy a practicar hoy",
-      "en": "I'm going to practice today"
+      "en": "I'm going to practice today",
+      "fr": "Je vais m'entraîner aujourd'hui",
+      "it": "Oggi mi eserciterò"
     },
     "difficulty": "Advanced"
   },
@@ -171,7 +213,9 @@
     "phrase": "I am improving",
     "translations": {
       "es": "Estoy mejorando",
-      "en": "I am improving"
+      "en": "I am improving",
+      "fr": "Je m'améliore",
+      "it": "Sto migliorando"
     },
     "difficulty": "Advanced"
   },
@@ -179,7 +223,9 @@
     "phrase": "Every day I learn more",
     "translations": {
       "es": "Cada día aprendo más",
-      "en": "Every day I learn more"
+      "en": "Every day I learn more",
+      "fr": "Chaque jour j'apprends davantage",
+      "it": "Ogni giorno imparo di più"
     },
     "difficulty": "Advanced"
   },
@@ -187,7 +233,9 @@
     "phrase": "I want to speak more",
     "translations": {
       "es": "Quiero hablar más",
-      "en": "I want to speak more"
+      "en": "I want to speak more",
+      "fr": "Je veux parler davantage",
+      "it": "Voglio parlare di più"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +243,9 @@
     "phrase": "I am gaining confidence",
     "translations": {
       "es": "Estoy ganando confianza",
-      "en": "I am gaining confidence"
+      "en": "I am gaining confidence",
+      "fr": "Je prends confiance",
+      "it": "Sto acquistando sicurezza"
     },
     "difficulty": "Advanced"
   },
@@ -203,7 +253,9 @@
     "phrase": "I feel more comfortable",
     "translations": {
       "es": "Me siento más cómodo",
-      "en": "I feel more comfortable"
+      "en": "I feel more comfortable",
+      "fr": "Je me sens plus à l'aise",
+      "it": "Mi sento più a mio agio"
     },
     "difficulty": "Advanced"
   },
@@ -211,7 +263,9 @@
     "phrase": "I understand better now",
     "translations": {
       "es": "Ya entiendo mejor",
-      "en": "I understand better now"
+      "en": "I understand better now",
+      "fr": "Je comprends mieux maintenant",
+      "it": "Adesso capisco meglio"
     },
     "difficulty": "Advanced"
   },
@@ -219,7 +273,9 @@
     "phrase": "I can hold a conversation",
     "translations": {
       "es": "Puedo mantener una conversación",
-      "en": "I can hold a conversation"
+      "en": "I can hold a conversation",
+      "fr": "Je peux tenir une conversation",
+      "it": "Riesco a sostenere una conversazione"
     },
     "difficulty": "Advanced"
   },
@@ -227,7 +283,9 @@
     "phrase": "I still make mistakes",
     "translations": {
       "es": "Todavía cometo errores",
-      "en": "I still make mistakes"
+      "en": "I still make mistakes",
+      "fr": "Je fais encore des erreurs",
+      "it": "Faccio ancora degli errori"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +293,9 @@
     "phrase": "But I keep progressing",
     "translations": {
       "es": "Pero sigo avanzando",
-      "en": "But I keep progressing"
+      "en": "But I keep progressing",
+      "fr": "Mais je continue à progresser",
+      "it": "Ma continuo a fare progressi"
     },
     "difficulty": "Advanced"
   },
@@ -243,7 +303,9 @@
     "phrase": "I don't give up",
     "translations": {
       "es": "No me rindo",
-      "en": "I don't give up"
+      "en": "I don't give up",
+      "fr": "Je ne lâche pas",
+      "it": "Non mi arrendo"
     },
     "difficulty": "Advanced"
   },
@@ -251,7 +313,9 @@
     "phrase": "I am motivated",
     "translations": {
       "es": "Estoy motivado",
-      "en": "I am motivated"
+      "en": "I am motivated",
+      "fr": "Je suis motivé",
+      "it": "Sono motivato"
     },
     "difficulty": "Advanced"
   },
@@ -259,7 +323,9 @@
     "phrase": "I want to be fluent",
     "translations": {
       "es": "Quiero ser fluido",
-      "en": "I want to be fluent"
+      "en": "I want to be fluent",
+      "fr": "Je veux parler couramment",
+      "it": "Voglio parlare correntemente"
     },
     "difficulty": "Advanced"
   },
@@ -267,7 +333,9 @@
     "phrase": "I'm close to achieving it",
     "translations": {
       "es": "Estoy cerca de lograrlo",
-      "en": "I'm close to achieving it"
+      "en": "I'm close to achieving it",
+      "fr": "Je suis près d'y arriver",
+      "it": "Sono vicino a riuscirci"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +343,9 @@
     "phrase": "I will keep practicing",
     "translations": {
       "es": "Voy a seguir practicando",
-      "en": "I will keep practicing"
+      "en": "I will keep practicing",
+      "fr": "Je vais continuer à m'entraîner",
+      "it": "Continuerò a esercitarmi"
     },
     "difficulty": "Advanced"
   },
@@ -283,7 +353,9 @@
     "phrase": "It's part of the process",
     "translations": {
       "es": "Es parte del proceso",
-      "en": "It's part of the process"
+      "en": "It's part of the process",
+      "fr": "Ça fait partie du processus",
+      "it": "Fa parte del processo"
     },
     "difficulty": "Advanced"
   },
@@ -291,7 +363,9 @@
     "phrase": "Everything adds up",
     "translations": {
       "es": "Todo suma",
-      "en": "Everything adds up"
+      "en": "Everything adds up",
+      "fr": "Tout compte",
+      "it": "Tutto contribuisce"
     },
     "difficulty": "Advanced"
   },
@@ -299,7 +373,9 @@
     "phrase": "I am progressing quickly",
     "translations": {
       "es": "Estoy avanzando rápido",
-      "en": "I am progressing quickly"
+      "en": "I am progressing quickly",
+      "fr": "Je progresse vite",
+      "it": "Sto progredendo rapidamente"
     },
     "difficulty": "Advanced"
   },
@@ -307,7 +383,9 @@
     "phrase": "It feels easier",
     "translations": {
       "es": "Se siente más fácil",
-      "en": "It feels easier"
+      "en": "It feels easier",
+      "fr": "Ça semble plus facile",
+      "it": "Sembra più facile"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +393,9 @@
     "phrase": "I can already think in Spanish",
     "translations": {
       "es": "Ya puedo pensar en español",
-      "en": "I can already think in Spanish"
+      "en": "I can already think in Spanish",
+      "fr": "J'arrive déjà à penser en espagnol",
+      "it": "Riesco già a pensare in spagnolo"
     },
     "difficulty": "Advanced"
   }

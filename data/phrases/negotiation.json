@@ -3,7 +3,9 @@
     "phrase": "Can we negotiate?",
     "translations": {
       "es": "¿Podemos negociar?",
-      "en": "Can we negotiate?"
+      "en": "Can we negotiate?",
+      "fr": "On peut négocier ?",
+      "it": "Possiamo negoziare?"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "It is too expensive",
     "translations": {
       "es": "Es muy caro",
-      "en": "It is too expensive"
+      "en": "It is too expensive",
+      "fr": "C'est trop cher",
+      "it": "È troppo caro"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "Can you lower the price?",
     "translations": {
       "es": "¿Puedes bajar el precio?",
-      "en": "Can you lower the price?"
+      "en": "Can you lower the price?",
+      "fr": "Tu peux baisser le prix ?",
+      "it": "Puoi abbassare il prezzo?"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "This is my best offer",
     "translations": {
       "es": "Es mi mejor oferta",
-      "en": "This is my best offer"
+      "en": "This is my best offer",
+      "fr": "C'est ma meilleure offre",
+      "it": "Questa è la mia migliore offerta"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I can't pay that",
     "translations": {
       "es": "No puedo pagar eso",
-      "en": "I can't pay that"
+      "en": "I can't pay that",
+      "fr": "Je ne peux pas payer ça",
+      "it": "Non posso pagare così tanto"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "It is too much",
     "translations": {
       "es": "Es demasiado",
-      "en": "It is too much"
+      "en": "It is too much",
+      "fr": "C'est trop",
+      "it": "È troppo"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "I offer you this",
     "translations": {
       "es": "Te ofrezco esto",
-      "en": "I offer you this"
+      "en": "I offer you this",
+      "fr": "Je te propose ceci",
+      "it": "Ti offro questo"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "Do you accept?",
     "translations": {
       "es": "¿Aceptas?",
-      "en": "Do you accept?"
+      "en": "Do you accept?",
+      "fr": "Tu acceptes ?",
+      "it": "Accetti?"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "I can't accept",
     "translations": {
       "es": "No puedo aceptar",
-      "en": "I can't accept"
+      "en": "I can't accept",
+      "fr": "Je ne peux pas accepter",
+      "it": "Non posso accettare"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "We can reach an agreement",
     "translations": {
       "es": "Podemos llegar a un acuerdo",
-      "en": "We can reach an agreement"
+      "en": "We can reach an agreement",
+      "fr": "On peut trouver un accord",
+      "it": "Possiamo trovare un accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "It is a good price",
     "translations": {
       "es": "Es un buen precio",
-      "en": "It is a good price"
+      "en": "It is a good price",
+      "fr": "C'est un bon prix",
+      "it": "È un buon prezzo"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "It is not a good price",
     "translations": {
       "es": "No es un buen precio",
-      "en": "It is not a good price"
+      "en": "It is not a good price",
+      "fr": "Ce n'est pas un bon prix",
+      "it": "Non è un buon prezzo"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "What is your final offer?",
     "translations": {
       "es": "¿Cuál es tu última oferta?",
-      "en": "What is your final offer?"
+      "en": "What is your final offer?",
+      "fr": "Quelle est ton offre finale ?",
+      "it": "Qual è la tua offerta finale?"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I am interested",
     "translations": {
       "es": "Estoy interesado",
-      "en": "I am interested"
+      "en": "I am interested",
+      "fr": "Je suis intéressé",
+      "it": "Sono interessato"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "I am not interested",
     "translations": {
       "es": "No estoy interesado",
-      "en": "I am not interested"
+      "en": "I am not interested",
+      "fr": "Je ne suis pas intéressé",
+      "it": "Non sono interessato"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I need to think about it",
     "translations": {
       "es": "Necesito pensarlo",
-      "en": "I need to think about it"
+      "en": "I need to think about it",
+      "fr": "J'ai besoin d'y réfléchir",
+      "it": "Devo pensarci"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is a good offer",
     "translations": {
       "es": "Es una buena oferta",
-      "en": "It is a good offer"
+      "en": "It is a good offer",
+      "fr": "C'est une bonne offre",
+      "it": "È una buona offerta"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "It is not enough",
     "translations": {
       "es": "No es suficiente",
-      "en": "It is not enough"
+      "en": "It is not enough",
+      "fr": "Ce n'est pas suffisant",
+      "it": "Non è sufficiente"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "We can talk more",
     "translations": {
       "es": "Podemos hablar más",
-      "en": "We can talk more"
+      "en": "We can talk more",
+      "fr": "On peut en discuter davantage",
+      "it": "Possiamo parlarne ancora"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "We reached an agreement",
     "translations": {
       "es": "Llegamos a un acuerdo",
-      "en": "We reached an agreement"
+      "en": "We reached an agreement",
+      "fr": "Nous avons trouvé un accord",
+      "it": "Abbiamo raggiunto un accordo"
     },
     "difficulty": "Intermediate"
   }

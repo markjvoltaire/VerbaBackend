@@ -3,7 +3,9 @@
     "phrase": "I need a lawyer",
     "translations": {
       "es": "Necesito un abogado",
-      "en": "I need a lawyer"
+      "en": "I need a lawyer",
+      "fr": "J'ai besoin d'un avocat",
+      "it": "Ho bisogno di un avvocato"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "It is a legal matter",
     "translations": {
       "es": "Es un asunto legal",
-      "en": "It is a legal matter"
+      "en": "It is a legal matter",
+      "fr": "C'est une affaire juridique",
+      "it": "È una questione legale"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I have an appointment",
     "translations": {
       "es": "Tengo una cita",
-      "en": "I have an appointment"
+      "en": "I have an appointment",
+      "fr": "J'ai un rendez-vous",
+      "it": "Ho un appuntamento"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "I need to sign",
     "translations": {
       "es": "Necesito firmar",
-      "en": "I need to sign"
+      "en": "I need to sign",
+      "fr": "Je dois signer",
+      "it": "Devo firmare"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "Read the document",
     "translations": {
       "es": "Lee el documento",
-      "en": "Read the document"
+      "en": "Read the document",
+      "fr": "Lis le document",
+      "it": "Leggi il documento"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I don't understand this",
     "translations": {
       "es": "No entiendo esto",
-      "en": "I don't understand this"
+      "en": "I don't understand this",
+      "fr": "Je ne comprends pas ceci",
+      "it": "Non capisco questo"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "Explain it please",
     "translations": {
       "es": "Explícalo por favor",
-      "en": "Explain it please"
+      "en": "Explain it please",
+      "fr": "Explique-le s'il te plaît",
+      "it": "Spiegalo per favore"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "It is important",
     "translations": {
       "es": "Es importante",
-      "en": "It is important"
+      "en": "It is important",
+      "fr": "C'est important",
+      "it": "È importante"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "It is mandatory",
     "translations": {
       "es": "Es obligatorio",
-      "en": "It is mandatory"
+      "en": "It is mandatory",
+      "fr": "C'est obligatoire",
+      "it": "È obbligatorio"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I agree",
     "translations": {
       "es": "Estoy de acuerdo",
-      "en": "I agree"
+      "en": "I agree",
+      "fr": "Je suis d'accord",
+      "it": "Sono d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I do not agree",
     "translations": {
       "es": "No estoy de acuerdo",
-      "en": "I do not agree"
+      "en": "I do not agree",
+      "fr": "Je ne suis pas d'accord",
+      "it": "Non sono d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I need more information",
     "translations": {
       "es": "Necesito más información",
-      "en": "I need more information"
+      "en": "I need more information",
+      "fr": "J'ai besoin de plus d'informations",
+      "it": "Ho bisogno di più informazioni"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "It is a contract",
     "translations": {
       "es": "Es un contrato",
-      "en": "It is a contract"
+      "en": "It is a contract",
+      "fr": "C'est un contrat",
+      "it": "È un contratto"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I must review this",
     "translations": {
       "es": "Debo revisar esto",
-      "en": "I must review this"
+      "en": "I must review this",
+      "fr": "Je dois examiner ceci",
+      "it": "Devo esaminare questo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "It is confidential",
     "translations": {
       "es": "Es confidencial",
-      "en": "It is confidential"
+      "en": "It is confidential",
+      "fr": "C'est confidentiel",
+      "it": "È confidenziale"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "I need time",
     "translations": {
       "es": "Necesito tiempo",
-      "en": "I need time"
+      "en": "I need time",
+      "fr": "J'ai besoin de temps",
+      "it": "Ho bisogno di tempo"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "I agree with the terms",
     "translations": {
       "es": "Estoy de acuerdo con los términos",
-      "en": "I agree with the terms"
+      "en": "I agree with the terms",
+      "fr": "J'accepte les conditions",
+      "it": "Accetto i termini"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "I do not accept the terms",
     "translations": {
       "es": "No acepto los términos",
-      "en": "I do not accept the terms"
+      "en": "I do not accept the terms",
+      "fr": "Je n'accepte pas les conditions",
+      "it": "Non accetto i termini"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "Where do I sign?",
     "translations": {
       "es": "¿Dónde firmo?",
-      "en": "Where do I sign?"
+      "en": "Where do I sign?",
+      "fr": "Où est-ce que je signe ?",
+      "it": "Dove devo firmare?"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "Everything is clear",
     "translations": {
       "es": "Todo está claro",
-      "en": "Everything is clear"
+      "en": "Everything is clear",
+      "fr": "Tout est clair",
+      "it": "Tutto è chiaro"
     },
     "difficulty": "Intermediate"
   }

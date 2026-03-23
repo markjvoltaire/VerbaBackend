@@ -3,7 +3,9 @@
     "phrase": "However",
     "translations": {
       "es": "Sin embargo",
-      "en": "However"
+      "en": "However",
+      "fr": "Cependant",
+      "it": "Tuttavia"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "Therefore",
     "translations": {
       "es": "Por lo tanto",
-      "en": "Therefore"
+      "en": "Therefore",
+      "fr": "Par conséquent",
+      "it": "Pertanto"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "Despite that",
     "translations": {
       "es": "A pesar de eso",
-      "en": "Despite that"
+      "en": "Despite that",
+      "fr": "Malgré cela",
+      "it": "Nonostante ciò"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "On the other hand",
     "translations": {
       "es": "Por otro lado",
-      "en": "On the other hand"
+      "en": "On the other hand",
+      "fr": "D'un autre côté",
+      "it": "D'altra parte"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "Instead",
     "translations": {
       "es": "En cambio",
-      "en": "Instead"
+      "en": "Instead",
+      "fr": "En revanche",
+      "it": "Invece"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "Additionally",
     "translations": {
       "es": "Además",
-      "en": "Additionally"
+      "en": "Additionally",
+      "fr": "De plus",
+      "it": "Inoltre"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "Likewise",
     "translations": {
       "es": "Asimismo",
-      "en": "Likewise"
+      "en": "Likewise",
+      "fr": "De même",
+      "it": "Allo stesso modo"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "In fact",
     "translations": {
       "es": "De hecho",
-      "en": "In fact"
+      "en": "In fact",
+      "fr": "En fait",
+      "it": "In effetti"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "That is to say",
     "translations": {
       "es": "Es decir",
-      "en": "That is to say"
+      "en": "That is to say",
+      "fr": "C'est-à-dire",
+      "it": "Vale a dire"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "In other words",
     "translations": {
       "es": "En otras palabras",
-      "en": "In other words"
+      "en": "In other words",
+      "fr": "Autrement dit",
+      "it": "In altre parole"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "For example",
     "translations": {
       "es": "Por ejemplo",
-      "en": "For example"
+      "en": "For example",
+      "fr": "Par exemple",
+      "it": "Per esempio"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "In summary",
     "translations": {
       "es": "En resumen",
-      "en": "In summary"
+      "en": "In summary",
+      "fr": "En résumé",
+      "it": "In sintesi"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "Ultimately",
     "translations": {
       "es": "En definitiva",
-      "en": "Ultimately"
+      "en": "Ultimately",
+      "fr": "En fin de compte",
+      "it": "In definitiva"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "In the long term",
     "translations": {
       "es": "A largo plazo",
-      "en": "In the long term"
+      "en": "In the long term",
+      "fr": "À long terme",
+      "it": "A lungo termine"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "In the short term",
     "translations": {
       "es": "A corto plazo",
-      "en": "In the short term"
+      "en": "In the short term",
+      "fr": "À court terme",
+      "it": "A breve termine"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "At the same time",
     "translations": {
       "es": "Al mismo tiempo",
-      "en": "At the same time"
+      "en": "At the same time",
+      "fr": "En même temps",
+      "it": "Allo stesso tempo"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "In that sense",
     "translations": {
       "es": "En ese sentido",
-      "en": "In that sense"
+      "en": "In that sense",
+      "fr": "Dans ce sens",
+      "it": "In quel senso"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "Certainly",
     "translations": {
       "es": "Desde luego",
-      "en": "Certainly"
+      "en": "Certainly",
+      "fr": "Certainement",
+      "it": "Certamente"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "Consequently",
     "translations": {
       "es": "Por consiguiente",
-      "en": "Consequently"
+      "en": "Consequently",
+      "fr": "Par conséquent",
+      "it": "Di conseguenza"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "That being said",
     "translations": {
       "es": "Dicho esto",
-      "en": "That being said"
+      "en": "That being said",
+      "fr": "Cela dit",
+      "it": "Ciò detto"
     },
     "difficulty": "Advanced"
   }

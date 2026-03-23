@@ -3,7 +3,9 @@
     "phrase": "You should try it",
     "translations": {
       "es": "Deberías intentarlo",
-      "en": "You should try it"
+      "en": "You should try it",
+      "fr": "Tu devrais essayer",
+      "it": "Dovresti provarlo"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I recommend this",
     "translations": {
       "es": "Te recomiendo esto",
-      "en": "I recommend this"
+      "en": "I recommend this",
+      "fr": "Je recommande cela",
+      "it": "Ti consiglio questo"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "It's better to do it this way",
     "translations": {
       "es": "Es mejor hacerlo así",
-      "en": "It's better to do it this way"
+      "en": "It's better to do it this way",
+      "fr": "Il vaut mieux le faire de cette façon",
+      "it": "È meglio farlo in questo modo"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "You shouldn't do it",
     "translations": {
       "es": "No deberías hacerlo",
-      "en": "You shouldn't do it"
+      "en": "You shouldn't do it",
+      "fr": "Tu ne devrais pas le faire",
+      "it": "Non dovresti farlo"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "You have to study more",
     "translations": {
       "es": "Tienes que estudiar más",
-      "en": "You have to study more"
+      "en": "You have to study more",
+      "fr": "Tu dois étudier plus",
+      "it": "Devi studiare di più"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "It is important to practice",
     "translations": {
       "es": "Es importante practicar",
-      "en": "It is important to practice"
+      "en": "It is important to practice",
+      "fr": "Il est important de pratiquer",
+      "it": "È importante praticare"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "I suggest you rest",
     "translations": {
       "es": "Te sugiero descansar",
-      "en": "I suggest you rest"
+      "en": "I suggest you rest",
+      "fr": "Je te suggère de te reposer",
+      "it": "Ti suggerisco di riposarti"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "Try to do it better",
     "translations": {
       "es": "Intenta hacerlo mejor",
-      "en": "Try to do it better"
+      "en": "Try to do it better",
+      "fr": "Essaie de le faire mieux",
+      "it": "Cerca di farlo meglio"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "Don't forget to study",
     "translations": {
       "es": "No olvides estudiar",
-      "en": "Don't forget to study"
+      "en": "Don't forget to study",
+      "fr": "N'oublie pas d'étudier",
+      "it": "Non dimenticare di studiare"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "You must be patient",
     "translations": {
       "es": "Debes ser paciente",
-      "en": "You must be patient"
+      "en": "You must be patient",
+      "fr": "Tu dois être patient",
+      "it": "Devi essere paziente"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "It's a good idea to start now",
     "translations": {
       "es": "Es buena idea empezar ahora",
-      "en": "It's a good idea to start now"
+      "en": "It's a good idea to start now",
+      "fr": "C'est une bonne idée de commencer maintenant",
+      "it": "È una buona idea iniziare ora"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "It's better to wait",
     "translations": {
       "es": "Es mejor esperar",
-      "en": "It's better to wait"
+      "en": "It's better to wait",
+      "fr": "Il vaut mieux attendre",
+      "it": "È meglio aspettare"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "It's not worth it",
     "translations": {
       "es": "No vale la pena",
-      "en": "It's not worth it"
+      "en": "It's not worth it",
+      "fr": "Ça ne vaut pas le coup",
+      "it": "Non ne vale la pena"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "It's worth trying",
     "translations": {
       "es": "Vale la pena intentarlo",
-      "en": "It's worth trying"
+      "en": "It's worth trying",
+      "fr": "Ça vaut la peine d'essayer",
+      "it": "Vale la pena provare"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "Do it calmly",
     "translations": {
       "es": "Hazlo con calma",
-      "en": "Do it calmly"
+      "en": "Do it calmly",
+      "fr": "Fais-le calmement",
+      "it": "Fallo con calma"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "Think before acting",
     "translations": {
       "es": "Piensa antes de actuar",
-      "en": "Think before acting"
+      "en": "Think before acting",
+      "fr": "Pense avant d'agir",
+      "it": "Pensa prima di agire"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "Listen carefully",
     "translations": {
       "es": "Escucha bien",
-      "en": "Listen carefully"
+      "en": "Listen carefully",
+      "fr": "Écoute attentivement",
+      "it": "Ascolta attentamente"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "Practice every day",
     "translations": {
       "es": "Practica todos los días",
-      "en": "Practice every day"
+      "en": "Practice every day",
+      "fr": "Pratique tous les jours",
+      "it": "Pratica ogni giorno"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "Don't give up",
     "translations": {
       "es": "No te rindas",
-      "en": "Don't give up"
+      "en": "Don't give up",
+      "fr": "N'abandonne pas",
+      "it": "Non mollare"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "Keep going",
     "translations": {
       "es": "Sigue adelante",
-      "en": "Keep going"
+      "en": "Keep going",
+      "fr": "Continue",
+      "it": "Vai avanti"
     },
     "difficulty": "Intermediate"
   }

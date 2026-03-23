@@ -3,7 +3,9 @@
     "phrase": "red",
     "translations": {
       "es": "rojo",
-      "en": "red"
+      "en": "red",
+      "fr": "rouge",
+      "it": "rosso"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "blue",
     "translations": {
       "es": "azul",
-      "en": "blue"
+      "en": "blue",
+      "fr": "bleu",
+      "it": "blu"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "green",
     "translations": {
       "es": "verde",
-      "en": "green"
+      "en": "green",
+      "fr": "vert",
+      "it": "verde"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "yellow",
     "translations": {
       "es": "amarillo",
-      "en": "yellow"
+      "en": "yellow",
+      "fr": "jaune",
+      "it": "giallo"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "black",
     "translations": {
       "es": "negro",
-      "en": "black"
+      "en": "black",
+      "fr": "noir",
+      "it": "nero"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "white",
     "translations": {
       "es": "blanco",
-      "en": "white"
+      "en": "white",
+      "fr": "blanc",
+      "it": "bianco"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "gray",
     "translations": {
       "es": "gris",
-      "en": "gray"
+      "en": "gray",
+      "fr": "gris",
+      "it": "grigio"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "orange",
     "translations": {
       "es": "naranja",
-      "en": "orange"
+      "en": "orange",
+      "fr": "orange",
+      "it": "arancione"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "purple",
     "translations": {
       "es": "morado",
-      "en": "purple"
+      "en": "purple",
+      "fr": "violet",
+      "it": "viola"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "pink",
     "translations": {
       "es": "rosa",
-      "en": "pink"
+      "en": "pink",
+      "fr": "rose",
+      "it": "rosa"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "The car is red",
     "translations": {
       "es": "El coche es rojo",
-      "en": "The car is red"
+      "en": "The car is red",
+      "fr": "La voiture est rouge",
+      "it": "L'auto è rossa"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "I like blue",
     "translations": {
       "es": "Me gusta el azul",
-      "en": "I like blue"
+      "en": "I like blue",
+      "fr": "J'aime le bleu",
+      "it": "Mi piace il blu"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "The house is white",
     "translations": {
       "es": "La casa es blanca",
-      "en": "The house is white"
+      "en": "The house is white",
+      "fr": "La maison est blanche",
+      "it": "La casa è bianca"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "The sky is blue",
     "translations": {
       "es": "El cielo es azul",
-      "en": "The sky is blue"
+      "en": "The sky is blue",
+      "fr": "Le ciel est bleu",
+      "it": "Il cielo è blu"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "The grass is green",
     "translations": {
       "es": "La hierba es verde",
-      "en": "The grass is green"
+      "en": "The grass is green",
+      "fr": "L'herbe est verte",
+      "it": "L'erba è verde"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "The sun is yellow",
     "translations": {
       "es": "El sol es amarillo",
-      "en": "The sun is yellow"
+      "en": "The sun is yellow",
+      "fr": "Le soleil est jaune",
+      "it": "Il sole è giallo"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I prefer black",
     "translations": {
       "es": "Prefiero el negro",
-      "en": "I prefer black"
+      "en": "I prefer black",
+      "fr": "Je préfère le noir",
+      "it": "Preferisco il nero"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "The dress is pink",
     "translations": {
       "es": "El vestido es rosa",
-      "en": "The dress is pink"
+      "en": "The dress is pink",
+      "fr": "La robe est rose",
+      "it": "Il vestito è rosa"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is gray colored",
     "translations": {
       "es": "Es de color gris",
-      "en": "It is gray colored"
+      "en": "It is gray colored",
+      "fr": "C'est de couleur grise",
+      "it": "È di colore grigio"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "What color is it?",
     "translations": {
       "es": "¿Qué color es?",
-      "en": "What color is it?"
+      "en": "What color is it?",
+      "fr": "Quelle couleur est-ce ?",
+      "it": "Che colore è?"
     },
     "difficulty": "Beginner"
   }

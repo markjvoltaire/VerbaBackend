@@ -3,6 +3,8 @@
     "phrase": "I work in an office",
     "translations": {
       "es": "Trabajo en una oficina",
+      "fr": "Je travaille dans un bureau",
+      "it": "Lavoro in un ufficio",
       "en": "I work in an office"
     },
     "difficulty": "Beginner"
@@ -11,6 +13,8 @@
     "phrase": "I am a student",
     "translations": {
       "es": "Soy estudiante",
+      "fr": "Je suis étudiant",
+      "it": "Sono studente",
       "en": "I am a student"
     },
     "difficulty": "Beginner"
@@ -19,6 +23,8 @@
     "phrase": "I am a teacher",
     "translations": {
       "es": "Soy profesor",
+      "fr": "Je suis professeur",
+      "it": "Sono insegnante",
       "en": "I am a teacher"
     },
     "difficulty": "Beginner"
@@ -27,6 +33,8 @@
     "phrase": "I work from home",
     "translations": {
       "es": "Trabajo desde casa",
+      "fr": "Je travaille de la maison",
+      "it": "Lavoro da casa",
       "en": "I work from home"
     },
     "difficulty": "Beginner"
@@ -35,6 +43,8 @@
     "phrase": "I work a lot",
     "translations": {
       "es": "Trabajo mucho",
+      "fr": "Je travaille beaucoup",
+      "it": "Lavoro molto",
       "en": "I work a lot"
     },
     "difficulty": "Beginner"
@@ -43,6 +53,8 @@
     "phrase": "I work little",
     "translations": {
       "es": "Trabajo poco",
+      "fr": "Je travaille peu",
+      "it": "Lavoro poco",
       "en": "I work little"
     },
     "difficulty": "Beginner"
@@ -51,6 +63,8 @@
     "phrase": "I like my job",
     "translations": {
       "es": "Me gusta mi trabajo",
+      "fr": "J'aime mon travail",
+      "it": "Mi piace il mio lavoro",
       "en": "I like my job"
     },
     "difficulty": "Beginner"
@@ -59,6 +73,8 @@
     "phrase": "I don't like my job",
     "translations": {
       "es": "No me gusta mi trabajo",
+      "fr": "Je n'aime pas mon travail",
+      "it": "Non mi piace il mio lavoro",
       "en": "I don't like my job"
     },
     "difficulty": "Beginner"
@@ -67,6 +83,8 @@
     "phrase": "I start at nine",
     "translations": {
       "es": "Empiezo a las nueve",
+      "fr": "Je commence à neuf heures",
+      "it": "Inizio alle nove",
       "en": "I start at nine"
     },
     "difficulty": "Beginner"
@@ -75,6 +93,8 @@
     "phrase": "I finish at five",
     "translations": {
       "es": "Termino a las cinco",
+      "fr": "Je finis à cinq heures",
+      "it": "Finisco alle cinque",
       "en": "I finish at five"
     },
     "difficulty": "Beginner"
@@ -83,6 +103,8 @@
     "phrase": "I work with people",
     "translations": {
       "es": "Trabajo con gente",
+      "fr": "Je travaille avec des gens",
+      "it": "Lavoro con le persone",
       "en": "I work with people"
     },
     "difficulty": "Beginner"
@@ -91,6 +113,8 @@
     "phrase": "I work alone",
     "translations": {
       "es": "Trabajo solo",
+      "fr": "Je travaille seul",
+      "it": "Lavoro da solo",
       "en": "I work alone"
     },
     "difficulty": "Beginner"
@@ -99,6 +123,8 @@
     "phrase": "I have a boss",
     "translations": {
       "es": "Tengo un jefe",
+      "fr": "J'ai un patron",
+      "it": "Ho un capo",
       "en": "I have a boss"
     },
     "difficulty": "Beginner"
@@ -107,6 +133,8 @@
     "phrase": "I have coworkers",
     "translations": {
       "es": "Tengo compañeros",
+      "fr": "J'ai des collègues",
+      "it": "Ho dei colleghi",
       "en": "I have coworkers"
     },
     "difficulty": "Beginner"
@@ -115,6 +143,8 @@
     "phrase": "My job is easy",
     "translations": {
       "es": "Mi trabajo es fácil",
+      "fr": "Mon travail est facile",
+      "it": "Il mio lavoro è facile",
       "en": "My job is easy"
     },
     "difficulty": "Beginner"
@@ -123,6 +153,8 @@
     "phrase": "My job is difficult",
     "translations": {
       "es": "Mi trabajo es difícil",
+      "fr": "Mon travail est difficile",
+      "it": "Il mio lavoro è difficile",
       "en": "My job is difficult"
     },
     "difficulty": "Beginner"
@@ -131,6 +163,8 @@
     "phrase": "I earn money",
     "translations": {
       "es": "Gano dinero",
+      "fr": "Je gagne de l'argent",
+      "it": "Guadagno soldi",
       "en": "I earn money"
     },
     "difficulty": "Beginner"
@@ -139,6 +173,8 @@
     "phrase": "I am looking for a job",
     "translations": {
       "es": "Busco trabajo",
+      "fr": "Je cherche du travail",
+      "it": "Cerco lavoro",
       "en": "I am looking for a job"
     },
     "difficulty": "Beginner"
@@ -147,6 +183,8 @@
     "phrase": "I am busy",
     "translations": {
       "es": "Estoy ocupado",
+      "fr": "Je suis occupé",
+      "it": "Sono impegnato",
       "en": "I am busy"
     },
     "difficulty": "Beginner"
@@ -155,6 +193,8 @@
     "phrase": "I am not busy",
     "translations": {
       "es": "No estoy ocupado",
+      "fr": "Je ne suis pas occupé",
+      "it": "Non sono impegnato",
       "en": "I am not busy"
     },
     "difficulty": "Beginner"

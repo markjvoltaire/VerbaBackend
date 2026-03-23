@@ -3,7 +3,9 @@
     "phrase": "He might be right",
     "translations": {
       "es": "Puede que tenga razón",
-      "en": "He might be right"
+      "en": "He might be right",
+      "fr": "Il a peut-être raison",
+      "it": "Potrebbe avere ragione"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "He will probably come",
     "translations": {
       "es": "Probablemente venga",
-      "en": "He will probably come"
+      "en": "He will probably come",
+      "fr": "Il viendra probablement",
+      "it": "Probabilmente verrà"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "It is likely to happen",
     "translations": {
       "es": "Es probable que pase",
-      "en": "It is likely to happen"
+      "en": "It is likely to happen",
+      "fr": "Il est probable que ça arrive",
+      "it": "È probabile che succeda"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "Maybe it is true",
     "translations": {
       "es": "Tal vez sea verdad",
-      "en": "Maybe it is true"
+      "en": "Maybe it is true",
+      "fr": "C'est peut-être vrai",
+      "it": "Forse è vero"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "Maybe he will do it",
     "translations": {
       "es": "Quizás lo haga",
-      "en": "Maybe he will do it"
+      "en": "Maybe he will do it",
+      "fr": "Peut-être qu'il le fera",
+      "it": "Forse lo farà"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "I am not sure",
     "translations": {
       "es": "No estoy seguro",
-      "en": "I am not sure"
+      "en": "I am not sure",
+      "fr": "Je ne suis pas sûr",
+      "it": "Non sono sicuro"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "I highly doubt it",
     "translations": {
       "es": "Lo dudo mucho",
-      "en": "I highly doubt it"
+      "en": "I highly doubt it",
+      "fr": "J'en doute fort",
+      "it": "Ne dubito fortemente"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "It is unlikely",
     "translations": {
       "es": "Es poco probable",
-      "en": "It is unlikely"
+      "en": "It is unlikely",
+      "fr": "C'est peu probable",
+      "it": "È improbabile"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "Surely yes",
     "translations": {
       "es": "Seguro que sí",
-      "en": "Surely yes"
+      "en": "Surely yes",
+      "fr": "Sûrement oui",
+      "it": "Sicuramente sì"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "Surely not",
     "translations": {
       "es": "Seguro que no",
-      "en": "Surely not"
+      "en": "Surely not",
+      "fr": "Sûrement pas",
+      "it": "Sicuramente no"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "Without a doubt",
     "translations": {
       "es": "Sin duda",
-      "en": "Without a doubt"
+      "en": "Without a doubt",
+      "fr": "Sans aucun doute",
+      "it": "Senza dubbio"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "I am convinced",
     "translations": {
       "es": "Estoy convencido",
-      "en": "I am convinced"
+      "en": "I am convinced",
+      "fr": "J'en suis convaincu",
+      "it": "Sono convinto"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "There is no doubt",
     "translations": {
       "es": "No cabe duda",
-      "en": "There is no doubt"
+      "en": "There is no doubt",
+      "fr": "Il n'y a aucun doute",
+      "it": "Non c'è alcun dubbio"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "It is evident",
     "translations": {
       "es": "Es evidente",
-      "en": "It is evident"
+      "en": "It is evident",
+      "fr": "C'est évident",
+      "it": "È evidente"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "It seems so",
     "translations": {
       "es": "Parece que sí",
-      "en": "It seems so"
+      "en": "It seems so",
+      "fr": "Il semble que oui",
+      "it": "Sembra di sì"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "It seems not",
     "translations": {
       "es": "Parece que no",
-      "en": "It seems not"
+      "en": "It seems not",
+      "fr": "Il semble que non",
+      "it": "Sembra di no"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "Everything indicates that",
     "translations": {
       "es": "Todo indica que",
-      "en": "Everything indicates that"
+      "en": "Everything indicates that",
+      "fr": "Tout indique que",
+      "it": "Tutto indica che"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "Maybe",
     "translations": {
       "es": "A lo mejor",
-      "en": "Maybe"
+      "en": "Maybe",
+      "fr": "Peut-être",
+      "it": "Forse"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "I would say yes",
     "translations": {
       "es": "Diría que sí",
-      "en": "I would say yes"
+      "en": "I would say yes",
+      "fr": "Je dirais que oui",
+      "it": "Direi di sì"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "I would say no",
     "translations": {
       "es": "Diría que no",
-      "en": "I would say no"
+      "en": "I would say no",
+      "fr": "Je dirais que non",
+      "it": "Direi di no"
     },
     "difficulty": "Advanced"
   }

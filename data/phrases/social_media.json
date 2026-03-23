@@ -3,6 +3,8 @@
     "phrase": "I use social media",
     "translations": {
       "es": "Uso redes sociales",
+      "fr": "J'utilise les réseaux sociaux",
+      "it": "Uso i social media",
       "en": "I use social media"
     },
     "difficulty": "Intermediate"
@@ -11,6 +13,8 @@
     "phrase": "I post photos",
     "translations": {
       "es": "Publico fotos",
+      "fr": "Je publie des photos",
+      "it": "Pubblico delle foto",
       "en": "I post photos"
     },
     "difficulty": "Intermediate"
@@ -19,6 +23,8 @@
     "phrase": "I share videos",
     "translations": {
       "es": "Comparto videos",
+      "fr": "Je partage des vidéos",
+      "it": "Condivido dei video",
       "en": "I share videos"
     },
     "difficulty": "Intermediate"
@@ -27,6 +33,8 @@
     "phrase": "I follow many people",
     "translations": {
       "es": "Sigo a muchas personas",
+      "fr": "Je suis beaucoup de gens",
+      "it": "Seguo molte persone",
       "en": "I follow many people"
     },
     "difficulty": "Intermediate"
@@ -35,6 +43,8 @@
     "phrase": "I have many followers",
     "translations": {
       "es": "Tengo muchos seguidores",
+      "fr": "J'ai beaucoup de followers",
+      "it": "Ho molti follower",
       "en": "I have many followers"
     },
     "difficulty": "Intermediate"
@@ -43,6 +53,8 @@
     "phrase": "I like your post",
     "translations": {
       "es": "Me gusta tu publicación",
+      "fr": "J'aime ta publication",
+      "it": "Mi piace il tuo post",
       "en": "I like your post"
     },
     "difficulty": "Intermediate"
@@ -51,6 +63,8 @@
     "phrase": "I comment on posts",
     "translations": {
       "es": "Comento en publicaciones",
+      "fr": "Je commente des publications",
+      "it": "Commento i post",
       "en": "I comment on posts"
     },
     "difficulty": "Intermediate"
@@ -59,6 +73,8 @@
     "phrase": "I spend a lot of time online",
     "translations": {
       "es": "Paso mucho tiempo en línea",
+      "fr": "Je passe beaucoup de temps en ligne",
+      "it": "Passo molto tempo online",
       "en": "I spend a lot of time online"
     },
     "difficulty": "Intermediate"
@@ -67,6 +83,8 @@
     "phrase": "I use my phone too much",
     "translations": {
       "es": "Uso mi teléfono demasiado",
+      "fr": "J'utilise trop mon téléphone",
+      "it": "Uso troppo il mio telefono",
       "en": "I use my phone too much"
     },
     "difficulty": "Intermediate"
@@ -75,6 +93,8 @@
     "phrase": "It is fun",
     "translations": {
       "es": "Es divertido",
+      "fr": "C'est amusant",
+      "it": "È divertente",
       "en": "It is fun"
     },
     "difficulty": "Intermediate"
@@ -83,6 +103,8 @@
     "phrase": "It is addictive",
     "translations": {
       "es": "Es adictivo",
+      "fr": "C'est addictif",
+      "it": "Crea dipendenza",
       "en": "It is addictive"
     },
     "difficulty": "Intermediate"
@@ -91,6 +113,8 @@
     "phrase": "I learn new things",
     "translations": {
       "es": "Aprendo cosas nuevas",
+      "fr": "J'apprends de nouvelles choses",
+      "it": "Imparo cose nuove",
       "en": "I learn new things"
     },
     "difficulty": "Intermediate"
@@ -99,6 +123,8 @@
     "phrase": "I see news",
     "translations": {
       "es": "Veo noticias",
+      "fr": "Je regarde les actualités",
+      "it": "Guardo le notizie",
       "en": "I see news"
     },
     "difficulty": "Intermediate"
@@ -107,6 +133,8 @@
     "phrase": "I talk with friends",
     "translations": {
       "es": "Hablo con amigos",
+      "fr": "Je parle avec des amis",
+      "it": "Parlo con gli amici",
       "en": "I talk with friends"
     },
     "difficulty": "Intermediate"
@@ -115,6 +143,8 @@
     "phrase": "I send direct messages",
     "translations": {
       "es": "Envio mensajes directos",
+      "fr": "J'envoie des messages privés",
+      "it": "Invio messaggi diretti",
       "en": "I send direct messages"
     },
     "difficulty": "Intermediate"
@@ -123,6 +153,8 @@
     "phrase": "I use the app every day",
     "translations": {
       "es": "Uso la aplicación todos los días",
+      "fr": "J'utilise l'appli tous les jours",
+      "it": "Uso l'app tutti i giorni",
       "en": "I use the app every day"
     },
     "difficulty": "Intermediate"
@@ -131,6 +163,8 @@
     "phrase": "It is part of my life",
     "translations": {
       "es": "Es parte de mi vida",
+      "fr": "Ça fait partie de ma vie",
+      "it": "Fa parte della mia vita",
       "en": "It is part of my life"
     },
     "difficulty": "Intermediate"
@@ -139,6 +173,8 @@
     "phrase": "Sometimes it is a waste of time",
     "translations": {
       "es": "A veces es una pérdida de tiempo",
+      "fr": "Parfois c'est une perte de temps",
+      "it": "A volte è una perdita di tempo",
       "en": "Sometimes it is a waste of time"
     },
     "difficulty": "Intermediate"
@@ -147,6 +183,8 @@
     "phrase": "It depends on the use",
     "translations": {
       "es": "Depende del uso",
+      "fr": "Ça dépend de l'utilisation",
+      "it": "Dipende dall'uso",
       "en": "It depends on the use"
     },
     "difficulty": "Intermediate"
@@ -155,6 +193,8 @@
     "phrase": "I prefer to use it less",
     "translations": {
       "es": "Prefiero usarlo menos",
+      "fr": "Je préfère l'utiliser moins",
+      "it": "Preferisco usarlo meno",
       "en": "I prefer to use it less"
     },
     "difficulty": "Intermediate"

@@ -3,6 +3,8 @@
     "phrase": "I go to the airport",
     "translations": {
       "es": "Voy al aeropuerto",
+      "fr": "Je vais à l'aéroport",
+      "it": "Vado all'aeroporto",
       "en": "I go to the airport"
     },
     "difficulty": "Intermediate"
@@ -11,6 +13,8 @@
     "phrase": "I have a flight",
     "translations": {
       "es": "Tengo un vuelo",
+      "fr": "J'ai un vol",
+      "it": "Ho un volo",
       "en": "I have a flight"
     },
     "difficulty": "Intermediate"
@@ -19,6 +23,8 @@
     "phrase": "Where is the gate?",
     "translations": {
       "es": "¿Dónde está la puerta?",
+      "fr": "Où est la porte d'embarquement ?",
+      "it": "Dov'è il gate?",
       "en": "Where is the gate?"
     },
     "difficulty": "Intermediate"
@@ -27,6 +33,8 @@
     "phrase": "What time does the flight leave?",
     "translations": {
       "es": "¿A qué hora sale el vuelo?",
+      "fr": "À quelle heure part le vol ?",
+      "it": "A che ora parte il volo?",
       "en": "What time does the flight leave?"
     },
     "difficulty": "Intermediate"
@@ -35,6 +43,8 @@
     "phrase": "The flight is delayed",
     "translations": {
       "es": "El vuelo está retrasado",
+      "fr": "Le vol est en retard",
+      "it": "Il volo è in ritardo",
       "en": "The flight is delayed"
     },
     "difficulty": "Intermediate"
@@ -43,6 +53,8 @@
     "phrase": "The flight is canceled",
     "translations": {
       "es": "El vuelo está cancelado",
+      "fr": "Le vol est annulé",
+      "it": "Il volo è cancellato",
       "en": "The flight is canceled"
     },
     "difficulty": "Intermediate"
@@ -51,6 +63,8 @@
     "phrase": "I need my passport",
     "translations": {
       "es": "Necesito mi pasaporte",
+      "fr": "J'ai besoin de mon passeport",
+      "it": "Ho bisogno del mio passaporto",
       "en": "I need my passport"
     },
     "difficulty": "Intermediate"
@@ -59,6 +73,8 @@
     "phrase": "I have luggage",
     "translations": {
       "es": "Tengo equipaje",
+      "fr": "J'ai des bagages",
+      "it": "Ho dei bagagli",
       "en": "I have luggage"
     },
     "difficulty": "Intermediate"
@@ -67,6 +83,8 @@
     "phrase": "Where do I pick up my luggage?",
     "translations": {
       "es": "¿Dónde recojo mi equipaje?",
+      "fr": "Où est-ce que je récupère mes bagages ?",
+      "it": "Dove ritiro i miei bagagli?",
       "en": "Where do I pick up my luggage?"
     },
     "difficulty": "Intermediate"
@@ -75,6 +93,8 @@
     "phrase": "I am going to travel",
     "translations": {
       "es": "Voy a viajar",
+      "fr": "Je vais voyager",
+      "it": "Sto per viaggiare",
       "en": "I am going to travel"
     },
     "difficulty": "Intermediate"
@@ -83,6 +103,8 @@
     "phrase": "It is a long trip",
     "translations": {
       "es": "Es un viaje largo",
+      "fr": "C'est un long voyage",
+      "it": "È un viaggio lungo",
       "en": "It is a long trip"
     },
     "difficulty": "Intermediate"
@@ -91,6 +113,8 @@
     "phrase": "It is a short trip",
     "translations": {
       "es": "Es un viaje corto",
+      "fr": "C'est un court voyage",
+      "it": "È un viaggio breve",
       "en": "It is a short trip"
     },
     "difficulty": "Intermediate"
@@ -99,6 +123,8 @@
     "phrase": "I am ready to travel",
     "translations": {
       "es": "Estoy listo para viajar",
+      "fr": "Je suis prêt à voyager",
+      "it": "Sono pronto per viaggiare",
       "en": "I am ready to travel"
     },
     "difficulty": "Intermediate"
@@ -107,6 +133,8 @@
     "phrase": "I need help",
     "translations": {
       "es": "Necesito ayuda",
+      "fr": "J'ai besoin d'aide",
+      "it": "Ho bisogno di aiuto",
       "en": "I need help"
     },
     "difficulty": "Intermediate"
@@ -115,6 +143,8 @@
     "phrase": "Where is the exit?",
     "translations": {
       "es": "¿Dónde está la salida?",
+      "fr": "Où est la sortie ?",
+      "it": "Dov'è l'uscita?",
       "en": "Where is the exit?"
     },
     "difficulty": "Intermediate"
@@ -123,6 +153,8 @@
     "phrase": "Where is the entrance?",
     "translations": {
       "es": "¿Dónde está la entrada?",
+      "fr": "Où est l'entrée ?",
+      "it": "Dov'è l'ingresso?",
       "en": "Where is the entrance?"
     },
     "difficulty": "Intermediate"
@@ -131,6 +163,8 @@
     "phrase": "I am waiting",
     "translations": {
       "es": "Estoy esperando",
+      "fr": "J'attends",
+      "it": "Sto aspettando",
       "en": "I am waiting"
     },
     "difficulty": "Intermediate"
@@ -139,6 +173,8 @@
     "phrase": "The flight is now",
     "translations": {
       "es": "El vuelo es ahora",
+      "fr": "Le vol est maintenant",
+      "it": "Il volo è adesso",
       "en": "The flight is now"
     },
     "difficulty": "Intermediate"
@@ -147,6 +183,8 @@
     "phrase": "Everything is ready",
     "translations": {
       "es": "Todo está listo",
+      "fr": "Tout est prêt",
+      "it": "Tutto è pronto",
       "en": "Everything is ready"
     },
     "difficulty": "Intermediate"
@@ -155,6 +193,8 @@
     "phrase": "Have a good trip",
     "translations": {
       "es": "Buen viaje",
+      "fr": "Bon voyage",
+      "it": "Buon viaggio",
       "en": "Have a good trip"
     },
     "difficulty": "Intermediate"

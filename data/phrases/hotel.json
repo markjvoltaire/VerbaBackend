@@ -103,7 +103,9 @@
     "phrase": "I want to book a room",
     "translations": {
       "es": "Quiero reservar una habitación",
-      "en": "I want to book a room"
+      "en": "I want to book a room",
+      "fr": "Je voudrais réserver une chambre",
+      "it": "Vorrei prenotare una camera"
     },
     "difficulty": "Intermediate"
   },
@@ -111,7 +113,9 @@
     "phrase": "I have a reservation",
     "translations": {
       "es": "Tengo una reserva",
-      "en": "I have a reservation"
+      "en": "I have a reservation",
+      "fr": "J'ai une réservation",
+      "it": "Ho una prenotazione"
     },
     "difficulty": "Intermediate"
   },
@@ -119,7 +123,9 @@
     "phrase": "Are there rooms available?",
     "translations": {
       "es": "¿Hay habitaciones disponibles?",
-      "en": "Are there rooms available?"
+      "en": "Are there rooms available?",
+      "fr": "Y a-t-il des chambres disponibles ?",
+      "it": "Ci sono camere disponibili?"
     },
     "difficulty": "Intermediate"
   },
@@ -127,7 +133,9 @@
     "phrase": "How much is it per night?",
     "translations": {
       "es": "¿Cuánto cuesta por noche?",
-      "en": "How much is it per night?"
+      "en": "How much is it per night?",
+      "fr": "Combien ça coûte par nuit ?",
+      "it": "Quanto costa a notte?"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +143,9 @@
     "phrase": "I want a single room",
     "translations": {
       "es": "Quiero una habitación individual",
-      "en": "I want a single room"
+      "en": "I want a single room",
+      "fr": "Je voudrais une chambre simple",
+      "it": "Vorrei una camera singola"
     },
     "difficulty": "Intermediate"
   },
@@ -143,7 +153,9 @@
     "phrase": "I want a double room",
     "translations": {
       "es": "Quiero una habitación doble",
-      "en": "I want a double room"
+      "en": "I want a double room",
+      "fr": "Je voudrais une chambre double",
+      "it": "Vorrei una camera doppia"
     },
     "difficulty": "Intermediate"
   },
@@ -151,7 +163,9 @@
     "phrase": "Does it include breakfast?",
     "translations": {
       "es": "¿Incluye desayuno?",
-      "en": "Does it include breakfast?"
+      "en": "Does it include breakfast?",
+      "fr": "Le petit-déjeuner est-il inclus ?",
+      "it": "La colazione è inclusa?"
     },
     "difficulty": "Intermediate"
   },
@@ -159,7 +173,9 @@
     "phrase": "What time is check-in?",
     "translations": {
       "es": "¿A qué hora es el check-in?",
-      "en": "What time is check-in?"
+      "en": "What time is check-in?",
+      "fr": "À quelle heure est le check-in ?",
+      "it": "A che ora è il check-in?"
     },
     "difficulty": "Intermediate"
   },
@@ -167,7 +183,9 @@
     "phrase": "I stay two nights",
     "translations": {
       "es": "Me quedo dos noches",
-      "en": "I stay two nights"
+      "en": "I stay two nights",
+      "fr": "Je reste deux nuits",
+      "it": "Resto due notti"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +193,9 @@
     "phrase": "I need wifi",
     "translations": {
       "es": "Necesito wifi",
-      "en": "I need wifi"
+      "en": "I need wifi",
+      "fr": "J'ai besoin du wifi",
+      "it": "Ho bisogno del wifi"
     },
     "difficulty": "Intermediate"
   },
@@ -183,7 +203,9 @@
     "phrase": "The room is clean",
     "translations": {
       "es": "La habitación está limpia",
-      "en": "The room is clean"
+      "en": "The room is clean",
+      "fr": "La chambre est propre",
+      "it": "La camera è pulita"
     },
     "difficulty": "Intermediate"
   },
@@ -191,7 +213,9 @@
     "phrase": "The room is dirty",
     "translations": {
       "es": "La habitación está sucia",
-      "en": "The room is dirty"
+      "en": "The room is dirty",
+      "fr": "La chambre est sale",
+      "it": "La camera è sporca"
     },
     "difficulty": "Intermediate"
   },
@@ -199,7 +223,9 @@
     "phrase": "There is a problem",
     "translations": {
       "es": "Hay un problema",
-      "en": "There is a problem"
+      "en": "There is a problem",
+      "fr": "Il y a un problème",
+      "it": "C'è un problema"
     },
     "difficulty": "Intermediate"
   },
@@ -207,7 +233,9 @@
     "phrase": "I need help",
     "translations": {
       "es": "Necesito ayuda",
-      "en": "I need help"
+      "en": "I need help",
+      "fr": "J'ai besoin d'aide",
+      "it": "Ho bisogno di aiuto"
     },
     "difficulty": "Intermediate"
   },
@@ -215,7 +243,9 @@
     "phrase": "Can I change rooms?",
     "translations": {
       "es": "¿Puedo cambiar de habitación?",
-      "en": "Can I change rooms?"
+      "en": "Can I change rooms?",
+      "fr": "Puis-je changer de chambre ?",
+      "it": "Posso cambiare camera?"
     },
     "difficulty": "Intermediate"
   },
@@ -223,7 +253,9 @@
     "phrase": "Everything is fine",
     "translations": {
       "es": "Todo está bien",
-      "en": "Everything is fine"
+      "en": "Everything is fine",
+      "fr": "Tout va bien",
+      "it": "Va tutto bene"
     },
     "difficulty": "Intermediate"
   },
@@ -231,7 +263,9 @@
     "phrase": "Thanks for the service",
     "translations": {
       "es": "Gracias por el servicio",
-      "en": "Thanks for the service"
+      "en": "Thanks for the service",
+      "fr": "Merci pour le service",
+      "it": "Grazie per il servizio"
     },
     "difficulty": "Intermediate"
   },
@@ -239,7 +273,9 @@
     "phrase": "I am going to stay here",
     "translations": {
       "es": "Voy a quedarme aquí",
-      "en": "I am going to stay here"
+      "en": "I am going to stay here",
+      "fr": "Je vais rester ici",
+      "it": "Resterò qui"
     },
     "difficulty": "Intermediate"
   },
@@ -247,7 +283,9 @@
     "phrase": "I want to cancel",
     "translations": {
       "es": "Quiero cancelar",
-      "en": "I want to cancel"
+      "en": "I want to cancel",
+      "fr": "Je voudrais annuler",
+      "it": "Vorrei cancellare"
     },
     "difficulty": "Intermediate"
   }

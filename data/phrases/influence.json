@@ -3,7 +3,9 @@
     "phrase": "Let me tell you something",
     "translations": {
       "es": "Déjame contarte algo",
-      "en": "Let me tell you something"
+      "en": "Let me tell you something",
+      "fr": "Laisse-moi te dire quelque chose",
+      "it": "Lascia che ti dica una cosa"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "Imagine this",
     "translations": {
       "es": "Imagínate esto",
-      "en": "Imagine this"
+      "en": "Imagine this",
+      "fr": "Imagine un peu",
+      "it": "Immagina questo"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "Think about it for a moment",
     "translations": {
       "es": "Piénsalo por un momento",
-      "en": "Think about it for a moment"
+      "en": "Think about it for a moment",
+      "fr": "Réfléchis-y un instant",
+      "it": "Pensaci un momento"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "What happens is that",
     "translations": {
       "es": "Lo que pasa es que",
-      "en": "What happens is that"
+      "en": "What happens is that",
+      "fr": "Ce qui se passe, c'est que",
+      "it": "Quello che succede è che"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "Here is the point",
     "translations": {
       "es": "Aquí está el punto",
-      "en": "Here is the point"
+      "en": "Here is the point",
+      "fr": "Voici le point essentiel",
+      "it": "Ecco il punto"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "This changes everything",
     "translations": {
       "es": "Esto lo cambia todo",
-      "en": "This changes everything"
+      "en": "This changes everything",
+      "fr": "Ça change tout",
+      "it": "Questo cambia tutto"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "The difference is clear",
     "translations": {
       "es": "La diferencia es clara",
-      "en": "The difference is clear"
+      "en": "The difference is clear",
+      "fr": "La différence est claire",
+      "it": "La differenza è chiara"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "It is not a coincidence",
     "translations": {
       "es": "No es casualidad",
-      "en": "It is not a coincidence"
+      "en": "It is not a coincidence",
+      "fr": "Ce n'est pas un hasard",
+      "it": "Non è una coincidenza"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "This has a reason",
     "translations": {
       "es": "Esto tiene una razón",
-      "en": "This has a reason"
+      "en": "This has a reason",
+      "fr": "Il y a une raison à cela",
+      "it": "Questo ha una ragione"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "The key is here",
     "translations": {
       "es": "La clave está aquí",
-      "en": "The key is here"
+      "en": "The key is here",
+      "fr": "La clé est ici",
+      "it": "La chiave è qui"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "If you see it this way",
     "translations": {
       "es": "Si lo ves así",
-      "en": "If you see it this way"
+      "en": "If you see it this way",
+      "fr": "Si tu le vois comme ça",
+      "it": "Se la vedi così"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "Everything fits together",
     "translations": {
       "es": "Todo encaja",
-      "en": "Everything fits together"
+      "en": "Everything fits together",
+      "fr": "Tout s'emboîte",
+      "it": "Tutto combacia"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "It makes sense",
     "translations": {
       "es": "Tiene lógica",
-      "en": "It makes sense"
+      "en": "It makes sense",
+      "fr": "C'est logique",
+      "it": "Ha senso"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "It is no coincidence",
     "translations": {
       "es": "No es coincidencia",
-      "en": "It is no coincidence"
+      "en": "It is no coincidence",
+      "fr": "Ce n'est pas une coïncidence",
+      "it": "Non è una coincidenza"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "This proves something",
     "translations": {
       "es": "Esto demuestra algo",
-      "en": "This proves something"
+      "en": "This proves something",
+      "fr": "Cela prouve quelque chose",
+      "it": "Questo dimostra qualcosa"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "Look at it this way",
     "translations": {
       "es": "Míralo de esta manera",
-      "en": "Look at it this way"
+      "en": "Look at it this way",
+      "fr": "Regarde les choses sous cet angle",
+      "it": "Guardala in questo modo"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is simpler than it seems",
     "translations": {
       "es": "Es más simple de lo que parece",
-      "en": "It is simpler than it seems"
+      "en": "It is simpler than it seems",
+      "fr": "C'est plus simple qu'il n'y paraît",
+      "it": "È più semplice di quanto sembri"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "Everything makes sense now",
     "translations": {
       "es": "Todo tiene sentido ahora",
-      "en": "Everything makes sense now"
+      "en": "Everything makes sense now",
+      "fr": "Tout prend sens maintenant",
+      "it": "Ora tutto ha senso"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "That's what matters",
     "translations": {
       "es": "Eso es lo importante",
-      "en": "That's what matters"
+      "en": "That's what matters",
+      "fr": "C'est ce qui compte",
+      "it": "È questo che conta"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "That's the key",
     "translations": {
       "es": "Ahí está la clave",
-      "en": "That's the key"
+      "en": "That's the key",
+      "fr": "C'est la clé",
+      "it": "Questa è la chiave"
     },
     "difficulty": "Advanced"
   }

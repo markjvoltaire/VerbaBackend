@@ -3,7 +3,9 @@
     "phrase": "I wake up early",
     "translations": {
       "es": "Me despierto temprano",
-      "en": "I wake up early"
+      "en": "I wake up early",
+      "fr": "Je me réveille tôt",
+      "it": "Mi sveglio presto"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "I get up",
     "translations": {
       "es": "Me levanto",
-      "en": "I get up"
+      "en": "I get up",
+      "fr": "Je me lève",
+      "it": "Mi alzo"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "I shower",
     "translations": {
       "es": "Me ducho",
-      "en": "I shower"
+      "en": "I shower",
+      "fr": "Je me douche",
+      "it": "Mi faccio la doccia"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "I eat breakfast",
     "translations": {
       "es": "Desayuno",
-      "en": "I eat breakfast"
+      "en": "I eat breakfast",
+      "fr": "Je prends le petit-déjeuner",
+      "it": "Faccio colazione"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I go to work",
     "translations": {
       "es": "Voy al trabajo",
-      "en": "I go to work"
+      "en": "I go to work",
+      "fr": "Je vais au travail",
+      "it": "Vado al lavoro"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I work all day",
     "translations": {
       "es": "Trabajo todo el día",
-      "en": "I work all day"
+      "en": "I work all day",
+      "fr": "Je travaille toute la journée",
+      "it": "Lavoro tutto il giorno"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "I eat lunch",
     "translations": {
       "es": "Almuerzo",
-      "en": "I eat lunch"
+      "en": "I eat lunch",
+      "fr": "Je déjeune",
+      "it": "Pranzo"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "I finish work",
     "translations": {
       "es": "Termino el trabajo",
-      "en": "I finish work"
+      "en": "I finish work",
+      "fr": "Je finis le travail",
+      "it": "Finisco di lavorare"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "I arrive home",
     "translations": {
       "es": "Llego a casa",
-      "en": "I arrive home"
+      "en": "I arrive home",
+      "fr": "J'arrive à la maison",
+      "it": "Arrivo a casa"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "I eat dinner",
     "translations": {
       "es": "Ceno",
-      "en": "I eat dinner"
+      "en": "I eat dinner",
+      "fr": "Je dîne",
+      "it": "Ceno"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I watch TV",
     "translations": {
       "es": "Veo televisión",
-      "en": "I watch TV"
+      "en": "I watch TV",
+      "fr": "Je regarde la télévision",
+      "it": "Guardo la televisione"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "I use my phone",
     "translations": {
       "es": "Uso mi teléfono",
-      "en": "I use my phone"
+      "en": "I use my phone",
+      "fr": "J'utilise mon téléphone",
+      "it": "Uso il mio telefono"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "I relax",
     "translations": {
       "es": "Me relajo",
-      "en": "I relax"
+      "en": "I relax",
+      "fr": "Je me détends",
+      "it": "Mi rilasso"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "I go out with friends",
     "translations": {
       "es": "Salgo con amigos",
-      "en": "I go out with friends"
+      "en": "I go out with friends",
+      "fr": "Je sors avec des amis",
+      "it": "Esco con gli amici"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "I exercise",
     "translations": {
       "es": "Hago ejercicio",
-      "en": "I exercise"
+      "en": "I exercise",
+      "fr": "Je fais de l'exercice",
+      "it": "Faccio esercizio"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "I study Spanish",
     "translations": {
       "es": "Estudio español",
-      "en": "I study Spanish"
+      "en": "I study Spanish",
+      "fr": "J'étudie l'espagnol",
+      "it": "Studio lo spagnolo"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I go to bed",
     "translations": {
       "es": "Me acuesto",
-      "en": "I go to bed"
+      "en": "I go to bed",
+      "fr": "Je me couche",
+      "it": "Vado a letto"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "I sleep well",
     "translations": {
       "es": "Duermo bien",
-      "en": "I sleep well"
+      "en": "I sleep well",
+      "fr": "Je dors bien",
+      "it": "Dormo bene"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "I sleep little",
     "translations": {
       "es": "Duermo poco",
-      "en": "I sleep little"
+      "en": "I sleep little",
+      "fr": "Je dors peu",
+      "it": "Dormo poco"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "I have a good day",
     "translations": {
       "es": "Tengo un buen día",
-      "en": "I have a good day"
+      "en": "I have a good day",
+      "fr": "Je passe une bonne journée",
+      "it": "Ho una bella giornata"
     },
     "difficulty": "Beginner"
   }

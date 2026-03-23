@@ -3,7 +3,9 @@
     "phrase": "We work as a team",
     "translations": {
       "es": "Trabajamos en equipo",
-      "en": "We work as a team"
+      "en": "We work as a team",
+      "fr": "Nous travaillons en équipe",
+      "it": "Lavoriamo in squadra"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "We have a meeting",
     "translations": {
       "es": "Tenemos una reunión",
-      "en": "We have a meeting"
+      "en": "We have a meeting",
+      "fr": "Nous avons une réunion",
+      "it": "Abbiamo una riunione"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "I am going to present the project",
     "translations": {
       "es": "Voy a presentar el proyecto",
-      "en": "I am going to present the project"
+      "en": "I am going to present the project",
+      "fr": "Je vais présenter le projet",
+      "it": "Presenterò il progetto"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "We need results",
     "translations": {
       "es": "Necesitamos resultados",
-      "en": "We need results"
+      "en": "We need results",
+      "fr": "Nous avons besoin de résultats",
+      "it": "Abbiamo bisogno di risultati"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "It is a priority",
     "translations": {
       "es": "Es una prioridad",
-      "en": "It is a priority"
+      "en": "It is a priority",
+      "fr": "C'est une priorité",
+      "it": "È una priorità"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "We are in process",
     "translations": {
       "es": "Estamos en proceso",
-      "en": "We are in process"
+      "en": "We are in process",
+      "fr": "Nous sommes en cours",
+      "it": "Siamo in corso"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "We meet the goals",
     "translations": {
       "es": "Cumplimos los objetivos",
-      "en": "We meet the goals"
+      "en": "We meet the goals",
+      "fr": "Nous atteignons les objectifs",
+      "it": "Raggiungiamo gli obiettivi"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "We need to improve",
     "translations": {
       "es": "Necesitamos mejorar",
-      "en": "We need to improve"
+      "en": "We need to improve",
+      "fr": "Nous devons nous améliorer",
+      "it": "Dobbiamo migliorare"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "Performance is high",
     "translations": {
       "es": "El rendimiento es alto",
-      "en": "Performance is high"
+      "en": "Performance is high",
+      "fr": "La performance est élevée",
+      "it": "Le prestazioni sono elevate"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "Performance is low",
     "translations": {
       "es": "El rendimiento es bajo",
-      "en": "Performance is low"
+      "en": "Performance is low",
+      "fr": "La performance est faible",
+      "it": "Le prestazioni sono basse"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "It is a business opportunity",
     "translations": {
       "es": "Es una oportunidad de negocio",
-      "en": "It is a business opportunity"
+      "en": "It is a business opportunity",
+      "fr": "C'est une opportunité d'affaires",
+      "it": "È un'opportunità di business"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "We make a decision",
     "translations": {
       "es": "Tomamos una decisión",
-      "en": "We make a decision"
+      "en": "We make a decision",
+      "fr": "Nous prenons une décision",
+      "it": "Prendiamo una decisione"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "We analyze the data",
     "translations": {
       "es": "Analizamos los datos",
-      "en": "We analyze the data"
+      "en": "We analyze the data",
+      "fr": "Nous analysons les données",
+      "it": "Analizziamo i dati"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "It is an effective strategy",
     "translations": {
       "es": "Es una estrategia efectiva",
-      "en": "It is an effective strategy"
+      "en": "It is an effective strategy",
+      "fr": "C'est une stratégie efficace",
+      "it": "È una strategia efficace"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "We need a plan",
     "translations": {
       "es": "Necesitamos un plan",
-      "en": "We need a plan"
+      "en": "We need a plan",
+      "fr": "Nous avons besoin d'un plan",
+      "it": "Abbiamo bisogno di un piano"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "The project progresses",
     "translations": {
       "es": "El proyecto avanza",
-      "en": "The project progresses"
+      "en": "The project progresses",
+      "fr": "Le projet progresse",
+      "it": "Il progetto avanza"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "There is a technical problem",
     "translations": {
       "es": "Hay un problema técnico",
-      "en": "There is a technical problem"
+      "en": "There is a technical problem",
+      "fr": "Il y a un problème technique",
+      "it": "C'è un problema tecnico"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "We look for solutions",
     "translations": {
       "es": "Buscamos soluciones",
-      "en": "We look for solutions"
+      "en": "We look for solutions",
+      "fr": "Nous cherchons des solutions",
+      "it": "Cerchiamo soluzioni"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is a success",
     "translations": {
       "es": "Es un éxito",
-      "en": "It is a success"
+      "en": "It is a success",
+      "fr": "C'est un succès",
+      "it": "È un successo"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "We move forward",
     "translations": {
       "es": "Seguimos adelante",
-      "en": "We move forward"
+      "en": "We move forward",
+      "fr": "Nous avançons",
+      "it": "Andiamo avanti"
     },
     "difficulty": "Advanced"
   }

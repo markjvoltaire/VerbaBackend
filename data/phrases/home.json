@@ -3,7 +3,9 @@
     "phrase": "My house is big",
     "translations": {
       "es": "Mi casa es grande",
-      "en": "My house is big"
+      "en": "My house is big",
+      "fr": "Ma maison est grande",
+      "it": "La mia casa è grande"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "My house is small",
     "translations": {
       "es": "Mi casa es pequeña",
-      "en": "My house is small"
+      "en": "My house is small",
+      "fr": "Ma maison est petite",
+      "it": "La mia casa è piccola"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "I live in an apartment",
     "translations": {
       "es": "Vivo en un apartamento",
-      "en": "I live in an apartment"
+      "en": "I live in an apartment",
+      "fr": "J'habite dans un appartement",
+      "it": "Vivo in un appartamento"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "I live in a house",
     "translations": {
       "es": "Vivo en una casa",
-      "en": "I live in a house"
+      "en": "I live in a house",
+      "fr": "J'habite dans une maison",
+      "it": "Vivo in una casa"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I have a kitchen",
     "translations": {
       "es": "Tengo una cocina",
-      "en": "I have a kitchen"
+      "en": "I have a kitchen",
+      "fr": "J'ai une cuisine",
+      "it": "Ho una cucina"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I have a bathroom",
     "translations": {
       "es": "Tengo un baño",
-      "en": "I have a bathroom"
+      "en": "I have a bathroom",
+      "fr": "J'ai une salle de bain",
+      "it": "Ho un bagno"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "I have a bedroom",
     "translations": {
       "es": "Tengo un dormitorio",
-      "en": "I have a bedroom"
+      "en": "I have a bedroom",
+      "fr": "J'ai une chambre",
+      "it": "Ho una camera da letto"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "I have a living room",
     "translations": {
       "es": "Tengo una sala",
-      "en": "I have a living room"
+      "en": "I have a living room",
+      "fr": "J'ai un salon",
+      "it": "Ho un soggiorno"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "The house is nice",
     "translations": {
       "es": "La casa es bonita",
-      "en": "The house is nice"
+      "en": "The house is nice",
+      "fr": "La maison est jolie",
+      "it": "La casa è bella"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "The house is old",
     "translations": {
       "es": "La casa es vieja",
-      "en": "The house is old"
+      "en": "The house is old",
+      "fr": "La maison est vieille",
+      "it": "La casa è vecchia"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "The house is new",
     "translations": {
       "es": "La casa es nueva",
-      "en": "The house is new"
+      "en": "The house is new",
+      "fr": "La maison est neuve",
+      "it": "La casa è nuova"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "There is a table",
     "translations": {
       "es": "Hay una mesa",
-      "en": "There is a table"
+      "en": "There is a table",
+      "fr": "Il y a une table",
+      "it": "C'è un tavolo"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "There is a bed",
     "translations": {
       "es": "Hay una cama",
-      "en": "There is a bed"
+      "en": "There is a bed",
+      "fr": "Il y a un lit",
+      "it": "C'è un letto"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "There is a chair",
     "translations": {
       "es": "Hay una silla",
-      "en": "There is a chair"
+      "en": "There is a chair",
+      "fr": "Il y a une chaise",
+      "it": "C'è una sedia"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "There is a door",
     "translations": {
       "es": "Hay una puerta",
-      "en": "There is a door"
+      "en": "There is a door",
+      "fr": "Il y a une porte",
+      "it": "C'è una porta"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "There is a window",
     "translations": {
       "es": "Hay una ventana",
-      "en": "There is a window"
+      "en": "There is a window",
+      "fr": "Il y a une fenêtre",
+      "it": "C'è una finestra"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "The kitchen is big",
     "translations": {
       "es": "La cocina es grande",
-      "en": "The kitchen is big"
+      "en": "The kitchen is big",
+      "fr": "La cuisine est grande",
+      "it": "La cucina è grande"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "The bathroom is small",
     "translations": {
       "es": "El baño es pequeño",
-      "en": "The bathroom is small"
+      "en": "The bathroom is small",
+      "fr": "La salle de bain est petite",
+      "it": "Il bagno è piccolo"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "I like my house",
     "translations": {
       "es": "Me gusta mi casa",
-      "en": "I like my house"
+      "en": "I like my house",
+      "fr": "J'aime ma maison",
+      "it": "Mi piace la mia casa"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "I am at home",
     "translations": {
       "es": "Estoy en casa",
-      "en": "I am at home"
+      "en": "I am at home",
+      "fr": "Je suis à la maison",
+      "it": "Sono a casa"
     },
     "difficulty": "Beginner"
   }

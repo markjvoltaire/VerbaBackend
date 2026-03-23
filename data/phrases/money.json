@@ -3,7 +3,9 @@
     "phrase": "It costs ten dollars",
     "translations": {
       "es": "Cuesta diez dólares",
-      "en": "It costs ten dollars"
+      "en": "It costs ten dollars",
+      "fr": "Ça coûte dix dollars",
+      "it": "Costa dieci dollari"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "It is very expensive",
     "translations": {
       "es": "Es muy caro",
-      "en": "It is very expensive"
+      "en": "It is very expensive",
+      "fr": "C'est très cher",
+      "it": "È molto caro"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "It is cheap",
     "translations": {
       "es": "Es barato",
-      "en": "It is cheap"
+      "en": "It is cheap",
+      "fr": "C'est bon marché",
+      "it": "È economico"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "I have money",
     "translations": {
       "es": "Tengo dinero",
-      "en": "I have money"
+      "en": "I have money",
+      "fr": "J'ai de l'argent",
+      "it": "Ho dei soldi"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I don't have money",
     "translations": {
       "es": "No tengo dinero",
-      "en": "I don't have money"
+      "en": "I don't have money",
+      "fr": "Je n'ai pas d'argent",
+      "it": "Non ho soldi"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I pay now",
     "translations": {
       "es": "Pago ahora",
-      "en": "I pay now"
+      "en": "I pay now",
+      "fr": "Je paie maintenant",
+      "it": "Pago adesso"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "I pay later",
     "translations": {
       "es": "Pago después",
-      "en": "I pay later"
+      "en": "I pay later",
+      "fr": "Je paie plus tard",
+      "it": "Pago dopo"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "How much is it total?",
     "translations": {
       "es": "¿Cuánto es en total?",
-      "en": "How much is it total?"
+      "en": "How much is it total?",
+      "fr": "Combien ça fait en tout ?",
+      "it": "Quant'è in tutto?"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "The total is twenty",
     "translations": {
       "es": "El total es veinte",
-      "en": "The total is twenty"
+      "en": "The total is twenty",
+      "fr": "Le total est vingt",
+      "it": "Il totale è venti"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "I need change",
     "translations": {
       "es": "Necesito cambio",
-      "en": "I need change"
+      "en": "I need change",
+      "fr": "J'ai besoin de monnaie",
+      "it": "Ho bisogno di spiccioli"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I don't have change",
     "translations": {
       "es": "No tengo cambio",
-      "en": "I don't have change"
+      "en": "I don't have change",
+      "fr": "Je n'ai pas de monnaie",
+      "it": "Non ho spiccioli"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "Here you go",
     "translations": {
       "es": "Aquí tienes",
-      "en": "Here you go"
+      "en": "Here you go",
+      "fr": "Voilà",
+      "it": "Ecco a te"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "Thank you",
     "translations": {
       "es": "Gracias",
-      "en": "Thank you"
+      "en": "Thank you",
+      "fr": "Merci",
+      "it": "Grazie"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "It is correct",
     "translations": {
       "es": "Es correcto",
-      "en": "It is correct"
+      "en": "It is correct",
+      "fr": "C'est correct",
+      "it": "È corretto"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "Money is missing",
     "translations": {
       "es": "Falta dinero",
-      "en": "Money is missing"
+      "en": "Money is missing",
+      "fr": "Il manque de l'argent",
+      "it": "Mancano dei soldi"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "There is extra money",
     "translations": {
       "es": "Sobra dinero",
-      "en": "There is extra money"
+      "en": "There is extra money",
+      "fr": "Il y a de l'argent en trop",
+      "it": "Ci sono soldi in più"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I pay with card",
     "translations": {
       "es": "Pago con tarjeta",
-      "en": "I pay with card"
+      "en": "I pay with card",
+      "fr": "Je paie par carte",
+      "it": "Pago con la carta"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "I pay cash",
     "translations": {
       "es": "Pago en efectivo",
-      "en": "I pay cash"
+      "en": "I pay cash",
+      "fr": "Je paie en espèces",
+      "it": "Pago in contanti"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is too much",
     "translations": {
       "es": "Es demasiado",
-      "en": "It is too much"
+      "en": "It is too much",
+      "fr": "C'est trop",
+      "it": "È troppo"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "The price is fine",
     "translations": {
       "es": "Está bien el precio",
-      "en": "The price is fine"
+      "en": "The price is fine",
+      "fr": "Le prix est correct",
+      "it": "Il prezzo va bene"
     },
     "difficulty": "Beginner"
   }

@@ -3,6 +3,8 @@
     "phrase": "I'm trying to understand",
     "translations": {
       "es": "Estoy tratando de entender",
+      "fr": "J'essaie de comprendre",
+      "it": "Sto cercando di capire",
       "en": "I'm trying to understand"
     },
     "difficulty": "Advanced"
@@ -11,6 +13,8 @@
     "phrase": "Let me think",
     "translations": {
       "es": "Déjame pensar",
+      "fr": "Laisse-moi réfléchir",
+      "it": "Fammi pensare",
       "en": "Let me think"
     },
     "difficulty": "Advanced"
@@ -19,6 +23,8 @@
     "phrase": "Let me see how to say it",
     "translations": {
       "es": "A ver cómo lo digo",
+      "fr": "Voyons comment le dire",
+      "it": "Vediamo come dirlo",
       "en": "Let me see how to say it"
     },
     "difficulty": "Advanced"
@@ -27,6 +33,8 @@
     "phrase": "I don't know how to explain it",
     "translations": {
       "es": "No sé cómo explicarlo",
+      "fr": "Je ne sais pas comment l'expliquer",
+      "it": "Non so come spiegarlo",
       "en": "I don't know how to explain it"
     },
     "difficulty": "Advanced"
@@ -35,6 +43,8 @@
     "phrase": "It's hard to explain",
     "translations": {
       "es": "Es complicado de explicar",
+      "fr": "C'est difficile à expliquer",
+      "it": "È difficile da spiegare",
       "en": "It's hard to explain"
     },
     "difficulty": "Advanced"
@@ -43,6 +53,8 @@
     "phrase": "More or less like this",
     "translations": {
       "es": "Más o menos así",
+      "fr": "Plus ou moins comme ça",
+      "it": "Più o meno così",
       "en": "More or less like this"
     },
     "difficulty": "Advanced"
@@ -51,6 +63,8 @@
     "phrase": "What I mean is",
     "translations": {
       "es": "Lo que quiero decir es",
+      "fr": "Ce que je veux dire c'est",
+      "it": "Quello che voglio dire è",
       "en": "What I mean is"
     },
     "difficulty": "Advanced"
@@ -59,6 +73,8 @@
     "phrase": "Actually",
     "translations": {
       "es": "En realidad",
+      "fr": "En fait",
+      "it": "In realtà",
       "en": "Actually"
     },
     "difficulty": "Advanced"
@@ -67,6 +83,8 @@
     "phrase": "Well, it depends",
     "translations": {
       "es": "Bueno, depende",
+      "fr": "Eh bien, ça dépend",
+      "it": "Beh, dipende",
       "en": "Well, it depends"
     },
     "difficulty": "Advanced"
@@ -75,6 +93,8 @@
     "phrase": "That's a good question",
     "translations": {
       "es": "Es una buena pregunta",
+      "fr": "C'est une bonne question",
+      "it": "È una bella domanda",
       "en": "That's a good question"
     },
     "difficulty": "Advanced"
@@ -83,6 +103,8 @@
     "phrase": "I had never thought about it",
     "translations": {
       "es": "Nunca lo había pensado",
+      "fr": "Je n'y avais jamais pensé",
+      "it": "Non ci avevo mai pensato",
       "en": "I had never thought about it"
     },
     "difficulty": "Advanced"
@@ -91,6 +113,8 @@
     "phrase": "It makes sense now that you say it",
     "translations": {
       "es": "Tiene sentido ahora que lo dices",
+      "fr": "Ça a du sens maintenant que tu le dis",
+      "it": "Ha senso adesso che lo dici",
       "en": "It makes sense now that you say it"
     },
     "difficulty": "Advanced"
@@ -99,6 +123,8 @@
     "phrase": "Let me rephrase it",
     "translations": {
       "es": "Déjame reformularlo",
+      "fr": "Laisse-moi reformuler",
+      "it": "Fammi riformulare",
       "en": "Let me rephrase it"
     },
     "difficulty": "Advanced"
@@ -107,6 +133,8 @@
     "phrase": "Put another way",
     "translations": {
       "es": "Dicho de otra manera",
+      "fr": "Autrement dit",
+      "it": "Detto in un altro modo",
       "en": "Put another way"
     },
     "difficulty": "Advanced"
@@ -115,6 +143,8 @@
     "phrase": "I'm not sure how to say it",
     "translations": {
       "es": "No estoy seguro de cómo decirlo",
+      "fr": "Je ne suis pas sûr de comment le dire",
+      "it": "Non sono sicuro di come dirlo",
       "en": "I'm not sure how to say it"
     },
     "difficulty": "Advanced"
@@ -123,6 +153,8 @@
     "phrase": "I think you get the idea",
     "translations": {
       "es": "Creo que entiendes la idea",
+      "fr": "Je pense que tu vois l'idée",
+      "it": "Credo che tu abbia capito l'idea",
       "en": "I think you get the idea"
     },
     "difficulty": "Advanced"
@@ -131,6 +163,8 @@
     "phrase": "I'm going little by little",
     "translations": {
       "es": "Voy poco a poco",
+      "fr": "J'y vais petit à petit",
+      "it": "Vado piano piano",
       "en": "I'm going little by little"
     },
     "difficulty": "Advanced"
@@ -139,6 +173,8 @@
     "phrase": "I'm practicing",
     "translations": {
       "es": "Estoy practicando",
+      "fr": "Je m'entraîne",
+      "it": "Mi sto esercitando",
       "en": "I'm practicing"
     },
     "difficulty": "Advanced"
@@ -147,6 +183,8 @@
     "phrase": "Getting better each time",
     "translations": {
       "es": "Cada vez mejor",
+      "fr": "De mieux en mieux",
+      "it": "Sempre meglio",
       "en": "Getting better each time"
     },
     "difficulty": "Advanced"
@@ -155,6 +193,8 @@
     "phrase": "It comes more naturally now",
     "translations": {
       "es": "Ya me sale más natural",
+      "fr": "Ça vient plus naturellement maintenant",
+      "it": "Ormai mi viene più naturale",
       "en": "It comes more naturally now"
     },
     "difficulty": "Advanced"

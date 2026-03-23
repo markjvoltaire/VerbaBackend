@@ -3,7 +3,9 @@
     "phrase": "I watch the news",
     "translations": {
       "es": "Veo las noticias",
-      "en": "I watch the news"
+      "en": "I watch the news",
+      "fr": "Je regarde les informations",
+      "it": "Guardo il telegiornale"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I read the news",
     "translations": {
       "es": "Leo las noticias",
-      "en": "I read the news"
+      "en": "I read the news",
+      "fr": "Je lis les informations",
+      "it": "Leggo le notizie"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "It is important news",
     "translations": {
       "es": "Es una noticia importante",
-      "en": "It is important news"
+      "en": "It is important news",
+      "fr": "C'est une nouvelle importante",
+      "it": "È una notizia importante"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "What happened?",
     "translations": {
       "es": "¿Qué pasó?",
-      "en": "What happened?"
+      "en": "What happened?",
+      "fr": "Que s'est-il passé ?",
+      "it": "Cosa è successo?"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "It happened yesterday",
     "translations": {
       "es": "Pasó ayer",
-      "en": "It happened yesterday"
+      "en": "It happened yesterday",
+      "fr": "C'est arrivé hier",
+      "it": "È successo ieri"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "It is happening now",
     "translations": {
       "es": "Está pasando ahora",
-      "en": "It is happening now"
+      "en": "It is happening now",
+      "fr": "Ça se passe en ce moment",
+      "it": "Sta succedendo adesso"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "It is a serious situation",
     "translations": {
       "es": "Es una situación grave",
-      "en": "It is a serious situation"
+      "en": "It is a serious situation",
+      "fr": "C'est une situation grave",
+      "it": "È una situazione grave"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "The information is clear",
     "translations": {
       "es": "La información es clara",
-      "en": "The information is clear"
+      "en": "The information is clear",
+      "fr": "L'information est claire",
+      "it": "L'informazione è chiara"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "I don't have all the information",
     "translations": {
       "es": "No tengo toda la información",
-      "en": "I don't have all the information"
+      "en": "I don't have all the information",
+      "fr": "Je n'ai pas toutes les informations",
+      "it": "Non ho tutte le informazioni"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "It is difficult to understand",
     "translations": {
       "es": "Es difícil entender",
-      "en": "It is difficult to understand"
+      "en": "It is difficult to understand",
+      "fr": "C'est difficile à comprendre",
+      "it": "È difficile da capire"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "There are different opinions",
     "translations": {
       "es": "Hay diferentes opiniones",
-      "en": "There are different opinions"
+      "en": "There are different opinions",
+      "fr": "Il y a des opinions différentes",
+      "it": "Ci sono opinioni diverse"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I am informed",
     "translations": {
       "es": "Estoy informado",
-      "en": "I am informed"
+      "en": "I am informed",
+      "fr": "Je suis informé",
+      "it": "Sono informato"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I am not informed",
     "translations": {
       "es": "No estoy informado",
-      "en": "I am not informed"
+      "en": "I am not informed",
+      "fr": "Je ne suis pas informé",
+      "it": "Non sono informato"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "It is an important topic",
     "translations": {
       "es": "Es un tema importante",
-      "en": "It is an important topic"
+      "en": "It is an important topic",
+      "fr": "C'est un sujet important",
+      "it": "È un argomento importante"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "The news is recent",
     "translations": {
       "es": "La noticia es reciente",
-      "en": "The news is recent"
+      "en": "The news is recent",
+      "fr": "La nouvelle est récente",
+      "it": "La notizia è recente"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "People talk about that",
     "translations": {
       "es": "La gente habla de eso",
-      "en": "People talk about that"
+      "en": "People talk about that",
+      "fr": "Les gens en parlent",
+      "it": "La gente ne parla"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is concerning",
     "translations": {
       "es": "Es preocupante",
-      "en": "It is concerning"
+      "en": "It is concerning",
+      "fr": "C'est préoccupant",
+      "it": "È preoccupante"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "It is positive",
     "translations": {
       "es": "Es positivo",
-      "en": "It is positive"
+      "en": "It is positive",
+      "fr": "C'est positif",
+      "it": "È positivo"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is negative",
     "translations": {
       "es": "Es negativo",
-      "en": "It is negative"
+      "en": "It is negative",
+      "fr": "C'est négatif",
+      "it": "È negativo"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I want to know more",
     "translations": {
       "es": "Quiero saber más",
-      "en": "I want to know more"
+      "en": "I want to know more",
+      "fr": "Je veux en savoir plus",
+      "it": "Voglio saperne di più"
     },
     "difficulty": "Intermediate"
   }

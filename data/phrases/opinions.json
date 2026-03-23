@@ -3,7 +3,9 @@
     "phrase": "I think it is good",
     "translations": {
       "es": "Creo que es bueno",
-      "en": "I think it is good"
+      "en": "I think it is good",
+      "fr": "Je pense que c'est bien",
+      "it": "Penso che sia buono"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I think it is bad",
     "translations": {
       "es": "Creo que es malo",
-      "en": "I think it is bad"
+      "en": "I think it is bad",
+      "fr": "Je pense que c'est mauvais",
+      "it": "Penso che sia cattivo"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "I think the same",
     "translations": {
       "es": "Pienso lo mismo",
-      "en": "I think the same"
+      "en": "I think the same",
+      "fr": "Je pense la même chose",
+      "it": "La penso allo stesso modo"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "I don't agree",
     "translations": {
       "es": "No estoy de acuerdo",
-      "en": "I don't agree"
+      "en": "I don't agree",
+      "fr": "Je ne suis pas d'accord",
+      "it": "Non sono d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "I agree",
     "translations": {
       "es": "Estoy de acuerdo",
-      "en": "I agree"
+      "en": "I agree",
+      "fr": "Je suis d'accord",
+      "it": "Sono d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "In my opinion",
     "translations": {
       "es": "En mi opinión",
-      "en": "In my opinion"
+      "en": "In my opinion",
+      "fr": "À mon avis",
+      "it": "Secondo me"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "For me",
     "translations": {
       "es": "Para mí",
-      "en": "For me"
+      "en": "For me",
+      "fr": "Pour moi",
+      "it": "Per me"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "It seems interesting to me",
     "translations": {
       "es": "Me parece interesante",
-      "en": "It seems interesting to me"
+      "en": "It seems interesting to me",
+      "fr": "Ça me semble intéressant",
+      "it": "Mi sembra interessante"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "It doesn't seem right to me",
     "translations": {
       "es": "No me parece bien",
-      "en": "It doesn't seem right to me"
+      "en": "It doesn't seem right to me",
+      "fr": "Ça ne me semble pas correct",
+      "it": "Non mi sembra giusto"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "I think it is important",
     "translations": {
       "es": "Creo que es importante",
-      "en": "I think it is important"
+      "en": "I think it is important",
+      "fr": "Je pense que c'est important",
+      "it": "Penso che sia importante"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I don't think that",
     "translations": {
       "es": "No creo eso",
-      "en": "I don't think that"
+      "en": "I don't think that",
+      "fr": "Je ne crois pas ça",
+      "it": "Non credo"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I am sure",
     "translations": {
       "es": "Estoy seguro",
-      "en": "I am sure"
+      "en": "I am sure",
+      "fr": "J'en suis sûr",
+      "it": "Sono sicuro"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "I am not sure",
     "translations": {
       "es": "No estoy seguro",
-      "en": "I am not sure"
+      "en": "I am not sure",
+      "fr": "Je ne suis pas sûr",
+      "it": "Non sono sicuro"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "It depends",
     "translations": {
       "es": "Depende",
-      "en": "It depends"
+      "en": "It depends",
+      "fr": "Ça dépend",
+      "it": "Dipende"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "It is a good idea",
     "translations": {
       "es": "Es una buena idea",
-      "en": "It is a good idea"
+      "en": "It is a good idea",
+      "fr": "C'est une bonne idée",
+      "it": "È una buona idea"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "It is a bad idea",
     "translations": {
       "es": "Es una mala idea",
-      "en": "It is a bad idea"
+      "en": "It is a bad idea",
+      "fr": "C'est une mauvaise idée",
+      "it": "È una cattiva idea"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "It makes sense",
     "translations": {
       "es": "Tiene sentido",
-      "en": "It makes sense"
+      "en": "It makes sense",
+      "fr": "Ça a du sens",
+      "it": "Ha senso"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "It doesn't make sense",
     "translations": {
       "es": "No tiene sentido",
-      "en": "It doesn't make sense"
+      "en": "It doesn't make sense",
+      "fr": "Ça n'a pas de sens",
+      "it": "Non ha senso"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "I totally agree",
     "translations": {
       "es": "Estoy totalmente de acuerdo",
-      "en": "I totally agree"
+      "en": "I totally agree",
+      "fr": "Je suis tout à fait d'accord",
+      "it": "Sono completamente d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I don't totally agree",
     "translations": {
       "es": "No estoy totalmente de acuerdo",
-      "en": "I don't totally agree"
+      "en": "I don't totally agree",
+      "fr": "Je ne suis pas tout à fait d'accord",
+      "it": "Non sono del tutto d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -163,7 +203,9 @@
     "phrase": "From my point of view",
     "translations": {
       "es": "Desde mi punto de vista",
-      "en": "From my point of view"
+      "en": "From my point of view",
+      "fr": "De mon point de vue",
+      "it": "Dal mio punto di vista"
     },
     "difficulty": "Advanced"
   },
@@ -171,7 +213,9 @@
     "phrase": "I consider it fundamental",
     "translations": {
       "es": "Considero que es fundamental",
-      "en": "I consider it fundamental"
+      "en": "I consider it fundamental",
+      "fr": "Je considère que c'est fondamental",
+      "it": "Lo considero fondamentale"
     },
     "difficulty": "Advanced"
   },
@@ -179,7 +223,9 @@
     "phrase": "I am not entirely convinced",
     "translations": {
       "es": "No estoy del todo convencido",
-      "en": "I am not entirely convinced"
+      "en": "I am not entirely convinced",
+      "fr": "Je ne suis pas entièrement convaincu",
+      "it": "Non sono del tutto convinto"
     },
     "difficulty": "Advanced"
   },
@@ -187,7 +233,9 @@
     "phrase": "It makes some sense",
     "translations": {
       "es": "Tiene cierto sentido",
-      "en": "It makes some sense"
+      "en": "It makes some sense",
+      "fr": "Ça a un certain sens",
+      "it": "Ha un certo senso"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +243,9 @@
     "phrase": "It is debatable",
     "translations": {
       "es": "Es discutible",
-      "en": "It is debatable"
+      "en": "It is debatable",
+      "fr": "C'est discutable",
+      "it": "È discutibile"
     },
     "difficulty": "Advanced"
   },
@@ -203,7 +253,9 @@
     "phrase": "It is worth noting that",
     "translations": {
       "es": "Cabe destacar que",
-      "en": "It is worth noting that"
+      "en": "It is worth noting that",
+      "fr": "Il convient de noter que",
+      "it": "Vale la pena notare che"
     },
     "difficulty": "Advanced"
   },
@@ -211,7 +263,9 @@
     "phrase": "I do not share that opinion",
     "translations": {
       "es": "No comparto esa opinión",
-      "en": "I do not share that opinion"
+      "en": "I do not share that opinion",
+      "fr": "Je ne partage pas cet avis",
+      "it": "Non condivido quell'opinione"
     },
     "difficulty": "Advanced"
   },
@@ -219,7 +273,9 @@
     "phrase": "I partially agree",
     "translations": {
       "es": "Estoy parcialmente de acuerdo",
-      "en": "I partially agree"
+      "en": "I partially agree",
+      "fr": "Je suis partiellement d'accord",
+      "it": "Sono parzialmente d'accordo"
     },
     "difficulty": "Advanced"
   },
@@ -227,7 +283,9 @@
     "phrase": "It is a complex issue",
     "translations": {
       "es": "Es un tema complejo",
-      "en": "It is a complex issue"
+      "en": "It is a complex issue",
+      "fr": "C'est un sujet complexe",
+      "it": "È una questione complessa"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +293,9 @@
     "phrase": "It depends on the context",
     "translations": {
       "es": "Depende del contexto",
-      "en": "It depends on the context"
+      "en": "It depends on the context",
+      "fr": "Ça dépend du contexte",
+      "it": "Dipende dal contesto"
     },
     "difficulty": "Advanced"
   },
@@ -243,7 +303,9 @@
     "phrase": "It is not that simple",
     "translations": {
       "es": "No es tan simple",
-      "en": "It is not that simple"
+      "en": "It is not that simple",
+      "fr": "Ce n'est pas si simple",
+      "it": "Non è così semplice"
     },
     "difficulty": "Advanced"
   },
@@ -251,7 +313,9 @@
     "phrase": "It can be interpreted in various ways",
     "translations": {
       "es": "Se puede interpretar de varias maneras",
-      "en": "It can be interpreted in various ways"
+      "en": "It can be interpreted in various ways",
+      "fr": "On peut l'interpréter de plusieurs façons",
+      "it": "Può essere interpretato in vari modi"
     },
     "difficulty": "Advanced"
   },
@@ -259,7 +323,9 @@
     "phrase": "It is a delicate matter",
     "translations": {
       "es": "Es una cuestión delicada",
-      "en": "It is a delicate matter"
+      "en": "It is a delicate matter",
+      "fr": "C'est une question délicate",
+      "it": "È una questione delicata"
     },
     "difficulty": "Advanced"
   },
@@ -267,7 +333,9 @@
     "phrase": "There are multiple factors",
     "translations": {
       "es": "Hay múltiples factores",
-      "en": "There are multiple factors"
+      "en": "There are multiple factors",
+      "fr": "Il y a de multiples facteurs",
+      "it": "Ci sono molteplici fattori"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +343,9 @@
     "phrase": "It is not black or white",
     "translations": {
       "es": "No es blanco o negro",
-      "en": "It is not black or white"
+      "en": "It is not black or white",
+      "fr": "Ce n'est pas tout blanc ou tout noir",
+      "it": "Non è bianco o nero"
     },
     "difficulty": "Advanced"
   },
@@ -283,7 +353,9 @@
     "phrase": "I completely disagree",
     "translations": {
       "es": "Estoy totalmente en desacuerdo",
-      "en": "I completely disagree"
+      "en": "I completely disagree",
+      "fr": "Je suis en total désaccord",
+      "it": "Sono completamente in disaccordo"
     },
     "difficulty": "Advanced"
   },
@@ -291,7 +363,9 @@
     "phrase": "It is a valid perspective",
     "translations": {
       "es": "Es una perspectiva válida",
-      "en": "It is a valid perspective"
+      "en": "It is a valid perspective",
+      "fr": "C'est un point de vue valide",
+      "it": "È una prospettiva valida"
     },
     "difficulty": "Advanced"
   },
@@ -299,7 +373,9 @@
     "phrase": "I hadn't thought of it that way",
     "translations": {
       "es": "No lo había pensado así",
-      "en": "I hadn't thought of it that way"
+      "en": "I hadn't thought of it that way",
+      "fr": "Je n'y avais pas pensé de cette façon",
+      "it": "Non ci avevo pensato in questo modo"
     },
     "difficulty": "Advanced"
   },
@@ -307,7 +383,9 @@
     "phrase": "That changes my perspective",
     "translations": {
       "es": "Eso cambia mi perspectiva",
-      "en": "That changes my perspective"
+      "en": "That changes my perspective",
+      "fr": "Ça change ma perspective",
+      "it": "Questo cambia la mia prospettiva"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +393,9 @@
     "phrase": "It is difficult to reach a conclusion",
     "translations": {
       "es": "Es difícil llegar a una conclusión",
-      "en": "It is difficult to reach a conclusion"
+      "en": "It is difficult to reach a conclusion",
+      "fr": "Il est difficile d'arriver à une conclusion",
+      "it": "È difficile arrivare a una conclusione"
     },
     "difficulty": "Advanced"
   }

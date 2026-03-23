@@ -3,7 +3,9 @@
     "phrase": "I am hungry",
     "translations": {
       "es": "Tengo hambre",
-      "en": "I am hungry"
+      "en": "I am hungry",
+      "fr": "J'ai faim",
+      "it": "Ho fame"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "I am thirsty",
     "translations": {
       "es": "Tengo sed",
-      "en": "I am thirsty"
+      "en": "I am thirsty",
+      "fr": "J'ai soif",
+      "it": "Ho sete"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "I want to eat",
     "translations": {
       "es": "Quiero comer",
-      "en": "I want to eat"
+      "en": "I want to eat",
+      "fr": "Je veux manger",
+      "it": "Voglio mangiare"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "I want to drink",
     "translations": {
       "es": "Quiero beber",
-      "en": "I want to drink"
+      "en": "I want to drink",
+      "fr": "Je veux boire",
+      "it": "Voglio bere"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I am eating",
     "translations": {
       "es": "Estoy comiendo",
-      "en": "I am eating"
+      "en": "I am eating",
+      "fr": "Je suis en train de manger",
+      "it": "Sto mangiando"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I am drinking",
     "translations": {
       "es": "Estoy bebiendo",
-      "en": "I am drinking"
+      "en": "I am drinking",
+      "fr": "Je suis en train de boire",
+      "it": "Sto bevendo"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "The food is good",
     "translations": {
       "es": "La comida es buena",
-      "en": "The food is good"
+      "en": "The food is good",
+      "fr": "La nourriture est bonne",
+      "it": "Il cibo è buono"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "It is delicious",
     "translations": {
       "es": "Está delicioso",
-      "en": "It is delicious"
+      "en": "It is delicious",
+      "fr": "C'est délicieux",
+      "it": "È delizioso"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "It is hot",
     "translations": {
       "es": "Está caliente",
-      "en": "It is hot"
+      "en": "It is hot",
+      "fr": "C'est chaud",
+      "it": "È caldo"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "It is cold",
     "translations": {
       "es": "Está frío",
-      "en": "It is cold"
+      "en": "It is cold",
+      "fr": "C'est froid",
+      "it": "È freddo"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I eat rice",
     "translations": {
       "es": "Como arroz",
-      "en": "I eat rice"
+      "en": "I eat rice",
+      "fr": "Je mange du riz",
+      "it": "Mangio riso"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "I eat chicken",
     "translations": {
       "es": "Como pollo",
-      "en": "I eat chicken"
+      "en": "I eat chicken",
+      "fr": "Je mange du poulet",
+      "it": "Mangio pollo"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "I eat meat",
     "translations": {
       "es": "Como carne",
-      "en": "I eat meat"
+      "en": "I eat meat",
+      "fr": "Je mange de la viande",
+      "it": "Mangio carne"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "I eat vegetables",
     "translations": {
       "es": "Como verduras",
-      "en": "I eat vegetables"
+      "en": "I eat vegetables",
+      "fr": "Je mange des légumes",
+      "it": "Mangio verdure"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "I drink water",
     "translations": {
       "es": "Bebo agua",
-      "en": "I drink water"
+      "en": "I drink water",
+      "fr": "Je bois de l'eau",
+      "it": "Bevo acqua"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "I drink coffee",
     "translations": {
       "es": "Bebo café",
-      "en": "I drink coffee"
+      "en": "I drink coffee",
+      "fr": "Je bois du café",
+      "it": "Bevo caffè"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I drink juice",
     "translations": {
       "es": "Bebo jugo",
-      "en": "I drink juice"
+      "en": "I drink juice",
+      "fr": "Je bois du jus",
+      "it": "Bevo succo"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "I want more food",
     "translations": {
       "es": "Quiero más comida",
-      "en": "I want more food"
+      "en": "I want more food",
+      "fr": "Je veux encore à manger",
+      "it": "Voglio ancora del cibo"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "I am not hungry",
     "translations": {
       "es": "No tengo hambre",
-      "en": "I am not hungry"
+      "en": "I am not hungry",
+      "fr": "Je n'ai pas faim",
+      "it": "Non ho fame"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "What do you want to eat?",
     "translations": {
       "es": "¿Qué quieres comer?",
-      "en": "What do you want to eat?"
+      "en": "What do you want to eat?",
+      "fr": "Qu'est-ce que tu veux manger ?",
+      "it": "Cosa vuoi mangiare?"
     },
     "difficulty": "Beginner"
   }

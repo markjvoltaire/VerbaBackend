@@ -3,6 +3,8 @@
     "phrase": "What's up?",
     "translations": {
       "es": "¿Qué tal?",
+      "fr": "Quoi de neuf ?",
+      "it": "Come va?",
       "en": "What's up?"
     },
     "difficulty": "Advanced"
@@ -11,6 +13,8 @@
     "phrase": "All good",
     "translations": {
       "es": "Todo bien",
+      "fr": "Tout va bien",
+      "it": "Tutto bene",
       "en": "All good"
     },
     "difficulty": "Advanced"
@@ -19,6 +23,8 @@
     "phrase": "What are you doing?",
     "translations": {
       "es": "¿Qué haces?",
+      "fr": "Tu fais quoi ?",
+      "it": "Che fai?",
       "en": "What are you doing?"
     },
     "difficulty": "Advanced"
@@ -27,6 +33,8 @@
     "phrase": "I'm busy",
     "translations": {
       "es": "Estoy ocupado",
+      "fr": "Je suis occupé",
+      "it": "Sono impegnato",
       "en": "I'm busy"
     },
     "difficulty": "Advanced"
@@ -35,6 +43,8 @@
     "phrase": "Let's see",
     "translations": {
       "es": "Vamos a ver",
+      "fr": "On va voir",
+      "it": "Vediamo",
       "en": "Let's see"
     },
     "difficulty": "Advanced"
@@ -43,6 +53,8 @@
     "phrase": "No idea",
     "translations": {
       "es": "Ni idea",
+      "fr": "Aucune idée",
+      "it": "Nessuna idea",
       "en": "No idea"
     },
     "difficulty": "Advanced"
@@ -51,6 +63,8 @@
     "phrase": "How cool!",
     "translations": {
       "es": "¡Qué guay!",
+      "fr": "Trop cool !",
+      "it": "Che figata!",
       "en": "How cool!"
     },
     "difficulty": "Advanced"
@@ -59,6 +73,8 @@
     "phrase": "That's awesome",
     "translations": {
       "es": "Está brutal",
+      "fr": "C'est génial",
+      "it": "È fantastico",
       "en": "That's awesome"
     },
     "difficulty": "Advanced"
@@ -67,6 +83,8 @@
     "phrase": "What a drag",
     "translations": {
       "es": "Qué rollo",
+      "fr": "Quelle galère",
+      "it": "Che palla",
       "en": "What a drag"
     },
     "difficulty": "Advanced"
@@ -75,6 +93,8 @@
     "phrase": "No worries",
     "translations": {
       "es": "No pasa nada",
+      "fr": "T'inquiète pas",
+      "it": "Non preoccuparti",
       "en": "No worries"
     },
     "difficulty": "Advanced"
@@ -83,6 +103,8 @@
     "phrase": "Go ahead / do it",
     "translations": {
       "es": "Dale",
+      "fr": "Vas-y",
+      "it": "Dai, fallo",
       "en": "Go ahead / do it"
     },
     "difficulty": "Advanced"
@@ -91,6 +113,8 @@
     "phrase": "Come on / alright",
     "translations": {
       "es": "Venga",
+      "fr": "Allez",
+      "it": "Dai",
       "en": "Come on / alright"
     },
     "difficulty": "Advanced"
@@ -99,6 +123,8 @@
     "phrase": "I'm exhausted",
     "translations": {
       "es": "Estoy hecho polvo",
+      "fr": "Je suis crevé",
+      "it": "Sono distrutto",
       "en": "I'm exhausted"
     },
     "difficulty": "Advanced"
@@ -107,6 +133,8 @@
     "phrase": "I was blown away",
     "translations": {
       "es": "Flipé",
+      "fr": "J'ai halluciné",
+      "it": "Sono rimasto di stucco",
       "en": "I was blown away"
     },
     "difficulty": "Advanced"
@@ -115,6 +143,8 @@
     "phrase": "That's crazy",
     "translations": {
       "es": "Qué fuerte",
+      "fr": "C'est dingue",
+      "it": "È assurdo",
       "en": "That's crazy"
     },
     "difficulty": "Advanced"
@@ -123,6 +153,8 @@
     "phrase": "I don't care",
     "translations": {
       "es": "Me da igual",
+      "fr": "Je m'en fiche",
+      "it": "Non me ne importa",
       "en": "I don't care"
     },
     "difficulty": "Advanced"
@@ -131,6 +163,8 @@
     "phrase": "I'm not into that",
     "translations": {
       "es": "Paso de eso",
+      "fr": "Ça ne me branche pas",
+      "it": "Non mi interessa",
       "en": "I'm not into that"
     },
     "difficulty": "Advanced"
@@ -139,6 +173,8 @@
     "phrase": "That's cool (LatAm)",
     "translations": {
       "es": "Está chido",
+      "fr": "C'est cool",
+      "it": "È figo",
       "en": "That's cool (LatAm)"
     },
     "difficulty": "Advanced"
@@ -147,6 +183,8 @@
     "phrase": "That's intense (Mexico)",
     "translations": {
       "es": "Está cañón",
+      "fr": "C'est intense",
+      "it": "È tosto",
       "en": "That's intense (Mexico)"
     },
     "difficulty": "Advanced"
@@ -155,6 +193,8 @@
     "phrase": "See you",
     "translations": {
       "es": "Nos vemos",
+      "fr": "À plus",
+      "it": "Ci vediamo",
       "en": "See you"
     },
     "difficulty": "Advanced"

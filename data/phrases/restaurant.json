@@ -313,6 +313,8 @@
     "phrase": "I want a table",
     "translations": {
       "es": "Quiero una mesa",
+      "fr": "Je veux une table",
+      "it": "Voglio un tavolo",
       "en": "I want a table"
     },
     "difficulty": "Beginner"
@@ -321,6 +323,8 @@
     "phrase": "Table for two",
     "translations": {
       "es": "Mesa para dos",
+      "fr": "Table pour deux",
+      "it": "Tavolo per due",
       "en": "Table for two"
     },
     "difficulty": "Beginner"
@@ -329,6 +333,8 @@
     "phrase": "Can I see the menu?",
     "translations": {
       "es": "¿Puedo ver el menú?",
+      "fr": "Puis-je voir le menu ?",
+      "it": "Posso vedere il menu?",
       "en": "Can I see the menu?"
     },
     "difficulty": "Beginner"
@@ -337,6 +343,8 @@
     "phrase": "I want to order",
     "translations": {
       "es": "Quiero ordenar",
+      "fr": "Je veux commander",
+      "it": "Voglio ordinare",
       "en": "I want to order"
     },
     "difficulty": "Beginner"
@@ -345,6 +353,8 @@
     "phrase": "I will order this",
     "translations": {
       "es": "Voy a pedir esto",
+      "fr": "Je vais prendre ça",
+      "it": "Prendo questo",
       "en": "I will order this"
     },
     "difficulty": "Beginner"
@@ -353,6 +363,8 @@
     "phrase": "What do you recommend?",
     "translations": {
       "es": "¿Qué recomiendas?",
+      "fr": "Qu'est-ce que tu recommandes ?",
+      "it": "Cosa consigli?",
       "en": "What do you recommend?"
     },
     "difficulty": "Beginner"
@@ -361,6 +373,8 @@
     "phrase": "For me, please",
     "translations": {
       "es": "Para mí, por favor",
+      "fr": "Pour moi, s'il vous plaît",
+      "it": "Per me, per favore",
       "en": "For me, please"
     },
     "difficulty": "Beginner"
@@ -369,6 +383,8 @@
     "phrase": "No sugar",
     "translations": {
       "es": "Sin azúcar",
+      "fr": "Sans sucre",
+      "it": "Senza zucchero",
       "en": "No sugar"
     },
     "difficulty": "Beginner"
@@ -377,6 +393,8 @@
     "phrase": "No ice",
     "translations": {
       "es": "Sin hielo",
+      "fr": "Sans glace",
+      "it": "Senza ghiaccio",
       "en": "No ice"
     },
     "difficulty": "Beginner"
@@ -385,6 +403,8 @@
     "phrase": "With ice",
     "translations": {
       "es": "Con hielo",
+      "fr": "Avec de la glace",
+      "it": "Con ghiaccio",
       "en": "With ice"
     },
     "difficulty": "Beginner"
@@ -393,6 +413,8 @@
     "phrase": "I want water",
     "translations": {
       "es": "Quiero agua",
+      "fr": "Je veux de l'eau",
+      "it": "Voglio dell'acqua",
       "en": "I want water"
     },
     "difficulty": "Beginner"
@@ -401,6 +423,8 @@
     "phrase": "I want coffee",
     "translations": {
       "es": "Quiero café",
+      "fr": "Je veux un café",
+      "it": "Voglio un caffè",
       "en": "I want coffee"
     },
     "difficulty": "Beginner"
@@ -409,6 +433,8 @@
     "phrase": "How much is it?",
     "translations": {
       "es": "¿Cuánto cuesta?",
+      "fr": "Combien ça coûte ?",
+      "it": "Quanto costa?",
       "en": "How much is it?"
     },
     "difficulty": "Beginner"
@@ -417,6 +443,8 @@
     "phrase": "I pay with card",
     "translations": {
       "es": "Pago con tarjeta",
+      "fr": "Je paie par carte",
+      "it": "Pago con carta",
       "en": "I pay with card"
     },
     "difficulty": "Beginner"
@@ -425,6 +453,8 @@
     "phrase": "I pay cash",
     "translations": {
       "es": "Pago en efectivo",
+      "fr": "Je paie en espèces",
+      "it": "Pago in contanti",
       "en": "I pay cash"
     },
     "difficulty": "Beginner"
@@ -433,6 +463,8 @@
     "phrase": "It is very good",
     "translations": {
       "es": "Está muy bueno",
+      "fr": "C'est très bon",
+      "it": "È molto buono",
       "en": "It is very good"
     },
     "difficulty": "Beginner"
@@ -441,6 +473,8 @@
     "phrase": "I don't like it",
     "translations": {
       "es": "No me gusta",
+      "fr": "Ça ne me plaît pas",
+      "it": "Non mi piace",
       "en": "I don't like it"
     },
     "difficulty": "Beginner"
@@ -449,6 +483,8 @@
     "phrase": "I want something else",
     "translations": {
       "es": "Quiero otra cosa",
+      "fr": "Je veux autre chose",
+      "it": "Voglio qualcos'altro",
       "en": "I want something else"
     },
     "difficulty": "Beginner"
@@ -457,6 +493,8 @@
     "phrase": "Thank you",
     "translations": {
       "es": "Gracias",
+      "fr": "Merci",
+      "it": "Grazie",
       "en": "Thank you"
     },
     "difficulty": "Beginner"

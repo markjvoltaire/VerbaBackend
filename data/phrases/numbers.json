@@ -3,7 +3,9 @@
     "phrase": "zero",
     "translations": {
       "es": "cero",
-      "en": "zero"
+      "en": "zero",
+      "fr": "zéro",
+      "it": "zero"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "one",
     "translations": {
       "es": "uno",
-      "en": "one"
+      "en": "one",
+      "fr": "un",
+      "it": "uno"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "two",
     "translations": {
       "es": "dos",
-      "en": "two"
+      "en": "two",
+      "fr": "deux",
+      "it": "due"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "three",
     "translations": {
       "es": "tres",
-      "en": "three"
+      "en": "three",
+      "fr": "trois",
+      "it": "tre"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "four",
     "translations": {
       "es": "cuatro",
-      "en": "four"
+      "en": "four",
+      "fr": "quatre",
+      "it": "quattro"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "five",
     "translations": {
       "es": "cinco",
-      "en": "five"
+      "en": "five",
+      "fr": "cinq",
+      "it": "cinque"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "six",
     "translations": {
       "es": "seis",
-      "en": "six"
+      "en": "six",
+      "fr": "six",
+      "it": "sei"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "seven",
     "translations": {
       "es": "siete",
-      "en": "seven"
+      "en": "seven",
+      "fr": "sept",
+      "it": "sette"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "eight",
     "translations": {
       "es": "ocho",
-      "en": "eight"
+      "en": "eight",
+      "fr": "huit",
+      "it": "otto"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "nine",
     "translations": {
       "es": "nueve",
-      "en": "nine"
+      "en": "nine",
+      "fr": "neuf",
+      "it": "nove"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "ten",
     "translations": {
       "es": "diez",
-      "en": "ten"
+      "en": "ten",
+      "fr": "dix",
+      "it": "dieci"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "eleven",
     "translations": {
       "es": "once",
-      "en": "eleven"
+      "en": "eleven",
+      "fr": "onze",
+      "it": "undici"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "twelve",
     "translations": {
       "es": "doce",
-      "en": "twelve"
+      "en": "twelve",
+      "fr": "douze",
+      "it": "dodici"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "thirteen",
     "translations": {
       "es": "trece",
-      "en": "thirteen"
+      "en": "thirteen",
+      "fr": "treize",
+      "it": "tredici"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "fourteen",
     "translations": {
       "es": "catorce",
-      "en": "fourteen"
+      "en": "fourteen",
+      "fr": "quatorze",
+      "it": "quattordici"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "fifteen",
     "translations": {
       "es": "quince",
-      "en": "fifteen"
+      "en": "fifteen",
+      "fr": "quinze",
+      "it": "quindici"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "twenty",
     "translations": {
       "es": "veinte",
-      "en": "twenty"
+      "en": "twenty",
+      "fr": "vingt",
+      "it": "venti"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "thirty",
     "translations": {
       "es": "treinta",
-      "en": "thirty"
+      "en": "thirty",
+      "fr": "trente",
+      "it": "trenta"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "fifty",
     "translations": {
       "es": "cincuenta",
-      "en": "fifty"
+      "en": "fifty",
+      "fr": "cinquante",
+      "it": "cinquanta"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "one hundred",
     "translations": {
       "es": "cien",
-      "en": "one hundred"
+      "en": "one hundred",
+      "fr": "cent",
+      "it": "cento"
     },
     "difficulty": "Beginner"
   }

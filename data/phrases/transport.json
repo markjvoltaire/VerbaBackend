@@ -3,6 +3,8 @@
     "phrase": "I take the bus",
     "translations": {
       "es": "Tomo el autobús",
+      "fr": "Je prends le bus",
+      "it": "Prendo l'autobus",
       "en": "I take the bus"
     },
     "difficulty": "Beginner"
@@ -11,6 +13,8 @@
     "phrase": "I take the train",
     "translations": {
       "es": "Tomo el tren",
+      "fr": "Je prends le train",
+      "it": "Prendo il treno",
       "en": "I take the train"
     },
     "difficulty": "Beginner"
@@ -19,6 +23,8 @@
     "phrase": "I take a taxi",
     "translations": {
       "es": "Tomo un taxi",
+      "fr": "Je prends un taxi",
+      "it": "Prendo un taxi",
       "en": "I take a taxi"
     },
     "difficulty": "Beginner"
@@ -27,6 +33,8 @@
     "phrase": "I drive a car",
     "translations": {
       "es": "Conduzco un coche",
+      "fr": "Je conduis une voiture",
+      "it": "Guido una macchina",
       "en": "I drive a car"
     },
     "difficulty": "Beginner"
@@ -35,6 +43,8 @@
     "phrase": "I walk",
     "translations": {
       "es": "Camino",
+      "fr": "Je marche",
+      "it": "Cammino",
       "en": "I walk"
     },
     "difficulty": "Beginner"
@@ -43,6 +53,8 @@
     "phrase": "I go by bicycle",
     "translations": {
       "es": "Voy en bicicleta",
+      "fr": "J'y vais à vélo",
+      "it": "Vado in bicicletta",
       "en": "I go by bicycle"
     },
     "difficulty": "Beginner"
@@ -51,6 +63,8 @@
     "phrase": "I go to work",
     "translations": {
       "es": "Voy al trabajo",
+      "fr": "Je vais au travail",
+      "it": "Vado al lavoro",
       "en": "I go to work"
     },
     "difficulty": "Beginner"
@@ -59,6 +73,8 @@
     "phrase": "I go home",
     "translations": {
       "es": "Voy a casa",
+      "fr": "Je rentre à la maison",
+      "it": "Vado a casa",
       "en": "I go home"
     },
     "difficulty": "Beginner"
@@ -67,6 +83,8 @@
     "phrase": "I arrive late",
     "translations": {
       "es": "Llego tarde",
+      "fr": "J'arrive en retard",
+      "it": "Arrivo in ritardo",
       "en": "I arrive late"
     },
     "difficulty": "Beginner"
@@ -75,6 +93,8 @@
     "phrase": "I arrive early",
     "translations": {
       "es": "Llego temprano",
+      "fr": "J'arrive en avance",
+      "it": "Arrivo in anticipo",
       "en": "I arrive early"
     },
     "difficulty": "Beginner"
@@ -83,6 +103,8 @@
     "phrase": "The bus arrives",
     "translations": {
       "es": "El autobús llega",
+      "fr": "Le bus arrive",
+      "it": "L'autobus arriva",
       "en": "The bus arrives"
     },
     "difficulty": "Beginner"
@@ -91,6 +113,8 @@
     "phrase": "The train leaves",
     "translations": {
       "es": "El tren sale",
+      "fr": "Le train part",
+      "it": "Il treno parte",
       "en": "The train leaves"
     },
     "difficulty": "Beginner"
@@ -99,6 +123,8 @@
     "phrase": "I buy a ticket",
     "translations": {
       "es": "Compro un boleto",
+      "fr": "J'achète un billet",
+      "it": "Compro un biglietto",
       "en": "I buy a ticket"
     },
     "difficulty": "Beginner"
@@ -107,6 +133,8 @@
     "phrase": "Where is the station?",
     "translations": {
       "es": "¿Dónde está la estación?",
+      "fr": "Où est la gare ?",
+      "it": "Dov'è la stazione?",
       "en": "Where is the station?"
     },
     "difficulty": "Beginner"
@@ -115,6 +143,8 @@
     "phrase": "I wait here",
     "translations": {
       "es": "Espero aquí",
+      "fr": "J'attends ici",
+      "it": "Aspetto qui",
       "en": "I wait here"
     },
     "difficulty": "Beginner"
@@ -123,6 +153,8 @@
     "phrase": "I get on the bus",
     "translations": {
       "es": "Subo al autobús",
+      "fr": "Je monte dans le bus",
+      "it": "Salgo sull'autobus",
       "en": "I get on the bus"
     },
     "difficulty": "Beginner"
@@ -131,6 +163,8 @@
     "phrase": "I get off the train",
     "translations": {
       "es": "Bajo del tren",
+      "fr": "Je descends du train",
+      "it": "Scendo dal treno",
       "en": "I get off the train"
     },
     "difficulty": "Beginner"
@@ -139,6 +173,8 @@
     "phrase": "I travel a lot",
     "translations": {
       "es": "Viajo mucho",
+      "fr": "Je voyage beaucoup",
+      "it": "Viaggio molto",
       "en": "I travel a lot"
     },
     "difficulty": "Beginner"
@@ -147,6 +183,8 @@
     "phrase": "It is fast",
     "translations": {
       "es": "Es rápido",
+      "fr": "C'est rapide",
+      "it": "È veloce",
       "en": "It is fast"
     },
     "difficulty": "Beginner"
@@ -155,6 +193,8 @@
     "phrase": "It is slow",
     "translations": {
       "es": "Es lento",
+      "fr": "C'est lent",
+      "it": "È lento",
       "en": "It is slow"
     },
     "difficulty": "Beginner"

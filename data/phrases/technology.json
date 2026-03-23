@@ -3,6 +3,8 @@
     "phrase": "I use my phone every day",
     "translations": {
       "es": "Uso mi teléfono todos los días",
+      "fr": "J'utilise mon téléphone tous les jours",
+      "it": "Uso il mio telefono tutti i giorni",
       "en": "I use my phone every day"
     },
     "difficulty": "Intermediate"
@@ -11,6 +13,8 @@
     "phrase": "I use the computer",
     "translations": {
       "es": "Uso la computadora",
+      "fr": "J'utilise l'ordinateur",
+      "it": "Uso il computer",
       "en": "I use the computer"
     },
     "difficulty": "Intermediate"
@@ -19,6 +23,8 @@
     "phrase": "I work online",
     "translations": {
       "es": "Trabajo en línea",
+      "fr": "Je travaille en ligne",
+      "it": "Lavoro online",
       "en": "I work online"
     },
     "difficulty": "Intermediate"
@@ -27,6 +33,8 @@
     "phrase": "I study online",
     "translations": {
       "es": "Estudio en línea",
+      "fr": "J'étudie en ligne",
+      "it": "Studio online",
       "en": "I study online"
     },
     "difficulty": "Intermediate"
@@ -35,6 +43,8 @@
     "phrase": "I use the internet a lot",
     "translations": {
       "es": "Uso internet mucho",
+      "fr": "J'utilise beaucoup internet",
+      "it": "Uso molto internet",
       "en": "I use the internet a lot"
     },
     "difficulty": "Intermediate"
@@ -43,6 +53,8 @@
     "phrase": "I search for information",
     "translations": {
       "es": "Busco información",
+      "fr": "Je cherche des informations",
+      "it": "Cerco informazioni",
       "en": "I search for information"
     },
     "difficulty": "Intermediate"
@@ -51,6 +63,8 @@
     "phrase": "I download apps",
     "translations": {
       "es": "Descargo aplicaciones",
+      "fr": "Je télécharge des applications",
+      "it": "Scarico delle applicazioni",
       "en": "I download apps"
     },
     "difficulty": "Intermediate"
@@ -59,6 +73,8 @@
     "phrase": "I use social media",
     "translations": {
       "es": "Uso redes sociales",
+      "fr": "J'utilise les réseaux sociaux",
+      "it": "Uso i social media",
       "en": "I use social media"
     },
     "difficulty": "Intermediate"
@@ -67,6 +83,8 @@
     "phrase": "I send messages",
     "translations": {
       "es": "Envio mensajes",
+      "fr": "J'envoie des messages",
+      "it": "Invio messaggi",
       "en": "I send messages"
     },
     "difficulty": "Intermediate"
@@ -75,6 +93,8 @@
     "phrase": "I make video calls",
     "translations": {
       "es": "Hago videollamadas",
+      "fr": "Je fais des appels vidéo",
+      "it": "Faccio videochiamate",
       "en": "I make video calls"
     },
     "difficulty": "Intermediate"
@@ -83,6 +103,8 @@
     "phrase": "Technology helps a lot",
     "translations": {
       "es": "La tecnología ayuda mucho",
+      "fr": "La technologie aide beaucoup",
+      "it": "La tecnologia aiuta molto",
       "en": "Technology helps a lot"
     },
     "difficulty": "Intermediate"
@@ -91,6 +113,8 @@
     "phrase": "Technology changes fast",
     "translations": {
       "es": "La tecnología cambia rápido",
+      "fr": "La technologie évolue vite",
+      "it": "La tecnologia cambia velocemente",
       "en": "Technology changes fast"
     },
     "difficulty": "Intermediate"
@@ -99,6 +123,8 @@
     "phrase": "It is easy to use",
     "translations": {
       "es": "Es fácil de usar",
+      "fr": "C'est facile à utiliser",
+      "it": "È facile da usare",
       "en": "It is easy to use"
     },
     "difficulty": "Intermediate"
@@ -107,6 +133,8 @@
     "phrase": "It is difficult to use",
     "translations": {
       "es": "Es difícil de usar",
+      "fr": "C'est difficile à utiliser",
+      "it": "È difficile da usare",
       "en": "It is difficult to use"
     },
     "difficulty": "Intermediate"
@@ -115,6 +143,8 @@
     "phrase": "I need a connection",
     "translations": {
       "es": "Necesito conexión",
+      "fr": "J'ai besoin d'une connexion",
+      "it": "Ho bisogno di una connessione",
       "en": "I need a connection"
     },
     "difficulty": "Intermediate"
@@ -123,6 +153,8 @@
     "phrase": "I don't have internet",
     "translations": {
       "es": "No tengo internet",
+      "fr": "Je n'ai pas internet",
+      "it": "Non ho internet",
       "en": "I don't have internet"
     },
     "difficulty": "Intermediate"
@@ -131,6 +163,8 @@
     "phrase": "It works well",
     "translations": {
       "es": "Funciona bien",
+      "fr": "Ça marche bien",
+      "it": "Funziona bene",
       "en": "It works well"
     },
     "difficulty": "Intermediate"
@@ -139,6 +173,8 @@
     "phrase": "It doesn't work",
     "translations": {
       "es": "No funciona",
+      "fr": "Ça ne marche pas",
+      "it": "Non funziona",
       "en": "It doesn't work"
     },
     "difficulty": "Intermediate"
@@ -147,6 +183,8 @@
     "phrase": "It is useful",
     "translations": {
       "es": "Es útil",
+      "fr": "C'est utile",
+      "it": "È utile",
       "en": "It is useful"
     },
     "difficulty": "Intermediate"
@@ -155,6 +193,8 @@
     "phrase": "I use it every day",
     "translations": {
       "es": "Lo uso todos los días",
+      "fr": "Je l'utilise tous les jours",
+      "it": "Lo uso tutti i giorni",
       "en": "I use it every day"
     },
     "difficulty": "Intermediate"

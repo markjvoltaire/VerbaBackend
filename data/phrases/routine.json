@@ -3,6 +3,8 @@
     "phrase": "I always wake up early",
     "translations": {
       "es": "Siempre me levanto temprano",
+      "fr": "Je me réveille toujours tôt",
+      "it": "Mi sveglio sempre presto",
       "en": "I always wake up early"
     },
     "difficulty": "Beginner"
@@ -11,6 +13,8 @@
     "phrase": "I always eat breakfast",
     "translations": {
       "es": "Siempre desayuno",
+      "fr": "Je prends toujours le petit-déjeuner",
+      "it": "Faccio sempre colazione",
       "en": "I always eat breakfast"
     },
     "difficulty": "Beginner"
@@ -19,6 +23,8 @@
     "phrase": "I work every day",
     "translations": {
       "es": "Trabajo todos los días",
+      "fr": "Je travaille tous les jours",
+      "it": "Lavoro tutti i giorni",
       "en": "I work every day"
     },
     "difficulty": "Beginner"
@@ -27,6 +33,8 @@
     "phrase": "I go to the gym",
     "translations": {
       "es": "Voy al gimnasio",
+      "fr": "Je vais à la salle de sport",
+      "it": "Vado in palestra",
       "en": "I go to the gym"
     },
     "difficulty": "Beginner"
@@ -35,6 +43,8 @@
     "phrase": "I study every day",
     "translations": {
       "es": "Estudio todos los días",
+      "fr": "J'étudie tous les jours",
+      "it": "Studio tutti i giorni",
       "en": "I study every day"
     },
     "difficulty": "Beginner"
@@ -43,6 +53,8 @@
     "phrase": "I always eat at twelve",
     "translations": {
       "es": "Siempre como a las doce",
+      "fr": "Je mange toujours à midi",
+      "it": "Mangio sempre a mezzogiorno",
       "en": "I always eat at twelve"
     },
     "difficulty": "Beginner"
@@ -51,6 +63,8 @@
     "phrase": "I work in the morning",
     "translations": {
       "es": "Trabajo por la mañana",
+      "fr": "Je travaille le matin",
+      "it": "Lavoro la mattina",
       "en": "I work in the morning"
     },
     "difficulty": "Beginner"
@@ -59,6 +73,8 @@
     "phrase": "I rest in the afternoon",
     "translations": {
       "es": "Descanso por la tarde",
+      "fr": "Je me repose l'après-midi",
+      "it": "Mi riposo il pomeriggio",
       "en": "I rest in the afternoon"
     },
     "difficulty": "Beginner"
@@ -67,6 +83,8 @@
     "phrase": "I go out at night",
     "translations": {
       "es": "Salgo por la noche",
+      "fr": "Je sors le soir",
+      "it": "Esco la sera",
       "en": "I go out at night"
     },
     "difficulty": "Beginner"
@@ -75,6 +93,8 @@
     "phrase": "I sleep eight hours",
     "translations": {
       "es": "Duermo ocho horas",
+      "fr": "Je dors huit heures",
+      "it": "Dormo otto ore",
       "en": "I sleep eight hours"
     },
     "difficulty": "Beginner"
@@ -83,6 +103,8 @@
     "phrase": "Sometimes I run",
     "translations": {
       "es": "A veces corro",
+      "fr": "Parfois je cours",
+      "it": "A volte corro",
       "en": "Sometimes I run"
     },
     "difficulty": "Beginner"
@@ -91,6 +113,8 @@
     "phrase": "Sometimes I read",
     "translations": {
       "es": "A veces leo",
+      "fr": "Parfois je lis",
+      "it": "A volte leggo",
       "en": "Sometimes I read"
     },
     "difficulty": "Beginner"
@@ -99,6 +123,8 @@
     "phrase": "I never smoke",
     "translations": {
       "es": "Nunca fumo",
+      "fr": "Je ne fume jamais",
+      "it": "Non fumo mai",
       "en": "I never smoke"
     },
     "difficulty": "Beginner"
@@ -107,6 +133,8 @@
     "phrase": "I never drink alcohol",
     "translations": {
       "es": "Nunca bebo alcohol",
+      "fr": "Je ne bois jamais d'alcool",
+      "it": "Non bevo mai alcol",
       "en": "I never drink alcohol"
     },
     "difficulty": "Beginner"
@@ -115,6 +143,8 @@
     "phrase": "I always study Spanish",
     "translations": {
       "es": "Siempre estudio español",
+      "fr": "J'étudie toujours l'espagnol",
+      "it": "Studio sempre lo spagnolo",
       "en": "I always study Spanish"
     },
     "difficulty": "Beginner"
@@ -123,6 +153,8 @@
     "phrase": "I almost always work",
     "translations": {
       "es": "Casi siempre trabajo",
+      "fr": "Je travaille presque toujours",
+      "it": "Lavoro quasi sempre",
       "en": "I almost always work"
     },
     "difficulty": "Beginner"
@@ -131,6 +163,8 @@
     "phrase": "I often go out",
     "translations": {
       "es": "A menudo salgo",
+      "fr": "Je sors souvent",
+      "it": "Esco spesso",
       "en": "I often go out"
     },
     "difficulty": "Beginner"
@@ -139,6 +173,8 @@
     "phrase": "I rarely rest",
     "translations": {
       "es": "Raramente descanso",
+      "fr": "Je me repose rarement",
+      "it": "Mi riposo raramente",
       "en": "I rarely rest"
     },
     "difficulty": "Beginner"
@@ -147,6 +183,8 @@
     "phrase": "Every day is the same",
     "translations": {
       "es": "Todos los días son iguales",
+      "fr": "Chaque jour est pareil",
+      "it": "Ogni giorno è uguale",
       "en": "Every day is the same"
     },
     "difficulty": "Beginner"
@@ -155,6 +193,8 @@
     "phrase": "I have a routine",
     "translations": {
       "es": "Tengo una rutina",
+      "fr": "J'ai une routine",
+      "it": "Ho una routine",
       "en": "I have a routine"
     },
     "difficulty": "Beginner"

@@ -3,7 +3,9 @@
     "phrase": "I would like to add something",
     "translations": {
       "es": "Me gustaría añadir algo",
-      "en": "I would like to add something"
+      "en": "I would like to add something",
+      "fr": "J'aimerais ajouter quelque chose",
+      "it": "Vorrei aggiungere qualcosa"
     },
     "difficulty": "Advanced"
   },
@@ -11,7 +13,9 @@
     "phrase": "Allow me to clarify",
     "translations": {
       "es": "Permíteme aclarar",
-      "en": "Allow me to clarify"
+      "en": "Allow me to clarify",
+      "fr": "Permettez-moi de clarifier",
+      "it": "Permettetemi di chiarire"
     },
     "difficulty": "Advanced"
   },
@@ -19,7 +23,9 @@
     "phrase": "With all due respect",
     "translations": {
       "es": "Con todo respeto",
-      "en": "With all due respect"
+      "en": "With all due respect",
+      "fr": "Avec tout le respect que je vous dois",
+      "it": "Con tutto il rispetto"
     },
     "difficulty": "Advanced"
   },
@@ -27,7 +33,9 @@
     "phrase": "That is not necessarily the case",
     "translations": {
       "es": "No es necesariamente así",
-      "en": "That is not necessarily the case"
+      "en": "That is not necessarily the case",
+      "fr": "Ce n'est pas forcément le cas",
+      "it": "Non è necessariamente così"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +43,9 @@
     "phrase": "There is evidence that suggests",
     "translations": {
       "es": "Hay evidencia que sugiere",
-      "en": "There is evidence that suggests"
+      "en": "There is evidence that suggests",
+      "fr": "Il y a des preuves qui suggèrent",
+      "it": "Ci sono prove che suggeriscono"
     },
     "difficulty": "Advanced"
   },
@@ -43,7 +53,9 @@
     "phrase": "It is important to consider",
     "translations": {
       "es": "Es importante considerar",
-      "en": "It is important to consider"
+      "en": "It is important to consider",
+      "fr": "Il est important de considérer",
+      "it": "È importante considerare"
     },
     "difficulty": "Advanced"
   },
@@ -51,7 +63,9 @@
     "phrase": "We cannot ignore",
     "translations": {
       "es": "No podemos ignorar",
-      "en": "We cannot ignore"
+      "en": "We cannot ignore",
+      "fr": "Nous ne pouvons pas ignorer",
+      "it": "Non possiamo ignorare"
     },
     "difficulty": "Advanced"
   },
@@ -59,7 +73,9 @@
     "phrase": "This raises a question",
     "translations": {
       "es": "Esto plantea una pregunta",
-      "en": "This raises a question"
+      "en": "This raises a question",
+      "fr": "Cela soulève une question",
+      "it": "Questo solleva una domanda"
     },
     "difficulty": "Advanced"
   },
@@ -67,7 +83,9 @@
     "phrase": "The main issue is",
     "translations": {
       "es": "La cuestión principal es",
-      "en": "The main issue is"
+      "en": "The main issue is",
+      "fr": "La question principale est",
+      "it": "La questione principale è"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +93,9 @@
     "phrase": "From a different perspective",
     "translations": {
       "es": "Desde una perspectiva diferente",
-      "en": "From a different perspective"
+      "en": "From a different perspective",
+      "fr": "D'un point de vue différent",
+      "it": "Da una prospettiva diversa"
     },
     "difficulty": "Advanced"
   },
@@ -83,7 +103,9 @@
     "phrase": "It is a solid argument",
     "translations": {
       "es": "Es un argumento sólido",
-      "en": "It is a solid argument"
+      "en": "It is a solid argument",
+      "fr": "C'est un argument solide",
+      "it": "È un argomento solido"
     },
     "difficulty": "Advanced"
   },
@@ -91,7 +113,9 @@
     "phrase": "It is not a convincing argument",
     "translations": {
       "es": "No es un argumento convincente",
-      "en": "It is not a convincing argument"
+      "en": "It is not a convincing argument",
+      "fr": "Ce n'est pas un argument convaincant",
+      "it": "Non è un argomento convincente"
     },
     "difficulty": "Advanced"
   },
@@ -99,7 +123,9 @@
     "phrase": "We must analyze this",
     "translations": {
       "es": "Debemos analizar esto",
-      "en": "We must analyze this"
+      "en": "We must analyze this",
+      "fr": "Nous devons analyser cela",
+      "it": "Dobbiamo analizzare questo"
     },
     "difficulty": "Advanced"
   },
@@ -107,7 +133,9 @@
     "phrase": "We must go deeper",
     "translations": {
       "es": "Hay que profundizar",
-      "en": "We must go deeper"
+      "en": "We must go deeper",
+      "fr": "Il faut approfondir",
+      "it": "Bisogna approfondire"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +143,9 @@
     "phrase": "This deserves discussion",
     "translations": {
       "es": "Esto merece discusión",
-      "en": "This deserves discussion"
+      "en": "This deserves discussion",
+      "fr": "Cela mérite d'être discuté",
+      "it": "Questo merita di essere discusso"
     },
     "difficulty": "Advanced"
   },
@@ -123,7 +153,9 @@
     "phrase": "I am not convinced by that argument",
     "translations": {
       "es": "No estoy convencido por ese argumento",
-      "en": "I am not convinced by that argument"
+      "en": "I am not convinced by that argument",
+      "fr": "Je ne suis pas convaincu par cet argument",
+      "it": "Non sono convinto da quell'argomento"
     },
     "difficulty": "Advanced"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is a generalization",
     "translations": {
       "es": "Es una generalización",
-      "en": "It is a generalization"
+      "en": "It is a generalization",
+      "fr": "C'est une généralisation",
+      "it": "È una generalizzazione"
     },
     "difficulty": "Advanced"
   },
@@ -139,7 +173,9 @@
     "phrase": "That is not always true",
     "translations": {
       "es": "Eso no siempre es cierto",
-      "en": "That is not always true"
+      "en": "That is not always true",
+      "fr": "Ce n'est pas toujours vrai",
+      "it": "Non è sempre vero"
     },
     "difficulty": "Advanced"
   },
@@ -147,7 +183,9 @@
     "phrase": "There are exceptions",
     "translations": {
       "es": "Hay excepciones",
-      "en": "There are exceptions"
+      "en": "There are exceptions",
+      "fr": "Il y a des exceptions",
+      "it": "Ci sono delle eccezioni"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +193,9 @@
     "phrase": "In conclusion",
     "translations": {
       "es": "En conclusión",
-      "en": "In conclusion"
+      "en": "In conclusion",
+      "fr": "En conclusion",
+      "it": "In conclusione"
     },
     "difficulty": "Advanced"
   }

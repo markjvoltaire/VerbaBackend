@@ -3,6 +3,8 @@
     "phrase": "— Excuse me, do you know where the bathroom is? — Yes, at the back on the right",
     "translations": {
       "es": "— Perdona, ¿sabes dónde está el baño? — Sí, al fondo a la derecha",
+      "fr": "— Excusez-moi, savez-vous où sont les toilettes ? — Oui, au fond à droite",
+      "it": "— Scusi, sa dov'è il bagno? — Sì, in fondo a destra",
       "en": "— Excuse me, do you know where the bathroom is? — Yes, at the back on the right"
     },
     "difficulty": "Advanced"
@@ -11,6 +13,8 @@
     "phrase": "— Sorry, I'm a bit late — No worries, we just started",
     "translations": {
       "es": "— Disculpa, llego un poco tarde — No pasa nada, apenas empezamos",
+      "fr": "— Désolé, je suis un peu en retard — Pas de souci, on vient de commencer",
+      "it": "— Scusa, sono un po' in ritardo — Non preoccuparti, abbiamo appena iniziato",
       "en": "— Sorry, I'm a bit late — No worries, we just started"
     },
     "difficulty": "Advanced"
@@ -19,6 +23,8 @@
     "phrase": "— How much is this? — It's twenty euros",
     "translations": {
       "es": "— ¿Cuánto cuesta esto? — Son veinte euros",
+      "fr": "— Combien ça coûte ? — C'est vingt euros",
+      "it": "— Quanto costa questo? — Sono venti euro",
       "en": "— How much is this? — It's twenty euros"
     },
     "difficulty": "Advanced"
@@ -27,6 +33,8 @@
     "phrase": "— Do you recommend something? — Yes, this dish is very popular",
     "translations": {
       "es": "— ¿Me recomiendas algo? — Sí, este plato es muy popular",
+      "fr": "— Vous recommandez quelque chose ? — Oui, ce plat est très populaire",
+      "it": "— Mi consiglia qualcosa? — Sì, questo piatto è molto popolare",
       "en": "— Do you recommend something? — Yes, this dish is very popular"
     },
     "difficulty": "Advanced"
@@ -35,6 +43,8 @@
     "phrase": "— What are you looking for? — Something quick and cheap",
     "translations": {
       "es": "— ¿Qué estás buscando? — Algo rápido y barato",
+      "fr": "— Qu'est-ce que tu cherches ? — Quelque chose de rapide et pas cher",
+      "it": "— Cosa stai cercando? — Qualcosa di veloce ed economico",
       "en": "— What are you looking for? — Something quick and cheap"
     },
     "difficulty": "Advanced"
@@ -43,6 +53,8 @@
     "phrase": "— Can I help you? — Yes, I'm looking for this",
     "translations": {
       "es": "— ¿Te puedo ayudar? — Sí, estoy buscando esto",
+      "fr": "— Je peux vous aider ? — Oui, je cherche ceci",
+      "it": "— Posso aiutarla? — Sì, sto cercando questo",
       "en": "— Can I help you? — Yes, I'm looking for this"
     },
     "difficulty": "Advanced"
@@ -51,6 +63,8 @@
     "phrase": "— How do I get there? — Go straight then turn left",
     "translations": {
       "es": "— ¿Cómo llego ahí? — Sigue recto y luego gira a la izquierda",
+      "fr": "— Comment j'y vais ? — Allez tout droit puis tournez à gauche",
+      "it": "— Come ci arrivo? — Vada dritto e poi giri a sinistra",
       "en": "— How do I get there? — Go straight then turn left"
     },
     "difficulty": "Advanced"
@@ -59,6 +73,8 @@
     "phrase": "— Everything good with the order? — Yes, everything perfect",
     "translations": {
       "es": "— ¿Todo bien con el pedido? — Sí, todo perfecto",
+      "fr": "— Tout va bien avec la commande ? — Oui, tout est parfait",
+      "it": "— Tutto bene con l'ordine? — Sì, tutto perfetto",
       "en": "— Everything good with the order? — Yes, everything perfect"
     },
     "difficulty": "Advanced"
@@ -67,6 +83,8 @@
     "phrase": "— Cash or card? — Card",
     "translations": {
       "es": "— ¿Pagas en efectivo o tarjeta? — Con tarjeta",
+      "fr": "— Espèces ou carte ? — Par carte",
+      "it": "— Contanti o carta? — Con carta",
       "en": "— Cash or card? — Card"
     },
     "difficulty": "Advanced"
@@ -75,6 +93,8 @@
     "phrase": "— Do you need anything else? — No, that's all",
     "translations": {
       "es": "— ¿Necesitas algo más? — No, eso es todo",
+      "fr": "— Vous avez besoin d'autre chose ? — Non, c'est tout",
+      "it": "— Ha bisogno di altro? — No, è tutto",
       "en": "— Do you need anything else? — No, that's all"
     },
     "difficulty": "Advanced"
@@ -83,6 +103,8 @@
     "phrase": "— Is this taken? — No, you can sit",
     "translations": {
       "es": "— ¿Está ocupado? — No, puedes sentarte",
+      "fr": "— C'est pris ? — Non, vous pouvez vous asseoir",
+      "it": "— È occupato? — No, si può sedere",
       "en": "— Is this taken? — No, you can sit"
     },
     "difficulty": "Advanced"
@@ -91,6 +113,8 @@
     "phrase": "— How was the service? — Very good, thanks",
     "translations": {
       "es": "— ¿Qué tal el servicio? — Muy bien, gracias",
+      "fr": "— Comment était le service ? — Très bien, merci",
+      "it": "— Com'era il servizio? — Molto buono, grazie",
       "en": "— How was the service? — Very good, thanks"
     },
     "difficulty": "Advanced"
@@ -99,6 +123,8 @@
     "phrase": "— How long have you been here? — A couple of years",
     "translations": {
       "es": "— ¿Cuánto tiempo llevas aquí? — Un par de años",
+      "fr": "— Depuis combien de temps êtes-vous ici ? — Quelques années",
+      "it": "— Da quanto tempo sei qui? — Un paio d'anni",
       "en": "— How long have you been here? — A couple of years"
     },
     "difficulty": "Advanced"
@@ -107,6 +133,8 @@
     "phrase": "— Do you like living here? — Yes, quite a lot",
     "translations": {
       "es": "— ¿Te gusta vivir aquí? — Sí, bastante",
+      "fr": "— Tu aimes vivre ici ? — Oui, beaucoup",
+      "it": "— Ti piace vivere qui? — Sì, parecchio",
       "en": "— Do you like living here? — Yes, quite a lot"
     },
     "difficulty": "Advanced"
@@ -115,6 +143,8 @@
     "phrase": "— What do you recommend doing? — Depends on what you like",
     "translations": {
       "es": "— ¿Qué recomiendas hacer? — Depende de lo que te guste",
+      "fr": "— Qu'est-ce que tu recommandes de faire ? — Ça dépend de ce que tu aimes",
+      "it": "— Cosa consigli di fare? — Dipende da cosa ti piace",
       "en": "— What do you recommend doing? — Depends on what you like"
     },
     "difficulty": "Advanced"
@@ -123,6 +153,8 @@
     "phrase": "— Do you come often? — Yes, pretty often",
     "translations": {
       "es": "— ¿Vienes seguido? — Sí, bastante seguido",
+      "fr": "— Tu viens souvent ? — Oui, assez souvent",
+      "it": "— Vieni spesso? — Sì, abbastanza spesso",
       "en": "— Do you come often? — Yes, pretty often"
     },
     "difficulty": "Advanced"
@@ -131,6 +163,8 @@
     "phrase": "— Can I ask you something? — Of course, tell me",
     "translations": {
       "es": "— ¿Te puedo hacer una pregunta? — Claro, dime",
+      "fr": "— Je peux te poser une question ? — Bien sûr, dis-moi",
+      "it": "— Posso chiederti una cosa? — Certo, dimmi",
       "en": "— Can I ask you something? — Of course, tell me"
     },
     "difficulty": "Advanced"
@@ -139,6 +173,8 @@
     "phrase": "— What do you think of this? — It's pretty good",
     "translations": {
       "es": "— ¿Qué te parece esto? — Está bastante bien",
+      "fr": "— Qu'est-ce que tu en penses ? — C'est plutôt bien",
+      "it": "— Cosa ne pensi? — È piuttosto buono",
       "en": "— What do you think of this? — It's pretty good"
     },
     "difficulty": "Advanced"
@@ -147,6 +183,8 @@
     "phrase": "— Are you ready? — Yes, whenever you are",
     "translations": {
       "es": "— ¿Estás listo? — Sí, cuando quieras",
+      "fr": "— Tu es prêt ? — Oui, quand tu veux",
+      "it": "— Sei pronto? — Sì, quando vuoi",
       "en": "— Are you ready? — Yes, whenever you are"
     },
     "difficulty": "Advanced"
@@ -155,6 +193,8 @@
     "phrase": "— Let's go then — Let's do it",
     "translations": {
       "es": "— Vamos entonces — Dale",
+      "fr": "— Allons-y alors — C'est parti",
+      "it": "— Andiamo allora — Facciamolo",
       "en": "— Let's go then — Let's do it"
     },
     "difficulty": "Advanced"

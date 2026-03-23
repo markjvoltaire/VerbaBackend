@@ -3,7 +3,9 @@
     "phrase": "The environment is important",
     "translations": {
       "es": "El medio ambiente es importante",
-      "en": "The environment is important"
+      "en": "The environment is important",
+      "fr": "L'environnement est important",
+      "it": "L'ambiente è importante"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "We must protect nature",
     "translations": {
       "es": "Debemos proteger la naturaleza",
-      "en": "We must protect nature"
+      "en": "We must protect nature",
+      "fr": "Nous devons protéger la nature",
+      "it": "Dobbiamo proteggere la natura"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "There is pollution",
     "translations": {
       "es": "Hay contaminación",
-      "en": "There is pollution"
+      "en": "There is pollution",
+      "fr": "Il y a de la pollution",
+      "it": "C'è inquinamento"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "The air is polluted",
     "translations": {
       "es": "El aire está contaminado",
-      "en": "The air is polluted"
+      "en": "The air is polluted",
+      "fr": "L'air est pollué",
+      "it": "L'aria è inquinata"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "The water is dirty",
     "translations": {
       "es": "El agua está sucia",
-      "en": "The water is dirty"
+      "en": "The water is dirty",
+      "fr": "L'eau est sale",
+      "it": "L'acqua è sporca"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "We recycle",
     "translations": {
       "es": "Reciclamos",
-      "en": "We recycle"
+      "en": "We recycle",
+      "fr": "Nous recyclons",
+      "it": "Ricicliamo"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "It is important to recycle",
     "translations": {
       "es": "Es importante reciclar",
-      "en": "It is important to recycle"
+      "en": "It is important to recycle",
+      "fr": "Il est important de recycler",
+      "it": "È importante riciclare"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "We use less plastic",
     "translations": {
       "es": "Usamos menos plástico",
-      "en": "We use less plastic"
+      "en": "We use less plastic",
+      "fr": "Nous utilisons moins de plastique",
+      "it": "Usiamo meno plastica"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "Climate change is real",
     "translations": {
       "es": "El cambio climático es real",
-      "en": "Climate change is real"
+      "en": "Climate change is real",
+      "fr": "Le changement climatique est réel",
+      "it": "Il cambiamento climatico è reale"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "The situation is serious",
     "translations": {
       "es": "La situación es grave",
-      "en": "The situation is serious"
+      "en": "The situation is serious",
+      "fr": "La situation est grave",
+      "it": "La situazione è grave"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "We must act now",
     "translations": {
       "es": "Debemos actuar ahora",
-      "en": "We must act now"
+      "en": "We must act now",
+      "fr": "Nous devons agir maintenant",
+      "it": "Dobbiamo agire adesso"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "We can help",
     "translations": {
       "es": "Podemos ayudar",
-      "en": "We can help"
+      "en": "We can help",
+      "fr": "Nous pouvons aider",
+      "it": "Possiamo aiutare"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "It is everyone's responsibility",
     "translations": {
       "es": "Es responsabilidad de todos",
-      "en": "It is everyone's responsibility"
+      "en": "It is everyone's responsibility",
+      "fr": "C'est la responsabilité de tous",
+      "it": "È responsabilità di tutti"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "The planet needs help",
     "translations": {
       "es": "El planeta necesita ayuda",
-      "en": "The planet needs help"
+      "en": "The planet needs help",
+      "fr": "La planète a besoin d'aide",
+      "it": "Il pianeta ha bisogno di aiuto"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "Nature is beautiful",
     "translations": {
       "es": "La naturaleza es hermosa",
-      "en": "Nature is beautiful"
+      "en": "Nature is beautiful",
+      "fr": "La nature est belle",
+      "it": "La natura è bella"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "We must take care of the planet",
     "translations": {
       "es": "Debemos cuidar el planeta",
-      "en": "We must take care of the planet"
+      "en": "We must take care of the planet",
+      "fr": "Nous devons prendre soin de la planète",
+      "it": "Dobbiamo prenderci cura del pianeta"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "It is a global problem",
     "translations": {
       "es": "Es un problema global",
-      "en": "It is a global problem"
+      "en": "It is a global problem",
+      "fr": "C'est un problème mondial",
+      "it": "È un problema globale"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "Everyone can help",
     "translations": {
       "es": "Todos pueden ayudar",
-      "en": "Everyone can help"
+      "en": "Everyone can help",
+      "fr": "Tout le monde peut aider",
+      "it": "Tutti possono aiutare"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "Small actions matter",
     "translations": {
       "es": "Pequeñas acciones importan",
-      "en": "Small actions matter"
+      "en": "Small actions matter",
+      "fr": "Les petits gestes comptent",
+      "it": "Le piccole azioni contano"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "The future depends on us",
     "translations": {
       "es": "El futuro depende de nosotros",
-      "en": "The future depends on us"
+      "en": "The future depends on us",
+      "fr": "L'avenir dépend de nous",
+      "it": "Il futuro dipende da noi"
     },
     "difficulty": "Intermediate"
   }

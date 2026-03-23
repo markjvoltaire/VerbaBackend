@@ -3,6 +3,8 @@
     "phrase": "It is hot",
     "translations": {
       "es": "Hace calor",
+      "fr": "Il fait chaud",
+      "it": "Fa caldo",
       "en": "It is hot"
     },
     "difficulty": "Beginner"
@@ -11,6 +13,8 @@
     "phrase": "It is cold",
     "translations": {
       "es": "Hace frío",
+      "fr": "Il fait froid",
+      "it": "Fa freddo",
       "en": "It is cold"
     },
     "difficulty": "Beginner"
@@ -19,6 +23,8 @@
     "phrase": "The weather is nice",
     "translations": {
       "es": "Hace buen tiempo",
+      "fr": "Il fait beau",
+      "it": "Fa bel tempo",
       "en": "The weather is nice"
     },
     "difficulty": "Beginner"
@@ -27,6 +33,8 @@
     "phrase": "The weather is bad",
     "translations": {
       "es": "Hace mal tiempo",
+      "fr": "Il fait mauvais",
+      "it": "Fa brutto tempo",
       "en": "The weather is bad"
     },
     "difficulty": "Beginner"
@@ -35,6 +43,8 @@
     "phrase": "It is sunny",
     "translations": {
       "es": "Está soleado",
+      "fr": "Il fait soleil",
+      "it": "C'è il sole",
       "en": "It is sunny"
     },
     "difficulty": "Beginner"
@@ -43,6 +53,8 @@
     "phrase": "It is cloudy",
     "translations": {
       "es": "Está nublado",
+      "fr": "Il fait nuageux",
+      "it": "È nuvoloso",
       "en": "It is cloudy"
     },
     "difficulty": "Beginner"
@@ -51,6 +63,8 @@
     "phrase": "It is raining",
     "translations": {
       "es": "Está lloviendo",
+      "fr": "Il pleut",
+      "it": "Sta piovendo",
       "en": "It is raining"
     },
     "difficulty": "Beginner"
@@ -59,6 +73,8 @@
     "phrase": "It is snowing",
     "translations": {
       "es": "Está nevando",
+      "fr": "Il neige",
+      "it": "Sta nevicando",
       "en": "It is snowing"
     },
     "difficulty": "Beginner"
@@ -67,6 +83,8 @@
     "phrase": "It is windy",
     "translations": {
       "es": "Hace viento",
+      "fr": "Il y a du vent",
+      "it": "Tira vento",
       "en": "It is windy"
     },
     "difficulty": "Beginner"
@@ -75,6 +93,8 @@
     "phrase": "Today it is hot",
     "translations": {
       "es": "Hoy hace calor",
+      "fr": "Aujourd'hui il fait chaud",
+      "it": "Oggi fa caldo",
       "en": "Today it is hot"
     },
     "difficulty": "Beginner"
@@ -83,6 +103,8 @@
     "phrase": "Today it is cold",
     "translations": {
       "es": "Hoy hace frío",
+      "fr": "Aujourd'hui il fait froid",
+      "it": "Oggi fa freddo",
       "en": "Today it is cold"
     },
     "difficulty": "Beginner"
@@ -91,6 +113,8 @@
     "phrase": "Tomorrow it will rain",
     "translations": {
       "es": "Mañana llueve",
+      "fr": "Demain il va pleuvoir",
+      "it": "Domani pioverà",
       "en": "Tomorrow it will rain"
     },
     "difficulty": "Beginner"
@@ -99,6 +123,8 @@
     "phrase": "Yesterday it was sunny",
     "translations": {
       "es": "Ayer hizo sol",
+      "fr": "Hier il faisait beau",
+      "it": "Ieri c'era il sole",
       "en": "Yesterday it was sunny"
     },
     "difficulty": "Beginner"
@@ -107,6 +133,8 @@
     "phrase": "The weather is good",
     "translations": {
       "es": "El clima es bueno",
+      "fr": "Le temps est bon",
+      "it": "Il tempo è bello",
       "en": "The weather is good"
     },
     "difficulty": "Beginner"
@@ -115,6 +143,8 @@
     "phrase": "The weather is bad",
     "translations": {
       "es": "El clima es malo",
+      "fr": "Le temps est mauvais",
+      "it": "Il tempo è brutto",
       "en": "The weather is bad"
     },
     "difficulty": "Beginner"
@@ -123,6 +153,8 @@
     "phrase": "I like the weather",
     "translations": {
       "es": "Me gusta el clima",
+      "fr": "J'aime le temps qu'il fait",
+      "it": "Mi piace il tempo",
       "en": "I like the weather"
     },
     "difficulty": "Beginner"
@@ -131,6 +163,8 @@
     "phrase": "I don't like the cold",
     "translations": {
       "es": "No me gusta el frío",
+      "fr": "Je n'aime pas le froid",
+      "it": "Non mi piace il freddo",
       "en": "I don't like the cold"
     },
     "difficulty": "Beginner"
@@ -139,6 +173,8 @@
     "phrase": "I prefer the heat",
     "translations": {
       "es": "Prefiero el calor",
+      "fr": "Je préfère la chaleur",
+      "it": "Preferisco il caldo",
       "en": "I prefer the heat"
     },
     "difficulty": "Beginner"
@@ -147,6 +183,8 @@
     "phrase": "How is the weather?",
     "translations": {
       "es": "¿Cómo está el clima?",
+      "fr": "Quel temps fait-il ?",
+      "it": "Com'è il tempo?",
       "en": "How is the weather?"
     },
     "difficulty": "Beginner"
@@ -155,6 +193,8 @@
     "phrase": "The weather changes",
     "translations": {
       "es": "El clima cambia",
+      "fr": "Le temps change",
+      "it": "Il tempo cambia",
       "en": "The weather changes"
     },
     "difficulty": "Beginner"

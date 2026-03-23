@@ -3,6 +3,8 @@
     "phrase": "What time is it?",
     "translations": {
       "es": "¿Qué hora es?",
+      "fr": "Quelle heure est-il ?",
+      "it": "Che ora è?",
       "en": "What time is it?"
     },
     "difficulty": "Beginner"
@@ -11,6 +13,8 @@
     "phrase": "It is one o'clock",
     "translations": {
       "es": "Es la una",
+      "fr": "Il est une heure",
+      "it": "È l'una",
       "en": "It is one o'clock"
     },
     "difficulty": "Beginner"
@@ -19,6 +23,8 @@
     "phrase": "It is two o'clock",
     "translations": {
       "es": "Son las dos",
+      "fr": "Il est deux heures",
+      "it": "Sono le due",
       "en": "It is two o'clock"
     },
     "difficulty": "Beginner"
@@ -27,6 +33,8 @@
     "phrase": "It is three o'clock",
     "translations": {
       "es": "Son las tres",
+      "fr": "Il est trois heures",
+      "it": "Sono le tre",
       "en": "It is three o'clock"
     },
     "difficulty": "Beginner"
@@ -35,6 +43,8 @@
     "phrase": "It is four o'clock",
     "translations": {
       "es": "Son las cuatro",
+      "fr": "Il est quatre heures",
+      "it": "Sono le quattro",
       "en": "It is four o'clock"
     },
     "difficulty": "Beginner"
@@ -43,6 +53,8 @@
     "phrase": "It is five o'clock",
     "translations": {
       "es": "Son las cinco",
+      "fr": "Il est cinq heures",
+      "it": "Sono le cinque",
       "en": "It is five o'clock"
     },
     "difficulty": "Beginner"
@@ -51,6 +63,8 @@
     "phrase": "It is six o'clock",
     "translations": {
       "es": "Son las seis",
+      "fr": "Il est six heures",
+      "it": "Sono le sei",
       "en": "It is six o'clock"
     },
     "difficulty": "Beginner"
@@ -59,6 +73,8 @@
     "phrase": "It is seven o'clock",
     "translations": {
       "es": "Son las siete",
+      "fr": "Il est sept heures",
+      "it": "Sono le sette",
       "en": "It is seven o'clock"
     },
     "difficulty": "Beginner"
@@ -67,6 +83,8 @@
     "phrase": "It is eight o'clock",
     "translations": {
       "es": "Son las ocho",
+      "fr": "Il est huit heures",
+      "it": "Sono le otto",
       "en": "It is eight o'clock"
     },
     "difficulty": "Beginner"
@@ -75,6 +93,8 @@
     "phrase": "It is nine o'clock",
     "translations": {
       "es": "Son las nueve",
+      "fr": "Il est neuf heures",
+      "it": "Sono le nove",
       "en": "It is nine o'clock"
     },
     "difficulty": "Beginner"
@@ -83,6 +103,8 @@
     "phrase": "It is ten o'clock",
     "translations": {
       "es": "Son las diez",
+      "fr": "Il est dix heures",
+      "it": "Sono le dieci",
       "en": "It is ten o'clock"
     },
     "difficulty": "Beginner"
@@ -91,6 +113,8 @@
     "phrase": "It is eleven o'clock",
     "translations": {
       "es": "Son las once",
+      "fr": "Il est onze heures",
+      "it": "Sono le undici",
       "en": "It is eleven o'clock"
     },
     "difficulty": "Beginner"
@@ -99,6 +123,8 @@
     "phrase": "It is twelve o'clock",
     "translations": {
       "es": "Son las doce",
+      "fr": "Il est douze heures",
+      "it": "Sono le dodici",
       "en": "It is twelve o'clock"
     },
     "difficulty": "Beginner"
@@ -107,6 +133,8 @@
     "phrase": "It is two thirty",
     "translations": {
       "es": "Son las dos y media",
+      "fr": "Il est deux heures et demie",
+      "it": "Sono le due e mezza",
       "en": "It is two thirty"
     },
     "difficulty": "Beginner"
@@ -115,6 +143,8 @@
     "phrase": "It is three fifteen",
     "translations": {
       "es": "Son las tres y cuarto",
+      "fr": "Il est trois heures et quart",
+      "it": "Sono le tre e un quarto",
       "en": "It is three fifteen"
     },
     "difficulty": "Beginner"
@@ -123,6 +153,8 @@
     "phrase": "It is three forty-five",
     "translations": {
       "es": "Son las cuatro menos cuarto",
+      "fr": "Il est quatre heures moins le quart",
+      "it": "Sono le quattro meno un quarto",
       "en": "It is three forty-five"
     },
     "difficulty": "Beginner"
@@ -131,6 +163,8 @@
     "phrase": "It is noon",
     "translations": {
       "es": "Es mediodía",
+      "fr": "Il est midi",
+      "it": "È mezzogiorno",
       "en": "It is noon"
     },
     "difficulty": "Beginner"
@@ -139,6 +173,8 @@
     "phrase": "It is midnight",
     "translations": {
       "es": "Es medianoche",
+      "fr": "Il est minuit",
+      "it": "È mezzanotte",
       "en": "It is midnight"
     },
     "difficulty": "Beginner"
@@ -147,6 +183,8 @@
     "phrase": "I arrive at five",
     "translations": {
       "es": "Llego a las cinco",
+      "fr": "J'arrive à cinq heures",
+      "it": "Arrivo alle cinque",
       "en": "I arrive at five"
     },
     "difficulty": "Beginner"
@@ -155,6 +193,8 @@
     "phrase": "The meeting is at eight",
     "translations": {
       "es": "La reunión es a las ocho",
+      "fr": "La réunion est à huit heures",
+      "it": "La riunione è alle otto",
       "en": "The meeting is at eight"
     },
     "difficulty": "Beginner"

@@ -3,7 +3,9 @@
     "phrase": "I need help",
     "translations": {
       "es": "Necesito ayuda",
-      "en": "I need help"
+      "en": "I need help",
+      "fr": "J'ai besoin d'aide",
+      "it": "Ho bisogno di aiuto"
     },
     "difficulty": "Intermediate"
   },
@@ -11,7 +13,9 @@
     "phrase": "I have a problem",
     "translations": {
       "es": "Tengo un problema",
-      "en": "I have a problem"
+      "en": "I have a problem",
+      "fr": "J'ai un problème",
+      "it": "Ho un problema"
     },
     "difficulty": "Intermediate"
   },
@@ -19,7 +23,9 @@
     "phrase": "Can you help me?",
     "translations": {
       "es": "¿Puedes ayudarme?",
-      "en": "Can you help me?"
+      "en": "Can you help me?",
+      "fr": "Pouvez-vous m'aider ?",
+      "it": "Può aiutarmi?"
     },
     "difficulty": "Intermediate"
   },
@@ -27,7 +33,9 @@
     "phrase": "It doesn't work",
     "translations": {
       "es": "No funciona",
-      "en": "It doesn't work"
+      "en": "It doesn't work",
+      "fr": "Ça ne marche pas",
+      "it": "Non funziona"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +43,9 @@
     "phrase": "It is broken",
     "translations": {
       "es": "Está roto",
-      "en": "It is broken"
+      "en": "It is broken",
+      "fr": "C'est cassé",
+      "it": "È rotto"
     },
     "difficulty": "Intermediate"
   },
@@ -43,7 +53,9 @@
     "phrase": "I need a replacement",
     "translations": {
       "es": "Necesito un reemplazo",
-      "en": "I need a replacement"
+      "en": "I need a replacement",
+      "fr": "J'ai besoin d'un remplacement",
+      "it": "Ho bisogno di una sostituzione"
     },
     "difficulty": "Intermediate"
   },
@@ -51,7 +63,9 @@
     "phrase": "I want to return this",
     "translations": {
       "es": "Quiero devolver esto",
-      "en": "I want to return this"
+      "en": "I want to return this",
+      "fr": "Je voudrais rendre ceci",
+      "it": "Vorrei restituire questo"
     },
     "difficulty": "Intermediate"
   },
@@ -59,7 +73,9 @@
     "phrase": "I want a refund",
     "translations": {
       "es": "Quiero un reembolso",
-      "en": "I want a refund"
+      "en": "I want a refund",
+      "fr": "Je voudrais un remboursement",
+      "it": "Vorrei un rimborso"
     },
     "difficulty": "Intermediate"
   },
@@ -67,7 +83,9 @@
     "phrase": "What is the solution?",
     "translations": {
       "es": "¿Cuál es la solución?",
-      "en": "What is the solution?"
+      "en": "What is the solution?",
+      "fr": "Quelle est la solution ?",
+      "it": "Qual è la soluzione?"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +93,9 @@
     "phrase": "This is an error",
     "translations": {
       "es": "Esto es un error",
-      "en": "This is an error"
+      "en": "This is an error",
+      "fr": "C'est une erreur",
+      "it": "Questo è un errore"
     },
     "difficulty": "Intermediate"
   },
@@ -83,7 +103,9 @@
     "phrase": "I am not satisfied",
     "translations": {
       "es": "No estoy satisfecho",
-      "en": "I am not satisfied"
+      "en": "I am not satisfied",
+      "fr": "Je ne suis pas satisfait",
+      "it": "Non sono soddisfatto"
     },
     "difficulty": "Intermediate"
   },
@@ -91,7 +113,9 @@
     "phrase": "I am satisfied",
     "translations": {
       "es": "Estoy satisfecho",
-      "en": "I am satisfied"
+      "en": "I am satisfied",
+      "fr": "Je suis satisfait",
+      "it": "Sono soddisfatto"
     },
     "difficulty": "Intermediate"
   },
@@ -99,7 +123,9 @@
     "phrase": "Can you explain it?",
     "translations": {
       "es": "¿Puedes explicarlo?",
-      "en": "Can you explain it?"
+      "en": "Can you explain it?",
+      "fr": "Pouvez-vous l'expliquer ?",
+      "it": "Può spiegarlo?"
     },
     "difficulty": "Intermediate"
   },
@@ -107,7 +133,9 @@
     "phrase": "I need to speak with the manager",
     "translations": {
       "es": "Necesito hablar con el gerente",
-      "en": "I need to speak with the manager"
+      "en": "I need to speak with the manager",
+      "fr": "J'ai besoin de parler au responsable",
+      "it": "Ho bisogno di parlare con il responsabile"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +143,9 @@
     "phrase": "It is urgent",
     "translations": {
       "es": "Es urgente",
-      "en": "It is urgent"
+      "en": "It is urgent",
+      "fr": "C'est urgent",
+      "it": "È urgente"
     },
     "difficulty": "Intermediate"
   },
@@ -123,7 +153,9 @@
     "phrase": "Thanks for your help",
     "translations": {
       "es": "Gracias por tu ayuda",
-      "en": "Thanks for your help"
+      "en": "Thanks for your help",
+      "fr": "Merci pour votre aide",
+      "it": "Grazie per il suo aiuto"
     },
     "difficulty": "Intermediate"
   },
@@ -131,7 +163,9 @@
     "phrase": "I appreciate it",
     "translations": {
       "es": "Lo aprecio",
-      "en": "I appreciate it"
+      "en": "I appreciate it",
+      "fr": "Je vous en suis reconnaissant",
+      "it": "Lo apprezzo"
     },
     "difficulty": "Intermediate"
   },
@@ -139,7 +173,9 @@
     "phrase": "What can I do?",
     "translations": {
       "es": "¿Qué puedo hacer?",
-      "en": "What can I do?"
+      "en": "What can I do?",
+      "fr": "Que puis-je faire ?",
+      "it": "Cosa posso fare?"
     },
     "difficulty": "Intermediate"
   },
@@ -147,7 +183,9 @@
     "phrase": "This is not correct",
     "translations": {
       "es": "Esto no es correcto",
-      "en": "This is not correct"
+      "en": "This is not correct",
+      "fr": "Ce n'est pas correct",
+      "it": "Questo non è corretto"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +193,9 @@
     "phrase": "I need a quick solution",
     "translations": {
       "es": "Necesito una solución rápida",
-      "en": "I need a quick solution"
+      "en": "I need a quick solution",
+      "fr": "J'ai besoin d'une solution rapide",
+      "it": "Ho bisogno di una soluzione rapida"
     },
     "difficulty": "Intermediate"
   }

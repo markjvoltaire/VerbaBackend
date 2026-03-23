@@ -3,7 +3,9 @@
     "phrase": "Where are you from?",
     "translations": {
       "es": "¿De dónde eres?",
-      "en": "Where are you from?"
+      "en": "Where are you from?",
+      "fr": "D'où viens-tu ?",
+      "it": "Di dove sei?"
     },
     "difficulty": "Beginner"
   },
@@ -11,7 +13,9 @@
     "phrase": "Where are you from? (formal)",
     "translations": {
       "es": "¿De dónde es usted?",
-      "en": "Where are you from? (formal)"
+      "en": "Where are you from? (formal)",
+      "fr": "D'où venez-vous ?",
+      "it": "Di dov'è Lei?"
     },
     "difficulty": "Beginner"
   },
@@ -19,7 +23,9 @@
     "phrase": "I am from Miami",
     "translations": {
       "es": "Soy de Miami",
-      "en": "I am from Miami"
+      "en": "I am from Miami",
+      "fr": "Je suis de Miami",
+      "it": "Sono di Miami"
     },
     "difficulty": "Beginner"
   },
@@ -27,7 +33,9 @@
     "phrase": "I am from the United States",
     "translations": {
       "es": "Soy de Estados Unidos",
-      "en": "I am from the United States"
+      "en": "I am from the United States",
+      "fr": "Je suis des États-Unis",
+      "it": "Sono degli Stati Uniti"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +43,9 @@
     "phrase": "I come from Mexico",
     "translations": {
       "es": "Vengo de México",
-      "en": "I come from Mexico"
+      "en": "I come from Mexico",
+      "fr": "Je viens du Mexique",
+      "it": "Vengo dal Messico"
     },
     "difficulty": "Beginner"
   },
@@ -43,7 +53,9 @@
     "phrase": "I am from here",
     "translations": {
       "es": "Soy de aquí",
-      "en": "I am from here"
+      "en": "I am from here",
+      "fr": "Je suis d'ici",
+      "it": "Sono di qui"
     },
     "difficulty": "Beginner"
   },
@@ -51,7 +63,9 @@
     "phrase": "I am not from here",
     "translations": {
       "es": "No soy de aquí",
-      "en": "I am not from here"
+      "en": "I am not from here",
+      "fr": "Je ne suis pas d'ici",
+      "it": "Non sono di qui"
     },
     "difficulty": "Beginner"
   },
@@ -59,7 +73,9 @@
     "phrase": "Do you live here?",
     "translations": {
       "es": "¿Vives aquí?",
-      "en": "Do you live here?"
+      "en": "Do you live here?",
+      "fr": "Tu habites ici ?",
+      "it": "Abiti qui?"
     },
     "difficulty": "Beginner"
   },
@@ -67,7 +83,9 @@
     "phrase": "I live here",
     "translations": {
       "es": "Vivo aquí",
-      "en": "I live here"
+      "en": "I live here",
+      "fr": "J'habite ici",
+      "it": "Abito qui"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +93,9 @@
     "phrase": "I live nearby",
     "translations": {
       "es": "Vivo cerca",
-      "en": "I live nearby"
+      "en": "I live nearby",
+      "fr": "J'habite à côté",
+      "it": "Abito qui vicino"
     },
     "difficulty": "Beginner"
   },
@@ -83,7 +103,9 @@
     "phrase": "I live in this city",
     "translations": {
       "es": "Vivo en esta ciudad",
-      "en": "I live in this city"
+      "en": "I live in this city",
+      "fr": "J'habite dans cette ville",
+      "it": "Vivo in questa città"
     },
     "difficulty": "Beginner"
   },
@@ -91,7 +113,9 @@
     "phrase": "How long have you been here?",
     "translations": {
       "es": "¿Cuánto tiempo llevas aquí?",
-      "en": "How long have you been here?"
+      "en": "How long have you been here?",
+      "fr": "Depuis combien de temps es-tu ici ?",
+      "it": "Da quanto tempo sei qui?"
     },
     "difficulty": "Beginner"
   },
@@ -99,7 +123,9 @@
     "phrase": "I have lived here for one year",
     "translations": {
       "es": "Vivo aquí desde hace un año",
-      "en": "I have lived here for one year"
+      "en": "I have lived here for one year",
+      "fr": "J'habite ici depuis un an",
+      "it": "Vivo qui da un anno"
     },
     "difficulty": "Beginner"
   },
@@ -107,7 +133,9 @@
     "phrase": "I moved here recently",
     "translations": {
       "es": "Me mudé aquí recientemente",
-      "en": "I moved here recently"
+      "en": "I moved here recently",
+      "fr": "J'ai déménagé ici récemment",
+      "it": "Mi sono trasferito qui di recente"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +143,9 @@
     "phrase": "I am visiting the city",
     "translations": {
       "es": "Estoy visitando la ciudad",
-      "en": "I am visiting the city"
+      "en": "I am visiting the city",
+      "fr": "Je visite la ville",
+      "it": "Sto visitando la città"
     },
     "difficulty": "Beginner"
   },
@@ -123,7 +153,9 @@
     "phrase": "I am on vacation",
     "translations": {
       "es": "Estoy de vacaciones",
-      "en": "I am on vacation"
+      "en": "I am on vacation",
+      "fr": "Je suis en vacances",
+      "it": "Sono in vacanza"
     },
     "difficulty": "Beginner"
   },
@@ -131,7 +163,9 @@
     "phrase": "I am here for work",
     "translations": {
       "es": "Estoy aquí por trabajo",
-      "en": "I am here for work"
+      "en": "I am here for work",
+      "fr": "Je suis ici pour le travail",
+      "it": "Sono qui per lavoro"
     },
     "difficulty": "Beginner"
   },
@@ -139,7 +173,9 @@
     "phrase": "I like this city",
     "translations": {
       "es": "Me gusta esta ciudad",
-      "en": "I like this city"
+      "en": "I like this city",
+      "fr": "J'aime cette ville",
+      "it": "Mi piace questa città"
     },
     "difficulty": "Beginner"
   },
@@ -147,7 +183,9 @@
     "phrase": "It is a beautiful city",
     "translations": {
       "es": "Es una ciudad bonita",
-      "en": "It is a beautiful city"
+      "en": "It is a beautiful city",
+      "fr": "C'est une belle ville",
+      "it": "È una bella città"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +193,9 @@
     "phrase": "It is my first time here",
     "translations": {
       "es": "Es mi primera vez aquí",
-      "en": "It is my first time here"
+      "en": "It is my first time here",
+      "fr": "C'est ma première fois ici",
+      "it": "È la mia prima volta qui"
     },
     "difficulty": "Beginner"
   },
@@ -163,7 +203,9 @@
     "phrase": "I agree with you",
     "translations": {
       "es": "Estoy de acuerdo contigo",
-      "en": "I agree with you"
+      "en": "I agree with you",
+      "fr": "Je suis d'accord avec toi",
+      "it": "Sono d'accordo con te"
     },
     "difficulty": "Intermediate"
   },
@@ -171,7 +213,9 @@
     "phrase": "I don't agree with you",
     "translations": {
       "es": "No estoy de acuerdo contigo",
-      "en": "I don't agree with you"
+      "en": "I don't agree with you",
+      "fr": "Je ne suis pas d'accord avec toi",
+      "it": "Non sono d'accordo con te"
     },
     "difficulty": "Intermediate"
   },
@@ -179,7 +223,9 @@
     "phrase": "You are right",
     "translations": {
       "es": "Tienes razón",
-      "en": "You are right"
+      "en": "You are right",
+      "fr": "Tu as raison",
+      "it": "Hai ragione"
     },
     "difficulty": "Intermediate"
   },
@@ -187,7 +233,9 @@
     "phrase": "You are not right",
     "translations": {
       "es": "No tienes razón",
-      "en": "You are not right"
+      "en": "You are not right",
+      "fr": "Tu n'as pas raison",
+      "it": "Non hai ragione"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +243,9 @@
     "phrase": "Exactly",
     "translations": {
       "es": "Exactamente",
-      "en": "Exactly"
+      "en": "Exactly",
+      "fr": "Exactement",
+      "it": "Esattamente"
     },
     "difficulty": "Intermediate"
   },
@@ -203,7 +253,9 @@
     "phrase": "That's right",
     "translations": {
       "es": "Así es",
-      "en": "That's right"
+      "en": "That's right",
+      "fr": "C'est ça",
+      "it": "Esatto"
     },
     "difficulty": "Intermediate"
   },
@@ -211,7 +263,9 @@
     "phrase": "I don't think so",
     "translations": {
       "es": "No lo creo",
-      "en": "I don't think so"
+      "en": "I don't think so",
+      "fr": "Je ne crois pas",
+      "it": "Non credo"
     },
     "difficulty": "Intermediate"
   },
@@ -219,7 +273,9 @@
     "phrase": "It could be",
     "translations": {
       "es": "Puede ser",
-      "en": "It could be"
+      "en": "It could be",
+      "fr": "C'est possible",
+      "it": "Può essere"
     },
     "difficulty": "Intermediate"
   },
@@ -227,7 +283,9 @@
     "phrase": "Maybe you are right",
     "translations": {
       "es": "Tal vez tengas razón",
-      "en": "Maybe you are right"
+      "en": "Maybe you are right",
+      "fr": "Tu as peut-être raison",
+      "it": "Forse hai ragione"
     },
     "difficulty": "Intermediate"
   },
@@ -235,7 +293,9 @@
     "phrase": "I'm not sure about that",
     "translations": {
       "es": "No estoy seguro de eso",
-      "en": "I'm not sure about that"
+      "en": "I'm not sure about that",
+      "fr": "Je n'en suis pas sûr",
+      "it": "Non ne sono sicuro"
     },
     "difficulty": "Intermediate"
   },
@@ -243,7 +303,9 @@
     "phrase": "I completely agree",
     "translations": {
       "es": "Estoy completamente de acuerdo",
-      "en": "I completely agree"
+      "en": "I completely agree",
+      "fr": "Je suis tout à fait d'accord",
+      "it": "Sono completamente d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -251,7 +313,9 @@
     "phrase": "I don't completely agree",
     "translations": {
       "es": "No estoy completamente de acuerdo",
-      "en": "I don't completely agree"
+      "en": "I don't completely agree",
+      "fr": "Je ne suis pas tout à fait d'accord",
+      "it": "Non sono del tutto d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -259,7 +323,9 @@
     "phrase": "That is true",
     "translations": {
       "es": "Eso es verdad",
-      "en": "That is true"
+      "en": "That is true",
+      "fr": "C'est vrai",
+      "it": "È vero"
     },
     "difficulty": "Intermediate"
   },
@@ -267,7 +333,9 @@
     "phrase": "That is not true",
     "translations": {
       "es": "Eso no es verdad",
-      "en": "That is not true"
+      "en": "That is not true",
+      "fr": "Ce n'est pas vrai",
+      "it": "Non è vero"
     },
     "difficulty": "Intermediate"
   },
@@ -275,7 +343,9 @@
     "phrase": "I disagree",
     "translations": {
       "es": "Estoy en desacuerdo",
-      "en": "I disagree"
+      "en": "I disagree",
+      "fr": "Je ne suis pas d'accord",
+      "it": "Non sono d'accordo"
     },
     "difficulty": "Intermediate"
   },
@@ -283,7 +353,9 @@
     "phrase": "It depends on the situation",
     "translations": {
       "es": "Depende de la situación",
-      "en": "It depends on the situation"
+      "en": "It depends on the situation",
+      "fr": "Ça dépend de la situation",
+      "it": "Dipende dalla situazione"
     },
     "difficulty": "Intermediate"
   },
@@ -291,7 +363,9 @@
     "phrase": "I see it differently",
     "translations": {
       "es": "Lo veo diferente",
-      "en": "I see it differently"
+      "en": "I see it differently",
+      "fr": "Je le vois différemment",
+      "it": "La vedo diversamente"
     },
     "difficulty": "Intermediate"
   },
@@ -299,7 +373,9 @@
     "phrase": "I don't see it that way",
     "translations": {
       "es": "No lo veo así",
-      "en": "I don't see it that way"
+      "en": "I don't see it that way",
+      "fr": "Je ne le vois pas comme ça",
+      "it": "Non la vedo così"
     },
     "difficulty": "Intermediate"
   },
@@ -307,7 +383,9 @@
     "phrase": "I am on your side",
     "translations": {
       "es": "Estoy de tu lado",
-      "en": "I am on your side"
+      "en": "I am on your side",
+      "fr": "Je suis de ton côté",
+      "it": "Sono dalla tua parte"
     },
     "difficulty": "Intermediate"
   },
@@ -315,7 +393,9 @@
     "phrase": "I am not on your side",
     "translations": {
       "es": "No estoy de tu lado",
-      "en": "I am not on your side"
+      "en": "I am not on your side",
+      "fr": "Je ne suis pas de ton côté",
+      "it": "Non sono dalla tua parte"
     },
     "difficulty": "Intermediate"
   },
@@ -323,7 +403,9 @@
     "phrase": "— What did you do yesterday? — Not much, I was working all day",
     "translations": {
       "es": "— ¿Qué hiciste ayer? — Pues nada, estuve trabajando todo el día",
-      "en": "— What did you do yesterday? — Not much, I was working all day"
+      "en": "— What did you do yesterday? — Not much, I was working all day",
+      "fr": "— Qu'est-ce que tu as fait hier ? — Pas grand-chose, j'ai travaillé toute la journée",
+      "it": "— Cosa hai fatto ieri? — Niente di che, ho lavorato tutto il giorno"
     },
     "difficulty": "Advanced"
   },
@@ -331,7 +413,9 @@
     "phrase": "— Did you like it? — Yeah, but I expected more",
     "translations": {
       "es": "— ¿Te gustó? — Sí, pero esperaba más",
-      "en": "— Did you like it? — Yeah, but I expected more"
+      "en": "— Did you like it? — Yeah, but I expected more",
+      "fr": "— Ça t'a plu ? — Oui, mais je m'attendais à mieux",
+      "it": "— Ti è piaciuto? — Sì, ma mi aspettavo di più"
     },
     "difficulty": "Advanced"
   },
@@ -339,7 +423,9 @@
     "phrase": "— What do you think? — It depends how you see it",
     "translations": {
       "es": "— ¿Qué opinas? — Depende de cómo lo veas",
-      "en": "— What do you think? — It depends how you see it"
+      "en": "— What do you think? — It depends how you see it",
+      "fr": "— Qu'est-ce que tu en penses ? — Ça dépend comment tu vois les choses",
+      "it": "— Cosa ne pensi? — Dipende da come la vedi"
     },
     "difficulty": "Advanced"
   },
@@ -347,7 +433,9 @@
     "phrase": "— Is it worth it? — Honestly, not really",
     "translations": {
       "es": "— ¿Vale la pena? — La verdad, no mucho",
-      "en": "— Is it worth it? — Honestly, not really"
+      "en": "— Is it worth it? — Honestly, not really",
+      "fr": "— Ça vaut le coup ? — Honnêtement, pas vraiment",
+      "it": "— Ne vale la pena? — Onestamente, non molto"
     },
     "difficulty": "Advanced"
   },
@@ -355,7 +443,9 @@
     "phrase": "— What happened? — Nothing, it was a misunderstanding",
     "translations": {
       "es": "— ¿Qué pasó? — Nada, fue un malentendido",
-      "en": "— What happened? — Nothing, it was a misunderstanding"
+      "en": "— What happened? — Nothing, it was a misunderstanding",
+      "fr": "— Qu'est-ce qui s'est passé ? — Rien, c'était un malentendu",
+      "it": "— Cosa è successo? — Niente, è stato un malinteso"
     },
     "difficulty": "Advanced"
   },
@@ -363,7 +453,9 @@
     "phrase": "— Why did you do it? — Because I had no other choice",
     "translations": {
       "es": "— ¿Por qué lo hiciste? — Porque no tenía otra opción",
-      "en": "— Why did you do it? — Because I had no other choice"
+      "en": "— Why did you do it? — Because I had no other choice",
+      "fr": "— Pourquoi tu l'as fait ? — Parce que je n'avais pas le choix",
+      "it": "— Perché l'hai fatto? — Perché non avevo altra scelta"
     },
     "difficulty": "Advanced"
   },
@@ -371,7 +463,9 @@
     "phrase": "— Are you sure? — More or less",
     "translations": {
       "es": "— ¿Estás seguro? — Más o menos",
-      "en": "— Are you sure? — More or less"
+      "en": "— Are you sure? — More or less",
+      "fr": "— Tu es sûr ? — Plus ou moins",
+      "it": "— Sei sicuro? — Più o meno"
     },
     "difficulty": "Advanced"
   },
@@ -379,7 +473,9 @@
     "phrase": "— Are you coming or what? — Yeah, I'm on my way",
     "translations": {
       "es": "— ¿Vienes o qué? — Sí, ya voy",
-      "en": "— Are you coming or what? — Yeah, I'm on my way"
+      "en": "— Are you coming or what? — Yeah, I'm on my way",
+      "fr": "— Tu viens ou quoi ? — Oui, j'arrive",
+      "it": "— Vieni o no? — Sì, sto arrivando"
     },
     "difficulty": "Advanced"
   },
@@ -387,7 +483,9 @@
     "phrase": "— What do you mean? — That it's not that easy",
     "translations": {
       "es": "— ¿Qué quieres decir? — Que no es tan fácil",
-      "en": "— What do you mean? — That it's not that easy"
+      "en": "— What do you mean? — That it's not that easy",
+      "fr": "— Qu'est-ce que tu veux dire ? — Que ce n'est pas si simple",
+      "it": "— Cosa vuoi dire? — Che non è così facile"
     },
     "difficulty": "Advanced"
   },
@@ -395,7 +493,9 @@
     "phrase": "— Everything good? — Yeah, all good",
     "translations": {
       "es": "— ¿Todo bien? — Sí, todo tranquilo",
-      "en": "— Everything good? — Yeah, all good"
+      "en": "— Everything good? — Yeah, all good",
+      "fr": "— Tout va bien ? — Oui, tout va bien",
+      "it": "— Tutto bene? — Sì, tutto a posto"
     },
     "difficulty": "Advanced"
   },
@@ -403,7 +503,9 @@
     "phrase": "— What would you do? — I'd think twice",
     "translations": {
       "es": "— ¿Qué harías tú? — Yo lo pensaría dos veces",
-      "en": "— What would you do? — I'd think twice"
+      "en": "— What would you do? — I'd think twice",
+      "fr": "— Qu'est-ce que tu ferais ? — J'y réfléchirais à deux fois",
+      "it": "— Cosa faresti? — Ci penserei due volte"
     },
     "difficulty": "Advanced"
   },
@@ -411,7 +513,9 @@
     "phrase": "— Sounds good? — Sounds good to me",
     "translations": {
       "es": "— ¿Te parece? — Me parece bien",
-      "en": "— Sounds good? — Sounds good to me"
+      "en": "— Sounds good? — Sounds good to me",
+      "fr": "— Ça te va ? — Ça me va",
+      "it": "— Ti va bene? — Per me va bene"
     },
     "difficulty": "Advanced"
   },
@@ -419,7 +523,9 @@
     "phrase": "— How was it? — Better than I expected",
     "translations": {
       "es": "— ¿Qué tal estuvo? — Mejor de lo que esperaba",
-      "en": "— How was it? — Better than I expected"
+      "en": "— How was it? — Better than I expected",
+      "fr": "— C'était comment ? — Mieux que ce que j'attendais",
+      "it": "— Com'è stato? — Meglio di quanto mi aspettassi"
     },
     "difficulty": "Advanced"
   },
@@ -427,7 +533,9 @@
     "phrase": "— Would you do it again? — Without thinking twice",
     "translations": {
       "es": "— ¿Lo harías otra vez? — Sin pensarlo",
-      "en": "— Would you do it again? — Without thinking twice"
+      "en": "— Would you do it again? — Without thinking twice",
+      "fr": "— Tu le referais ? — Sans hésiter",
+      "it": "— Lo rifaresti? — Senza pensarci due volte"
     },
     "difficulty": "Advanced"
   },
@@ -435,7 +543,9 @@
     "phrase": "— What do you think about that? — I'm not very convinced",
     "translations": {
       "es": "— ¿Qué opinas de eso? — No estoy muy convencido",
-      "en": "— What do you think about that? — I'm not very convinced"
+      "en": "— What do you think about that? — I'm not very convinced",
+      "fr": "— Qu'est-ce que tu en penses ? — Je ne suis pas très convaincu",
+      "it": "— Cosa ne pensi? — Non sono molto convinto"
     },
     "difficulty": "Advanced"
   },
@@ -443,7 +553,9 @@
     "phrase": "— What do you want to do? — Whatever you prefer",
     "translations": {
       "es": "— ¿Qué quieres hacer? — Lo que tú prefieras",
-      "en": "— What do you want to do? — Whatever you prefer"
+      "en": "— What do you want to do? — Whatever you prefer",
+      "fr": "— Qu'est-ce que tu veux faire ? — Ce que tu préfères",
+      "it": "— Cosa vuoi fare? — Quello che preferisci"
     },
     "difficulty": "Advanced"
   },
@@ -451,7 +563,9 @@
     "phrase": "— Why not? — Good question",
     "translations": {
       "es": "— ¿Por qué no? — Buena pregunta",
-      "en": "— Why not? — Good question"
+      "en": "— Why not? — Good question",
+      "fr": "— Pourquoi pas ? — Bonne question",
+      "it": "— Perché no? — Bella domanda"
     },
     "difficulty": "Advanced"
   },
@@ -459,7 +573,9 @@
     "phrase": "— Are you in? — Yeah, let's go",
     "translations": {
       "es": "— ¿Te animas? — Dale, vamos",
-      "en": "— Are you in? — Yeah, let's go"
+      "en": "— Are you in? — Yeah, let's go",
+      "fr": "— T'es partant ? — Allez, on y va",
+      "it": "— Ci stai? — Dai, andiamo"
     },
     "difficulty": "Advanced"
   },
@@ -467,7 +583,9 @@
     "phrase": "— What do you think? — It makes sense",
     "translations": {
       "es": "— ¿Qué te parece? — Tiene sentido",
-      "en": "— What do you think? — It makes sense"
+      "en": "— What do you think? — It makes sense",
+      "fr": "— Qu'est-ce que tu en penses ? — C'est logique",
+      "it": "— Cosa ne pensi? — Ha senso"
     },
     "difficulty": "Advanced"
   },
@@ -475,7 +593,9 @@
     "phrase": "— Sure? — Yes, completely",
     "translations": {
       "es": "— ¿Seguro? — Sí, completamente",
-      "en": "— Sure? — Yes, completely"
+      "en": "— Sure? — Yes, completely",
+      "fr": "— Sûr ? — Oui, tout à fait",
+      "it": "— Sicuro? — Sì, completamente"
     },
     "difficulty": "Advanced"
   }
