@@ -5,7 +5,8 @@
       "es": "El medio ambiente es importante",
       "en": "The environment is important",
       "fr": "L'environnement est important",
-      "it": "L'ambiente è importante"
+      "it": "L'ambiente è importante",
+      "pt": "O meio ambiente é importante"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Debemos proteger la naturaleza",
       "en": "We must protect nature",
       "fr": "Nous devons protéger la nature",
-      "it": "Dobbiamo proteggere la natura"
+      "it": "Dobbiamo proteggere la natura",
+      "pt": "Precisamos proteger a natureza"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Hay contaminación",
       "en": "There is pollution",
       "fr": "Il y a de la pollution",
-      "it": "C'è inquinamento"
+      "it": "C'è inquinamento",
+      "pt": "Há poluição"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "El aire está contaminado",
       "en": "The air is polluted",
       "fr": "L'air est pollué",
-      "it": "L'aria è inquinata"
+      "it": "L'aria è inquinata",
+      "pt": "O ar está poluído"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "El agua está sucia",
       "en": "The water is dirty",
       "fr": "L'eau est sale",
-      "it": "L'acqua è sporca"
+      "it": "L'acqua è sporca",
+      "pt": "A água está suja"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Reciclamos",
       "en": "We recycle",
       "fr": "Nous recyclons",
-      "it": "Ricicliamo"
+      "it": "Ricicliamo",
+      "pt": "Nós reciclamos"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Es importante reciclar",
       "en": "It is important to recycle",
       "fr": "Il est important de recycler",
-      "it": "È importante riciclare"
+      "it": "È importante riciclare",
+      "pt": "É importante reciclar"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Usamos menos plástico",
       "en": "We use less plastic",
       "fr": "Nous utilisons moins de plastique",
-      "it": "Usiamo meno plastica"
+      "it": "Usiamo meno plastica",
+      "pt": "Usamos menos plástico"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "El cambio climático es real",
       "en": "Climate change is real",
       "fr": "Le changement climatique est réel",
-      "it": "Il cambiamento climatico è reale"
+      "it": "Il cambiamento climatico è reale",
+      "pt": "A mudança climática é real"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "La situación es grave",
       "en": "The situation is serious",
       "fr": "La situation est grave",
-      "it": "La situazione è grave"
+      "it": "La situazione è grave",
+      "pt": "A situação é séria"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Debemos actuar ahora",
       "en": "We must act now",
       "fr": "Nous devons agir maintenant",
-      "it": "Dobbiamo agire adesso"
+      "it": "Dobbiamo agire adesso",
+      "pt": "Precisamos agir agora"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Podemos ayudar",
       "en": "We can help",
       "fr": "Nous pouvons aider",
-      "it": "Possiamo aiutare"
+      "it": "Possiamo aiutare",
+      "pt": "Podemos ajudar"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es responsabilidad de todos",
       "en": "It is everyone's responsibility",
       "fr": "C'est la responsabilité de tous",
-      "it": "È responsabilità di tutti"
+      "it": "È responsabilità di tutti",
+      "pt": "É responsabilidade de todos"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "El planeta necesita ayuda",
       "en": "The planet needs help",
       "fr": "La planète a besoin d'aide",
-      "it": "Il pianeta ha bisogno di aiuto"
+      "it": "Il pianeta ha bisogno di aiuto",
+      "pt": "O planeta precisa de ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "La naturaleza es hermosa",
       "en": "Nature is beautiful",
       "fr": "La nature est belle",
-      "it": "La natura è bella"
+      "it": "La natura è bella",
+      "pt": "A natureza é linda"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Debemos cuidar el planeta",
       "en": "We must take care of the planet",
       "fr": "Nous devons prendre soin de la planète",
-      "it": "Dobbiamo prenderci cura del pianeta"
+      "it": "Dobbiamo prenderci cura del pianeta",
+      "pt": "Devemos cuidar do planeta"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Es un problema global",
       "en": "It is a global problem",
       "fr": "C'est un problème mondial",
-      "it": "È un problema globale"
+      "it": "È un problema globale",
+      "pt": "É um problema global"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Todos pueden ayudar",
       "en": "Everyone can help",
       "fr": "Tout le monde peut aider",
-      "it": "Tutti possono aiutare"
+      "it": "Tutti possono aiutare",
+      "pt": "Todos podem ajudar"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Pequeñas acciones importan",
       "en": "Small actions matter",
       "fr": "Les petits gestes comptent",
-      "it": "Le piccole azioni contano"
+      "it": "Le piccole azioni contano",
+      "pt": "Pequenas ações importam"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "El futuro depende de nosotros",
       "en": "The future depends on us",
       "fr": "L'avenir dépend de nous",
-      "it": "Il futuro dipende da noi"
+      "it": "Il futuro dipende da noi",
+      "pt": "O futuro depende de nós"
     },
     "difficulty": "Intermediate"
   }

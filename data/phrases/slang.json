@@ -5,7 +5,8 @@
       "es": "¿Qué tal?",
       "fr": "Quoi de neuf ?",
       "it": "Come va?",
-      "en": "What's up?"
+      "en": "What's up?",
+      "pt": "E aí?"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Todo bien",
       "fr": "Tout va bien",
       "it": "Tutto bene",
-      "en": "All good"
+      "en": "All good",
+      "pt": "Tudo certo"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "¿Qué haces?",
       "fr": "Tu fais quoi ?",
       "it": "Che fai?",
-      "en": "What are you doing?"
+      "en": "What are you doing?",
+      "pt": "O que você está fazendo?"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Estoy ocupado",
       "fr": "Je suis occupé",
       "it": "Sono impegnato",
-      "en": "I'm busy"
+      "en": "I'm busy",
+      "pt": "Estou ocupado"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Vamos a ver",
       "fr": "On va voir",
       "it": "Vediamo",
-      "en": "Let's see"
+      "en": "Let's see",
+      "pt": "Vamos ver"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Ni idea",
       "fr": "Aucune idée",
       "it": "Nessuna idea",
-      "en": "No idea"
+      "en": "No idea",
+      "pt": "Sem ideia"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "¡Qué guay!",
       "fr": "Trop cool !",
       "it": "Che figata!",
-      "en": "How cool!"
+      "en": "How cool!",
+      "pt": "Que legal!"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Está brutal",
       "fr": "C'est génial",
       "it": "È fantastico",
-      "en": "That's awesome"
+      "en": "That's awesome",
+      "pt": "Isso é incrível"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Qué rollo",
       "fr": "Quelle galère",
       "it": "Che palla",
-      "en": "What a drag"
+      "en": "What a drag",
+      "pt": "Que chato"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "No pasa nada",
       "fr": "T'inquiète pas",
       "it": "Non preoccuparti",
-      "en": "No worries"
+      "en": "No worries",
+      "pt": "Sem problemas"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Dale",
       "fr": "Vas-y",
       "it": "Dai, fallo",
-      "en": "Go ahead / do it"
+      "en": "Go ahead / do it",
+      "pt": "Pode ir / faça isso"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Venga",
       "fr": "Allez",
       "it": "Dai",
-      "en": "Come on / alright"
+      "en": "Come on / alright",
+      "pt": "Vamos lá / tudo bem"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Estoy hecho polvo",
       "fr": "Je suis crevé",
       "it": "Sono distrutto",
-      "en": "I'm exhausted"
+      "en": "I'm exhausted",
+      "pt": "Estou exausto"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Flipé",
       "fr": "J'ai halluciné",
       "it": "Sono rimasto di stucco",
-      "en": "I was blown away"
+      "en": "I was blown away",
+      "pt": "Fiquei impressionado"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Qué fuerte",
       "fr": "C'est dingue",
       "it": "È assurdo",
-      "en": "That's crazy"
+      "en": "That's crazy",
+      "pt": "Isso é louco"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Me da igual",
       "fr": "Je m'en fiche",
       "it": "Non me ne importa",
-      "en": "I don't care"
+      "en": "I don't care",
+      "pt": "Não me importa"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Paso de eso",
       "fr": "Ça ne me branche pas",
       "it": "Non mi interessa",
-      "en": "I'm not into that"
+      "en": "I'm not into that",
+      "pt": "Não sou fã disso"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Está chido",
       "fr": "C'est cool",
       "it": "È figo",
-      "en": "That's cool (LatAm)"
+      "en": "That's cool (LatAm)",
+      "pt": "Isso é legal (LatAm)"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Está cañón",
       "fr": "C'est intense",
       "it": "È tosto",
-      "en": "That's intense (Mexico)"
+      "en": "That's intense (Mexico)",
+      "pt": "Isso é intenso (México)"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Nos vemos",
       "fr": "À plus",
       "it": "Ci vediamo",
-      "en": "See you"
+      "en": "See you",
+      "pt": "Até logo"
     },
     "difficulty": "Advanced"
   }

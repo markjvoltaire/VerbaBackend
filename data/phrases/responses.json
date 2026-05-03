@@ -5,7 +5,8 @@
       "es": "Sí",
       "fr": "Oui",
       "it": "Sì",
-      "en": "Yes"
+      "en": "Yes",
+      "pt": "Sim"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "No",
       "fr": "Non",
       "it": "No",
-      "en": "No"
+      "en": "No",
+      "pt": "Não"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Sí, claro",
       "fr": "Oui, bien sûr",
       "it": "Sì, certo",
-      "en": "Yes, of course"
+      "en": "Yes, of course",
+      "pt": "Sim, claro"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Claro que sí",
       "fr": "Bien sûr que oui",
       "it": "Certo che sì",
-      "en": "Of course"
+      "en": "Of course",
+      "pt": "Claro"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "No creo",
       "fr": "Je ne crois pas",
       "it": "Non credo",
-      "en": "I don't think so"
+      "en": "I don't think so",
+      "pt": "Não acho que sim"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "No sé",
       "fr": "Je ne sais pas",
       "it": "Non lo so",
-      "en": "I don't know"
+      "en": "I don't know",
+      "pt": "Não sei"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Tal vez",
       "fr": "Peut-être",
       "it": "Forse",
-      "en": "Maybe"
+      "en": "Maybe",
+      "pt": "Talvez"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Quizás",
       "fr": "Peut-être",
       "it": "Forse",
-      "en": "Perhaps"
+      "en": "Perhaps",
+      "pt": "Quem sabe"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Por supuesto",
       "fr": "Bien sûr",
       "it": "Certo",
-      "en": "Of course"
+      "en": "Of course",
+      "pt": "Claro"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Exacto",
       "fr": "Exactement",
       "it": "Esattamente",
-      "en": "Exactly"
+      "en": "Exactly",
+      "pt": "Exatamente"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Correcto",
       "fr": "Correct",
       "it": "Corretto",
-      "en": "Correct"
+      "en": "Correct",
+      "pt": "Correto"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "No exactamente",
       "fr": "Pas exactement",
       "it": "Non esattamente",
-      "en": "Not exactly"
+      "en": "Not exactly",
+      "pt": "Nada exatamente"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Para nada",
       "fr": "Pas du tout",
       "it": "Per niente",
-      "en": "Not at all"
+      "en": "Not at all",
+      "pt": "De jeito nenhum"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Claro",
       "fr": "Bien sûr",
       "it": "Certo",
-      "en": "Sure"
+      "en": "Sure",
+      "pt": "Claro"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Está bien",
       "fr": "C'est bon",
       "it": "Va bene",
-      "en": "It's okay"
+      "en": "It's okay",
+      "pt": "Está tudo bem"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "De acuerdo",
       "fr": "D'accord",
       "it": "D'accordo",
-      "en": "Alright / agreed"
+      "en": "Alright / agreed",
+      "pt": "Beleza / combinado"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Así es",
       "fr": "C'est ça",
       "it": "Esatto",
-      "en": "That's right"
+      "en": "That's right",
+      "pt": "Isso mesmo"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "No todavía",
       "fr": "Pas encore",
       "it": "Non ancora",
-      "en": "Not yet"
+      "en": "Not yet",
+      "pt": "Ainda não"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Sí, un poco",
       "fr": "Oui, un peu",
       "it": "Sì, un po'",
-      "en": "Yes, a little"
+      "en": "Yes, a little",
+      "pt": "Sim, um pouco"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "No mucho",
       "fr": "Pas beaucoup",
       "it": "Non molto",
-      "en": "Not much"
+      "en": "Not much",
+      "pt": "Não muito"
     },
     "difficulty": "Beginner"
   }

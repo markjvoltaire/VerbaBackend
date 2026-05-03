@@ -5,7 +5,8 @@
       "es": "Claro, cómo no",
       "fr": "Ouais, c'est ça",
       "it": "Ma certo",
-      "en": "Yeah, right"
+      "en": "Yeah, right",
+      "pt": "É isso aí, né"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Sí, seguro",
       "fr": "Ouais, bien sûr",
       "it": "Sì, come no",
-      "en": "Yeah, sure"
+      "en": "Yeah, sure",
+      "pt": "Claro, com certeza"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Qué sorpresa",
       "fr": "Quelle surprise",
       "it": "Che sorpresa",
-      "en": "What a surprise (sarcastic)"
+      "en": "What a surprise (sarcastic)",
+      "pt": "Que surpresa (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "No me digas",
       "fr": "Sans blague",
       "it": "Ma va'",
-      "en": "No way (sarcastic)"
+      "en": "No way (sarcastic)",
+      "pt": "De jeito nenhum (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Qué casualidad",
       "fr": "Quelle coïncidence",
       "it": "Che coincidenza",
-      "en": "What a coincidence (sarcastic)"
+      "en": "What a coincidence (sarcastic)",
+      "pt": "Que coincidência (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Justo lo que necesitaba",
       "fr": "Juste ce qu'il me fallait",
       "it": "Proprio quello che mi serviva",
-      "en": "Just what I needed (sarcastic)"
+      "en": "Just what I needed (sarcastic)",
+      "pt": "Exatamente o que eu precisava (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Perfecto",
       "fr": "Parfait",
       "it": "Perfetto",
-      "en": "Perfect (sarcastic or real)"
+      "en": "Perfect (sarcastic or real)",
+      "pt": "Perfeito (sarcasmo ou real)"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Qué bien",
       "fr": "Comme c'est bien",
       "it": "Che bello",
-      "en": "How nice (tone-dependent)"
+      "en": "How nice (tone-dependent)",
+      "pt": "Que legal (dependendo do tom)"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Qué maravilla",
       "fr": "Merveilleux",
       "it": "Meraviglioso",
-      "en": "Wonderful (sarcastic)"
+      "en": "Wonderful (sarcastic)",
+      "pt": "Maravilhoso (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Me encanta",
       "fr": "J'adore",
       "it": "Mi piace tantissimo",
-      "en": "I love it (can be sarcastic)"
+      "en": "I love it (can be sarcastic)",
+      "pt": "Adorei (pode ser sarcástico)"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Esto es genial",
       "fr": "C'est génial",
       "it": "Fantastico",
-      "en": "This is great (tone-based)"
+      "en": "This is great (tone-based)",
+      "pt": "Isso é ótimo (depende do tom)"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Buenísimo",
       "fr": "Super",
       "it": "Grandioso",
-      "en": "Great (often ironic)"
+      "en": "Great (often ironic)",
+      "pt": "Ótimo (geralmente irônico)"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Lo que faltaba",
       "fr": "Il ne manquait plus que ça",
       "it": "Ci mancava solo questo",
-      "en": "Just what was missing (sarcastic)"
+      "en": "Just what was missing (sarcastic)",
+      "pt": "Exatamente o que faltava (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Muy lógico",
       "fr": "Très logique",
       "it": "Molto logico",
-      "en": "Very logical (sarcastic)"
+      "en": "Very logical (sarcastic)",
+      "pt": "Muito lógico (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Tiene sentido… claro",
       "fr": "Ça a du sens… bien sûr",
       "it": "Ha senso… certo",
-      "en": "Makes sense… sure"
+      "en": "Makes sense… sure",
+      "pt": "Faz sentido... claro"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Qué listo eres",
       "fr": "T'es tellement intelligent",
       "it": "Quanto sei furbo",
-      "en": "You're so smart (sarcastic)"
+      "en": "You're so smart (sarcastic)",
+      "pt": "Você é tão inteligente (sarcasmo)"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Impresionante",
       "fr": "Impressionnant",
       "it": "Impressionante",
-      "en": "Impressive (tone-based)"
+      "en": "Impressive (tone-based)",
+      "pt": "Impressionante (dependendo do tom)"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Increíble",
       "fr": "Incroyable",
       "it": "Incredibile",
-      "en": "Unbelievable (tone-based)"
+      "en": "Unbelievable (tone-based)",
+      "pt": "Inacreditável (dependendo do tom)"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Tal cual",
       "fr": "Exactement / carrément",
       "it": "Esattamente / davvero",
-      "en": "Exactly / for real"
+      "en": "Exactly / for real",
+      "pt": "Exatamente / de verdade"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Ya, claro",
       "fr": "Ouais, bien sûr",
       "it": "Sì, certo",
-      "en": "Yeah, of course (sarcastic)"
+      "en": "Yeah, of course (sarcastic)",
+      "pt": "É, claro (sarcasmo)"
     },
     "difficulty": "Advanced"
   }

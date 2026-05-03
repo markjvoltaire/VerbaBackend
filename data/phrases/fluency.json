@@ -5,7 +5,8 @@
       "es": "La verdad es que",
       "en": "The truth is that",
       "fr": "La vérité c'est que",
-      "it": "La verità è che"
+      "it": "La verità è che",
+      "pt": "A verdade é que"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Te digo la verdad",
       "en": "I'll tell you the truth",
       "fr": "Je te dis la vérité",
-      "it": "Ti dico la verità"
+      "it": "Ti dico la verità",
+      "pt": "Vou te contar a verdade"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Si te soy sincero",
       "en": "If I'm being honest",
       "fr": "Si je suis honnête",
-      "it": "Se devo essere sincero"
+      "it": "Se devo essere sincero",
+      "pt": "Se eu estiver sendo honesto"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Para serte honesto",
       "en": "To be honest with you",
       "fr": "Pour être honnête avec toi",
-      "it": "A essere onesto con te"
+      "it": "A essere onesto con te",
+      "pt": "Para ser sincero com você"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "No te voy a mentir",
       "en": "I'm not going to lie to you",
       "fr": "Je ne vais pas te mentir",
-      "it": "Non ti mentirò"
+      "it": "Non ti mentirò",
+      "pt": "Não vou mentir para você"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Te explico",
       "en": "Let me explain",
       "fr": "Laisse-moi t'expliquer",
-      "it": "Lascia che ti spieghi"
+      "it": "Lascia che ti spieghi",
+      "pt": "Deixa eu explicar"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Mira",
       "en": "Look",
       "fr": "Regarde",
-      "it": "Guarda"
+      "it": "Guarda",
+      "pt": "Olha"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Es que el problema es",
       "en": "The problem is",
       "fr": "Le problème c'est que",
-      "it": "Il problema è che"
+      "it": "Il problema è che",
+      "pt": "O problema é que"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Lo que pasa es que",
       "en": "What happens is that",
       "fr": "Ce qui se passe c'est que",
-      "it": "Quello che succede è che"
+      "it": "Quello che succede è che",
+      "pt": "O que acontece é que"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Al final",
       "en": "At the end of the day",
       "fr": "Au bout du compte",
-      "it": "Alla fine dei conti"
+      "it": "Alla fine dei conti",
+      "pt": "No final das contas"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Entonces claro",
       "en": "So of course",
       "fr": "Alors bien sûr",
-      "it": "Quindi ovviamente"
+      "it": "Quindi ovviamente",
+      "pt": "Então, é claro"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Y nada",
       "en": "And yeah / anyway",
       "fr": "Et voilà / bref",
-      "it": "E niente / insomma"
+      "it": "E niente / insomma",
+      "pt": "E sim / de qualquer forma"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Total",
       "en": "So basically",
       "fr": "En gros",
-      "it": "In pratica"
+      "it": "In pratica",
+      "pt": "Então, basicamente"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "En plan",
       "en": "Like / kind of",
       "fr": "Genre / en quelque sorte",
-      "it": "Tipo / in un certo senso"
+      "it": "Tipo / in un certo senso",
+      "pt": "Tipo / mais ou menos"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "¿Sabes lo que te digo?",
       "en": "You know what I mean?",
       "fr": "Tu vois ce que je veux dire ?",
-      "it": "Capisci cosa intendo?"
+      "it": "Capisci cosa intendo?",
+      "pt": "Sabe o que quero dizer?"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "¿Me explico?",
       "en": "Do I make myself clear?",
       "fr": "Est-ce que je suis clair ?",
-      "it": "Mi spiego?"
+      "it": "Mi spiego?",
+      "pt": "Ficou claro para mim?"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "O sea que",
       "en": "So that means",
       "fr": "Ce qui veut dire que",
-      "it": "Cioè vuol dire che"
+      "it": "Cioè vuol dire che",
+      "pt": "Então isso significa"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Al mismo tiempo",
       "en": "At the same time",
       "fr": "En même temps",
-      "it": "Allo stesso tempo"
+      "it": "Allo stesso tempo",
+      "pt": "Ao mesmo tempo"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Por eso mismo",
       "en": "That's exactly why",
       "fr": "C'est exactement pour ça",
-      "it": "È proprio per questo"
+      "it": "È proprio per questo",
+      "pt": "É exatamente por isso"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Y ya está",
       "en": "And that's it",
       "fr": "Et c'est tout",
-      "it": "E basta così"
+      "it": "E basta così",
+      "pt": "E é isso"
     },
     "difficulty": "Advanced"
   },
@@ -205,7 +225,8 @@
       "es": "Voy a practicar hoy",
       "en": "I'm going to practice today",
       "fr": "Je vais m'entraîner aujourd'hui",
-      "it": "Oggi mi eserciterò"
+      "it": "Oggi mi eserciterò",
+      "pt": "Vou praticar hoje"
     },
     "difficulty": "Advanced"
   },
@@ -215,7 +236,8 @@
       "es": "Estoy mejorando",
       "en": "I am improving",
       "fr": "Je m'améliore",
-      "it": "Sto migliorando"
+      "it": "Sto migliorando",
+      "pt": "Estou melhorando"
     },
     "difficulty": "Advanced"
   },
@@ -225,7 +247,8 @@
       "es": "Cada día aprendo más",
       "en": "Every day I learn more",
       "fr": "Chaque jour j'apprends davantage",
-      "it": "Ogni giorno imparo di più"
+      "it": "Ogni giorno imparo di più",
+      "pt": "Todo dia eu aprendo mais"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +258,8 @@
       "es": "Quiero hablar más",
       "en": "I want to speak more",
       "fr": "Je veux parler davantage",
-      "it": "Voglio parlare di più"
+      "it": "Voglio parlare di più",
+      "pt": "Eu quero falar mais"
     },
     "difficulty": "Advanced"
   },
@@ -245,7 +269,8 @@
       "es": "Estoy ganando confianza",
       "en": "I am gaining confidence",
       "fr": "Je prends confiance",
-      "it": "Sto acquistando sicurezza"
+      "it": "Sto acquistando sicurezza",
+      "pt": "Estou ganhando confiança"
     },
     "difficulty": "Advanced"
   },
@@ -255,7 +280,8 @@
       "es": "Me siento más cómodo",
       "en": "I feel more comfortable",
       "fr": "Je me sens plus à l'aise",
-      "it": "Mi sento più a mio agio"
+      "it": "Mi sento più a mio agio",
+      "pt": "Eu me sinto mais confortável"
     },
     "difficulty": "Advanced"
   },
@@ -265,7 +291,8 @@
       "es": "Ya entiendo mejor",
       "en": "I understand better now",
       "fr": "Je comprends mieux maintenant",
-      "it": "Adesso capisco meglio"
+      "it": "Adesso capisco meglio",
+      "pt": "Eu entendo melhor agora"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +302,8 @@
       "es": "Puedo mantener una conversación",
       "en": "I can hold a conversation",
       "fr": "Je peux tenir une conversation",
-      "it": "Riesco a sostenere una conversazione"
+      "it": "Riesco a sostenere una conversazione",
+      "pt": "Eu consigo ter uma conversa"
     },
     "difficulty": "Advanced"
   },
@@ -285,7 +313,8 @@
       "es": "Todavía cometo errores",
       "en": "I still make mistakes",
       "fr": "Je fais encore des erreurs",
-      "it": "Faccio ancora degli errori"
+      "it": "Faccio ancora degli errori",
+      "pt": "Eu ainda cometo erros"
     },
     "difficulty": "Advanced"
   },
@@ -295,7 +324,8 @@
       "es": "Pero sigo avanzando",
       "en": "But I keep progressing",
       "fr": "Mais je continue à progresser",
-      "it": "Ma continuo a fare progressi"
+      "it": "Ma continuo a fare progressi",
+      "pt": "Mas eu continuo progredindo"
     },
     "difficulty": "Advanced"
   },
@@ -305,7 +335,8 @@
       "es": "No me rindo",
       "en": "I don't give up",
       "fr": "Je ne lâche pas",
-      "it": "Non mi arrendo"
+      "it": "Non mi arrendo",
+      "pt": "Eu não desisto"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +346,8 @@
       "es": "Estoy motivado",
       "en": "I am motivated",
       "fr": "Je suis motivé",
-      "it": "Sono motivato"
+      "it": "Sono motivato",
+      "pt": "Estou motivado"
     },
     "difficulty": "Advanced"
   },
@@ -325,7 +357,8 @@
       "es": "Quiero ser fluido",
       "en": "I want to be fluent",
       "fr": "Je veux parler couramment",
-      "it": "Voglio parlare correntemente"
+      "it": "Voglio parlare correntemente",
+      "pt": "Eu quero ser fluente"
     },
     "difficulty": "Advanced"
   },
@@ -335,7 +368,8 @@
       "es": "Estoy cerca de lograrlo",
       "en": "I'm close to achieving it",
       "fr": "Je suis près d'y arriver",
-      "it": "Sono vicino a riuscirci"
+      "it": "Sono vicino a riuscirci",
+      "pt": "Estou perto de conseguir isso"
     },
     "difficulty": "Advanced"
   },
@@ -345,7 +379,8 @@
       "es": "Voy a seguir practicando",
       "en": "I will keep practicing",
       "fr": "Je vais continuer à m'entraîner",
-      "it": "Continuerò a esercitarmi"
+      "it": "Continuerò a esercitarmi",
+      "pt": "Eu vou continuar praticando"
     },
     "difficulty": "Advanced"
   },
@@ -355,7 +390,8 @@
       "es": "Es parte del proceso",
       "en": "It's part of the process",
       "fr": "Ça fait partie du processus",
-      "it": "Fa parte del processo"
+      "it": "Fa parte del processo",
+      "pt": "É parte do processo"
     },
     "difficulty": "Advanced"
   },
@@ -365,7 +401,8 @@
       "es": "Todo suma",
       "en": "Everything adds up",
       "fr": "Tout compte",
-      "it": "Tutto contribuisce"
+      "it": "Tutto contribuisce",
+      "pt": "Tudo conta"
     },
     "difficulty": "Advanced"
   },
@@ -375,7 +412,8 @@
       "es": "Estoy avanzando rápido",
       "en": "I am progressing quickly",
       "fr": "Je progresse vite",
-      "it": "Sto progredendo rapidamente"
+      "it": "Sto progredendo rapidamente",
+      "pt": "Estou progredindo rápido"
     },
     "difficulty": "Advanced"
   },
@@ -385,7 +423,8 @@
       "es": "Se siente más fácil",
       "en": "It feels easier",
       "fr": "Ça semble plus facile",
-      "it": "Sembra più facile"
+      "it": "Sembra più facile",
+      "pt": "Parece mais fácil"
     },
     "difficulty": "Advanced"
   },
@@ -395,7 +434,8 @@
       "es": "Ya puedo pensar en español",
       "en": "I can already think in Spanish",
       "fr": "J'arrive déjà à penser en espagnol",
-      "it": "Riesco già a pensare in spagnolo"
+      "it": "Riesco già a pensare in spagnolo",
+      "pt": "Eu já consigo pensar em espanhol"
     },
     "difficulty": "Advanced"
   }

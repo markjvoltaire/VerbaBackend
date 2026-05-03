@@ -5,7 +5,8 @@
       "es": "Es un problema serio",
       "fr": "C'est un problème sérieux",
       "it": "È un problema serio",
-      "en": "It is a serious problem"
+      "en": "It is a serious problem",
+      "pt": "É um problema sério"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Hay muchos problemas",
       "fr": "Il y a beaucoup de problèmes",
       "it": "Ci sono molti problemi",
-      "en": "There are many problems"
+      "en": "There are many problems",
+      "pt": "Há muitos problemas"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "La gente necesita ayuda",
       "fr": "Les gens ont besoin d'aide",
       "it": "La gente ha bisogno di aiuto",
-      "en": "People need help"
+      "en": "People need help",
+      "pt": "As pessoas precisam de ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Es importante actuar",
       "fr": "Il est important d'agir",
       "it": "È importante agire",
-      "en": "It is important to act"
+      "en": "It is important to act",
+      "pt": "É importante agir"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "La situación es difícil",
       "fr": "La situation est difficile",
       "it": "La situazione è difficile",
-      "en": "The situation is difficult"
+      "en": "The situation is difficult",
+      "pt": "A situação é difícil"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Necesitamos soluciones",
       "fr": "Nous avons besoin de solutions",
       "it": "Abbiamo bisogno di soluzioni",
-      "en": "We need solutions"
+      "en": "We need solutions",
+      "pt": "Precisamos de soluções"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Esto afecta a todos",
       "fr": "Cela touche tout le monde",
       "it": "Questo riguarda tutti",
-      "en": "This affects everyone"
+      "en": "This affects everyone",
+      "pt": "Isso afeta a todos"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Es un problema global",
       "fr": "C'est un problème mondial",
       "it": "È un problema globale",
-      "en": "It is a global problem"
+      "en": "It is a global problem",
+      "pt": "É um problema global"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "La pobreza es un problema",
       "fr": "La pauvreté est un problème",
       "it": "La povertà è un problema",
-      "en": "Poverty is a problem"
+      "en": "Poverty is a problem",
+      "pt": "A pobreza é um problema"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "El desempleo es alto",
       "fr": "Le chômage est élevé",
       "it": "La disoccupazione è alta",
-      "en": "Unemployment is high"
+      "en": "Unemployment is high",
+      "pt": "O desemprego está alto"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "La educación es importante",
       "fr": "L'éducation est importante",
       "it": "L'istruzione è importante",
-      "en": "Education is important"
+      "en": "Education is important",
+      "pt": "A educação é importante"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Falta educación",
       "fr": "Il manque d'éducation",
       "it": "Manca l'istruzione",
-      "en": "There is a lack of education"
+      "en": "There is a lack of education",
+      "pt": "Falta educação"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "La violencia es un problema",
       "fr": "La violence est un problème",
       "it": "La violenza è un problema",
-      "en": "Violence is a problem"
+      "en": "Violence is a problem",
+      "pt": "A violência é um problema"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "La gente sufre",
       "fr": "Les gens souffrent",
       "it": "La gente soffre",
-      "en": "People suffer"
+      "en": "People suffer",
+      "pt": "As pessoas sofrem"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Debemos ayudar",
       "fr": "Nous devons aider",
       "it": "Dobbiamo aiutare",
-      "en": "We must help"
+      "en": "We must help",
+      "pt": "Devemos ajudar"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Podemos mejorar esto",
       "fr": "Nous pouvons améliorer ça",
       "it": "Possiamo migliorare questo",
-      "en": "We can improve this"
+      "en": "We can improve this",
+      "pt": "Podemos melhorar isso"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Es necesario cambiar",
       "fr": "Il est nécessaire de changer",
       "it": "È necessario cambiare",
-      "en": "It is necessary to change"
+      "en": "It is necessary to change",
+      "pt": "É necessário mudar"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Todo puede mejorar",
       "fr": "Tout peut s'améliorer",
       "it": "Tutto può migliorare",
-      "en": "Everything can improve"
+      "en": "Everything can improve",
+      "pt": "Tudo pode melhorar"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Es un desafío",
       "fr": "C'est un défi",
       "it": "È una sfida",
-      "en": "It is a challenge"
+      "en": "It is a challenge",
+      "pt": "É um desafio"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Hay esperanza",
       "fr": "Il y a de l'espoir",
       "it": "C'è speranza",
-      "en": "There is hope"
+      "en": "There is hope",
+      "pt": "Há esperança"
     },
     "difficulty": "Intermediate"
   }

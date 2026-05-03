@@ -5,7 +5,8 @@
       "es": "Te voy a contar una historia",
       "fr": "Je vais te raconter une histoire",
       "it": "Ti racconto una storia",
-      "en": "I am going to tell you a story"
+      "en": "I am going to tell you a story",
+      "pt": "Vou te contar uma história"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Todo empezó cuando",
       "fr": "Tout a commencé quand",
       "it": "Tutto è cominciato quando",
-      "en": "It all started when"
+      "en": "It all started when",
+      "pt": "Tudo começou quando"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Un día",
       "fr": "Un jour",
       "it": "Un giorno",
-      "en": "One day"
+      "en": "One day",
+      "pt": "Um dia"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "De repente",
       "fr": "Soudain",
       "it": "All'improvviso",
-      "en": "Suddenly"
+      "en": "Suddenly",
+      "pt": "De repente"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Entonces pasó algo",
       "fr": "Alors quelque chose s'est passé",
       "it": "Allora è successo qualcosa",
-      "en": "Then something happened"
+      "en": "Then something happened",
+      "pt": "Então algo aconteceu"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "No lo podía creer",
       "fr": "Je n'arrivais pas à y croire",
       "it": "Non riuscivo a crederci",
-      "en": "I couldn't believe it"
+      "en": "I couldn't believe it",
+      "pt": "Eu não conseguia acreditar"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Fue increíble",
       "fr": "C'était incroyable",
       "it": "È stato incredibile",
-      "en": "It was incredible"
+      "en": "It was incredible",
+      "pt": "Foi incrível"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Fue terrible",
       "fr": "C'était terrible",
       "it": "È stato terribile",
-      "en": "It was terrible"
+      "en": "It was terrible",
+      "pt": "Foi terrível"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Después de eso",
       "fr": "Après ça",
       "it": "Dopo di che",
-      "en": "After that"
+      "en": "After that",
+      "pt": "Depois disso"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Al final",
       "fr": "À la fin",
       "it": "Alla fine",
-      "en": "In the end"
+      "en": "In the end",
+      "pt": "No final"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Todo salió bien",
       "fr": "Tout s'est bien passé",
       "it": "È andato tutto bene",
-      "en": "Everything turned out well"
+      "en": "Everything turned out well",
+      "pt": "Tudo terminou bem"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Todo salió mal",
       "fr": "Tout a mal tourné",
       "it": "È andato tutto male",
-      "en": "Everything went wrong"
+      "en": "Everything went wrong",
+      "pt": "Tudo deu errado"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Aprendí mucho",
       "fr": "J'ai beaucoup appris",
       "it": "Ho imparato molto",
-      "en": "I learned a lot"
+      "en": "I learned a lot",
+      "pt": "Eu aprendi muito"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Fue una experiencia",
       "fr": "C'était une expérience",
       "it": "È stata un'esperienza",
-      "en": "It was an experience"
+      "en": "It was an experience",
+      "pt": "Foi uma experiência"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Nunca lo olvidaré",
       "fr": "Je ne l'oublierai jamais",
       "it": "Non lo dimenticherò mai",
-      "en": "I will never forget it"
+      "en": "I will never forget it",
+      "pt": "Eu nunca vou esquecer"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Me sentí feliz",
       "fr": "Je me suis senti heureux",
       "it": "Mi sono sentito felice",
-      "en": "I felt happy"
+      "en": "I felt happy",
+      "pt": "Eu me senti feliz"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Me sentí triste",
       "fr": "Je me suis senti triste",
       "it": "Mi sono sentito triste",
-      "en": "I felt sad"
+      "en": "I felt sad",
+      "pt": "Eu me senti triste"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Fue sorprendente",
       "fr": "C'était surprenant",
       "it": "È stato sorprendente",
-      "en": "It was surprising"
+      "en": "It was surprising",
+      "pt": "Foi surpreendente"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Eso cambió todo",
       "fr": "Ça a tout changé",
       "it": "Quello ha cambiato tutto",
-      "en": "That changed everything"
+      "en": "That changed everything",
+      "pt": "Isso mudou tudo"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Y así terminó",
       "fr": "Et c'est comme ça que ça s'est terminé",
       "it": "E così è finita",
-      "en": "And that's how it ended"
+      "en": "And that's how it ended",
+      "pt": "E foi assim que terminou"
     },
     "difficulty": "Intermediate"
   },
@@ -205,7 +225,8 @@
       "es": "Resulta que",
       "fr": "Il s'avère que",
       "it": "Si scopre che",
-      "en": "It turns out that"
+      "en": "It turns out that",
+      "pt": "Acontece que"
     },
     "difficulty": "Advanced"
   },
@@ -215,7 +236,8 @@
       "es": "La cosa es que",
       "fr": "Le truc c'est que",
       "it": "Il fatto è che",
-      "en": "The thing is that"
+      "en": "The thing is that",
+      "pt": "O lance é que"
     },
     "difficulty": "Advanced"
   },
@@ -225,7 +247,8 @@
       "es": "Total que",
       "fr": "En gros",
       "it": "In pratica",
-      "en": "So basically"
+      "en": "So basically",
+      "pt": "Então, basicamente"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +258,8 @@
       "es": "Al final del día",
       "fr": "Au bout du compte",
       "it": "Alla fine della giornata",
-      "en": "At the end of the day"
+      "en": "At the end of the day",
+      "pt": "No final das contas"
     },
     "difficulty": "Advanced"
   },
@@ -245,7 +269,8 @@
       "es": "Sin darme cuenta",
       "fr": "Sans m'en rendre compte",
       "it": "Senza rendermene conto",
-      "en": "Without realizing it"
+      "en": "Without realizing it",
+      "pt": "Sem perceber"
     },
     "difficulty": "Advanced"
   },
@@ -255,7 +280,8 @@
       "es": "De la nada",
       "fr": "De nulle part",
       "it": "Dal nulla",
-      "en": "Out of nowhere"
+      "en": "Out of nowhere",
+      "pt": "Do nada"
     },
     "difficulty": "Advanced"
   },
@@ -265,7 +291,8 @@
       "es": "Para colmo",
       "fr": "Pour couronner le tout",
       "it": "Per giunta",
-      "en": "To make matters worse"
+      "en": "To make matters worse",
+      "pt": "Para piorar as coisas"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +302,8 @@
       "es": "Lo peor de todo",
       "fr": "Le pire de tout",
       "it": "La cosa peggiore di tutte",
-      "en": "The worst part of all"
+      "en": "The worst part of all",
+      "pt": "A pior parte de tudo"
     },
     "difficulty": "Advanced"
   },
@@ -285,7 +313,8 @@
       "es": "Y entonces fue cuando",
       "fr": "Et c'est là que",
       "it": "Ed è stato allora che",
-      "en": "And that's when"
+      "en": "And that's when",
+      "pt": "E foi aí que"
     },
     "difficulty": "Advanced"
   },
@@ -295,7 +324,8 @@
       "es": "No te imaginas",
       "fr": "Tu ne peux pas imaginer",
       "it": "Non puoi immaginare",
-      "en": "You can't imagine"
+      "en": "You can't imagine",
+      "pt": "Você não pode imaginar"
     },
     "difficulty": "Advanced"
   },
@@ -305,7 +335,8 @@
       "es": "Te juro que",
       "fr": "Je te jure que",
       "it": "Ti giuro che",
-      "en": "I swear that"
+      "en": "I swear that",
+      "pt": "Eu juro que"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +346,8 @@
       "es": "Fue una locura",
       "fr": "C'était de la folie",
       "it": "È stata una follia",
-      "en": "It was crazy"
+      "en": "It was crazy",
+      "pt": "Foi uma loucura"
     },
     "difficulty": "Advanced"
   },
@@ -325,7 +357,8 @@
       "es": "Nunca me había pasado",
       "fr": "Ça ne m'était jamais arrivé",
       "it": "Non mi era mai successo",
-      "en": "That had never happened to me"
+      "en": "That had never happened to me",
+      "pt": "Isso nunca tinha acontecido comigo"
     },
     "difficulty": "Advanced"
   },
@@ -335,7 +368,8 @@
       "es": "No sabía qué hacer",
       "fr": "Je ne savais pas quoi faire",
       "it": "Non sapevo cosa fare",
-      "en": "I didn't know what to do"
+      "en": "I didn't know what to do",
+      "pt": "Eu não sabia o que fazer"
     },
     "difficulty": "Advanced"
   },
@@ -345,7 +379,8 @@
       "es": "Me quedé en shock",
       "fr": "J'étais sous le choc",
       "it": "Sono rimasto sotto shock",
-      "en": "I was in shock"
+      "en": "I was in shock",
+      "pt": "Eu estava em choque"
     },
     "difficulty": "Advanced"
   },
@@ -355,7 +390,8 @@
       "es": "Al principio",
       "fr": "Au début",
       "it": "All'inizio",
-      "en": "At first"
+      "en": "At first",
+      "pt": "A princípio"
     },
     "difficulty": "Advanced"
   },
@@ -365,7 +401,8 @@
       "es": "Después de un rato",
       "fr": "Au bout d'un moment",
       "it": "Dopo un po'",
-      "en": "After a while"
+      "en": "After a while",
+      "pt": "Depois de um tempo"
     },
     "difficulty": "Advanced"
   },
@@ -375,7 +412,8 @@
       "es": "Con el tiempo",
       "fr": "Avec le temps",
       "it": "Col tempo",
-      "en": "Over time"
+      "en": "Over time",
+      "pt": "Com o passar do tempo"
     },
     "difficulty": "Advanced"
   },
@@ -385,7 +423,8 @@
       "es": "A día de hoy",
       "fr": "Encore aujourd'hui",
       "it": "Ancora oggi",
-      "en": "To this day"
+      "en": "To this day",
+      "pt": "Até hoje"
     },
     "difficulty": "Advanced"
   },
@@ -395,7 +434,8 @@
       "es": "Esa fue la lección",
       "fr": "C'était la leçon",
       "it": "Quella è stata la lezione",
-      "en": "That was the lesson"
+      "en": "That was the lesson",
+      "pt": "Essa foi a lição"
     },
     "difficulty": "Advanced"
   }

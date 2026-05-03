@@ -5,7 +5,8 @@
       "es": "La educación es importante",
       "en": "Education is important",
       "fr": "L'éducation est importante",
-      "it": "L'istruzione è importante"
+      "it": "L'istruzione è importante",
+      "pt": "Educação é importante"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Voy a la escuela",
       "en": "I go to school",
       "fr": "Je vais à l'école",
-      "it": "Vado a scuola"
+      "it": "Vado a scuola",
+      "pt": "Eu vou para a escola"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Estudio en la universidad",
       "en": "I study at the university",
       "fr": "J'étudie à l'université",
-      "it": "Studio all'università"
+      "it": "Studio all'università",
+      "pt": "Eu estudo na universidade"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Tengo un examen",
       "en": "I have an exam",
       "fr": "J'ai un examen",
-      "it": "Ho un esame"
+      "it": "Ho un esame",
+      "pt": "Eu tenho uma prova"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Estoy estudiando",
       "en": "I am studying",
       "fr": "Je suis en train d'étudier",
-      "it": "Sto studiando"
+      "it": "Sto studiando",
+      "pt": "Estou estudando"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Aprendo mucho",
       "en": "I learn a lot",
       "fr": "J'apprends beaucoup",
-      "it": "Imparo molto"
+      "it": "Imparo molto",
+      "pt": "Eu aprendo muito"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "El profesor explica bien",
       "en": "The teacher explains well",
       "fr": "Le professeur explique bien",
-      "it": "Il professore spiega bene"
+      "it": "Il professore spiega bene",
+      "pt": "O professor explica bem"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "La clase es interesante",
       "en": "The class is interesting",
       "fr": "Le cours est intéressant",
-      "it": "La lezione è interessante"
+      "it": "La lezione è interessante",
+      "pt": "A aula é interessante"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "La clase es aburrida",
       "en": "The class is boring",
       "fr": "Le cours est ennuyeux",
-      "it": "La lezione è noiosa"
+      "it": "La lezione è noiosa",
+      "pt": "A aula é chata"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Tengo tarea",
       "en": "I have homework",
       "fr": "J'ai des devoirs",
-      "it": "Ho i compiti"
+      "it": "Ho i compiti",
+      "pt": "Eu tenho lição de casa"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Hago la tarea",
       "en": "I do homework",
       "fr": "Je fais mes devoirs",
-      "it": "Faccio i compiti"
+      "it": "Faccio i compiti",
+      "pt": "Eu faço lição de casa"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Paso el examen",
       "en": "I pass the exam",
       "fr": "Je réussis l'examen",
-      "it": "Passo l'esame"
+      "it": "Passo l'esame",
+      "pt": "Eu passo na prova"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "No paso el examen",
       "en": "I don't pass the exam",
       "fr": "Je ne réussis pas l'examen",
-      "it": "Non passo l'esame"
+      "it": "Non passo l'esame",
+      "pt": "Eu não passo na prova"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Necesito estudiar más",
       "en": "I need to study more",
       "fr": "J'ai besoin d'étudier davantage",
-      "it": "Ho bisogno di studiare di più"
+      "it": "Ho bisogno di studiare di più",
+      "pt": "Eu preciso estudar mais"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "El sistema educativo cambia",
       "en": "The education system changes",
       "fr": "Le système éducatif change",
-      "it": "Il sistema educativo cambia"
+      "it": "Il sistema educativo cambia",
+      "pt": "O sistema de educação muda"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "La educación es diferente aquí",
       "en": "Education is different here",
       "fr": "L'éducation est différente ici",
-      "it": "L'istruzione è diversa qui"
+      "it": "L'istruzione è diversa qui",
+      "pt": "A educação é diferente aqui"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Los estudiantes aprenden rápido",
       "en": "Students learn quickly",
       "fr": "Les étudiants apprennent vite",
-      "it": "Gli studenti imparano in fretta"
+      "it": "Gli studenti imparano in fretta",
+      "pt": "Os alunos aprendem rápido"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Es importante practicar",
       "en": "It is important to practice",
       "fr": "Il est important de pratiquer",
-      "it": "È importante fare pratica"
+      "it": "È importante fare pratica",
+      "pt": "É importante praticar"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Aprender idiomas ayuda",
       "en": "Learning languages helps",
       "fr": "Apprendre des langues aide",
-      "it": "Imparare le lingue aiuta"
+      "it": "Imparare le lingue aiuta",
+      "pt": "Aprender idiomas ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Quiero aprender más",
       "en": "I want to learn more",
       "fr": "Je veux en apprendre davantage",
-      "it": "Voglio imparare di più"
+      "it": "Voglio imparare di più",
+      "pt": "Eu quero aprender mais"
     },
     "difficulty": "Intermediate"
   }

@@ -5,7 +5,8 @@
       "es": "Mañana trabajaré",
       "en": "Tomorrow I will work",
       "fr": "Demain je travaillerai",
-      "it": "Domani lavorerò"
+      "it": "Domani lavorerò",
+      "pt": "Amanhã eu vou trabalhar"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Mañana comeré",
       "en": "Tomorrow I will eat",
       "fr": "Demain je mangerai",
-      "it": "Domani mangerò"
+      "it": "Domani mangerò",
+      "pt": "Amanhã eu vou comer"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Mañana iré al trabajo",
       "en": "Tomorrow I will go to work",
       "fr": "Demain j'irai au travail",
-      "it": "Domani andrò al lavoro"
+      "it": "Domani andrò al lavoro",
+      "pt": "Amanhã eu vou para o trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Mañana estaré en casa",
       "en": "Tomorrow I will be at home",
       "fr": "Demain je serai à la maison",
-      "it": "Domani sarò a casa"
+      "it": "Domani sarò a casa",
+      "pt": "Amanhã eu vou ficar em casa"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Mañana veré una película",
       "en": "Tomorrow I will watch a movie",
       "fr": "Demain je regarderai un film",
-      "it": "Domani guarderò un film"
+      "it": "Domani guarderò un film",
+      "pt": "Amanhã eu vou assistir um filme"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Mañana saldré con amigos",
       "en": "Tomorrow I will go out with friends",
       "fr": "Demain je sortirai avec des amis",
-      "it": "Domani uscirò con gli amici"
+      "it": "Domani uscirò con gli amici",
+      "pt": "Amanhã eu vou sair com os amigos"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Mañana estudiaré español",
       "en": "Tomorrow I will study Spanish",
       "fr": "Demain j'étudierai l'espagnol",
-      "it": "Domani studierò spagnolo"
+      "it": "Domani studierò spagnolo",
+      "pt": "Amanhã eu vou estudar espanhol"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Mañana compraré comida",
       "en": "Tomorrow I will buy food",
       "fr": "Demain j'achèterai de la nourriture",
-      "it": "Domani comprerò del cibo"
+      "it": "Domani comprerò del cibo",
+      "pt": "Amanhã eu vou comprar comida"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Mañana hablaré contigo",
       "en": "Tomorrow I will talk with you",
       "fr": "Demain je parlerai avec toi",
-      "it": "Domani parlerò con te"
+      "it": "Domani parlerò con te",
+      "pt": "Amanhã eu vou conversar com você"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Mañana dormiré bien",
       "en": "Tomorrow I will sleep well",
       "fr": "Demain je dormirai bien",
-      "it": "Domani dormirò bene"
+      "it": "Domani dormirò bene",
+      "pt": "Amanhã eu vou dormir bem"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Voy a trabajar",
       "en": "I am going to work",
       "fr": "Je vais travailler",
-      "it": "Vado a lavorare"
+      "it": "Vado a lavorare",
+      "pt": "Eu vou trabalhar"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Voy a comer",
       "en": "I am going to eat",
       "fr": "Je vais manger",
-      "it": "Vado a mangiare"
+      "it": "Vado a mangiare",
+      "pt": "Eu vou comer"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Voy a salir",
       "en": "I am going to go out",
       "fr": "Je vais sortir",
-      "it": "Uscirò"
+      "it": "Uscirò",
+      "pt": "Eu vou sair"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Voy a estudiar",
       "en": "I am going to study",
       "fr": "Je vais étudier",
-      "it": "Studierò"
+      "it": "Studierò",
+      "pt": "Eu vou estudar"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Voy a viajar",
       "en": "I am going to travel",
       "fr": "Je vais voyager",
-      "it": "Viaggerò"
+      "it": "Viaggerò",
+      "pt": "Eu vou viajar"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "No voy a trabajar",
       "en": "I am not going to work",
       "fr": "Je ne vais pas travailler",
-      "it": "Non lavorerò"
+      "it": "Non lavorerò",
+      "pt": "Eu não vou trabalhar"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "No voy a salir",
       "en": "I am not going to go out",
       "fr": "Je ne vais pas sortir",
-      "it": "Non uscirò"
+      "it": "Non uscirò",
+      "pt": "Eu não vou sair"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Será un buen día",
       "en": "It will be a good day",
       "fr": "Ce sera une bonne journée",
-      "it": "Sarà una bella giornata"
+      "it": "Sarà una bella giornata",
+      "pt": "Vai ser um bom dia"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Será difícil",
       "en": "It will be difficult",
       "fr": "Ce sera difficile",
-      "it": "Sarà difficile"
+      "it": "Sarà difficile",
+      "pt": "Vai ser difícil"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Será fácil",
       "en": "It will be easy",
       "fr": "Ce sera facile",
-      "it": "Sarà facile"
+      "it": "Sarà facile",
+      "pt": "Vai ser fácil"
     },
     "difficulty": "Beginner"
   }

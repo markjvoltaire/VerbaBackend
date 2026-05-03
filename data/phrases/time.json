@@ -5,7 +5,8 @@
       "es": "¿Qué hora es?",
       "fr": "Quelle heure est-il ?",
       "it": "Che ora è?",
-      "en": "What time is it?"
+      "en": "What time is it?",
+      "pt": "Que horas são?"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Es la una",
       "fr": "Il est une heure",
       "it": "È l'una",
-      "en": "It is one o'clock"
+      "en": "It is one o'clock",
+      "pt": "É uma hora"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Son las dos",
       "fr": "Il est deux heures",
       "it": "Sono le due",
-      "en": "It is two o'clock"
+      "en": "It is two o'clock",
+      "pt": "É duas horas"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Son las tres",
       "fr": "Il est trois heures",
       "it": "Sono le tre",
-      "en": "It is three o'clock"
+      "en": "It is three o'clock",
+      "pt": "É três horas"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Son las cuatro",
       "fr": "Il est quatre heures",
       "it": "Sono le quattro",
-      "en": "It is four o'clock"
+      "en": "It is four o'clock",
+      "pt": "É quatro horas"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Son las cinco",
       "fr": "Il est cinq heures",
       "it": "Sono le cinque",
-      "en": "It is five o'clock"
+      "en": "It is five o'clock",
+      "pt": "É cinco horas"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Son las seis",
       "fr": "Il est six heures",
       "it": "Sono le sei",
-      "en": "It is six o'clock"
+      "en": "It is six o'clock",
+      "pt": "É seis horas"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Son las siete",
       "fr": "Il est sept heures",
       "it": "Sono le sette",
-      "en": "It is seven o'clock"
+      "en": "It is seven o'clock",
+      "pt": "É sete horas"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Son las ocho",
       "fr": "Il est huit heures",
       "it": "Sono le otto",
-      "en": "It is eight o'clock"
+      "en": "It is eight o'clock",
+      "pt": "É oito horas"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Son las nueve",
       "fr": "Il est neuf heures",
       "it": "Sono le nove",
-      "en": "It is nine o'clock"
+      "en": "It is nine o'clock",
+      "pt": "É nove horas"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Son las diez",
       "fr": "Il est dix heures",
       "it": "Sono le dieci",
-      "en": "It is ten o'clock"
+      "en": "It is ten o'clock",
+      "pt": "É dez horas"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Son las once",
       "fr": "Il est onze heures",
       "it": "Sono le undici",
-      "en": "It is eleven o'clock"
+      "en": "It is eleven o'clock",
+      "pt": "É onze horas"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Son las doce",
       "fr": "Il est douze heures",
       "it": "Sono le dodici",
-      "en": "It is twelve o'clock"
+      "en": "It is twelve o'clock",
+      "pt": "É doze horas"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Son las dos y media",
       "fr": "Il est deux heures et demie",
       "it": "Sono le due e mezza",
-      "en": "It is two thirty"
+      "en": "It is two thirty",
+      "pt": "É duas e meia"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Son las tres y cuarto",
       "fr": "Il est trois heures et quart",
       "it": "Sono le tre e un quarto",
-      "en": "It is three fifteen"
+      "en": "It is three fifteen",
+      "pt": "É três e quinze"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Son las cuatro menos cuarto",
       "fr": "Il est quatre heures moins le quart",
       "it": "Sono le quattro meno un quarto",
-      "en": "It is three forty-five"
+      "en": "It is three forty-five",
+      "pt": "É três e quarenta e cinco"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Es mediodía",
       "fr": "Il est midi",
       "it": "È mezzogiorno",
-      "en": "It is noon"
+      "en": "It is noon",
+      "pt": "É meio-dia"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Es medianoche",
       "fr": "Il est minuit",
       "it": "È mezzanotte",
-      "en": "It is midnight"
+      "en": "It is midnight",
+      "pt": "É meia-noite"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Llego a las cinco",
       "fr": "J'arrive à cinq heures",
       "it": "Arrivo alle cinque",
-      "en": "I arrive at five"
+      "en": "I arrive at five",
+      "pt": "Eu chego às cinco"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "La reunión es a las ocho",
       "fr": "La réunion est à huit heures",
       "it": "La riunione è alle otto",
-      "en": "The meeting is at eight"
+      "en": "The meeting is at eight",
+      "pt": "A reunião é às oito"
     },
     "difficulty": "Beginner"
   }

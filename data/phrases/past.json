@@ -5,7 +5,8 @@
       "es": "Ayer trabajé",
       "en": "Yesterday I worked",
       "fr": "Hier j'ai travaillé",
-      "it": "Ieri ho lavorato"
+      "it": "Ieri ho lavorato",
+      "pt": "Ontem eu trabalhei"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Ayer comí",
       "en": "Yesterday I ate",
       "fr": "Hier j'ai mangé",
-      "it": "Ieri ho mangiato"
+      "it": "Ieri ho mangiato",
+      "pt": "Ontem eu comi"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Ayer fui al trabajo",
       "en": "Yesterday I went to work",
       "fr": "Hier je suis allé au travail",
-      "it": "Ieri sono andato al lavoro"
+      "it": "Ieri sono andato al lavoro",
+      "pt": "Ontem eu fui para o trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Ayer estuve en casa",
       "en": "Yesterday I was at home",
       "fr": "Hier j'étais à la maison",
-      "it": "Ieri ero a casa"
+      "it": "Ieri ero a casa",
+      "pt": "Ontem eu estava em casa"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Ayer vi una película",
       "en": "Yesterday I watched a movie",
       "fr": "Hier j'ai regardé un film",
-      "it": "Ieri ho guardato un film"
+      "it": "Ieri ho guardato un film",
+      "pt": "Ontem eu assisti a um filme"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Ayer salí con amigos",
       "en": "Yesterday I went out with friends",
       "fr": "Hier je suis sorti avec des amis",
-      "it": "Ieri sono uscito con degli amici"
+      "it": "Ieri sono uscito con degli amici",
+      "pt": "Ontem eu saí com amigos"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Ayer estudié español",
       "en": "Yesterday I studied Spanish",
       "fr": "Hier j'ai étudié l'espagnol",
-      "it": "Ieri ho studiato spagnolo"
+      "it": "Ieri ho studiato spagnolo",
+      "pt": "Ontem eu estudei espanhol"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Ayer compré comida",
       "en": "Yesterday I bought food",
       "fr": "Hier j'ai acheté de la nourriture",
-      "it": "Ieri ho comprato del cibo"
+      "it": "Ieri ho comprato del cibo",
+      "pt": "Ontem eu comprei comida"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Ayer hablé con mi amigo",
       "en": "Yesterday I talked with my friend",
       "fr": "Hier j'ai parlé avec mon ami",
-      "it": "Ieri ho parlato con il mio amico"
+      "it": "Ieri ho parlato con il mio amico",
+      "pt": "Ontem eu conversei com meu amigo"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Ayer dormí bien",
       "en": "Yesterday I slept well",
       "fr": "Hier j'ai bien dormi",
-      "it": "Ieri ho dormito bene"
+      "it": "Ieri ho dormito bene",
+      "pt": "Ontem eu dormi bem"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Fui al restaurante",
       "en": "I went to the restaurant",
       "fr": "Je suis allé au restaurant",
-      "it": "Sono andato al ristorante"
+      "it": "Sono andato al ristorante",
+      "pt": "Eu fui ao restaurante"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Comí mucho",
       "en": "I ate a lot",
       "fr": "J'ai beaucoup mangé",
-      "it": "Ho mangiato molto"
+      "it": "Ho mangiato molto",
+      "pt": "Eu comi muito"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Bebí café",
       "en": "I drank coffee",
       "fr": "J'ai bu du café",
-      "it": "Ho bevuto un caffè"
+      "it": "Ho bevuto un caffè",
+      "pt": "Eu bebi café"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Llegué tarde",
       "en": "I arrived late",
       "fr": "Je suis arrivé en retard",
-      "it": "Sono arrivato tardi"
+      "it": "Sono arrivato tardi",
+      "pt": "Eu cheguei atrasado"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Llegué temprano",
       "en": "I arrived early",
       "fr": "Je suis arrivé tôt",
-      "it": "Sono arrivato presto"
+      "it": "Sono arrivato presto",
+      "pt": "Eu cheguei cedo"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Trabajé mucho",
       "en": "I worked a lot",
       "fr": "J'ai beaucoup travaillé",
-      "it": "Ho lavorato molto"
+      "it": "Ho lavorato molto",
+      "pt": "Eu trabalhei muito"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "No trabajé",
       "en": "I did not work",
       "fr": "Je n'ai pas travaillé",
-      "it": "Non ho lavorato"
+      "it": "Non ho lavorato",
+      "pt": "Eu não trabalhei"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "No salí",
       "en": "I did not go out",
       "fr": "Je ne suis pas sorti",
-      "it": "Non sono uscito"
+      "it": "Non sono uscito",
+      "pt": "Eu não saí"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "No comí",
       "en": "I did not eat",
       "fr": "Je n'ai pas mangé",
-      "it": "Non ho mangiato"
+      "it": "Non ho mangiato",
+      "pt": "Eu não comi"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Fue un buen día",
       "en": "It was a good day",
       "fr": "C'était une bonne journée",
-      "it": "È stata una bella giornata"
+      "it": "È stata una bella giornata",
+      "pt": "Foi um bom dia"
     },
     "difficulty": "Beginner"
   }

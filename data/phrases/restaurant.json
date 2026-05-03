@@ -5,7 +5,8 @@
       "es": "Hola",
       "fr": "Bonjour",
       "it": "Ciao",
-      "en": "Hello"
+      "en": "Hello",
+      "pt": "Olá"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Quiero pedir una pizza",
       "fr": "Je veux commander une pizza",
       "it": "Voglio ordinare una pizza",
-      "en": "I want to order a pizza"
+      "en": "I want to order a pizza",
+      "pt": "Quero pedir uma pizza"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "La cuenta, por favor",
       "fr": "L'addition, s'il vous plaît",
       "it": "Il conto, per favore",
-      "en": "The check, please"
+      "en": "The check, please",
+      "pt": "A conta, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "¿Tiene mesa para dos?",
       "fr": "Avez-vous une table pour deux?",
       "it": "Avete un tavolo per due?",
-      "en": "Do you have a table for two?"
+      "en": "Do you have a table for two?",
+      "pt": "Vocês têm uma mesa para dois?"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "¿Qué me recomienda?",
       "fr": "Qu'est-ce que vous recommandez?",
       "it": "Cosa mi consiglia?",
-      "en": "What do you recommend?"
+      "en": "What do you recommend?",
+      "pt": "O que você recomenda?"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Estoy listo para ordenar",
       "fr": "Je suis prêt à commander",
       "it": "Sono pronto per ordinare",
-      "en": "I am ready to order"
+      "en": "I am ready to order",
+      "pt": "Estou pronto para pedir"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "¿Puede traer más agua?",
       "fr": "Pouvez-vous apporter plus d'eau?",
       "it": "Potete portare altra acqua?",
-      "en": "Can you bring more water?"
+      "en": "Can you bring more water?",
+      "pt": "Você pode trazer mais água?"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Me gustaría el menú, por favor",
       "fr": "Je voudrais la carte, s'il vous plaît",
       "it": "Vorrei il menu, per favore",
-      "en": "I would like the menu, please"
+      "en": "I would like the menu, please",
+      "pt": "Eu gostaria do cardápio, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Me gustaría ordenar",
       "fr": "Je voudrais commander",
       "it": "Vorrei ordinare",
-      "en": "I would like to order"
+      "en": "I would like to order",
+      "pt": "Gostaria de fazer um pedido"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "La cuenta, por favor",
       "fr": "L'addition, s'il vous plaît",
       "it": "Il conto, per favore",
-      "en": "The bill, please"
+      "en": "The bill, please",
+      "pt": "A conta, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Una mesa para dos, por favor",
       "fr": "Une table pour deux, s'il vous plaît",
       "it": "Un tavolo per due, per favore",
-      "en": "A table for two, please"
+      "en": "A table for two, please",
+      "pt": "Uma mesa para dois, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "¿Puede traerme agua?",
       "fr": "Pouvez-vous m'apporter de l'eau?",
       "it": "Potete portarmi dell'acqua?",
-      "en": "Can you bring me some water?"
+      "en": "Can you bring me some water?",
+      "pt": "Você pode me trazer um pouco de água?"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Me gustaría una pizza",
       "fr": "Je voudrais une pizza",
       "it": "Vorrei una pizza",
-      "en": "I would like a pizza"
+      "en": "I would like a pizza",
+      "pt": "Eu gostaria de uma pizza"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Un café, por favor",
       "fr": "Un café, s'il vous plaît",
       "it": "Un caffè, per favore",
-      "en": "A coffee, please"
+      "en": "A coffee, please",
+      "pt": "Um café, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Soy vegetariano",
       "fr": "Je suis végétarien",
       "it": "Sono vegetariano",
-      "en": "I am vegetarian"
+      "en": "I am vegetarian",
+      "pt": "Eu sou vegetariano"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Estaba delicioso",
       "fr": "C'était délicieux",
       "it": "Era delizioso",
-      "en": "It was delicious"
+      "en": "It was delicious",
+      "pt": "Estava delicioso"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Me gustaría un café con leche",
       "fr": "Je voudrais un café au lait",
       "it": "Vorrei un caffè latte",
-      "en": "I would like a latte"
+      "en": "I would like a latte",
+      "pt": "Eu gostaria de um latte"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Una botella de agua, por favor",
       "fr": "Une bouteille d'eau, s'il vous plaît",
       "it": "Una bottiglia d'acqua, per favore",
-      "en": "A bottle of water, please"
+      "en": "A bottle of water, please",
+      "pt": "Uma garrafa de água, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Me gustaría pagar",
       "fr": "Je voudrais payer",
       "it": "Vorrei pagare",
-      "en": "I would like to pay"
+      "en": "I would like to pay",
+      "pt": "Eu gostaria de pagar"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "¿Puedo pagar con tarjeta?",
       "fr": "Puis-je payer par carte?",
       "it": "Posso pagare con la carta?",
-      "en": "Can I pay by card?"
+      "en": "Can I pay by card?",
+      "pt": "Posso pagar com cartão?"
     },
     "difficulty": "Intermediate"
   },
@@ -205,7 +225,8 @@
       "es": "Quédese con el cambio",
       "fr": "Gardez la monnaie",
       "it": "Tenga il resto",
-      "en": "Keep the change"
+      "en": "Keep the change",
+      "pt": "Fique com o troco"
     },
     "difficulty": "Intermediate"
   },
@@ -215,7 +236,8 @@
       "es": "Una cerveza, por favor",
       "fr": "Une bière, s'il vous plaît",
       "it": "Una birra, per favore",
-      "en": "A beer, please"
+      "en": "A beer, please",
+      "pt": "Uma cerveja, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -225,7 +247,8 @@
       "es": "Una copa de vino tinto",
       "fr": "Un verre de vin rouge",
       "it": "Un bicchiere di vino rosso",
-      "en": "A glass of red wine"
+      "en": "A glass of red wine",
+      "pt": "Um copo de vinho tinto"
     },
     "difficulty": "Intermediate"
   },
@@ -235,7 +258,8 @@
       "es": "Sin hielo, por favor",
       "fr": "Sans glace, s'il vous plaît",
       "it": "Senza ghiaccio, per favore",
-      "en": "Without ice, please"
+      "en": "Without ice, please",
+      "pt": "Sem gelo, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -245,7 +269,8 @@
       "es": "La cuenta es incorrecta",
       "fr": "L'addition est incorrecte",
       "it": "Il conto è errato",
-      "en": "The bill is incorrect"
+      "en": "The bill is incorrect",
+      "pt": "A conta está incorreta"
     },
     "difficulty": "Intermediate"
   },
@@ -255,7 +280,8 @@
       "es": "Tenemos una reserva",
       "fr": "Nous avons une réservation",
       "it": "Abbiamo una prenotazione",
-      "en": "We have a reservation"
+      "en": "We have a reservation",
+      "pt": "Temos uma reserva"
     },
     "difficulty": "Intermediate"
   },
@@ -265,7 +291,8 @@
       "es": "¿Podría darnos el menú en inglés?",
       "fr": "Pourriez-vous nous donner le menu en anglais?",
       "it": "Potreste darci il menu in inglese?",
-      "en": "Could you give us the menu in English?"
+      "en": "Could you give us the menu in English?",
+      "pt": "Você poderia nos trazer o menu em inglês?"
     },
     "difficulty": "Intermediate"
   },
@@ -275,7 +302,8 @@
       "es": "Soy alérgico a los frutos secos",
       "fr": "Je suis allergique aux noix",
       "it": "Sono allergico alla frutta a guscio",
-      "en": "I am allergic to nuts"
+      "en": "I am allergic to nuts",
+      "pt": "Sou alérgico a nozes"
     },
     "difficulty": "Intermediate"
   },
@@ -285,7 +313,8 @@
       "es": "Tengo hambre",
       "fr": "J'ai faim",
       "it": "Ho fame",
-      "en": "I'm hungry"
+      "en": "I'm hungry",
+      "pt": "Estou com fome"
     },
     "difficulty": "Intermediate"
   },
@@ -295,7 +324,8 @@
       "es": "Tengo sed",
       "fr": "J'ai soif",
       "it": "Ho sete",
-      "en": "I'm thirsty"
+      "en": "I'm thirsty",
+      "pt": "Estou com sede"
     },
     "difficulty": "Intermediate"
   },
@@ -305,7 +335,8 @@
       "es": "¿Puede traer agua?",
       "fr": "Pouvez-vous apporter de l'eau?",
       "it": "Può portare dell'acqua?",
-      "en": "Can you bring some water?"
+      "en": "Can you bring some water?",
+      "pt": "Você pode trazer um pouco de água?"
     },
     "difficulty": "Intermediate"
   },
@@ -315,7 +346,8 @@
       "es": "Quiero una mesa",
       "fr": "Je veux une table",
       "it": "Voglio un tavolo",
-      "en": "I want a table"
+      "en": "I want a table",
+      "pt": "Quero uma mesa"
     },
     "difficulty": "Beginner"
   },
@@ -325,7 +357,8 @@
       "es": "Mesa para dos",
       "fr": "Table pour deux",
       "it": "Tavolo per due",
-      "en": "Table for two"
+      "en": "Table for two",
+      "pt": "Mesa para dois"
     },
     "difficulty": "Beginner"
   },
@@ -335,7 +368,8 @@
       "es": "¿Puedo ver el menú?",
       "fr": "Puis-je voir le menu ?",
       "it": "Posso vedere il menu?",
-      "en": "Can I see the menu?"
+      "en": "Can I see the menu?",
+      "pt": "Posso ver o menu?"
     },
     "difficulty": "Beginner"
   },
@@ -345,7 +379,8 @@
       "es": "Quiero ordenar",
       "fr": "Je veux commander",
       "it": "Voglio ordinare",
-      "en": "I want to order"
+      "en": "I want to order",
+      "pt": "Quero fazer um pedido"
     },
     "difficulty": "Beginner"
   },
@@ -355,7 +390,8 @@
       "es": "Voy a pedir esto",
       "fr": "Je vais prendre ça",
       "it": "Prendo questo",
-      "en": "I will order this"
+      "en": "I will order this",
+      "pt": "Eu vou pedir isso"
     },
     "difficulty": "Beginner"
   },
@@ -365,7 +401,8 @@
       "es": "¿Qué recomiendas?",
       "fr": "Qu'est-ce que tu recommandes ?",
       "it": "Cosa consigli?",
-      "en": "What do you recommend?"
+      "en": "What do you recommend?",
+      "pt": "O que você recomenda?"
     },
     "difficulty": "Beginner"
   },
@@ -375,7 +412,8 @@
       "es": "Para mí, por favor",
       "fr": "Pour moi, s'il vous plaît",
       "it": "Per me, per favore",
-      "en": "For me, please"
+      "en": "For me, please",
+      "pt": "Para mim, por favor"
     },
     "difficulty": "Beginner"
   },
@@ -385,7 +423,8 @@
       "es": "Sin azúcar",
       "fr": "Sans sucre",
       "it": "Senza zucchero",
-      "en": "No sugar"
+      "en": "No sugar",
+      "pt": "Sem açúcar"
     },
     "difficulty": "Beginner"
   },
@@ -395,7 +434,8 @@
       "es": "Sin hielo",
       "fr": "Sans glace",
       "it": "Senza ghiaccio",
-      "en": "No ice"
+      "en": "No ice",
+      "pt": "Sem gelo"
     },
     "difficulty": "Beginner"
   },
@@ -405,7 +445,8 @@
       "es": "Con hielo",
       "fr": "Avec de la glace",
       "it": "Con ghiaccio",
-      "en": "With ice"
+      "en": "With ice",
+      "pt": "Com gelo"
     },
     "difficulty": "Beginner"
   },
@@ -415,7 +456,8 @@
       "es": "Quiero agua",
       "fr": "Je veux de l'eau",
       "it": "Voglio dell'acqua",
-      "en": "I want water"
+      "en": "I want water",
+      "pt": "Quero água"
     },
     "difficulty": "Beginner"
   },
@@ -425,7 +467,8 @@
       "es": "Quiero café",
       "fr": "Je veux un café",
       "it": "Voglio un caffè",
-      "en": "I want coffee"
+      "en": "I want coffee",
+      "pt": "Quero café"
     },
     "difficulty": "Beginner"
   },
@@ -435,7 +478,8 @@
       "es": "¿Cuánto cuesta?",
       "fr": "Combien ça coûte ?",
       "it": "Quanto costa?",
-      "en": "How much is it?"
+      "en": "How much is it?",
+      "pt": "Quanto custa?"
     },
     "difficulty": "Beginner"
   },
@@ -445,7 +489,8 @@
       "es": "Pago con tarjeta",
       "fr": "Je paie par carte",
       "it": "Pago con carta",
-      "en": "I pay with card"
+      "en": "I pay with card",
+      "pt": "Eu pago com cartão"
     },
     "difficulty": "Beginner"
   },
@@ -455,7 +500,8 @@
       "es": "Pago en efectivo",
       "fr": "Je paie en espèces",
       "it": "Pago in contanti",
-      "en": "I pay cash"
+      "en": "I pay cash",
+      "pt": "Eu pago em dinheiro"
     },
     "difficulty": "Beginner"
   },
@@ -465,7 +511,8 @@
       "es": "Está muy bueno",
       "fr": "C'est très bon",
       "it": "È molto buono",
-      "en": "It is very good"
+      "en": "It is very good",
+      "pt": "É muito bom"
     },
     "difficulty": "Beginner"
   },
@@ -475,7 +522,8 @@
       "es": "No me gusta",
       "fr": "Ça ne me plaît pas",
       "it": "Non mi piace",
-      "en": "I don't like it"
+      "en": "I don't like it",
+      "pt": "Eu não gosto disso"
     },
     "difficulty": "Beginner"
   },
@@ -485,7 +533,8 @@
       "es": "Quiero otra cosa",
       "fr": "Je veux autre chose",
       "it": "Voglio qualcos'altro",
-      "en": "I want something else"
+      "en": "I want something else",
+      "pt": "Eu quero outra coisa"
     },
     "difficulty": "Beginner"
   },
@@ -495,7 +544,8 @@
       "es": "Gracias",
       "fr": "Merci",
       "it": "Grazie",
-      "en": "Thank you"
+      "en": "Thank you",
+      "pt": "Obrigado"
     },
     "difficulty": "Beginner"
   }

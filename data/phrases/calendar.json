@@ -5,7 +5,8 @@
       "es": "lunes",
       "en": "Monday",
       "fr": "lundi",
-      "it": "lunedì"
+      "it": "lunedì",
+      "pt": "Segunda-feira"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "martes",
       "en": "Tuesday",
       "fr": "mardi",
-      "it": "martedì"
+      "it": "martedì",
+      "pt": "Terça-feira"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "miércoles",
       "en": "Wednesday",
       "fr": "mercredi",
-      "it": "mercoledì"
+      "it": "mercoledì",
+      "pt": "Quarta-feira"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "jueves",
       "en": "Thursday",
       "fr": "jeudi",
-      "it": "giovedì"
+      "it": "giovedì",
+      "pt": "Quinta-feira"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "viernes",
       "en": "Friday",
       "fr": "vendredi",
-      "it": "venerdì"
+      "it": "venerdì",
+      "pt": "Sexta-feira"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "sábado",
       "en": "Saturday",
       "fr": "samedi",
-      "it": "sabato"
+      "it": "sabato",
+      "pt": "Sábado"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "domingo",
       "en": "Sunday",
       "fr": "dimanche",
-      "it": "domenica"
+      "it": "domenica",
+      "pt": "Domingo"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Hoy es lunes",
       "en": "Today is Monday",
       "fr": "Aujourd'hui, c'est lundi",
-      "it": "Oggi è lunedì"
+      "it": "Oggi è lunedì",
+      "pt": "Hoje é segunda-feira"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Mañana es martes",
       "en": "Tomorrow is Tuesday",
       "fr": "Demain, c'est mardi",
-      "it": "Domani è martedì"
+      "it": "Domani è martedì",
+      "pt": "Amanhã é terça-feira"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Ayer fue domingo",
       "en": "Yesterday was Sunday",
       "fr": "Hier, c'était dimanche",
-      "it": "Ieri era domenica"
+      "it": "Ieri era domenica",
+      "pt": "Ontem foi domingo"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Nos vemos el lunes",
       "en": "See you on Monday",
       "fr": "À lundi",
-      "it": "Ci vediamo lunedì"
+      "it": "Ci vediamo lunedì",
+      "pt": "Te vejo na segunda-feira"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Trabajo de lunes a viernes",
       "en": "I work from Monday to Friday",
       "fr": "Je travaille du lundi au vendredi",
-      "it": "Lavoro da lunedì a venerdì"
+      "it": "Lavoro da lunedì a venerdì",
+      "pt": "Eu trabalho de segunda a sexta"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "El sábado salgo con amigos",
       "en": "On Saturday I go out with friends",
       "fr": "Le samedi, je sors avec des amis",
-      "it": "Il sabato esco con gli amici"
+      "it": "Il sabato esco con gli amici",
+      "pt": "No sábado eu saio com amigos"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "El domingo descanso",
       "en": "On Sunday I rest",
       "fr": "Le dimanche, je me repose",
-      "it": "La domenica mi riposo"
+      "it": "La domenica mi riposo",
+      "pt": "No domingo eu descanso"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "¿Qué día es hoy?",
       "en": "What day is today?",
       "fr": "Quel jour sommes-nous aujourd'hui ?",
-      "it": "Che giorno è oggi?"
+      "it": "Che giorno è oggi?",
+      "pt": "Que dia é hoje?"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Hoy es viernes",
       "en": "Today is Friday",
       "fr": "Aujourd'hui, c'est vendredi",
-      "it": "Oggi è venerdì"
+      "it": "Oggi è venerdì",
+      "pt": "Hoje é sexta-feira"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "El lunes tengo una reunión",
       "en": "I have a meeting on Monday",
       "fr": "J'ai une réunion lundi",
-      "it": "Ho una riunione lunedì"
+      "it": "Ho una riunione lunedì",
+      "pt": "Eu tenho uma reunião na segunda-feira"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Nos vemos el miércoles",
       "en": "See you Wednesday",
       "fr": "À mercredi",
-      "it": "Ci vediamo mercoledì"
+      "it": "Ci vediamo mercoledì",
+      "pt": "Te vejo na quarta-feira"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "El viernes salimos",
       "en": "We go out Friday",
       "fr": "Usciamo venerdì",
-      "it": "Venerdì usciamo"
+      "it": "Venerdì usciamo",
+      "pt": "Nós saímos na sexta"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "El fin de semana descanso",
       "en": "I rest on the weekend",
       "fr": "Je me repose le week-end",
-      "it": "Nel fine settimana mi riposo"
+      "it": "Nel fine settimana mi riposo",
+      "pt": "Eu descanso no fim de semana"
     },
     "difficulty": "Beginner"
   },
@@ -205,7 +225,8 @@
       "es": "enero",
       "en": "January",
       "fr": "janvier",
-      "it": "gennaio"
+      "it": "gennaio",
+      "pt": "Janeiro"
     },
     "difficulty": "Beginner"
   },
@@ -215,7 +236,8 @@
       "es": "febrero",
       "en": "February",
       "fr": "février",
-      "it": "febbraio"
+      "it": "febbraio",
+      "pt": "Fevereiro"
     },
     "difficulty": "Beginner"
   },
@@ -225,7 +247,8 @@
       "es": "marzo",
       "en": "March",
       "fr": "mars",
-      "it": "marzo"
+      "it": "marzo",
+      "pt": "Março"
     },
     "difficulty": "Beginner"
   },
@@ -235,7 +258,8 @@
       "es": "abril",
       "en": "April",
       "fr": "avril",
-      "it": "aprile"
+      "it": "aprile",
+      "pt": "Abril"
     },
     "difficulty": "Beginner"
   },
@@ -245,7 +269,8 @@
       "es": "mayo",
       "en": "May",
       "fr": "mai",
-      "it": "maggio"
+      "it": "maggio",
+      "pt": "Maio"
     },
     "difficulty": "Beginner"
   },
@@ -255,7 +280,8 @@
       "es": "junio",
       "en": "June",
       "fr": "juin",
-      "it": "giugno"
+      "it": "giugno",
+      "pt": "Junho"
     },
     "difficulty": "Beginner"
   },
@@ -265,7 +291,8 @@
       "es": "julio",
       "en": "July",
       "fr": "juillet",
-      "it": "luglio"
+      "it": "luglio",
+      "pt": "Julho"
     },
     "difficulty": "Beginner"
   },
@@ -275,7 +302,8 @@
       "es": "agosto",
       "en": "August",
       "fr": "août",
-      "it": "agosto"
+      "it": "agosto",
+      "pt": "Agosto"
     },
     "difficulty": "Beginner"
   },
@@ -285,7 +313,8 @@
       "es": "septiembre",
       "en": "September",
       "fr": "septembre",
-      "it": "settembre"
+      "it": "settembre",
+      "pt": "Setembro"
     },
     "difficulty": "Beginner"
   },
@@ -295,7 +324,8 @@
       "es": "octubre",
       "en": "October",
       "fr": "octobre",
-      "it": "ottobre"
+      "it": "ottobre",
+      "pt": "Outubro"
     },
     "difficulty": "Beginner"
   },
@@ -305,7 +335,8 @@
       "es": "noviembre",
       "en": "November",
       "fr": "novembre",
-      "it": "novembre"
+      "it": "novembre",
+      "pt": "Novembro"
     },
     "difficulty": "Beginner"
   },
@@ -315,7 +346,8 @@
       "es": "diciembre",
       "en": "December",
       "fr": "décembre",
-      "it": "dicembre"
+      "it": "dicembre",
+      "pt": "Dezembro"
     },
     "difficulty": "Beginner"
   },
@@ -325,7 +357,8 @@
       "es": "¿En qué mes estamos?",
       "en": "What month are we in?",
       "fr": "Quel mois sommes-nous ?",
-      "it": "In che mese siamo?"
+      "it": "In che mese siamo?",
+      "pt": "Em que mês estamos?"
     },
     "difficulty": "Beginner"
   },
@@ -335,7 +368,8 @@
       "es": "Estamos en marzo",
       "en": "We are in March",
       "fr": "Nous sommes en mars",
-      "it": "Siamo a marzo"
+      "it": "Siamo a marzo",
+      "pt": "Estamos em março"
     },
     "difficulty": "Beginner"
   },
@@ -345,7 +379,8 @@
       "es": "Mi cumpleaños es en mayo",
       "en": "My birthday is in May",
       "fr": "Mon anniversaire est en mai",
-      "it": "Il mio compleanno è a maggio"
+      "it": "Il mio compleanno è a maggio",
+      "pt": "Meu aniversário é em maio"
     },
     "difficulty": "Beginner"
   },
@@ -355,7 +390,8 @@
       "es": "Hoy es el primero de enero",
       "en": "Today is January first",
       "fr": "Aujourd'hui, c'est le premier janvier",
-      "it": "Oggi è il primo di gennaio"
+      "it": "Oggi è il primo di gennaio",
+      "pt": "Hoje é primeiro de janeiro"
     },
     "difficulty": "Beginner"
   },
@@ -365,7 +401,8 @@
       "es": "Es el diez de abril",
       "en": "It is April tenth",
       "fr": "Nous sommes le dix avril",
-      "it": "È il dieci aprile"
+      "it": "È il dieci aprile",
+      "pt": "É dez de abril"
     },
     "difficulty": "Beginner"
   },
@@ -375,7 +412,8 @@
       "es": "La reunión es en junio",
       "en": "The meeting is in June",
       "fr": "La réunion est en juin",
-      "it": "La riunione è a giugno"
+      "it": "La riunione è a giugno",
+      "pt": "A reunião é em junho"
     },
     "difficulty": "Beginner"
   },
@@ -385,7 +423,8 @@
       "es": "Nos vemos en diciembre",
       "en": "See you in December",
       "fr": "À décembre",
-      "it": "Ci vediamo a dicembre"
+      "it": "Ci vediamo a dicembre",
+      "pt": "Te vejo em dezembro"
     },
     "difficulty": "Beginner"
   },
@@ -395,7 +434,8 @@
       "es": "El evento es en septiembre",
       "en": "The event is in September",
       "fr": "L'événement est en septembre",
-      "it": "L'evento è a settembre"
+      "it": "L'evento è a settembre",
+      "pt": "O evento é em setembro"
     },
     "difficulty": "Beginner"
   }

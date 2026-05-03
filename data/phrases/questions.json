@@ -5,7 +5,8 @@
       "es": "¿Qué es esto?",
       "en": "What is this?",
       "fr": "Qu'est-ce que c'est ?",
-      "it": "Cos'è questo?"
+      "it": "Cos'è questo?",
+      "pt": "O que é isso?"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "¿Qué quieres?",
       "en": "What do you want?",
       "fr": "Qu'est-ce que tu veux ?",
-      "it": "Cosa vuoi?"
+      "it": "Cosa vuoi?",
+      "pt": "O que você quer?"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "¿Dónde está el baño?",
       "en": "Where is the bathroom?",
       "fr": "Où sont les toilettes ?",
-      "it": "Dov'è il bagno?"
+      "it": "Dov'è il bagno?",
+      "pt": "Onde fica o banheiro?"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "¿Dónde vives?",
       "en": "Where do you live?",
       "fr": "Où est-ce que tu habites ?",
-      "it": "Dove abiti?"
+      "it": "Dove abiti?",
+      "pt": "Onde você mora?"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "¿Cuándo llegas?",
       "en": "When do you arrive?",
       "fr": "Quand est-ce que tu arrives ?",
-      "it": "Quando arrivi?"
+      "it": "Quando arrivi?",
+      "pt": "Quando você chega?"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "¿Por qué estás aquí?",
       "en": "Why are you here?",
       "fr": "Pourquoi es-tu ici ?",
-      "it": "Perché sei qui?"
+      "it": "Perché sei qui?",
+      "pt": "Por que você está aqui?"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "¿Quién es él?",
       "en": "Who is he?",
       "fr": "Qui est-il ?",
-      "it": "Chi è lui?"
+      "it": "Chi è lui?",
+      "pt": "Quem é ele?"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "¿Cómo funciona esto?",
       "en": "How does this work?",
       "fr": "Comment ça marche ?",
-      "it": "Come funziona questo?"
+      "it": "Come funziona questo?",
+      "pt": "Como isso funciona?"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "¿Cuánto cuesta?",
       "en": "How much does it cost?",
       "fr": "Combien ça coûte ?",
-      "it": "Quanto costa?"
+      "it": "Quanto costa?",
+      "pt": "Quanto custa?"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "¿Cuántos hay?",
       "en": "How many are there?",
       "fr": "Combien y en a-t-il ?",
-      "it": "Quanti ce ne sono?"
+      "it": "Quanti ce ne sono?",
+      "pt": "Quantos existem?"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "¿Puedes ayudarme?",
       "en": "Can you help me?",
       "fr": "Tu peux m'aider ?",
-      "it": "Puoi aiutarmi?"
+      "it": "Puoi aiutarmi?",
+      "pt": "Você pode me ajudar?"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "¿Puedes repetir?",
       "en": "Can you repeat?",
       "fr": "Tu peux répéter ?",
-      "it": "Puoi ripetere?"
+      "it": "Puoi ripetere?",
+      "pt": "Você pode repetir?"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "¿Puedes hablar más despacio?",
       "en": "Can you speak slower?",
       "fr": "Tu peux parler plus lentement ?",
-      "it": "Puoi parlare più lentamente?"
+      "it": "Puoi parlare più lentamente?",
+      "pt": "Você pode falar mais devagar?"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "¿Entiendes?",
       "en": "Do you understand?",
       "fr": "Tu comprends ?",
-      "it": "Capisci?"
+      "it": "Capisci?",
+      "pt": "Você entende?"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "¿Hablas inglés?",
       "en": "Do you speak English?",
       "fr": "Tu parles anglais ?",
-      "it": "Parli inglese?"
+      "it": "Parli inglese?",
+      "pt": "Você fala inglês?"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "¿Qué hora es?",
       "en": "What time is it?",
       "fr": "Quelle heure est-il ?",
-      "it": "Che ora è?"
+      "it": "Che ora è?",
+      "pt": "Que horas são?"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "¿Qué día es hoy?",
       "en": "What day is today?",
       "fr": "Quel jour sommes-nous ?",
-      "it": "Che giorno è oggi?"
+      "it": "Che giorno è oggi?",
+      "pt": "Que dia é hoje?"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "¿Dónde trabajas?",
       "en": "Where do you work?",
       "fr": "Où est-ce que tu travailles ?",
-      "it": "Dove lavori?"
+      "it": "Dove lavori?",
+      "pt": "Onde você trabalha?"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "¿Qué haces?",
       "en": "What are you doing?",
       "fr": "Qu'est-ce que tu fais ?",
-      "it": "Cosa fai?"
+      "it": "Cosa fai?",
+      "pt": "O que você está fazendo?"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "¿Qué significa esto?",
       "en": "What does this mean?",
       "fr": "Qu'est-ce que ça veut dire ?",
-      "it": "Cosa significa questo?"
+      "it": "Cosa significa questo?",
+      "pt": "O que isso significa?"
     },
     "difficulty": "Beginner"
   }

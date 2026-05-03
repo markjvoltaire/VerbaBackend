@@ -5,7 +5,8 @@
       "es": "Porque estoy cansado",
       "en": "Because I am tired",
       "fr": "Parce que je suis fatigué",
-      "it": "Perché sono stanco"
+      "it": "Perché sono stanco",
+      "pt": "Porque eu estou cansado"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Por eso llegué tarde",
       "en": "That's why I arrived late",
       "fr": "C'est pourquoi je suis arrivé en retard",
-      "it": "Ecco perché sono arrivato in ritardo"
+      "it": "Ecco perché sono arrivato in ritardo",
+      "pt": "Foi por isso que eu cheguei tarde"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Debido a eso",
       "en": "Due to that",
       "fr": "À cause de cela",
-      "it": "A causa di ciò"
+      "it": "A causa di ciò",
+      "pt": "Devido a isso"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Entonces decidí irme",
       "en": "So I decided to leave",
       "fr": "Alors j'ai décidé de partir",
-      "it": "Quindi ho deciso di andare"
+      "it": "Quindi ho deciso di andare",
+      "pt": "Então eu decidi ir embora"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Por esta razón",
       "en": "For this reason",
       "fr": "Pour cette raison",
-      "it": "Per questo motivo"
+      "it": "Per questo motivo",
+      "pt": "Por essa razão"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Como estaba lloviendo",
       "en": "Since it was raining",
       "fr": "Puisqu'il pleuvait",
-      "it": "Poiché stava piovendo"
+      "it": "Poiché stava piovendo",
+      "pt": "Já que estava chovendo"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Así que me quedé en casa",
       "en": "So I stayed home",
       "fr": "Alors je suis resté chez moi",
-      "it": "Quindi sono rimasto a casa"
+      "it": "Quindi sono rimasto a casa",
+      "pt": "Então eu fiquei em casa"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Eso causó un problema",
       "en": "That caused a problem",
       "fr": "Cela a causé un problème",
-      "it": "Questo ha causato un problema"
+      "it": "Questo ha causato un problema",
+      "pt": "Isso causou um problema"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Esto resulta en éxito",
       "en": "This results in success",
       "fr": "Cela entraîne du succès",
-      "it": "Questo porta al successo"
+      "it": "Questo porta al successo",
+      "pt": "Isso resulta em sucesso"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Por lo tanto",
       "en": "Therefore",
       "fr": "Donc",
-      "it": "Pertanto"
+      "it": "Pertanto",
+      "pt": "Portanto"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "A causa de eso",
       "en": "Because of that",
       "fr": "À cause de cela",
-      "it": "A causa di ciò"
+      "it": "A causa di ciò",
+      "pt": "Por causa disso"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Eso significa que",
       "en": "That means that",
       "fr": "Cela signifie que",
-      "it": "Questo significa che"
+      "it": "Questo significa che",
+      "pt": "Isso significa que"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "El resultado es bueno",
       "en": "The result is good",
       "fr": "Le résultat est bon",
-      "it": "Il risultato è buono"
+      "it": "Il risultato è buono",
+      "pt": "O resultado é bom"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "El resultado es malo",
       "en": "The result is bad",
       "fr": "Le résultat est mauvais",
-      "it": "Il risultato è cattivo"
+      "it": "Il risultato è cattivo",
+      "pt": "O resultado é ruim"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Esto afecta mucho",
       "en": "This affects a lot",
       "fr": "Cela affecte beaucoup",
-      "it": "Questo influisce molto"
+      "it": "Questo influisce molto",
+      "pt": "Isso afeta muito"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "No tiene efecto",
       "en": "It has no effect",
       "fr": "Cela n'a aucun effet",
-      "it": "Non ha effetto"
+      "it": "Non ha effetto",
+      "pt": "Isso não tem efeito"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Tiene consecuencias",
       "en": "It has consequences",
       "fr": "Cela a des conséquences",
-      "it": "Ha conseguenze"
+      "it": "Ha conseguenze",
+      "pt": "Isso tem consequências"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Esto cambia todo",
       "en": "This changes everything",
       "fr": "Cela change tout",
-      "it": "Questo cambia tutto"
+      "it": "Questo cambia tutto",
+      "pt": "Isso muda tudo"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Depende de eso",
       "en": "It depends on that",
       "fr": "Cela dépend de cela",
-      "it": "Dipende da questo"
+      "it": "Dipende da questo",
+      "pt": "Isso depende da situação"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Todo pasó por eso",
       "en": "Everything happened because of that",
       "fr": "Tout est arrivé à cause de cela",
-      "it": "Tutto è successo a causa di ciò"
+      "it": "Tutto è successo a causa di ciò",
+      "pt": "Tudo aconteceu por causa disso"
     },
     "difficulty": "Intermediate"
   }

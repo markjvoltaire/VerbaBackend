@@ -5,7 +5,8 @@
       "es": "Podemos ir juntos",
       "fr": "On peut y aller ensemble",
       "it": "Possiamo andare insieme",
-      "en": "We can go together"
+      "en": "We can go together",
+      "pt": "Podemos ir juntos"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "¿Por qué no vamos?",
       "fr": "Pourquoi on n'y va pas ?",
       "it": "Perché non andiamo?",
-      "en": "Why don't we go?"
+      "en": "Why don't we go?",
+      "pt": "Por que não vamos?"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Deberíamos intentarlo",
       "fr": "On devrait essayer",
       "it": "Dovremmo provare",
-      "en": "We should try it"
+      "en": "We should try it",
+      "pt": "Devemos tentar isso"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Vamos a hacerlo",
       "fr": "Faisons-le",
       "it": "Facciamolo",
-      "en": "Let's do it"
+      "en": "Let's do it",
+      "pt": "Vamos fazer isso"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Podríamos salir esta noche",
       "fr": "On pourrait sortir ce soir",
       "it": "Potremmo uscire stasera",
-      "en": "We could go out tonight"
+      "en": "We could go out tonight",
+      "pt": "Podíamos sair hoje à noite"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Te propongo una idea",
       "fr": "Je te propose une idée",
       "it": "Ti propongo un'idea",
-      "en": "I propose an idea to you"
+      "en": "I propose an idea to you",
+      "pt": "Eu te proponho uma ideia"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "¿Qué tal si empezamos ahora?",
       "fr": "Et si on commençait maintenant ?",
       "it": "E se iniziassimo adesso?",
-      "en": "How about we start now?"
+      "en": "How about we start now?",
+      "pt": "Que tal começarmos agora?"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Sería buena idea estudiar",
       "fr": "Ce serait une bonne idée d'étudier",
       "it": "Sarebbe una buona idea studiare",
-      "en": "It would be a good idea to study"
+      "en": "It would be a good idea to study",
+      "pt": "Seria uma boa ideia estudar"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Intentemos algo nuevo",
       "fr": "Essayons quelque chose de nouveau",
       "it": "Proviamo qualcosa di nuovo",
-      "en": "Let's try something new"
+      "en": "Let's try something new",
+      "pt": "Vamos tentar algo novo"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Mejor hacemos esto",
       "fr": "On ferait mieux de faire ça",
       "it": "Meglio fare questo",
-      "en": "We better do this"
+      "en": "We better do this",
+      "pt": "É melhor fazermos isso"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Podemos cambiar el plan",
       "fr": "On peut changer le plan",
       "it": "Possiamo cambiare il piano",
-      "en": "We can change the plan"
+      "en": "We can change the plan",
+      "pt": "Podemos mudar o plano"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "¿Quieres intentarlo?",
       "fr": "Tu veux essayer ?",
       "it": "Vuoi provare?",
-      "en": "Do you want to try it?"
+      "en": "Do you want to try it?",
+      "pt": "Você quer tentar?"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Vamos paso a paso",
       "fr": "Allons-y étape par étape",
       "it": "Andiamo passo dopo passo",
-      "en": "Let's go step by step"
+      "en": "Let's go step by step",
+      "pt": "Vamos por etapas"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Es mejor empezar temprano",
       "fr": "C'est mieux de commencer tôt",
       "it": "È meglio iniziare presto",
-      "en": "It's better to start early"
+      "en": "It's better to start early",
+      "pt": "É melhor começar cedo"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Podemos hacerlo mañana",
       "fr": "On peut le faire demain",
       "it": "Possiamo farlo domani",
-      "en": "We can do it tomorrow"
+      "en": "We can do it tomorrow",
+      "pt": "Podemos fazer isso amanhã"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Hagámoslo juntos",
       "fr": "Faisons-le ensemble",
       "it": "Facciamolo insieme",
-      "en": "Let's do it together"
+      "en": "Let's do it together",
+      "pt": "Vamos fazer isso juntos"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "¿Te parece bien?",
       "fr": "Ça te convient ?",
       "it": "Ti sembra giusto?",
-      "en": "Does that sound good to you?"
+      "en": "Does that sound good to you?",
+      "pt": "Isso soa bem para você?"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Podemos intentarlo otra vez",
       "fr": "On peut réessayer",
       "it": "Possiamo riprovare",
-      "en": "We can try again"
+      "en": "We can try again",
+      "pt": "Podemos tentar de novo"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "¿Qué opinas de esto?",
       "fr": "Qu'est-ce que tu en penses ?",
       "it": "Cosa ne pensi?",
-      "en": "What do you think about this?"
+      "en": "What do you think about this?",
+      "pt": "O que você acha disso?"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Es una opción",
       "fr": "C'est une option",
       "it": "È un'opzione",
-      "en": "It's an option"
+      "en": "It's an option",
+      "pt": "É uma opção"
     },
     "difficulty": "Intermediate"
   }

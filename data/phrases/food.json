@@ -5,7 +5,8 @@
       "es": "Tengo hambre",
       "en": "I am hungry",
       "fr": "J'ai faim",
-      "it": "Ho fame"
+      "it": "Ho fame",
+      "pt": "Estou com fome"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Tengo sed",
       "en": "I am thirsty",
       "fr": "J'ai soif",
-      "it": "Ho sete"
+      "it": "Ho sete",
+      "pt": "Estou com sede"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Quiero comer",
       "en": "I want to eat",
       "fr": "Je veux manger",
-      "it": "Voglio mangiare"
+      "it": "Voglio mangiare",
+      "pt": "Quero comer"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Quiero beber",
       "en": "I want to drink",
       "fr": "Je veux boire",
-      "it": "Voglio bere"
+      "it": "Voglio bere",
+      "pt": "Quero beber"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Estoy comiendo",
       "en": "I am eating",
       "fr": "Je suis en train de manger",
-      "it": "Sto mangiando"
+      "it": "Sto mangiando",
+      "pt": "Estou comendo"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Estoy bebiendo",
       "en": "I am drinking",
       "fr": "Je suis en train de boire",
-      "it": "Sto bevendo"
+      "it": "Sto bevendo",
+      "pt": "Estou bebendo"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "La comida es buena",
       "en": "The food is good",
       "fr": "La nourriture est bonne",
-      "it": "Il cibo è buono"
+      "it": "Il cibo è buono",
+      "pt": "A comida é boa"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Está delicioso",
       "en": "It is delicious",
       "fr": "C'est délicieux",
-      "it": "È delizioso"
+      "it": "È delizioso",
+      "pt": "Está delicioso"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Está caliente",
       "en": "It is hot",
       "fr": "C'est chaud",
-      "it": "È caldo"
+      "it": "È caldo",
+      "pt": "Está quente"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Está frío",
       "en": "It is cold",
       "fr": "C'est froid",
-      "it": "È freddo"
+      "it": "È freddo",
+      "pt": "Está frio"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Como arroz",
       "en": "I eat rice",
       "fr": "Je mange du riz",
-      "it": "Mangio riso"
+      "it": "Mangio riso",
+      "pt": "Eu como arroz"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Como pollo",
       "en": "I eat chicken",
       "fr": "Je mange du poulet",
-      "it": "Mangio pollo"
+      "it": "Mangio pollo",
+      "pt": "Eu como frango"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Como carne",
       "en": "I eat meat",
       "fr": "Je mange de la viande",
-      "it": "Mangio carne"
+      "it": "Mangio carne",
+      "pt": "Eu como carne"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Como verduras",
       "en": "I eat vegetables",
       "fr": "Je mange des légumes",
-      "it": "Mangio verdure"
+      "it": "Mangio verdure",
+      "pt": "Eu como legumes"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Bebo agua",
       "en": "I drink water",
       "fr": "Je bois de l'eau",
-      "it": "Bevo acqua"
+      "it": "Bevo acqua",
+      "pt": "Eu bebo água"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Bebo café",
       "en": "I drink coffee",
       "fr": "Je bois du café",
-      "it": "Bevo caffè"
+      "it": "Bevo caffè",
+      "pt": "Eu bebo café"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Bebo jugo",
       "en": "I drink juice",
       "fr": "Je bois du jus",
-      "it": "Bevo succo"
+      "it": "Bevo succo",
+      "pt": "Eu bebo suco"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Quiero más comida",
       "en": "I want more food",
       "fr": "Je veux encore à manger",
-      "it": "Voglio ancora del cibo"
+      "it": "Voglio ancora del cibo",
+      "pt": "Quero mais comida"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "No tengo hambre",
       "en": "I am not hungry",
       "fr": "Je n'ai pas faim",
-      "it": "Non ho fame"
+      "it": "Non ho fame",
+      "pt": "Não estou com fome"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "¿Qué quieres comer?",
       "en": "What do you want to eat?",
       "fr": "Qu'est-ce que tu veux manger ?",
-      "it": "Cosa vuoi mangiare?"
+      "it": "Cosa vuoi mangiare?",
+      "pt": "O que você quer comer?"
     },
     "difficulty": "Beginner"
   }

@@ -12,6 +12,7 @@ async function evaluateSpeech(req, res) {
     }
 
     const expectedPhrase = req.body.expectedPhrase || req.body.expected_phrase;
+    const whisperLang = req.body.language || req.body.lang || 'es';
     if (!expectedPhrase) {
       return res.status(400).json({ error: 'expectedPhrase required' });
     }
@@ -26,7 +27,7 @@ async function evaluateSpeech(req, res) {
       });
     }
 
-    const transcription = await transcribeAudio(audioBuffer);
+    const transcription = await transcribeAudio(audioBuffer, whisperLang);
     console.log('[Whisper] heard:', transcription);
     const { feedback, score } = await evaluatePronunciation(transcription, expectedPhrase);
 

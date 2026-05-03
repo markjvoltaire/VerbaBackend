@@ -5,7 +5,8 @@
       "es": "Es una tradición",
       "en": "It is a tradition",
       "fr": "C'est une tradition",
-      "it": "È una tradizione"
+      "it": "È una tradizione",
+      "pt": "É uma tradição"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Celebramos juntos",
       "en": "We celebrate together",
       "fr": "Nous fêtons ensemble",
-      "it": "Festeggiamo insieme"
+      "it": "Festeggiamo insieme",
+      "pt": "Nós celebramos juntos"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Es parte de la cultura",
       "en": "It is part of the culture",
       "fr": "Cela fait partie de la culture",
-      "it": "Fa parte della cultura"
+      "it": "Fa parte della cultura",
+      "pt": "É parte da cultura"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Cada país es diferente",
       "en": "Every country is different",
       "fr": "Chaque pays est différent",
-      "it": "Ogni paese è diverso"
+      "it": "Ogni paese è diverso",
+      "pt": "Cada país é diferente"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Me gusta esta tradición",
       "en": "I like this tradition",
       "fr": "J'aime cette tradition",
-      "it": "Mi piace questa tradizione"
+      "it": "Mi piace questa tradizione",
+      "pt": "Eu gosto dessa tradição"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "No entiendo esta costumbre",
       "en": "I don't understand this custom",
       "fr": "Je ne comprends pas cette coutume",
-      "it": "Non capisco questa usanza"
+      "it": "Non capisco questa usanza",
+      "pt": "Eu não entendo esse costume"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Es interesante",
       "en": "It is interesting",
       "fr": "C'est intéressant",
-      "it": "È interessante"
+      "it": "È interessante",
+      "pt": "É interessante"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Es diferente a mi país",
       "en": "It is different from my country",
       "fr": "C'est différent de mon pays",
-      "it": "È diverso dal mio paese"
+      "it": "È diverso dal mio paese",
+      "pt": "É diferente do meu país"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Comemos comida típica",
       "en": "We eat typical food",
       "fr": "Nous mangeons de la cuisine typique",
-      "it": "Mangiamo cibo tipico"
+      "it": "Mangiamo cibo tipico",
+      "pt": "Nós comemos comida típica"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Hay una fiesta",
       "en": "There is a celebration",
       "fr": "Il y a une fête",
-      "it": "C'è una festa"
+      "it": "C'è una festa",
+      "pt": "Há uma celebração"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "La gente baila",
       "en": "People dance",
       "fr": "Les gens dansent",
-      "it": "La gente balla"
+      "it": "La gente balla",
+      "pt": "As pessoas dançam"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "La gente canta",
       "en": "People sing",
       "fr": "Les gens chantent",
-      "it": "La gente canta"
+      "it": "La gente canta",
+      "pt": "As pessoas cantam"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es una celebración importante",
       "en": "It is an important celebration",
       "fr": "C'est une fête importante",
-      "it": "È una celebrazione importante"
+      "it": "È una celebrazione importante",
+      "pt": "É uma celebração importante"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Se celebra cada año",
       "en": "It is celebrated every year",
       "fr": "On la célèbre chaque année",
-      "it": "Si celebra ogni anno"
+      "it": "Si celebra ogni anno",
+      "pt": "É celebrada todo ano"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Es una tradición antigua",
       "en": "It is an old tradition",
       "fr": "C'est une vieille tradition",
-      "it": "È una tradizione antica"
+      "it": "È una tradizione antica",
+      "pt": "É uma tradição antiga"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Aprendo sobre otras culturas",
       "en": "I learn about other cultures",
       "fr": "J'apprends sur d'autres cultures",
-      "it": "Imparo a conoscere altre culture"
+      "it": "Imparo a conoscere altre culture",
+      "pt": "Eu aprendo sobre outras culturas"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Respeto la cultura",
       "en": "I respect the culture",
       "fr": "Je respecte la culture",
-      "it": "Rispetto la cultura"
+      "it": "Rispetto la cultura",
+      "pt": "Eu respeito a cultura"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Es bonito ver esto",
       "en": "It is nice to see this",
       "fr": "C'est beau de voir ça",
-      "it": "È bello vedere questo"
+      "it": "È bello vedere questo",
+      "pt": "É bom ver isso"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Es una experiencia única",
       "en": "It is a unique experience",
       "fr": "C'est une expérience unique",
-      "it": "È un'esperienza unica"
+      "it": "È un'esperienza unica",
+      "pt": "É uma experiência única"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Quiero aprender más",
       "en": "I want to learn more",
       "fr": "Je veux en apprendre davantage",
-      "it": "Voglio imparare di più"
+      "it": "Voglio imparare di più",
+      "pt": "Eu quero aprender mais"
     },
     "difficulty": "Intermediate"
   },
@@ -205,7 +225,8 @@
       "es": "Es muy típico aquí",
       "en": "It's very typical here",
       "fr": "C'est très typique ici",
-      "it": "È molto tipico qui"
+      "it": "È molto tipico qui",
+      "pt": "É muito típico aqui"
     },
     "difficulty": "Advanced"
   },
@@ -215,7 +236,8 @@
       "es": "Es parte de la cultura",
       "en": "It's part of the culture",
       "fr": "Ça fait partie de la culture",
-      "it": "Fa parte della cultura"
+      "it": "Fa parte della cultura",
+      "pt": "É parte da cultura"
     },
     "difficulty": "Advanced"
   },
@@ -225,7 +247,8 @@
       "es": "Así somos",
       "en": "That's how we are",
       "fr": "C'est comme ça qu'on est",
-      "it": "Siamo fatti così"
+      "it": "Siamo fatti così",
+      "pt": "É assim que somos"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +258,8 @@
       "es": "Es una tradición",
       "en": "It's a tradition",
       "fr": "C'est une tradition",
-      "it": "È una tradizione"
+      "it": "È una tradizione",
+      "pt": "É uma tradição"
     },
     "difficulty": "Advanced"
   },
@@ -245,7 +269,8 @@
       "es": "Se hace desde hace años",
       "en": "It's been done for years",
       "fr": "Ça se fait depuis des années",
-      "it": "Si fa da anni"
+      "it": "Si fa da anni",
+      "pt": "Isso é feito há anos"
     },
     "difficulty": "Advanced"
   },
@@ -255,7 +280,8 @@
       "es": "Es lo normal",
       "en": "It's normal",
       "fr": "C'est normal",
-      "it": "È normale"
+      "it": "È normale",
+      "pt": "É normal"
     },
     "difficulty": "Advanced"
   },
@@ -265,7 +291,8 @@
       "es": "Depende del país",
       "en": "It depends on the country",
       "fr": "Ça dépend du pays",
-      "it": "Dipende dal paese"
+      "it": "Dipende dal paese",
+      "pt": "Depende do país"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +302,8 @@
       "es": "Cada lugar es diferente",
       "en": "Every place is different",
       "fr": "Chaque endroit est différent",
-      "it": "Ogni posto è diverso"
+      "it": "Ogni posto è diverso",
+      "pt": "Cada lugar é diferente"
     },
     "difficulty": "Advanced"
   },
@@ -285,7 +313,8 @@
       "es": "Es común aquí",
       "en": "It's common here",
       "fr": "C'est courant ici",
-      "it": "È comune qui"
+      "it": "È comune qui",
+      "pt": "É comum aqui"
     },
     "difficulty": "Advanced"
   },
@@ -295,7 +324,8 @@
       "es": "No se ve mucho",
       "en": "You don't see it much",
       "fr": "On ne le voit pas beaucoup",
-      "it": "Non si vede molto"
+      "it": "Non si vede molto",
+      "pt": "Você não vê isso muito"
     },
     "difficulty": "Advanced"
   },
@@ -305,7 +335,8 @@
       "es": "La gente suele hacer eso",
       "en": "People tend to do that",
       "fr": "Les gens ont tendance à faire ça",
-      "it": "La gente tende a farlo"
+      "it": "La gente tende a farlo",
+      "pt": "As pessoas tendem a fazer isso"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +346,8 @@
       "es": "Es bien visto",
       "en": "It's well regarded",
       "fr": "C'est bien vu",
-      "it": "È ben visto"
+      "it": "È ben visto",
+      "pt": "É bem visto"
     },
     "difficulty": "Advanced"
   },
@@ -325,7 +357,8 @@
       "es": "Está mal visto",
       "en": "It's frowned upon",
       "fr": "C'est mal vu",
-      "it": "È mal visto"
+      "it": "È mal visto",
+      "pt": "É mal visto"
     },
     "difficulty": "Advanced"
   },
@@ -335,7 +368,8 @@
       "es": "Forma parte del día a día",
       "en": "It's part of everyday life",
       "fr": "Ça fait partie du quotidien",
-      "it": "Fa parte della vita quotidiana"
+      "it": "Fa parte della vita quotidiana",
+      "pt": "É parte da vida cotidiana"
     },
     "difficulty": "Advanced"
   },
@@ -345,7 +379,8 @@
       "es": "Es algo cultural",
       "en": "It's a cultural thing",
       "fr": "C'est quelque chose de culturel",
-      "it": "È una questione culturale"
+      "it": "È una questione culturale",
+      "pt": "É uma questão cultural"
     },
     "difficulty": "Advanced"
   },
@@ -355,7 +390,8 @@
       "es": "Se acostumbra a",
       "en": "People are used to",
       "fr": "Les gens ont l'habitude de",
-      "it": "La gente è abituata a"
+      "it": "La gente è abituata a",
+      "pt": "As pessoas estão acostumadas"
     },
     "difficulty": "Advanced"
   },
@@ -365,7 +401,8 @@
       "es": "No es lo mismo",
       "en": "It's not the same",
       "fr": "Ce n'est pas la même chose",
-      "it": "Non è la stessa cosa"
+      "it": "Non è la stessa cosa",
+      "pt": "Não é a mesma coisa"
     },
     "difficulty": "Advanced"
   },
@@ -375,7 +412,8 @@
       "es": "Tiene otro significado",
       "en": "It has another meaning",
       "fr": "Ça a un autre sens",
-      "it": "Ha un altro significato"
+      "it": "Ha un altro significato",
+      "pt": "Tem outro significado"
     },
     "difficulty": "Advanced"
   },
@@ -385,7 +423,8 @@
       "es": "Se interpreta diferente",
       "en": "It's interpreted differently",
       "fr": "C'est interprété différemment",
-      "it": "Viene interpretato diversamente"
+      "it": "Viene interpretato diversamente",
+      "pt": "É interpretado de maneira diferente"
     },
     "difficulty": "Advanced"
   },
@@ -395,7 +434,8 @@
       "es": "Es cuestión de costumbre",
       "en": "It's a matter of habit",
       "fr": "C'est une question d'habitude",
-      "it": "È questione di abitudine"
+      "it": "È questione di abitudine",
+      "pt": "É uma questão de hábito"
     },
     "difficulty": "Advanced"
   }

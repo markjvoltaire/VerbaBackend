@@ -5,7 +5,8 @@
       "es": "Hace calor",
       "fr": "Il fait chaud",
       "it": "Fa caldo",
-      "en": "It is hot"
+      "en": "It is hot",
+      "pt": "Está quente"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Hace frío",
       "fr": "Il fait froid",
       "it": "Fa freddo",
-      "en": "It is cold"
+      "en": "It is cold",
+      "pt": "Está frio"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Hace buen tiempo",
       "fr": "Il fait beau",
       "it": "Fa bel tempo",
-      "en": "The weather is nice"
+      "en": "The weather is nice",
+      "pt": "O tempo está bom"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Hace mal tiempo",
       "fr": "Il fait mauvais",
       "it": "Fa brutto tempo",
-      "en": "The weather is bad"
+      "en": "The weather is bad",
+      "pt": "O tempo está ruim"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Está soleado",
       "fr": "Il fait soleil",
       "it": "C'è il sole",
-      "en": "It is sunny"
+      "en": "It is sunny",
+      "pt": "Está ensolarado"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Está nublado",
       "fr": "Il fait nuageux",
       "it": "È nuvoloso",
-      "en": "It is cloudy"
+      "en": "It is cloudy",
+      "pt": "Está nublado"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Está lloviendo",
       "fr": "Il pleut",
       "it": "Sta piovendo",
-      "en": "It is raining"
+      "en": "It is raining",
+      "pt": "Está chovendo"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Está nevando",
       "fr": "Il neige",
       "it": "Sta nevicando",
-      "en": "It is snowing"
+      "en": "It is snowing",
+      "pt": "Está nevando"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Hace viento",
       "fr": "Il y a du vent",
       "it": "Tira vento",
-      "en": "It is windy"
+      "en": "It is windy",
+      "pt": "Está ventando"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Hoy hace calor",
       "fr": "Aujourd'hui il fait chaud",
       "it": "Oggi fa caldo",
-      "en": "Today it is hot"
+      "en": "Today it is hot",
+      "pt": "Hoje está quente"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Hoy hace frío",
       "fr": "Aujourd'hui il fait froid",
       "it": "Oggi fa freddo",
-      "en": "Today it is cold"
+      "en": "Today it is cold",
+      "pt": "Hoje está frio"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Mañana llueve",
       "fr": "Demain il va pleuvoir",
       "it": "Domani pioverà",
-      "en": "Tomorrow it will rain"
+      "en": "Tomorrow it will rain",
+      "pt": "Amanhã vai chover"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Ayer hizo sol",
       "fr": "Hier il faisait beau",
       "it": "Ieri c'era il sole",
-      "en": "Yesterday it was sunny"
+      "en": "Yesterday it was sunny",
+      "pt": "Ontem estava ensolarado"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "El clima es bueno",
       "fr": "Le temps est bon",
       "it": "Il tempo è bello",
-      "en": "The weather is good"
+      "en": "The weather is good",
+      "pt": "O tempo está bom"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "El clima es malo",
       "fr": "Le temps est mauvais",
       "it": "Il tempo è brutto",
-      "en": "The weather is bad"
+      "en": "The weather is bad",
+      "pt": "O tempo está ruim"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Me gusta el clima",
       "fr": "J'aime le temps qu'il fait",
       "it": "Mi piace il tempo",
-      "en": "I like the weather"
+      "en": "I like the weather",
+      "pt": "Eu gosto do tempo"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "No me gusta el frío",
       "fr": "Je n'aime pas le froid",
       "it": "Non mi piace il freddo",
-      "en": "I don't like the cold"
+      "en": "I don't like the cold",
+      "pt": "Eu não gosto do frio"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Prefiero el calor",
       "fr": "Je préfère la chaleur",
       "it": "Preferisco il caldo",
-      "en": "I prefer the heat"
+      "en": "I prefer the heat",
+      "pt": "Eu prefiro o calor"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "¿Cómo está el clima?",
       "fr": "Quel temps fait-il ?",
       "it": "Com'è il tempo?",
-      "en": "How is the weather?"
+      "en": "How is the weather?",
+      "pt": "Como está o tempo?"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "El clima cambia",
       "fr": "Le temps change",
       "it": "Il tempo cambia",
-      "en": "The weather changes"
+      "en": "The weather changes",
+      "pt": "O tempo muda"
     },
     "difficulty": "Beginner"
   }

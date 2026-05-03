@@ -5,7 +5,8 @@
       "es": "Deberías intentarlo",
       "en": "You should try it",
       "fr": "Tu devrais essayer",
-      "it": "Dovresti provarlo"
+      "it": "Dovresti provarlo",
+      "pt": "Você deveria tentar"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Te recomiendo esto",
       "en": "I recommend this",
       "fr": "Je recommande cela",
-      "it": "Ti consiglio questo"
+      "it": "Ti consiglio questo",
+      "pt": "Eu recomendo isso"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Es mejor hacerlo así",
       "en": "It's better to do it this way",
       "fr": "Il vaut mieux le faire de cette façon",
-      "it": "È meglio farlo in questo modo"
+      "it": "È meglio farlo in questo modo",
+      "pt": "É melhor fazer dessa forma"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "No deberías hacerlo",
       "en": "You shouldn't do it",
       "fr": "Tu ne devrais pas le faire",
-      "it": "Non dovresti farlo"
+      "it": "Non dovresti farlo",
+      "pt": "Você não deveria fazer isso"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Tienes que estudiar más",
       "en": "You have to study more",
       "fr": "Tu dois étudier plus",
-      "it": "Devi studiare di più"
+      "it": "Devi studiare di più",
+      "pt": "Você precisa estudar mais"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Es importante practicar",
       "en": "It is important to practice",
       "fr": "Il est important de pratiquer",
-      "it": "È importante praticare"
+      "it": "È importante praticare",
+      "pt": "É importante praticar"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Te sugiero descansar",
       "en": "I suggest you rest",
       "fr": "Je te suggère de te reposer",
-      "it": "Ti suggerisco di riposarti"
+      "it": "Ti suggerisco di riposarti",
+      "pt": "Eu sugiro que você descanse"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Intenta hacerlo mejor",
       "en": "Try to do it better",
       "fr": "Essaie de le faire mieux",
-      "it": "Cerca di farlo meglio"
+      "it": "Cerca di farlo meglio",
+      "pt": "Tente fazer melhor"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "No olvides estudiar",
       "en": "Don't forget to study",
       "fr": "N'oublie pas d'étudier",
-      "it": "Non dimenticare di studiare"
+      "it": "Non dimenticare di studiare",
+      "pt": "Não se esqueça de estudar"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Debes ser paciente",
       "en": "You must be patient",
       "fr": "Tu dois être patient",
-      "it": "Devi essere paziente"
+      "it": "Devi essere paziente",
+      "pt": "Você deve ser paciente"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Es buena idea empezar ahora",
       "en": "It's a good idea to start now",
       "fr": "C'est une bonne idée de commencer maintenant",
-      "it": "È una buona idea iniziare ora"
+      "it": "È una buona idea iniziare ora",
+      "pt": "É uma boa ideia começar agora"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Es mejor esperar",
       "en": "It's better to wait",
       "fr": "Il vaut mieux attendre",
-      "it": "È meglio aspettare"
+      "it": "È meglio aspettare",
+      "pt": "É melhor esperar"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "No vale la pena",
       "en": "It's not worth it",
       "fr": "Ça ne vaut pas le coup",
-      "it": "Non ne vale la pena"
+      "it": "Non ne vale la pena",
+      "pt": "Não vale a pena"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Vale la pena intentarlo",
       "en": "It's worth trying",
       "fr": "Ça vaut la peine d'essayer",
-      "it": "Vale la pena provare"
+      "it": "Vale la pena provare",
+      "pt": "Vale a pena tentar"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Hazlo con calma",
       "en": "Do it calmly",
       "fr": "Fais-le calmement",
-      "it": "Fallo con calma"
+      "it": "Fallo con calma",
+      "pt": "Faça isso com calma"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Piensa antes de actuar",
       "en": "Think before acting",
       "fr": "Pense avant d'agir",
-      "it": "Pensa prima di agire"
+      "it": "Pensa prima di agire",
+      "pt": "Pense antes de agir"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Escucha bien",
       "en": "Listen carefully",
       "fr": "Écoute attentivement",
-      "it": "Ascolta attentamente"
+      "it": "Ascolta attentamente",
+      "pt": "Ouça com atenção"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Practica todos los días",
       "en": "Practice every day",
       "fr": "Pratique tous les jours",
-      "it": "Pratica ogni giorno"
+      "it": "Pratica ogni giorno",
+      "pt": "Pratique todos os dias"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "No te rindas",
       "en": "Don't give up",
       "fr": "N'abandonne pas",
-      "it": "Non mollare"
+      "it": "Non mollare",
+      "pt": "Não desista"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Sigue adelante",
       "en": "Keep going",
       "fr": "Continue",
-      "it": "Vai avanti"
+      "it": "Vai avanti",
+      "pt": "Continue"
     },
     "difficulty": "Intermediate"
   }

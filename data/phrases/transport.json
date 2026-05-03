@@ -5,7 +5,8 @@
       "es": "Tomo el autobús",
       "fr": "Je prends le bus",
       "it": "Prendo l'autobus",
-      "en": "I take the bus"
+      "en": "I take the bus",
+      "pt": "Eu pego o ônibus"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Tomo el tren",
       "fr": "Je prends le train",
       "it": "Prendo il treno",
-      "en": "I take the train"
+      "en": "I take the train",
+      "pt": "Eu pego o trem"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Tomo un taxi",
       "fr": "Je prends un taxi",
       "it": "Prendo un taxi",
-      "en": "I take a taxi"
+      "en": "I take a taxi",
+      "pt": "Eu pego um táxi"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Conduzco un coche",
       "fr": "Je conduis une voiture",
       "it": "Guido una macchina",
-      "en": "I drive a car"
+      "en": "I drive a car",
+      "pt": "Eu dirijo um carro"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Camino",
       "fr": "Je marche",
       "it": "Cammino",
-      "en": "I walk"
+      "en": "I walk",
+      "pt": "Eu ando a pé"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Voy en bicicleta",
       "fr": "J'y vais à vélo",
       "it": "Vado in bicicletta",
-      "en": "I go by bicycle"
+      "en": "I go by bicycle",
+      "pt": "Eu vou de bicicleta"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Voy al trabajo",
       "fr": "Je vais au travail",
       "it": "Vado al lavoro",
-      "en": "I go to work"
+      "en": "I go to work",
+      "pt": "Eu vou para o trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Voy a casa",
       "fr": "Je rentre à la maison",
       "it": "Vado a casa",
-      "en": "I go home"
+      "en": "I go home",
+      "pt": "Eu vou para casa"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Llego tarde",
       "fr": "J'arrive en retard",
       "it": "Arrivo in ritardo",
-      "en": "I arrive late"
+      "en": "I arrive late",
+      "pt": "Eu chego atrasado"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Llego temprano",
       "fr": "J'arrive en avance",
       "it": "Arrivo in anticipo",
-      "en": "I arrive early"
+      "en": "I arrive early",
+      "pt": "Eu chego cedo"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "El autobús llega",
       "fr": "Le bus arrive",
       "it": "L'autobus arriva",
-      "en": "The bus arrives"
+      "en": "The bus arrives",
+      "pt": "O ônibus chega"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "El tren sale",
       "fr": "Le train part",
       "it": "Il treno parte",
-      "en": "The train leaves"
+      "en": "The train leaves",
+      "pt": "O trem sai"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Compro un boleto",
       "fr": "J'achète un billet",
       "it": "Compro un biglietto",
-      "en": "I buy a ticket"
+      "en": "I buy a ticket",
+      "pt": "Eu compro um bilhete"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "¿Dónde está la estación?",
       "fr": "Où est la gare ?",
       "it": "Dov'è la stazione?",
-      "en": "Where is the station?"
+      "en": "Where is the station?",
+      "pt": "Onde fica a estação?"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Espero aquí",
       "fr": "J'attends ici",
       "it": "Aspetto qui",
-      "en": "I wait here"
+      "en": "I wait here",
+      "pt": "Eu espero aqui"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Subo al autobús",
       "fr": "Je monte dans le bus",
       "it": "Salgo sull'autobus",
-      "en": "I get on the bus"
+      "en": "I get on the bus",
+      "pt": "Eu entro no ônibus"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Bajo del tren",
       "fr": "Je descends du train",
       "it": "Scendo dal treno",
-      "en": "I get off the train"
+      "en": "I get off the train",
+      "pt": "Eu desço do trem"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Viajo mucho",
       "fr": "Je voyage beaucoup",
       "it": "Viaggio molto",
-      "en": "I travel a lot"
+      "en": "I travel a lot",
+      "pt": "Eu viajo muito"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Es rápido",
       "fr": "C'est rapide",
       "it": "È veloce",
-      "en": "It is fast"
+      "en": "It is fast",
+      "pt": "É rápido"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Es lento",
       "fr": "C'est lent",
       "it": "È lento",
-      "en": "It is slow"
+      "en": "It is slow",
+      "pt": "É lento"
     },
     "difficulty": "Beginner"
   }

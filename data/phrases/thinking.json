@@ -5,7 +5,8 @@
       "es": "Estoy pensando en lo que dije",
       "fr": "Je réfléchis à ce que j'ai dit",
       "it": "Sto pensando a quello che ho detto",
-      "en": "I am thinking about what I said"
+      "en": "I am thinking about what I said",
+      "pt": "Estou pensando sobre o que eu disse"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "No tiene mucho sentido",
       "fr": "Ça n'a pas beaucoup de sens",
       "it": "Non ha molto senso",
-      "en": "It doesn't make much sense"
+      "en": "It doesn't make much sense",
+      "pt": "Não faz muito sentido"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Podría ser mejor",
       "fr": "Ça pourrait être mieux",
       "it": "Potrebbe essere meglio",
-      "en": "It could be better"
+      "en": "It could be better",
+      "pt": "Pode ser melhor"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "No estoy convencido del todo",
       "fr": "Je ne suis pas tout à fait convaincu",
       "it": "Non sono del tutto convinto",
-      "en": "I am not fully convinced"
+      "en": "I am not fully convinced",
+      "pt": "Não estou completamente convencido"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Eso cambia las cosas",
       "fr": "Ça change les choses",
       "it": "Questo cambia le cose",
-      "en": "That changes things"
+      "en": "That changes things",
+      "pt": "Isso muda as coisas"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Ahora lo veo claro",
       "fr": "Maintenant je vois clair",
       "it": "Adesso lo vedo chiaramente",
-      "en": "Now I see it clearly"
+      "en": "Now I see it clearly",
+      "pt": "Agora eu vejo claramente"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Tiene lógica",
       "fr": "C'est logique",
       "it": "Ha senso",
-      "en": "It makes sense"
+      "en": "It makes sense",
+      "pt": "Faz sentido"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "No lo había considerado",
       "fr": "Je n'y avais pas pensé",
       "it": "Non l'avevo considerato",
-      "en": "I hadn't considered it"
+      "en": "I hadn't considered it",
+      "pt": "Eu não havia considerado isso"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Eso explica mucho",
       "fr": "Ça explique beaucoup de choses",
       "it": "Questo spiega molto",
-      "en": "That explains a lot"
+      "en": "That explains a lot",
+      "pt": "Isso explica muita coisa"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "No estoy seguro todavía",
       "fr": "Je ne suis toujours pas sûr",
       "it": "Non ne sono ancora sicuro",
-      "en": "I'm still not sure"
+      "en": "I'm still not sure",
+      "pt": "Ainda não tenho certeza"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Voy a pensarlo mejor",
       "fr": "Je vais y réfléchir davantage",
       "it": "Ci penserò su",
-      "en": "I'm going to think about it more"
+      "en": "I'm going to think about it more",
+      "pt": "Vou pensar mais sobre isso"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Ahora entiendo",
       "fr": "Maintenant je comprends",
       "it": "Adesso capisco",
-      "en": "Now I understand"
+      "en": "Now I understand",
+      "pt": "Agora eu entendo"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Tiene sentido ahora",
       "fr": "Ça a du sens maintenant",
       "it": "Adesso ha senso",
-      "en": "It makes sense now"
+      "en": "It makes sense now",
+      "pt": "Faz sentido agora"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "No es tan complicado",
       "fr": "Ce n'est pas si compliqué",
       "it": "Non è così complicato",
-      "en": "It's not that complicated"
+      "en": "It's not that complicated",
+      "pt": "Não é tão complicado assim"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Depende de la situación",
       "fr": "Ça dépend de la situation",
       "it": "Dipende dalla situazione",
-      "en": "It depends on the situation"
+      "en": "It depends on the situation",
+      "pt": "Depende da situação"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Eso no cambia nada",
       "fr": "Ça ne change rien",
       "it": "Questo non cambia niente",
-      "en": "That doesn't change anything"
+      "en": "That doesn't change anything",
+      "pt": "Isso não muda nada"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Todo encaja ahora",
       "fr": "Tout s'emboîte maintenant",
       "it": "Adesso tutto torna",
-      "en": "Everything fits now"
+      "en": "Everything fits now",
+      "pt": "Tudo se encaixa agora"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Es más claro ahora",
       "fr": "C'est plus clair maintenant",
       "it": "Adesso è più chiaro",
-      "en": "It's clearer now"
+      "en": "It's clearer now",
+      "pt": "Está mais claro agora"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Voy entendiendo poco a poco",
       "fr": "Je comprends petit à petit",
       "it": "Sto capendo poco a poco",
-      "en": "I'm understanding little by little"
+      "en": "I'm understanding little by little",
+      "pt": "Estou entendendo pouco a pouco"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Ya lo tengo",
       "fr": "J'ai compris",
       "it": "Ce l'ho",
-      "en": "I've got it"
+      "en": "I've got it",
+      "pt": "Eu entendi"
     },
     "difficulty": "Advanced"
   }

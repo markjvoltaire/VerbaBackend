@@ -5,7 +5,8 @@
       "es": "Sin embargo",
       "en": "However",
       "fr": "Cependant",
-      "it": "Tuttavia"
+      "it": "Tuttavia",
+      "pt": "No entanto"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Por lo tanto",
       "en": "Therefore",
       "fr": "Par conséquent",
-      "it": "Pertanto"
+      "it": "Pertanto",
+      "pt": "Portanto"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "A pesar de eso",
       "en": "Despite that",
       "fr": "Malgré cela",
-      "it": "Nonostante ciò"
+      "it": "Nonostante ciò",
+      "pt": "Apesar disso"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Por otro lado",
       "en": "On the other hand",
       "fr": "D'un autre côté",
-      "it": "D'altra parte"
+      "it": "D'altra parte",
+      "pt": "Por outro lado"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "En cambio",
       "en": "Instead",
       "fr": "En revanche",
-      "it": "Invece"
+      "it": "Invece",
+      "pt": "Em vez disso"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Además",
       "en": "Additionally",
       "fr": "De plus",
-      "it": "Inoltre"
+      "it": "Inoltre",
+      "pt": "Adicionalmente"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Asimismo",
       "en": "Likewise",
       "fr": "De même",
-      "it": "Allo stesso modo"
+      "it": "Allo stesso modo",
+      "pt": "Da mesma forma"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "De hecho",
       "en": "In fact",
       "fr": "En fait",
-      "it": "In effetti"
+      "it": "In effetti",
+      "pt": "Na verdade"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Es decir",
       "en": "That is to say",
       "fr": "C'est-à-dire",
-      "it": "Vale a dire"
+      "it": "Vale a dire",
+      "pt": "Isto é,"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "En otras palabras",
       "en": "In other words",
       "fr": "Autrement dit",
-      "it": "In altre parole"
+      "it": "In altre parole",
+      "pt": "Em outras palavras"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Por ejemplo",
       "en": "For example",
       "fr": "Par exemple",
-      "it": "Per esempio"
+      "it": "Per esempio",
+      "pt": "Por exemplo"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "En resumen",
       "en": "In summary",
       "fr": "En résumé",
-      "it": "In sintesi"
+      "it": "In sintesi",
+      "pt": "Em resumo"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "En definitiva",
       "en": "Ultimately",
       "fr": "En fin de compte",
-      "it": "In definitiva"
+      "it": "In definitiva",
+      "pt": "Em última análise"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "A largo plazo",
       "en": "In the long term",
       "fr": "À long terme",
-      "it": "A lungo termine"
+      "it": "A lungo termine",
+      "pt": "A longo prazo"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "A corto plazo",
       "en": "In the short term",
       "fr": "À court terme",
-      "it": "A breve termine"
+      "it": "A breve termine",
+      "pt": "A curto prazo"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Al mismo tiempo",
       "en": "At the same time",
       "fr": "En même temps",
-      "it": "Allo stesso tempo"
+      "it": "Allo stesso tempo",
+      "pt": "Ao mesmo tempo"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "En ese sentido",
       "en": "In that sense",
       "fr": "Dans ce sens",
-      "it": "In quel senso"
+      "it": "In quel senso",
+      "pt": "Nesse sentido"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Desde luego",
       "en": "Certainly",
       "fr": "Certainement",
-      "it": "Certamente"
+      "it": "Certamente",
+      "pt": "Certamente"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Por consiguiente",
       "en": "Consequently",
       "fr": "Par conséquent",
-      "it": "Di conseguenza"
+      "it": "Di conseguenza",
+      "pt": "Consequentemente"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Dicho esto",
       "en": "That being said",
       "fr": "Cela dit",
-      "it": "Ciò detto"
+      "it": "Ciò detto",
+      "pt": "Dito isso"
     },
     "difficulty": "Advanced"
   }

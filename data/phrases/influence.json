@@ -5,7 +5,8 @@
       "es": "Déjame contarte algo",
       "en": "Let me tell you something",
       "fr": "Laisse-moi te dire quelque chose",
-      "it": "Lascia che ti dica una cosa"
+      "it": "Lascia che ti dica una cosa",
+      "pt": "Deixa eu te contar uma coisa"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Imagínate esto",
       "en": "Imagine this",
       "fr": "Imagine un peu",
-      "it": "Immagina questo"
+      "it": "Immagina questo",
+      "pt": "Imagine isso"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Piénsalo por un momento",
       "en": "Think about it for a moment",
       "fr": "Réfléchis-y un instant",
-      "it": "Pensaci un momento"
+      "it": "Pensaci un momento",
+      "pt": "Pense nisso por um momento"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Lo que pasa es que",
       "en": "What happens is that",
       "fr": "Ce qui se passe, c'est que",
-      "it": "Quello che succede è che"
+      "it": "Quello che succede è che",
+      "pt": "O que acontece é que"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Aquí está el punto",
       "en": "Here is the point",
       "fr": "Voici le point essentiel",
-      "it": "Ecco il punto"
+      "it": "Ecco il punto",
+      "pt": "Aqui está o ponto"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Esto lo cambia todo",
       "en": "This changes everything",
       "fr": "Ça change tout",
-      "it": "Questo cambia tutto"
+      "it": "Questo cambia tutto",
+      "pt": "Isso muda tudo"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "La diferencia es clara",
       "en": "The difference is clear",
       "fr": "La différence est claire",
-      "it": "La differenza è chiara"
+      "it": "La differenza è chiara",
+      "pt": "A diferença é clara"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "No es casualidad",
       "en": "It is not a coincidence",
       "fr": "Ce n'est pas un hasard",
-      "it": "Non è una coincidenza"
+      "it": "Non è una coincidenza",
+      "pt": "Não é uma coincidência"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Esto tiene una razón",
       "en": "This has a reason",
       "fr": "Il y a une raison à cela",
-      "it": "Questo ha una ragione"
+      "it": "Questo ha una ragione",
+      "pt": "Isso tem uma razão"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "La clave está aquí",
       "en": "The key is here",
       "fr": "La clé est ici",
-      "it": "La chiave è qui"
+      "it": "La chiave è qui",
+      "pt": "A chave está aqui"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Si lo ves así",
       "en": "If you see it this way",
       "fr": "Si tu le vois comme ça",
-      "it": "Se la vedi così"
+      "it": "Se la vedi così",
+      "pt": "Se você ver por esse lado"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Todo encaja",
       "en": "Everything fits together",
       "fr": "Tout s'emboîte",
-      "it": "Tutto combacia"
+      "it": "Tutto combacia",
+      "pt": "Tudo se encaixa"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Tiene lógica",
       "en": "It makes sense",
       "fr": "C'est logique",
-      "it": "Ha senso"
+      "it": "Ha senso",
+      "pt": "Faz sentido"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "No es coincidencia",
       "en": "It is no coincidence",
       "fr": "Ce n'est pas une coïncidence",
-      "it": "Non è una coincidenza"
+      "it": "Non è una coincidenza",
+      "pt": "Não é coincidência"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Esto demuestra algo",
       "en": "This proves something",
       "fr": "Cela prouve quelque chose",
-      "it": "Questo dimostra qualcosa"
+      "it": "Questo dimostra qualcosa",
+      "pt": "Isso prova algo"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Míralo de esta manera",
       "en": "Look at it this way",
       "fr": "Regarde les choses sous cet angle",
-      "it": "Guardala in questo modo"
+      "it": "Guardala in questo modo",
+      "pt": "Olhe por esse lado"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Es más simple de lo que parece",
       "en": "It is simpler than it seems",
       "fr": "C'est plus simple qu'il n'y paraît",
-      "it": "È più semplice di quanto sembri"
+      "it": "È più semplice di quanto sembri",
+      "pt": "É mais simples do que parece"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Todo tiene sentido ahora",
       "en": "Everything makes sense now",
       "fr": "Tout prend sens maintenant",
-      "it": "Ora tutto ha senso"
+      "it": "Ora tutto ha senso",
+      "pt": "Tudo faz sentido agora"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Eso es lo importante",
       "en": "That's what matters",
       "fr": "C'est ce qui compte",
-      "it": "È questo che conta"
+      "it": "È questo che conta",
+      "pt": "É isso que importa"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Ahí está la clave",
       "en": "That's the key",
       "fr": "C'est la clé",
-      "it": "Questa è la chiave"
+      "it": "Questa è la chiave",
+      "pt": "Essa é a chave"
     },
     "difficulty": "Advanced"
   }

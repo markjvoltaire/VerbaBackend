@@ -5,7 +5,8 @@
       "es": "Confía en mí",
       "en": "Trust me",
       "fr": "Fais-moi confiance",
-      "it": "Fidati di me"
+      "it": "Fidati di me",
+      "pt": "Confie em mim"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Es la mejor opción",
       "en": "It's the best option",
       "fr": "C'est la meilleure option",
-      "it": "È la migliore opzione"
+      "it": "È la migliore opzione",
+      "pt": "É a melhor opção"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Te conviene hacerlo",
       "en": "It's good for you to do it",
       "fr": "C'est dans ton intérêt de le faire",
-      "it": "Ti conviene farlo"
+      "it": "Ti conviene farlo",
+      "pt": "É bom para você fazer isso"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Vale la pena",
       "en": "It's worth it",
       "fr": "Ça vaut le coup",
-      "it": "Ne vale la pena"
+      "it": "Ne vale la pena",
+      "pt": "Vale a pena"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "No te arrepentirás",
       "en": "You won't regret it",
       "fr": "Tu ne le regretteras pas",
-      "it": "Non te ne pentirai"
+      "it": "Non te ne pentirai",
+      "pt": "Você não vai se arrepender"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Es una gran oportunidad",
       "en": "It's a great opportunity",
       "fr": "C'est une belle opportunité",
-      "it": "È una grande opportunità"
+      "it": "È una grande opportunità",
+      "pt": "É uma ótima oportunidade"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Piénsalo bien",
       "en": "Think about it carefully",
       "fr": "Réfléchis-y bien",
-      "it": "Pensaci bene"
+      "it": "Pensaci bene",
+      "pt": "Pense bem sobre isso"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Es lo correcto",
       "en": "It's the right thing",
       "fr": "C'est la bonne chose à faire",
-      "it": "È la cosa giusta"
+      "it": "È la cosa giusta",
+      "pt": "É a coisa certa"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Te ayudará mucho",
       "en": "It will help you a lot",
       "fr": "Ça t'aidera beaucoup",
-      "it": "Ti aiuterà molto"
+      "it": "Ti aiuterà molto",
+      "pt": "Isso vai te ajudar muito"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Es una buena decisión",
       "en": "It's a good decision",
       "fr": "C'est une bonne décision",
-      "it": "È una buona decisione"
+      "it": "È una buona decisione",
+      "pt": "É uma boa decisão"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Hazlo ahora",
       "en": "Do it now",
       "fr": "Fais-le maintenant",
-      "it": "Fallo adesso"
+      "it": "Fallo adesso",
+      "pt": "Faça isso agora"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "No pierdas esta oportunidad",
       "en": "Don't miss this opportunity",
       "fr": "Ne rate pas cette opportunité",
-      "it": "Non perdere questa opportunità"
+      "it": "Non perdere questa opportunità",
+      "pt": "Não perca essa oportunidade"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es mejor para ti",
       "en": "It's better for you",
       "fr": "C'est mieux pour toi",
-      "it": "È meglio per te"
+      "it": "È meglio per te",
+      "pt": "É melhor para você"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Créeme",
       "en": "Believe me",
       "fr": "Crois-moi",
-      "it": "Credimi"
+      "it": "Credimi",
+      "pt": "Acredite em mim"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Funciona bien",
       "en": "It works well",
       "fr": "Ça fonctionne bien",
-      "it": "Funziona bene"
+      "it": "Funziona bene",
+      "pt": "Funciona bem"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Todos lo hacen",
       "en": "Everyone does it",
       "fr": "Tout le monde le fait",
-      "it": "Lo fanno tutti"
+      "it": "Lo fanno tutti",
+      "pt": "Todo mundo faz isso"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Es fácil de hacer",
       "en": "It's easy to do",
       "fr": "C'est facile à faire",
-      "it": "È facile da fare"
+      "it": "È facile da fare",
+      "pt": "É fácil de fazer"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "No es difícil",
       "en": "It's not difficult",
       "fr": "Ce n'est pas difficile",
-      "it": "Non è difficile"
+      "it": "Non è difficile",
+      "pt": "Não é difícil"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Solo inténtalo",
       "en": "Just try it",
       "fr": "Essaie, c'est tout",
-      "it": "Provaci e basta"
+      "it": "Provaci e basta",
+      "pt": "Apenas experimente"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Verás resultados",
       "en": "You will see results",
       "fr": "Tu verras des résultats",
-      "it": "Vedrai i risultati"
+      "it": "Vedrai i risultati",
+      "pt": "Você verá resultados"
     },
     "difficulty": "Intermediate"
   },
@@ -205,7 +225,8 @@
       "es": "Permíteme explicarte",
       "en": "Let me explain to you",
       "fr": "Permets-moi de t'expliquer",
-      "it": "Permettimi di spiegarti"
+      "it": "Permettimi di spiegarti",
+      "pt": "Deixe-me te explicar"
     },
     "difficulty": "Advanced"
   },
@@ -215,7 +236,8 @@
       "es": "Debes considerar esto",
       "en": "You should consider this",
       "fr": "Tu devrais considérer ceci",
-      "it": "Dovresti considerare questo"
+      "it": "Dovresti considerare questo",
+      "pt": "Você deveria considerar isso"
     },
     "difficulty": "Advanced"
   },
@@ -225,7 +247,8 @@
       "es": "No cabe duda de que",
       "en": "There is no doubt that",
       "fr": "Il ne fait aucun doute que",
-      "it": "Non c'è dubbio che"
+      "it": "Non c'è dubbio che",
+      "pt": "Não há dúvida de que"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +258,8 @@
       "es": "Es evidente que",
       "en": "It is evident that",
       "fr": "Il est évident que",
-      "it": "È evidente che"
+      "it": "È evidente che",
+      "pt": "É evidente que"
     },
     "difficulty": "Advanced"
   },
@@ -245,7 +269,8 @@
       "es": "Los hechos demuestran que",
       "en": "The facts show that",
       "fr": "Les faits montrent que",
-      "it": "I fatti dimostrano che"
+      "it": "I fatti dimostrano che",
+      "pt": "Os fatos mostram que"
     },
     "difficulty": "Advanced"
   },
@@ -255,7 +280,8 @@
       "es": "Vale la pena destacar",
       "en": "It is worth highlighting",
       "fr": "Il convient de souligner",
-      "it": "Vale la pena sottolineare"
+      "it": "Vale la pena sottolineare",
+      "pt": "Vale a pena destacar"
     },
     "difficulty": "Advanced"
   },
@@ -265,7 +291,8 @@
       "es": "No podemos ignorar esto",
       "en": "We cannot ignore this",
       "fr": "Nous ne pouvons pas ignorer cela",
-      "it": "Non possiamo ignorare questo"
+      "it": "Non possiamo ignorare questo",
+      "pt": "Não podemos ignorar isso"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +302,8 @@
       "es": "Esto demuestra que",
       "en": "This proves that",
       "fr": "Cela prouve que",
-      "it": "Questo dimostra che"
+      "it": "Questo dimostra che",
+      "pt": "Isso prova que"
     },
     "difficulty": "Advanced"
   },
@@ -285,7 +313,8 @@
       "es": "Es fundamental entender",
       "en": "It is essential to understand",
       "fr": "Il est essentiel de comprendre",
-      "it": "È fondamentale capire"
+      "it": "È fondamentale capire",
+      "pt": "É essencial entender"
     },
     "difficulty": "Advanced"
   },
@@ -295,7 +324,8 @@
       "es": "Te conviene hacerlo",
       "en": "It is in your best interest to do it",
       "fr": "C'est dans ton intérêt de le faire",
-      "it": "È nel tuo interesse farlo"
+      "it": "È nel tuo interesse farlo",
+      "pt": "É do seu interesse fazer isso"
     },
     "difficulty": "Advanced"
   },
@@ -305,7 +335,8 @@
       "es": "Piénsalo bien",
       "en": "Think about it carefully",
       "fr": "Réfléchis-y attentivement",
-      "it": "Pensaci attentamente"
+      "it": "Pensaci attentamente",
+      "pt": "Pense bem sobre isso"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +346,8 @@
       "es": "La realidad es que",
       "en": "The reality is that",
       "fr": "La réalité, c'est que",
-      "it": "La realtà è che"
+      "it": "La realtà è che",
+      "pt": "A realidade é que"
     },
     "difficulty": "Advanced"
   },
@@ -325,7 +357,8 @@
       "es": "Sin duda alguna",
       "en": "Without a doubt",
       "fr": "Sans aucun doute",
-      "it": "Senza alcun dubbio"
+      "it": "Senza alcun dubbio",
+      "pt": "Sem dúvida"
     },
     "difficulty": "Advanced"
   },
@@ -335,7 +368,8 @@
       "es": "Esto tiene sentido porque",
       "en": "This makes sense because",
       "fr": "Cela a du sens parce que",
-      "it": "Questo ha senso perché"
+      "it": "Questo ha senso perché",
+      "pt": "Isso faz sentido porque"
     },
     "difficulty": "Advanced"
   },
@@ -345,7 +379,8 @@
       "es": "La clave está en",
       "en": "The key lies in",
       "fr": "La clé réside dans",
-      "it": "La chiave sta nel"
+      "it": "La chiave sta nel",
+      "pt": "A chave está em"
     },
     "difficulty": "Advanced"
   },
@@ -355,7 +390,8 @@
       "es": "Es necesario actuar ahora",
       "en": "It is necessary to act now",
       "fr": "Il est nécessaire d'agir maintenant",
-      "it": "È necessario agire adesso"
+      "it": "È necessario agire adesso",
+      "pt": "É necessário agir agora"
     },
     "difficulty": "Advanced"
   },
@@ -365,7 +401,8 @@
       "es": "No hay otra opción",
       "en": "There is no other option",
       "fr": "Il n'y a pas d'autre option",
-      "it": "Non c'è altra opzione"
+      "it": "Non c'è altra opzione",
+      "pt": "Não há outra opção"
     },
     "difficulty": "Advanced"
   },
@@ -375,7 +412,8 @@
       "es": "Esto marcará la diferencia",
       "en": "This will make the difference",
       "fr": "Cela fera la différence",
-      "it": "Questo farà la differenza"
+      "it": "Questo farà la differenza",
+      "pt": "Isso fará a diferença"
     },
     "difficulty": "Advanced"
   },
@@ -385,7 +423,8 @@
       "es": "Confía en este proceso",
       "en": "Trust this process",
       "fr": "Fais confiance à ce processus",
-      "it": "Fidati di questo processo"
+      "it": "Fidati di questo processo",
+      "pt": "Confie nesse processo"
     },
     "difficulty": "Advanced"
   },
@@ -395,7 +434,8 @@
       "es": "Los resultados hablan por sí mismos",
       "en": "The results speak for themselves",
       "fr": "Les résultats parlent d'eux-mêmes",
-      "it": "I risultati parlano da soli"
+      "it": "I risultati parlano da soli",
+      "pt": "Os resultados falam por si mesmos"
     },
     "difficulty": "Advanced"
   }

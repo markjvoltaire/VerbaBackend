@@ -5,7 +5,8 @@
       "es": "Este estudio analiza",
       "en": "This study analyzes",
       "fr": "Cette étude analyse",
-      "it": "Questo studio analizza"
+      "it": "Questo studio analizza",
+      "pt": "Este estudo analisa"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Los resultados indican que",
       "en": "The results indicate that",
       "fr": "Les résultats indiquent que",
-      "it": "I risultati indicano che"
+      "it": "I risultati indicano che",
+      "pt": "Os resultados indicam que"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Según la investigación",
       "en": "According to the research",
       "fr": "Selon la recherche",
-      "it": "Secondo la ricerca"
+      "it": "Secondo la ricerca",
+      "pt": "De acordo com a pesquisa"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Se puede observar que",
       "en": "It can be observed that",
       "fr": "On peut observer que",
-      "it": "Si può osservare che"
+      "it": "Si può osservare che",
+      "pt": "Pode-se observar que"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Es importante destacar",
       "en": "It is important to highlight",
       "fr": "Il est important de souligner",
-      "it": "È importante sottolineare"
+      "it": "È importante sottolineare",
+      "pt": "É importante ressaltar"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Los datos muestran",
       "en": "The data shows",
       "fr": "Les données montrent",
-      "it": "I dati mostrano"
+      "it": "I dati mostrano",
+      "pt": "Os dados mostram"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "En conclusión",
       "en": "In conclusion",
       "fr": "En conclusion",
-      "it": "In conclusione"
+      "it": "In conclusione",
+      "pt": "Em conclusão"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Este enfoque sugiere",
       "en": "This approach suggests",
       "fr": "Cette approche suggère",
-      "it": "Questo approccio suggerisce"
+      "it": "Questo approccio suggerisce",
+      "pt": "Essa abordagem sugere"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "El análisis revela",
       "en": "The analysis reveals",
       "fr": "L'analyse révèle",
-      "it": "L'analisi rivela"
+      "it": "L'analisi rivela",
+      "pt": "A análise revela"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Se requiere más investigación",
       "en": "More research is required",
       "fr": "Plus de recherches sont nécessaires",
-      "it": "È necessaria ulteriore ricerca"
+      "it": "È necessaria ulteriore ricerca",
+      "pt": "Mais pesquisas são necessárias"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Este concepto es complejo",
       "en": "This concept is complex",
       "fr": "Ce concept est complexe",
-      "it": "Questo concetto è complesso"
+      "it": "Questo concetto è complesso",
+      "pt": "Esse conceito é complexo"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Desde una perspectiva teórica",
       "en": "From a theoretical perspective",
       "fr": "D'un point de vue théorique",
-      "it": "Da una prospettiva teorica"
+      "it": "Da una prospettiva teorica",
+      "pt": "De uma perspectiva teórica"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "El argumento principal es",
       "en": "The main argument is",
       "fr": "L'argument principal est",
-      "it": "L'argomento principale è"
+      "it": "L'argomento principale è",
+      "pt": "O argumento principal é"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Se basa en evidencia",
       "en": "It is based on evidence",
       "fr": "Il est basé sur des preuves",
-      "it": "Si basa su prove"
+      "it": "Si basa su prove",
+      "pt": "É baseado em evidências"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Es relevante considerar",
       "en": "It is relevant to consider",
       "fr": "Il est pertinent de considérer",
-      "it": "È rilevante considerare"
+      "it": "È rilevante considerare",
+      "pt": "É relevante considerar"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "El estudio concluye",
       "en": "The study concludes",
       "fr": "L'étude conclut",
-      "it": "Lo studio conclude"
+      "it": "Lo studio conclude",
+      "pt": "O estudo conclui"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Esto implica que",
       "en": "This implies that",
       "fr": "Cela implique que",
-      "it": "Questo implica che"
+      "it": "Questo implica che",
+      "pt": "Isso implica que"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Se puede inferir que",
       "en": "It can be inferred that",
       "fr": "On peut en déduire que",
-      "it": "Si può dedurre che"
+      "it": "Si può dedurre che",
+      "pt": "Pode-se inferir que"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Existe una correlación",
       "en": "There is a correlation",
       "fr": "Il existe une corrélation",
-      "it": "Esiste una correlazione"
+      "it": "Esiste una correlazione",
+      "pt": "Há uma correlação"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Es un tema relevante",
       "en": "It is a relevant topic",
       "fr": "C'est un sujet pertinent",
-      "it": "È un tema rilevante"
+      "it": "È un tema rilevante",
+      "pt": "É um tópico relevante"
     },
     "difficulty": "Advanced"
   }

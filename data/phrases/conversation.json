@@ -5,7 +5,8 @@
       "es": "¿De dónde eres?",
       "en": "Where are you from?",
       "fr": "D'où viens-tu ?",
-      "it": "Di dove sei?"
+      "it": "Di dove sei?",
+      "pt": "De onde você é?"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "¿De dónde es usted?",
       "en": "Where are you from? (formal)",
       "fr": "D'où venez-vous ?",
-      "it": "Di dov'è Lei?"
+      "it": "Di dov'è Lei?",
+      "pt": "De onde o senhor/a senhora é?"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Soy de Miami",
       "en": "I am from Miami",
       "fr": "Je suis de Miami",
-      "it": "Sono di Miami"
+      "it": "Sono di Miami",
+      "pt": "Eu sou de Miami"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Soy de Estados Unidos",
       "en": "I am from the United States",
       "fr": "Je suis des États-Unis",
-      "it": "Sono degli Stati Uniti"
+      "it": "Sono degli Stati Uniti",
+      "pt": "Eu sou dos Estados Unidos"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Vengo de México",
       "en": "I come from Mexico",
       "fr": "Je viens du Mexique",
-      "it": "Vengo dal Messico"
+      "it": "Vengo dal Messico",
+      "pt": "Eu venho do México"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Soy de aquí",
       "en": "I am from here",
       "fr": "Je suis d'ici",
-      "it": "Sono di qui"
+      "it": "Sono di qui",
+      "pt": "Eu sou daqui"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "No soy de aquí",
       "en": "I am not from here",
       "fr": "Je ne suis pas d'ici",
-      "it": "Non sono di qui"
+      "it": "Non sono di qui",
+      "pt": "Eu não sou daqui"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "¿Vives aquí?",
       "en": "Do you live here?",
       "fr": "Tu habites ici ?",
-      "it": "Abiti qui?"
+      "it": "Abiti qui?",
+      "pt": "Você mora aqui?"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Vivo aquí",
       "en": "I live here",
       "fr": "J'habite ici",
-      "it": "Abito qui"
+      "it": "Abito qui",
+      "pt": "Eu moro aqui"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Vivo cerca",
       "en": "I live nearby",
       "fr": "J'habite à côté",
-      "it": "Abito qui vicino"
+      "it": "Abito qui vicino",
+      "pt": "Eu moro perto"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Vivo en esta ciudad",
       "en": "I live in this city",
       "fr": "J'habite dans cette ville",
-      "it": "Vivo in questa città"
+      "it": "Vivo in questa città",
+      "pt": "Eu moro nesta cidade"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "¿Cuánto tiempo llevas aquí?",
       "en": "How long have you been here?",
       "fr": "Depuis combien de temps es-tu ici ?",
-      "it": "Da quanto tempo sei qui?"
+      "it": "Da quanto tempo sei qui?",
+      "pt": "Há quanto tempo você está aqui?"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Vivo aquí desde hace un año",
       "en": "I have lived here for one year",
       "fr": "J'habite ici depuis un an",
-      "it": "Vivo qui da un anno"
+      "it": "Vivo qui da un anno",
+      "pt": "Eu moro aqui há um ano"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Me mudé aquí recientemente",
       "en": "I moved here recently",
       "fr": "J'ai déménagé ici récemment",
-      "it": "Mi sono trasferito qui di recente"
+      "it": "Mi sono trasferito qui di recente",
+      "pt": "Eu me mudei para cá recentemente"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Estoy visitando la ciudad",
       "en": "I am visiting the city",
       "fr": "Je visite la ville",
-      "it": "Sto visitando la città"
+      "it": "Sto visitando la città",
+      "pt": "Eu estou visitando a cidade"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Estoy de vacaciones",
       "en": "I am on vacation",
       "fr": "Je suis en vacances",
-      "it": "Sono in vacanza"
+      "it": "Sono in vacanza",
+      "pt": "Eu estou de férias"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Estoy aquí por trabajo",
       "en": "I am here for work",
       "fr": "Je suis ici pour le travail",
-      "it": "Sono qui per lavoro"
+      "it": "Sono qui per lavoro",
+      "pt": "Eu estou aqui a trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Me gusta esta ciudad",
       "en": "I like this city",
       "fr": "J'aime cette ville",
-      "it": "Mi piace questa città"
+      "it": "Mi piace questa città",
+      "pt": "Eu gosto desta cidade"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Es una ciudad bonita",
       "en": "It is a beautiful city",
       "fr": "C'est une belle ville",
-      "it": "È una bella città"
+      "it": "È una bella città",
+      "pt": "É uma cidade bonita"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Es mi primera vez aquí",
       "en": "It is my first time here",
       "fr": "C'est ma première fois ici",
-      "it": "È la mia prima volta qui"
+      "it": "È la mia prima volta qui",
+      "pt": "É minha primeira vez aqui"
     },
     "difficulty": "Beginner"
   },
@@ -205,7 +225,8 @@
       "es": "Estoy de acuerdo contigo",
       "en": "I agree with you",
       "fr": "Je suis d'accord avec toi",
-      "it": "Sono d'accordo con te"
+      "it": "Sono d'accordo con te",
+      "pt": "Eu concordo com você"
     },
     "difficulty": "Intermediate"
   },
@@ -215,7 +236,8 @@
       "es": "No estoy de acuerdo contigo",
       "en": "I don't agree with you",
       "fr": "Je ne suis pas d'accord avec toi",
-      "it": "Non sono d'accordo con te"
+      "it": "Non sono d'accordo con te",
+      "pt": "Eu não concordo com você"
     },
     "difficulty": "Intermediate"
   },
@@ -225,7 +247,8 @@
       "es": "Tienes razón",
       "en": "You are right",
       "fr": "Tu as raison",
-      "it": "Hai ragione"
+      "it": "Hai ragione",
+      "pt": "Você está certo"
     },
     "difficulty": "Intermediate"
   },
@@ -235,7 +258,8 @@
       "es": "No tienes razón",
       "en": "You are not right",
       "fr": "Tu n'as pas raison",
-      "it": "Non hai ragione"
+      "it": "Non hai ragione",
+      "pt": "Você não está certo"
     },
     "difficulty": "Intermediate"
   },
@@ -245,7 +269,8 @@
       "es": "Exactamente",
       "en": "Exactly",
       "fr": "Exactement",
-      "it": "Esattamente"
+      "it": "Esattamente",
+      "pt": "Exatamente"
     },
     "difficulty": "Intermediate"
   },
@@ -255,7 +280,8 @@
       "es": "Así es",
       "en": "That's right",
       "fr": "C'est ça",
-      "it": "Esatto"
+      "it": "Esatto",
+      "pt": "Isso mesmo"
     },
     "difficulty": "Intermediate"
   },
@@ -265,7 +291,8 @@
       "es": "No lo creo",
       "en": "I don't think so",
       "fr": "Je ne crois pas",
-      "it": "Non credo"
+      "it": "Non credo",
+      "pt": "Eu não acho que sim"
     },
     "difficulty": "Intermediate"
   },
@@ -275,7 +302,8 @@
       "es": "Puede ser",
       "en": "It could be",
       "fr": "C'est possible",
-      "it": "Può essere"
+      "it": "Può essere",
+      "pt": "Pode ser"
     },
     "difficulty": "Intermediate"
   },
@@ -285,7 +313,8 @@
       "es": "Tal vez tengas razón",
       "en": "Maybe you are right",
       "fr": "Tu as peut-être raison",
-      "it": "Forse hai ragione"
+      "it": "Forse hai ragione",
+      "pt": "Talvez você esteja certo"
     },
     "difficulty": "Intermediate"
   },
@@ -295,7 +324,8 @@
       "es": "No estoy seguro de eso",
       "en": "I'm not sure about that",
       "fr": "Je n'en suis pas sûr",
-      "it": "Non ne sono sicuro"
+      "it": "Non ne sono sicuro",
+      "pt": "Não tenho certeza sobre isso"
     },
     "difficulty": "Intermediate"
   },
@@ -305,7 +335,8 @@
       "es": "Estoy completamente de acuerdo",
       "en": "I completely agree",
       "fr": "Je suis tout à fait d'accord",
-      "it": "Sono completamente d'accordo"
+      "it": "Sono completamente d'accordo",
+      "pt": "Eu concordo completamente"
     },
     "difficulty": "Intermediate"
   },
@@ -315,7 +346,8 @@
       "es": "No estoy completamente de acuerdo",
       "en": "I don't completely agree",
       "fr": "Je ne suis pas tout à fait d'accord",
-      "it": "Non sono del tutto d'accordo"
+      "it": "Non sono del tutto d'accordo",
+      "pt": "Eu não concordo completamente"
     },
     "difficulty": "Intermediate"
   },
@@ -325,7 +357,8 @@
       "es": "Eso es verdad",
       "en": "That is true",
       "fr": "C'est vrai",
-      "it": "È vero"
+      "it": "È vero",
+      "pt": "Isso é verdade"
     },
     "difficulty": "Intermediate"
   },
@@ -335,7 +368,8 @@
       "es": "Eso no es verdad",
       "en": "That is not true",
       "fr": "Ce n'est pas vrai",
-      "it": "Non è vero"
+      "it": "Non è vero",
+      "pt": "Isso não é verdade"
     },
     "difficulty": "Intermediate"
   },
@@ -345,7 +379,8 @@
       "es": "Estoy en desacuerdo",
       "en": "I disagree",
       "fr": "Je ne suis pas d'accord",
-      "it": "Non sono d'accordo"
+      "it": "Non sono d'accordo",
+      "pt": "Eu discordo"
     },
     "difficulty": "Intermediate"
   },
@@ -355,7 +390,8 @@
       "es": "Depende de la situación",
       "en": "It depends on the situation",
       "fr": "Ça dépend de la situation",
-      "it": "Dipende dalla situazione"
+      "it": "Dipende dalla situazione",
+      "pt": "Depende da situação"
     },
     "difficulty": "Intermediate"
   },
@@ -365,7 +401,8 @@
       "es": "Lo veo diferente",
       "en": "I see it differently",
       "fr": "Je le vois différemment",
-      "it": "La vedo diversamente"
+      "it": "La vedo diversamente",
+      "pt": "Eu vejo de maneira diferente"
     },
     "difficulty": "Intermediate"
   },
@@ -375,7 +412,8 @@
       "es": "No lo veo así",
       "en": "I don't see it that way",
       "fr": "Je ne le vois pas comme ça",
-      "it": "Non la vedo così"
+      "it": "Non la vedo così",
+      "pt": "Eu não vejo assim"
     },
     "difficulty": "Intermediate"
   },
@@ -385,7 +423,8 @@
       "es": "Estoy de tu lado",
       "en": "I am on your side",
       "fr": "Je suis de ton côté",
-      "it": "Sono dalla tua parte"
+      "it": "Sono dalla tua parte",
+      "pt": "Estou ao seu lado"
     },
     "difficulty": "Intermediate"
   },
@@ -395,7 +434,8 @@
       "es": "No estoy de tu lado",
       "en": "I am not on your side",
       "fr": "Je ne suis pas de ton côté",
-      "it": "Non sono dalla tua parte"
+      "it": "Non sono dalla tua parte",
+      "pt": "Não estou ao seu lado"
     },
     "difficulty": "Intermediate"
   },
@@ -405,7 +445,8 @@
       "es": "— ¿Qué hiciste ayer? — Pues nada, estuve trabajando todo el día",
       "en": "— What did you do yesterday? — Not much, I was working all day",
       "fr": "— Qu'est-ce que tu as fait hier ? — Pas grand-chose, j'ai travaillé toute la journée",
-      "it": "— Cosa hai fatto ieri? — Niente di che, ho lavorato tutto il giorno"
+      "it": "— Cosa hai fatto ieri? — Niente di che, ho lavorato tutto il giorno",
+      "pt": "— O que você fez ontem? — Não muito, eu estava trabalhando o dia todo"
     },
     "difficulty": "Advanced"
   },
@@ -415,7 +456,8 @@
       "es": "— ¿Te gustó? — Sí, pero esperaba más",
       "en": "— Did you like it? — Yeah, but I expected more",
       "fr": "— Ça t'a plu ? — Oui, mais je m'attendais à mieux",
-      "it": "— Ti è piaciuto? — Sì, ma mi aspettavo di più"
+      "it": "— Ti è piaciuto? — Sì, ma mi aspettavo di più",
+      "pt": "— Você gostou? — Sim, mas eu esperava mais"
     },
     "difficulty": "Advanced"
   },
@@ -425,7 +467,8 @@
       "es": "— ¿Qué opinas? — Depende de cómo lo veas",
       "en": "— What do you think? — It depends how you see it",
       "fr": "— Qu'est-ce que tu en penses ? — Ça dépend comment tu vois les choses",
-      "it": "— Cosa ne pensi? — Dipende da come la vedi"
+      "it": "— Cosa ne pensi? — Dipende da come la vedi",
+      "pt": "— O que você acha? — Depende de como você vê"
     },
     "difficulty": "Advanced"
   },
@@ -435,7 +478,8 @@
       "es": "— ¿Vale la pena? — La verdad, no mucho",
       "en": "— Is it worth it? — Honestly, not really",
       "fr": "— Ça vaut le coup ? — Honnêtement, pas vraiment",
-      "it": "— Ne vale la pena? — Onestamente, non molto"
+      "it": "— Ne vale la pena? — Onestamente, non molto",
+      "pt": "— Vale a pena? — Honestamente, não muito"
     },
     "difficulty": "Advanced"
   },
@@ -445,7 +489,8 @@
       "es": "— ¿Qué pasó? — Nada, fue un malentendido",
       "en": "— What happened? — Nothing, it was a misunderstanding",
       "fr": "— Qu'est-ce qui s'est passé ? — Rien, c'était un malentendu",
-      "it": "— Cosa è successo? — Niente, è stato un malinteso"
+      "it": "— Cosa è successo? — Niente, è stato un malinteso",
+      "pt": "— O que aconteceu? — Nada, foi um mal-entendido"
     },
     "difficulty": "Advanced"
   },
@@ -455,7 +500,8 @@
       "es": "— ¿Por qué lo hiciste? — Porque no tenía otra opción",
       "en": "— Why did you do it? — Because I had no other choice",
       "fr": "— Pourquoi tu l'as fait ? — Parce que je n'avais pas le choix",
-      "it": "— Perché l'hai fatto? — Perché non avevo altra scelta"
+      "it": "— Perché l'hai fatto? — Perché non avevo altra scelta",
+      "pt": "— Por que você fez isso? — Porque não tive outra escolha"
     },
     "difficulty": "Advanced"
   },
@@ -465,7 +511,8 @@
       "es": "— ¿Estás seguro? — Más o menos",
       "en": "— Are you sure? — More or less",
       "fr": "— Tu es sûr ? — Plus ou moins",
-      "it": "— Sei sicuro? — Più o meno"
+      "it": "— Sei sicuro? — Più o meno",
+      "pt": "— Você tem certeza? — Mais ou menos"
     },
     "difficulty": "Advanced"
   },
@@ -475,7 +522,8 @@
       "es": "— ¿Vienes o qué? — Sí, ya voy",
       "en": "— Are you coming or what? — Yeah, I'm on my way",
       "fr": "— Tu viens ou quoi ? — Oui, j'arrive",
-      "it": "— Vieni o no? — Sì, sto arrivando"
+      "it": "— Vieni o no? — Sì, sto arrivando",
+      "pt": "— Você vem ou não? — Sim, já estou a caminho"
     },
     "difficulty": "Advanced"
   },
@@ -485,7 +533,8 @@
       "es": "— ¿Qué quieres decir? — Que no es tan fácil",
       "en": "— What do you mean? — That it's not that easy",
       "fr": "— Qu'est-ce que tu veux dire ? — Que ce n'est pas si simple",
-      "it": "— Cosa vuoi dire? — Che non è così facile"
+      "it": "— Cosa vuoi dire? — Che non è così facile",
+      "pt": "— O que você quer dizer? — Que não é tão fácil assim"
     },
     "difficulty": "Advanced"
   },
@@ -495,7 +544,8 @@
       "es": "— ¿Todo bien? — Sí, todo tranquilo",
       "en": "— Everything good? — Yeah, all good",
       "fr": "— Tout va bien ? — Oui, tout va bien",
-      "it": "— Tutto bene? — Sì, tutto a posto"
+      "it": "— Tutto bene? — Sì, tutto a posto",
+      "pt": "— Tudo bem? — Sim, tudo certo"
     },
     "difficulty": "Advanced"
   },
@@ -505,7 +555,8 @@
       "es": "— ¿Qué harías tú? — Yo lo pensaría dos veces",
       "en": "— What would you do? — I'd think twice",
       "fr": "— Qu'est-ce que tu ferais ? — J'y réfléchirais à deux fois",
-      "it": "— Cosa faresti? — Ci penserei due volte"
+      "it": "— Cosa faresti? — Ci penserei due volte",
+      "pt": "— O que você faria? — Eu pensaria duas vezes"
     },
     "difficulty": "Advanced"
   },
@@ -515,7 +566,8 @@
       "es": "— ¿Te parece? — Me parece bien",
       "en": "— Sounds good? — Sounds good to me",
       "fr": "— Ça te va ? — Ça me va",
-      "it": "— Ti va bene? — Per me va bene"
+      "it": "— Ti va bene? — Per me va bene",
+      "pt": "— Tá bom? — Pra mim, tá bom"
     },
     "difficulty": "Advanced"
   },
@@ -525,7 +577,8 @@
       "es": "— ¿Qué tal estuvo? — Mejor de lo que esperaba",
       "en": "— How was it? — Better than I expected",
       "fr": "— C'était comment ? — Mieux que ce que j'attendais",
-      "it": "— Com'è stato? — Meglio di quanto mi aspettassi"
+      "it": "— Com'è stato? — Meglio di quanto mi aspettassi",
+      "pt": "— Como foi? — Melhor do que eu esperava"
     },
     "difficulty": "Advanced"
   },
@@ -535,7 +588,8 @@
       "es": "— ¿Lo harías otra vez? — Sin pensarlo",
       "en": "— Would you do it again? — Without thinking twice",
       "fr": "— Tu le referais ? — Sans hésiter",
-      "it": "— Lo rifaresti? — Senza pensarci due volte"
+      "it": "— Lo rifaresti? — Senza pensarci due volte",
+      "pt": "— Você faria de novo? — Sem pensar duas vezes"
     },
     "difficulty": "Advanced"
   },
@@ -545,7 +599,8 @@
       "es": "— ¿Qué opinas de eso? — No estoy muy convencido",
       "en": "— What do you think about that? — I'm not very convinced",
       "fr": "— Qu'est-ce que tu en penses ? — Je ne suis pas très convaincu",
-      "it": "— Cosa ne pensi? — Non sono molto convinto"
+      "it": "— Cosa ne pensi? — Non sono molto convinto",
+      "pt": "— O que você acha disso? — Não estou muito convencido"
     },
     "difficulty": "Advanced"
   },
@@ -555,7 +610,8 @@
       "es": "— ¿Qué quieres hacer? — Lo que tú prefieras",
       "en": "— What do you want to do? — Whatever you prefer",
       "fr": "— Qu'est-ce que tu veux faire ? — Ce que tu préfères",
-      "it": "— Cosa vuoi fare? — Quello che preferisci"
+      "it": "— Cosa vuoi fare? — Quello che preferisci",
+      "pt": "— O que você quer fazer? — O que você preferir"
     },
     "difficulty": "Advanced"
   },
@@ -565,7 +621,8 @@
       "es": "— ¿Por qué no? — Buena pregunta",
       "en": "— Why not? — Good question",
       "fr": "— Pourquoi pas ? — Bonne question",
-      "it": "— Perché no? — Bella domanda"
+      "it": "— Perché no? — Bella domanda",
+      "pt": "— Por que não? — Boa pergunta"
     },
     "difficulty": "Advanced"
   },
@@ -575,7 +632,8 @@
       "es": "— ¿Te animas? — Dale, vamos",
       "en": "— Are you in? — Yeah, let's go",
       "fr": "— T'es partant ? — Allez, on y va",
-      "it": "— Ci stai? — Dai, andiamo"
+      "it": "— Ci stai? — Dai, andiamo",
+      "pt": "— Você está dentro? — Sim, vamos"
     },
     "difficulty": "Advanced"
   },
@@ -585,7 +643,8 @@
       "es": "— ¿Qué te parece? — Tiene sentido",
       "en": "— What do you think? — It makes sense",
       "fr": "— Qu'est-ce que tu en penses ? — C'est logique",
-      "it": "— Cosa ne pensi? — Ha senso"
+      "it": "— Cosa ne pensi? — Ha senso",
+      "pt": "— O que você acha? — Faz sentido"
     },
     "difficulty": "Advanced"
   },
@@ -595,7 +654,8 @@
       "es": "— ¿Seguro? — Sí, completamente",
       "en": "— Sure? — Yes, completely",
       "fr": "— Sûr ? — Oui, tout à fait",
-      "it": "— Sicuro? — Sì, completamente"
+      "it": "— Sicuro? — Sì, completamente",
+      "pt": "— Tem certeza? — Sim, completamente"
     },
     "difficulty": "Advanced"
   }

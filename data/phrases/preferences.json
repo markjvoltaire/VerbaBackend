@@ -5,7 +5,8 @@
       "es": "Me gusta",
       "en": "I like it",
       "fr": "Ça me plaît",
-      "it": "Mi piace"
+      "it": "Mi piace",
+      "pt": "Eu gosto disso"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "No me gusta",
       "en": "I don't like it",
       "fr": "Ça ne me plaît pas",
-      "it": "Non mi piace"
+      "it": "Non mi piace",
+      "pt": "Eu não gosto disso"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Me encanta",
       "en": "I love it",
       "fr": "J'adore",
-      "it": "Lo adoro"
+      "it": "Lo adoro",
+      "pt": "Eu amo isso"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "No me encanta",
       "en": "I don't love it",
       "fr": "Je n'adore pas ça",
-      "it": "Non lo adoro"
+      "it": "Non lo adoro",
+      "pt": "Eu não amo isso"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Me gusta mucho",
       "en": "I like it a lot",
       "fr": "Ça me plaît beaucoup",
-      "it": "Mi piace molto"
+      "it": "Mi piace molto",
+      "pt": "Eu gosto muito disso"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Me gusta un poco",
       "en": "I like it a little",
       "fr": "Ça me plaît un peu",
-      "it": "Mi piace un po'"
+      "it": "Mi piace un po'",
+      "pt": "Eu gosto um pouco disso"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "No me gusta nada",
       "en": "I don't like it at all",
       "fr": "Ça ne me plaît pas du tout",
-      "it": "Non mi piace per niente"
+      "it": "Non mi piace per niente",
+      "pt": "Eu não gosto nada disso"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Prefiero esto",
       "en": "I prefer this",
       "fr": "Je préfère ceci",
-      "it": "Preferisco questo"
+      "it": "Preferisco questo",
+      "pt": "Eu prefiro isso"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Prefiero eso",
       "en": "I prefer that",
       "fr": "Je préfère ça",
-      "it": "Preferisco quello"
+      "it": "Preferisco quello",
+      "pt": "Eu prefiro aquilo"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Me gusta comer",
       "en": "I like to eat",
       "fr": "J'aime manger",
-      "it": "Mi piace mangiare"
+      "it": "Mi piace mangiare",
+      "pt": "Eu gosto de comer"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Me gusta viajar",
       "en": "I like to travel",
       "fr": "J'aime voyager",
-      "it": "Mi piace viaggiare"
+      "it": "Mi piace viaggiare",
+      "pt": "Eu gosto de viajar"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Me gusta dormir",
       "en": "I like to sleep",
       "fr": "J'aime dormir",
-      "it": "Mi piace dormire"
+      "it": "Mi piace dormire",
+      "pt": "Eu gosto de dormir"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "No me gusta trabajar",
       "en": "I don't like to work",
       "fr": "Je n'aime pas travailler",
-      "it": "Non mi piace lavorare"
+      "it": "Non mi piace lavorare",
+      "pt": "Eu não gosto de trabalhar"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Me gusta el café",
       "en": "I like coffee",
       "fr": "J'aime le café",
-      "it": "Mi piace il caffè"
+      "it": "Mi piace il caffè",
+      "pt": "Eu gosto de café"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "No me gusta el frío",
       "en": "I don't like the cold",
       "fr": "Je n'aime pas le froid",
-      "it": "Non mi piace il freddo"
+      "it": "Non mi piace il freddo",
+      "pt": "Eu não gosto do frio"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Me gusta el calor",
       "en": "I like the heat",
       "fr": "J'aime la chaleur",
-      "it": "Mi piace il caldo"
+      "it": "Mi piace il caldo",
+      "pt": "Eu gosto do calor"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Me gusta este lugar",
       "en": "I like this place",
       "fr": "J'aime cet endroit",
-      "it": "Mi piace questo posto"
+      "it": "Mi piace questo posto",
+      "pt": "Eu gosto deste lugar"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "No me gusta este lugar",
       "en": "I don't like this place",
       "fr": "Je n'aime pas cet endroit",
-      "it": "Non mi piace questo posto"
+      "it": "Non mi piace questo posto",
+      "pt": "Eu não gosto deste lugar"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "¿Te gusta?",
       "en": "Do you like it?",
       "fr": "Ça te plaît ?",
-      "it": "Ti piace?"
+      "it": "Ti piace?",
+      "pt": "Você gosta disso?"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "¿Te gusta esto?",
       "en": "Do you like this?",
       "fr": "Tu aimes ça ?",
-      "it": "Ti piace questo?"
+      "it": "Ti piace questo?",
+      "pt": "Você gosta disso?"
     },
     "difficulty": "Beginner"
   }

@@ -5,7 +5,8 @@
       "es": "Necesito un abogado",
       "en": "I need a lawyer",
       "fr": "J'ai besoin d'un avocat",
-      "it": "Ho bisogno di un avvocato"
+      "it": "Ho bisogno di un avvocato",
+      "pt": "Eu preciso de um advogado"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Es un asunto legal",
       "en": "It is a legal matter",
       "fr": "C'est une affaire juridique",
-      "it": "È una questione legale"
+      "it": "È una questione legale",
+      "pt": "É uma questão legal"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Tengo una cita",
       "en": "I have an appointment",
       "fr": "J'ai un rendez-vous",
-      "it": "Ho un appuntamento"
+      "it": "Ho un appuntamento",
+      "pt": "Eu tenho uma consulta"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Necesito firmar",
       "en": "I need to sign",
       "fr": "Je dois signer",
-      "it": "Devo firmare"
+      "it": "Devo firmare",
+      "pt": "Eu preciso assinar"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Lee el documento",
       "en": "Read the document",
       "fr": "Lis le document",
-      "it": "Leggi il documento"
+      "it": "Leggi il documento",
+      "pt": "Leia o documento"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "No entiendo esto",
       "en": "I don't understand this",
       "fr": "Je ne comprends pas ceci",
-      "it": "Non capisco questo"
+      "it": "Non capisco questo",
+      "pt": "Eu não entendo isso"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Explícalo por favor",
       "en": "Explain it please",
       "fr": "Explique-le s'il te plaît",
-      "it": "Spiegalo per favore"
+      "it": "Spiegalo per favore",
+      "pt": "Explique, por favor"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Es importante",
       "en": "It is important",
       "fr": "C'est important",
-      "it": "È importante"
+      "it": "È importante",
+      "pt": "É importante"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Es obligatorio",
       "en": "It is mandatory",
       "fr": "C'est obligatoire",
-      "it": "È obbligatorio"
+      "it": "È obbligatorio",
+      "pt": "É obrigatório"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Estoy de acuerdo",
       "en": "I agree",
       "fr": "Je suis d'accord",
-      "it": "Sono d'accordo"
+      "it": "Sono d'accordo",
+      "pt": "Eu concordo"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "No estoy de acuerdo",
       "en": "I do not agree",
       "fr": "Je ne suis pas d'accord",
-      "it": "Non sono d'accordo"
+      "it": "Non sono d'accordo",
+      "pt": "Eu não concordo"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Necesito más información",
       "en": "I need more information",
       "fr": "J'ai besoin de plus d'informations",
-      "it": "Ho bisogno di più informazioni"
+      "it": "Ho bisogno di più informazioni",
+      "pt": "Eu preciso de mais informações"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es un contrato",
       "en": "It is a contract",
       "fr": "C'est un contrat",
-      "it": "È un contratto"
+      "it": "È un contratto",
+      "pt": "É um contrato"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Debo revisar esto",
       "en": "I must review this",
       "fr": "Je dois examiner ceci",
-      "it": "Devo esaminare questo"
+      "it": "Devo esaminare questo",
+      "pt": "Eu preciso revisar isso"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Es confidencial",
       "en": "It is confidential",
       "fr": "C'est confidentiel",
-      "it": "È confidenziale"
+      "it": "È confidenziale",
+      "pt": "É confidencial"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Necesito tiempo",
       "en": "I need time",
       "fr": "J'ai besoin de temps",
-      "it": "Ho bisogno di tempo"
+      "it": "Ho bisogno di tempo",
+      "pt": "Eu preciso de tempo"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Estoy de acuerdo con los términos",
       "en": "I agree with the terms",
       "fr": "J'accepte les conditions",
-      "it": "Accetto i termini"
+      "it": "Accetto i termini",
+      "pt": "Eu concordo com os termos"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "No acepto los términos",
       "en": "I do not accept the terms",
       "fr": "Je n'accepte pas les conditions",
-      "it": "Non accetto i termini"
+      "it": "Non accetto i termini",
+      "pt": "Eu não aceito os termos"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "¿Dónde firmo?",
       "en": "Where do I sign?",
       "fr": "Où est-ce que je signe ?",
-      "it": "Dove devo firmare?"
+      "it": "Dove devo firmare?",
+      "pt": "Onde eu assino?"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Todo está claro",
       "en": "Everything is clear",
       "fr": "Tout est clair",
-      "it": "Tutto è chiaro"
+      "it": "Tutto è chiaro",
+      "pt": "Está tudo claro"
     },
     "difficulty": "Intermediate"
   }

@@ -5,7 +5,8 @@
       "es": "Ordenador (España)",
       "en": "Computer (Spain)",
       "fr": "Ordinateur",
-      "it": "Computer"
+      "it": "Computer",
+      "pt": "Computador (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Computadora (LatAm)",
       "en": "Computer (Latin America)",
       "fr": "Ordinateur",
-      "it": "Computer"
+      "it": "Computer",
+      "pt": "Computador (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Coche (España)",
       "en": "Car (Spain)",
       "fr": "Voiture",
-      "it": "Macchina"
+      "it": "Macchina",
+      "pt": "Carro (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Carro / Auto (LatAm)",
       "en": "Car (Latin America)",
       "fr": "Voiture",
-      "it": "Macchina"
+      "it": "Macchina",
+      "pt": "Carro (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Móvil (España)",
       "en": "Cell phone (Spain)",
       "fr": "Téléphone portable",
-      "it": "Cellulare"
+      "it": "Cellulare",
+      "pt": "Celular (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Celular (LatAm)",
       "en": "Cell phone (Latin America)",
       "fr": "Téléphone portable",
-      "it": "Cellulare"
+      "it": "Cellulare",
+      "pt": "Celular (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Zumo (España)",
       "en": "Juice (Spain)",
       "fr": "Jus",
-      "it": "Succo"
+      "it": "Succo",
+      "pt": "Suco (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Jugo (LatAm)",
       "en": "Juice (Latin America)",
       "fr": "Jus",
-      "it": "Succo"
+      "it": "Succo",
+      "pt": "Suco (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Vale (España)",
       "en": "Okay (Spain)",
       "fr": "D'accord",
-      "it": "Va bene"
+      "it": "Va bene",
+      "pt": "Beleza (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Está bien (LatAm)",
       "en": "Okay (Latin America)",
       "fr": "D'accord",
-      "it": "Va bene"
+      "it": "Va bene",
+      "pt": "Beleza (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Conducir (España)",
       "en": "To drive (Spain)",
       "fr": "Conduire",
-      "it": "Guidare"
+      "it": "Guidare",
+      "pt": "Dirigir (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Manejar (LatAm)",
       "en": "To drive (Latin America)",
       "fr": "Conduire",
-      "it": "Guidare"
+      "it": "Guidare",
+      "pt": "Dirigir (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Vosotros vais",
       "en": "You all go (Spain)",
       "fr": "Vous allez",
-      "it": "Voi andate"
+      "it": "Voi andate",
+      "pt": "Vocês vão (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Ustedes van",
       "en": "You all go (Latin America)",
       "fr": "Vous allez",
-      "it": "Voi andate"
+      "it": "Voi andate",
+      "pt": "Vocês vão (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Tío / Tía (España)",
       "en": "Dude (Spain)",
       "fr": "Mec",
-      "it": "Tipo"
+      "it": "Tipo",
+      "pt": "Cara (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Güey / Tipo (LatAm)",
       "en": "Dude (Latin America)",
       "fr": "Mec",
-      "it": "Tipo"
+      "it": "Tipo",
+      "pt": "Cara (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Piso (España)",
       "en": "Apartment (Spain)",
       "fr": "Appartement",
-      "it": "Appartamento"
+      "it": "Appartamento",
+      "pt": "Apartamento (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Departamento (LatAm)",
       "en": "Apartment (Latin America)",
       "fr": "Appartement",
-      "it": "Appartamento"
+      "it": "Appartamento",
+      "pt": "Apartamento (América Latina)"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Coger (España)",
       "en": "To take (Spain)",
       "fr": "Prendre",
-      "it": "Prendere"
+      "it": "Prendere",
+      "pt": "Pegar (Espanha)"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Tomar (LatAm)",
       "en": "To take (Latin America)",
       "fr": "Prendre",
-      "it": "Prendere"
+      "it": "Prendere",
+      "pt": "Pegar (América Latina)"
     },
     "difficulty": "Advanced"
   }

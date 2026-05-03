@@ -29,6 +29,7 @@ async function createSpeech(req, res) {
       fr: 'Speak in French with natural pronunciation.',
       it: 'Speak in Italian with natural pronunciation.',
       en: 'Speak in English with natural pronunciation.',
+      pt: 'Speak in Portuguese with natural pronunciation.',
     };
     const instructions = language ? langInstructions[language] : undefined;
 
@@ -72,6 +73,7 @@ async function createSpeechStream(req, res) {
       fr: 'Speak in French with natural pronunciation.',
       it: 'Speak in Italian with natural pronunciation.',
       en: 'Speak in English with natural pronunciation.',
+      pt: 'Speak in Portuguese with natural pronunciation.',
     };
     const instructions = language ? langInstructions[language] : undefined;
 

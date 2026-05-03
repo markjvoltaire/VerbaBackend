@@ -5,7 +5,8 @@
       "es": "Celebramos juntos",
       "en": "We celebrate together",
       "fr": "Nous fêtons ensemble",
-      "it": "Festeggiamo insieme"
+      "it": "Festeggiamo insieme",
+      "pt": "Nós celebramos juntos"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Es un día especial",
       "en": "It is a special day",
       "fr": "C'est un jour spécial",
-      "it": "È un giorno speciale"
+      "it": "È un giorno speciale",
+      "pt": "É um dia especial"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Feliz cumpleaños",
       "en": "Happy birthday",
       "fr": "Joyeux anniversaire",
-      "it": "Buon compleanno"
+      "it": "Buon compleanno",
+      "pt": "Feliz aniversário"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Feliz año nuevo",
       "en": "Happy New Year",
       "fr": "Bonne année",
-      "it": "Buon anno"
+      "it": "Buon anno",
+      "pt": "Feliz Ano Novo"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Feliz navidad",
       "en": "Merry Christmas",
       "fr": "Joyeux Noël",
-      "it": "Buon Natale"
+      "it": "Buon Natale",
+      "pt": "Feliz Natal"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Es una fiesta importante",
       "en": "It is an important celebration",
       "fr": "C'est une fête importante",
-      "it": "È una festa importante"
+      "it": "È una festa importante",
+      "pt": "É uma celebração importante"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Vamos a celebrar",
       "en": "Let's celebrate",
       "fr": "Fêtons ça",
-      "it": "Festeggiamo"
+      "it": "Festeggiamo",
+      "pt": "Vamos celebrar"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Hay una fiesta",
       "en": "There is a party",
       "fr": "Il y a une fête",
-      "it": "C'è una festa"
+      "it": "C'è una festa",
+      "pt": "Tem uma festa"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Invitamos a amigos",
       "en": "We invite friends",
       "fr": "Nous invitons des amis",
-      "it": "Invitiamo degli amici"
+      "it": "Invitiamo degli amici",
+      "pt": "Convidamos amigos"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Comemos juntos",
       "en": "We eat together",
       "fr": "Nous mangeons ensemble",
-      "it": "Mangiamo insieme"
+      "it": "Mangiamo insieme",
+      "pt": "Nós comemos juntos"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Damos regalos",
       "en": "We give gifts",
       "fr": "Nous offrons des cadeaux",
-      "it": "Facciamo dei regali"
+      "it": "Facciamo dei regali",
+      "pt": "Nós damos presentes"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Recibo regalos",
       "en": "I receive gifts",
       "fr": "Je reçois des cadeaux",
-      "it": "Ricevo dei regali"
+      "it": "Ricevo dei regali",
+      "pt": "Eu recebo presentes"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Decoramos la casa",
       "en": "We decorate the house",
       "fr": "Nous décorons la maison",
-      "it": "Decoriamo la casa"
+      "it": "Decoriamo la casa",
+      "pt": "Nós decoramos a casa"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Es una tradición familiar",
       "en": "It is a family tradition",
       "fr": "C'est une tradition familiale",
-      "it": "È una tradizione di famiglia"
+      "it": "È una tradizione di famiglia",
+      "pt": "É uma tradição familiar"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Celebramos cada año",
       "en": "We celebrate every year",
       "fr": "Nous fêtons chaque année",
-      "it": "Festeggiamo ogni anno"
+      "it": "Festeggiamo ogni anno",
+      "pt": "Nós celebramos todo ano"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Es un momento feliz",
       "en": "It is a happy moment",
       "fr": "C'est un moment de bonheur",
-      "it": "È un momento felice"
+      "it": "È un momento felice",
+      "pt": "É um momento feliz"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "La gente baila",
       "en": "People dance",
       "fr": "Les gens dansent",
-      "it": "La gente balla"
+      "it": "La gente balla",
+      "pt": "As pessoas dançam"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "La gente canta",
       "en": "People sing",
       "fr": "Les gens chantent",
-      "it": "La gente canta"
+      "it": "La gente canta",
+      "pt": "As pessoas cantam"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Es divertido",
       "en": "It is fun",
       "fr": "C'est amusant",
-      "it": "È divertente"
+      "it": "È divertente",
+      "pt": "É divertido"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Me gusta celebrar",
       "en": "I like to celebrate",
       "fr": "J'aime fêter",
-      "it": "Mi piace festeggiare"
+      "it": "Mi piace festeggiare",
+      "pt": "Eu gosto de celebrar"
     },
     "difficulty": "Intermediate"
   }

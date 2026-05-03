@@ -5,7 +5,8 @@
       "es": "¿Cómo se pronuncia esta palabra?",
       "fr": "Comment prononce-t-on ce mot?",
       "it": "Come si pronuncia questa parola?",
-      "en": "How do you pronounce this word?"
+      "en": "How do you pronounce this word?",
+      "pt": "Como se pronuncia esta palavra?"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "¿Puedes repetir eso?",
       "fr": "Pouvez-vous répéter?",
       "it": "Puoi ripetere?",
-      "en": "Can you repeat that?"
+      "en": "Can you repeat that?",
+      "pt": "Você pode repetir isso?"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "No entiendo la pronunciación",
       "fr": "Je ne comprends pas la prononciation",
       "it": "Non capisco la pronuncia",
-      "en": "I don't understand the pronunciation"
+      "en": "I don't understand the pronunciation",
+      "pt": "Eu não entendo a pronúncia"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "¿Puedes hablar más despacio?",
       "fr": "Pouvez-vous parler plus lentement?",
       "it": "Puoi parlare più lentamente?",
-      "en": "Can you speak slower?"
+      "en": "Can you speak slower?",
+      "pt": "Você pode falar mais devagar?"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "¿Cómo se escribe?",
       "fr": "Comment ça s'écrit?",
       "it": "Come si scrive?",
-      "en": "How do you spell it?"
+      "en": "How do you spell it?",
+      "pt": "Como se escreve?"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Se escribe así",
       "fr": "Ça s'écrit comme ça",
       "it": "Si scrive così",
-      "en": "It is spelled like this"
+      "en": "It is spelled like this",
+      "pt": "Se escreve assim"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "¿Cuál es la primera letra?",
       "fr": "Quelle est la première lettre?",
       "it": "Qual è la prima lettera?",
-      "en": "What is the first letter?"
+      "en": "What is the first letter?",
+      "pt": "Qual é a primeira letra?"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "¿Puedes deletrearlo?",
       "fr": "Pouvez-vous l'épeler?",
       "it": "Puoi sillabarlo?",
-      "en": "Can you spell it?"
+      "en": "Can you spell it?",
+      "pt": "Você pode soletrá-la?"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "No sé cómo decirlo",
       "fr": "Je ne sais pas comment le dire",
       "it": "Non so come dirlo",
-      "en": "I don't know how to say it"
+      "en": "I don't know how to say it",
+      "pt": "Eu não sei como dizer isso"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Eso suena diferente",
       "fr": "Ça sonne différent",
       "it": "Suona diverso",
-      "en": "That sounds different"
+      "en": "That sounds different",
+      "pt": "Isso soa diferente"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "La pronunciación es difícil",
       "fr": "La prononciation est difficile",
       "it": "La pronuncia è difficile",
-      "en": "The pronunciation is difficult"
+      "en": "The pronunciation is difficult",
+      "pt": "A pronúncia é difícil"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy practicando mi pronunciación",
       "fr": "Je m'entraîne à ma prononciation",
       "it": "Sto esercitando la mia pronuncia",
-      "en": "I am practicing my pronunciation"
+      "en": "I am practicing my pronunciation",
+      "pt": "Estou praticando minha pronúncia"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "¿Es correcta mi pronunciación?",
       "fr": "Ma prononciation est-elle correcte?",
       "it": "La mia pronuncia è corretta?",
-      "en": "Is my pronunciation correct?"
+      "en": "Is my pronunciation correct?",
+      "pt": "Minha pronúncia está correta?"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Intenta decirlo así",
       "fr": "Essayez de le dire comme ça",
       "it": "Prova a dirlo così",
-      "en": "Try saying it like this"
+      "en": "Try saying it like this",
+      "pt": "Tente dizer assim"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Escucha atentamente",
       "fr": "Écoutez attentivement",
       "it": "Ascolta attentamente",
-      "en": "Listen carefully"
+      "en": "Listen carefully",
+      "pt": "Escute com atenção"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Repite después de mí",
       "fr": "Répétez après moi",
       "it": "Ripeti dopo di me",
-      "en": "Repeat after me"
+      "en": "Repeat after me",
+      "pt": "Repita após mim"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "La palabra es fácil",
       "fr": "Le mot est facile",
       "it": "La parola è facile",
-      "en": "The word is easy"
+      "en": "The word is easy",
+      "pt": "A palavra é fácil"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Es una palabra nueva",
       "fr": "C'est un nouveau mot",
       "it": "È una parola nuova",
-      "en": "It is a new word"
+      "en": "It is a new word",
+      "pt": "É uma palavra nova"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Practiquemos el sonido",
       "fr": "Pratiquons le son",
       "it": "Esercitiamo il suono",
-      "en": "Let's practice the sound"
+      "en": "Let's practice the sound",
+      "pt": "Vamos praticar o som"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Estoy aprendiendo el alfabeto",
       "fr": "J'apprends l'alphabet",
       "it": "Sto imparando l'alfabeto",
-      "en": "I am learning the alphabet"
+      "en": "I am learning the alphabet",
+      "pt": "Estou aprendendo o alfabeto"
     },
     "difficulty": "Beginner"
   }

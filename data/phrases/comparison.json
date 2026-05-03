@@ -5,7 +5,8 @@
       "es": "Esto es mejor que eso",
       "en": "This is better than that",
       "fr": "C'est mieux que ça",
-      "it": "Questo è meglio di quello"
+      "it": "Questo è meglio di quello",
+      "pt": "Isto é melhor do que aquilo"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Esto es peor que eso",
       "en": "This is worse than that",
       "fr": "C'est pire que ça",
-      "it": "Questo è peggio di quello"
+      "it": "Questo è peggio di quello",
+      "pt": "Isto é pior do que aquilo"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Es más grande",
       "en": "It is bigger",
       "fr": "C'est plus grand",
-      "it": "È più grande"
+      "it": "È più grande",
+      "pt": "É maior"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Es más pequeño",
       "en": "It is smaller",
       "fr": "C'est plus petit",
-      "it": "È più piccolo"
+      "it": "È più piccolo",
+      "pt": "É menor"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Es más rápido",
       "en": "It is faster",
       "fr": "C'est plus rapide",
-      "it": "È più veloce"
+      "it": "È più veloce",
+      "pt": "É mais rápido"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Es más lento",
       "en": "It is slower",
       "fr": "C'est plus lent",
-      "it": "È più lento"
+      "it": "È più lento",
+      "pt": "É mais lento"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Es más caro",
       "en": "It is more expensive",
       "fr": "C'est plus cher",
-      "it": "È più costoso"
+      "it": "È più costoso",
+      "pt": "É mais caro"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Es más barato",
       "en": "It is cheaper",
       "fr": "C'est moins cher",
-      "it": "È più economico"
+      "it": "È più economico",
+      "pt": "É mais barato"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Es igual",
       "en": "It is the same",
       "fr": "C'est la même chose",
-      "it": "È la stessa cosa"
+      "it": "È la stessa cosa",
+      "pt": "É o mesmo"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Es diferente",
       "en": "It is different",
       "fr": "C'est différent",
-      "it": "È diverso"
+      "it": "È diverso",
+      "pt": "É diferente"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Es tan bueno como",
       "en": "It is as good as",
       "fr": "C'est aussi bon que",
-      "it": "È buono come"
+      "it": "È buono come",
+      "pt": "É tão bom quanto"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Es mejor que antes",
       "en": "It is better than before",
       "fr": "C'est mieux qu'avant",
-      "it": "È meglio di prima"
+      "it": "È meglio di prima",
+      "pt": "É melhor do que antes"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es peor que antes",
       "en": "It is worse than before",
       "fr": "C'est pire qu'avant",
-      "it": "È peggio di prima"
+      "it": "È peggio di prima",
+      "pt": "É pior do que antes"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Cada vez es mejor",
       "en": "It is getting better",
       "fr": "Ça s'améliore",
-      "it": "Sta migliorando"
+      "it": "Sta migliorando",
+      "pt": "Está melhorando"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Cada vez es peor",
       "en": "It is getting worse",
       "fr": "Ça s'aggrave",
-      "it": "Sta peggiorando"
+      "it": "Sta peggiorando",
+      "pt": "Está piorando"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Prefiero esto a eso",
       "en": "I prefer this to that",
       "fr": "Je préfère ceci à cela",
-      "it": "Preferisco questo a quello"
+      "it": "Preferisco questo a quello",
+      "pt": "Eu prefiro isto a aquilo"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Esto es más importante",
       "en": "This is more important",
       "fr": "C'est plus important",
-      "it": "Questo è più importante"
+      "it": "Questo è più importante",
+      "pt": "Isto é mais importante"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Esto es menos importante",
       "en": "This is less important",
       "fr": "C'est moins important",
-      "it": "Questo è meno importante"
+      "it": "Questo è meno importante",
+      "pt": "Isto é menos importante"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Es el mejor",
       "en": "It is the best",
       "fr": "C'est le meilleur",
-      "it": "È il migliore"
+      "it": "È il migliore",
+      "pt": "É o melhor"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Es el peor",
       "en": "It is the worst",
       "fr": "C'est le pire",
-      "it": "È il peggiore"
+      "it": "È il peggiore",
+      "pt": "É o pior"
     },
     "difficulty": "Intermediate"
   }

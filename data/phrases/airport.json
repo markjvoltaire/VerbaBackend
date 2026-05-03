@@ -5,7 +5,8 @@
       "es": "¿Dónde está la puerta de embarque?",
       "fr": "Où est la porte d'embarquement?",
       "it": "Dov'è il gate d'imbarco?",
-      "en": "Where is the boarding gate?"
+      "en": "Where is the boarding gate?",
+      "pt": "Onde fica o portão de embarque?"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Necesito cambiar mi vuelo",
       "fr": "Je dois changer mon vol",
       "it": "Devo cambiare il mio volo",
-      "en": "I need to change my flight"
+      "en": "I need to change my flight",
+      "pt": "Eu preciso trocar meu voo"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "¿Cuál es el número de mi vuelo?",
       "fr": "Quel est le numéro de mon vol?",
       "it": "Qual è il numero del mio volo?",
-      "en": "What is my flight number?"
+      "en": "What is my flight number?",
+      "pt": "Qual é o meu número de voo?"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "¿Dónde está el equipaje?",
       "fr": "Où sont les bagages?",
       "it": "Dov'è il bagaglio?",
-      "en": "Where is the baggage?"
+      "en": "Where is the baggage?",
+      "pt": "Onde está a bagagem?"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Tengo una reserva",
       "fr": "J'ai une réservation",
       "it": "Ho una prenotazione",
-      "en": "I have a reservation"
+      "en": "I have a reservation",
+      "pt": "Eu tenho uma reserva"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "¿Dónde está el mostrador de facturación?",
       "fr": "Où est le guichet d'enregistrement?",
       "it": "Dov'è il banco del check-in?",
-      "en": "Where is the check-in counter?"
+      "en": "Where is the check-in counter?",
+      "pt": "Onde fica o balcão de check-in?"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Mi vuelo está cancelado",
       "fr": "Mon vol est annulé",
       "it": "Il mio volo è cancellato",
-      "en": "My flight is cancelled"
+      "en": "My flight is cancelled",
+      "pt": "Meu voo foi cancelado"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Me gustaría comprar un billete",
       "fr": "Je voudrais acheter un billet",
       "it": "Vorrei comprare un biglietto",
-      "en": "I would like to buy a ticket"
+      "en": "I would like to buy a ticket",
+      "pt": "Eu gostaria de comprar uma passagem"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Mi equipaje está perdido",
       "fr": "Mon bagage est perdu",
       "it": "Il mio bagaglio è perso",
-      "en": "My luggage is lost"
+      "en": "My luggage is lost",
+      "pt": "Minha mala está perdida"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "¿Dónde puedo recoger mi equipaje?",
       "fr": "Où puis-je récupérer mes bagages?",
       "it": "Dove posso ritirare il mio bagaglio?",
-      "en": "Where can I collect my luggage?"
+      "en": "Where can I collect my luggage?",
+      "pt": "Onde posso pegar minha bagagem?"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "¿El vuelo va a tiempo?",
       "fr": "Le vol est à l'heure?",
       "it": "Il volo è in orario?",
-      "en": "Is the flight on time?"
+      "en": "Is the flight on time?",
+      "pt": "O voo está em horário?"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Tengo un vuelo de conexión",
       "fr": "J'ai une correspondance",
       "it": "Ho un volo in coincidenza",
-      "en": "I have a connecting flight"
+      "en": "I have a connecting flight",
+      "pt": "Eu tenho um voo de conexão"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "¿Dónde está la casa de cambio?",
       "fr": "Où est le bureau de change?",
       "it": "Dov'è il cambio valuta?",
-      "en": "Where is the currency exchange?"
+      "en": "Where is the currency exchange?",
+      "pt": "Onde fica a casa de câmbio?"
     },
     "difficulty": "Advanced"
   }

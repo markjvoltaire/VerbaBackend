@@ -5,7 +5,8 @@
       "es": "Trabajo en una oficina",
       "fr": "Je travaille dans un bureau",
       "it": "Lavoro in un ufficio",
-      "en": "I work in an office"
+      "en": "I work in an office",
+      "pt": "Eu trabalho em um escritório"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Soy estudiante",
       "fr": "Je suis étudiant",
       "it": "Sono studente",
-      "en": "I am a student"
+      "en": "I am a student",
+      "pt": "Eu sou estudante"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Soy profesor",
       "fr": "Je suis professeur",
       "it": "Sono insegnante",
-      "en": "I am a teacher"
+      "en": "I am a teacher",
+      "pt": "Eu sou professor"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Trabajo desde casa",
       "fr": "Je travaille de la maison",
       "it": "Lavoro da casa",
-      "en": "I work from home"
+      "en": "I work from home",
+      "pt": "Eu trabalho de casa"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Trabajo mucho",
       "fr": "Je travaille beaucoup",
       "it": "Lavoro molto",
-      "en": "I work a lot"
+      "en": "I work a lot",
+      "pt": "Eu trabalho bastante"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Trabajo poco",
       "fr": "Je travaille peu",
       "it": "Lavoro poco",
-      "en": "I work little"
+      "en": "I work little",
+      "pt": "Eu trabalho pouco"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Me gusta mi trabajo",
       "fr": "J'aime mon travail",
       "it": "Mi piace il mio lavoro",
-      "en": "I like my job"
+      "en": "I like my job",
+      "pt": "Eu gosto do meu trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "No me gusta mi trabajo",
       "fr": "Je n'aime pas mon travail",
       "it": "Non mi piace il mio lavoro",
-      "en": "I don't like my job"
+      "en": "I don't like my job",
+      "pt": "Eu não gosto do meu trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Empiezo a las nueve",
       "fr": "Je commence à neuf heures",
       "it": "Inizio alle nove",
-      "en": "I start at nine"
+      "en": "I start at nine",
+      "pt": "Eu começo às nove"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Termino a las cinco",
       "fr": "Je finis à cinq heures",
       "it": "Finisco alle cinque",
-      "en": "I finish at five"
+      "en": "I finish at five",
+      "pt": "Eu termino às cinco"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Trabajo con gente",
       "fr": "Je travaille avec des gens",
       "it": "Lavoro con le persone",
-      "en": "I work with people"
+      "en": "I work with people",
+      "pt": "Eu trabalho com pessoas"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Trabajo solo",
       "fr": "Je travaille seul",
       "it": "Lavoro da solo",
-      "en": "I work alone"
+      "en": "I work alone",
+      "pt": "Eu trabalho sozinho"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Tengo un jefe",
       "fr": "J'ai un patron",
       "it": "Ho un capo",
-      "en": "I have a boss"
+      "en": "I have a boss",
+      "pt": "Eu tenho um chefe"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Tengo compañeros",
       "fr": "J'ai des collègues",
       "it": "Ho dei colleghi",
-      "en": "I have coworkers"
+      "en": "I have coworkers",
+      "pt": "Eu tenho colegas de trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Mi trabajo es fácil",
       "fr": "Mon travail est facile",
       "it": "Il mio lavoro è facile",
-      "en": "My job is easy"
+      "en": "My job is easy",
+      "pt": "Meu trabalho é fácil"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Mi trabajo es difícil",
       "fr": "Mon travail est difficile",
       "it": "Il mio lavoro è difficile",
-      "en": "My job is difficult"
+      "en": "My job is difficult",
+      "pt": "Meu trabalho é difícil"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Gano dinero",
       "fr": "Je gagne de l'argent",
       "it": "Guadagno soldi",
-      "en": "I earn money"
+      "en": "I earn money",
+      "pt": "Eu ganho dinheiro"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Busco trabajo",
       "fr": "Je cherche du travail",
       "it": "Cerco lavoro",
-      "en": "I am looking for a job"
+      "en": "I am looking for a job",
+      "pt": "Estou procurando um emprego"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Estoy ocupado",
       "fr": "Je suis occupé",
       "it": "Sono impegnato",
-      "en": "I am busy"
+      "en": "I am busy",
+      "pt": "Estou ocupado"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "No estoy ocupado",
       "fr": "Je ne suis pas occupé",
       "it": "Non sono impegnato",
-      "en": "I am not busy"
+      "en": "I am not busy",
+      "pt": "Não estou ocupado"
     },
     "difficulty": "Beginner"
   }

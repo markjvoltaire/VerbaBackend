@@ -5,7 +5,8 @@
       "es": "Mucho gusto",
       "fr": "Enchanté",
       "it": "Piacere",
-      "en": "Nice to meet you"
+      "en": "Nice to meet you",
+      "pt": "Prazer em conhecê-lo"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "¿Cómo está usted?",
       "fr": "Ça va?",
       "it": "Come sta?",
-      "en": "How are you?"
+      "en": "How are you?",
+      "pt": "Como você está?"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "¿De dónde es usted?",
       "fr": "D'où venez-vous?",
       "it": "Di dove è?",
-      "en": "Where are you from?"
+      "en": "Where are you from?",
+      "pt": "De onde você é?"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "¿Habla inglés?",
       "fr": "Parlez-vous anglais?",
       "it": "Parla inglese?",
-      "en": "Do you speak English?"
+      "en": "Do you speak English?",
+      "pt": "Você fala inglês?"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "No entiendo",
       "fr": "Je ne comprends pas",
       "it": "Non capisco",
-      "en": "I don't understand"
+      "en": "I don't understand",
+      "pt": "Eu não entendo"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "¿Puede repetir, por favor?",
       "fr": "Pouvez-vous répéter, s'il vous plaît?",
       "it": "Può ripetere, per favore?",
-      "en": "Can you repeat, please?"
+      "en": "Can you repeat, please?",
+      "pt": "Você pode repetir, por favor?"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Hola",
       "fr": "Bonjour",
       "it": "Ciao",
-      "en": "Hello"
+      "en": "Hello",
+      "pt": "Olá"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Buenas noches",
       "fr": "Bonsoir",
       "it": "Buonasera",
-      "en": "Good evening"
+      "en": "Good evening",
+      "pt": "Boa noite"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Adiós",
       "fr": "Au revoir",
       "it": "Arrivederci",
-      "en": "Goodbye"
+      "en": "Goodbye",
+      "pt": "Adeus"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Por favor",
       "fr": "S'il vous plaît",
       "it": "Per favore",
-      "en": "Please"
+      "en": "Please",
+      "pt": "Por favor"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Muchas gracias",
       "fr": "Merci beaucoup",
       "it": "Grazie mille",
-      "en": "Thank you very much"
+      "en": "Thank you very much",
+      "pt": "Muito obrigado"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Disculpe",
       "fr": "Excusez-moi",
       "it": "Scusi",
-      "en": "Excuse me"
+      "en": "Excuse me",
+      "pt": "Com licença"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Lo siento",
       "fr": "Pardon",
       "it": "Scusa",
-      "en": "Sorry"
+      "en": "Sorry",
+      "pt": "Desculpe"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Sí",
       "fr": "Oui",
       "it": "Sì",
-      "en": "Yes"
+      "en": "Yes",
+      "pt": "Sim"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "No",
       "fr": "Non",
       "it": "No",
-      "en": "No"
+      "en": "No",
+      "pt": "Não"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Me llamo...",
       "fr": "Je m'appelle...",
       "it": "Mi chiamo...",
-      "en": "My name is..."
+      "en": "My name is...",
+      "pt": "Meu nome é..."
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "¿Puede repetir?",
       "fr": "Pouvez-vous répéter?",
       "it": "Può ripetere?",
-      "en": "Can you repeat?"
+      "en": "Can you repeat?",
+      "pt": "Você pode repetir?"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "¿Dónde está...?",
       "fr": "Où est...?",
       "it": "Dov'è...?",
-      "en": "Where is...?"
+      "en": "Where is...?",
+      "pt": "Onde fica...?"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "¿Dónde están los baños?",
       "fr": "Où sont les toilettes?",
       "it": "Dove sono i bagni?",
-      "en": "Where are the toilets?"
+      "en": "Where are the toilets?",
+      "pt": "Onde estão os banheiros?"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "¿Cuánto cuesta?",
       "fr": "Combien ça coûte?",
       "it": "Quanto costa?",
-      "en": "How much does it cost?"
+      "en": "How much does it cost?",
+      "pt": "Quanto custa?"
     },
     "difficulty": "Beginner"
   },
@@ -205,7 +225,8 @@
       "es": "¿Cuánto es?",
       "fr": "C'est combien?",
       "it": "Quanto costa?",
-      "en": "How much is it?"
+      "en": "How much is it?",
+      "pt": "Quanto é?"
     },
     "difficulty": "Beginner"
   },
@@ -215,7 +236,8 @@
       "es": "¿Dónde está la estación de tren?",
       "fr": "Où est la gare?",
       "it": "Dov'è la stazione?",
-      "en": "Where is the train station?"
+      "en": "Where is the train station?",
+      "pt": "Onde fica a estação de trem?"
     },
     "difficulty": "Beginner"
   },
@@ -225,7 +247,8 @@
       "es": "¿Está lejos de aquí?",
       "fr": "C'est loin d'ici?",
       "it": "È lontano da qui?",
-      "en": "Is it far from here?"
+      "en": "Is it far from here?",
+      "pt": "É longe daqui?"
     },
     "difficulty": "Beginner"
   },
@@ -235,7 +258,8 @@
       "es": "Estoy buscando...",
       "fr": "Je cherche...",
       "it": "Sto cercando...",
-      "en": "I'm looking for..."
+      "en": "I'm looking for...",
+      "pt": "Estou procurando..."
     },
     "difficulty": "Beginner"
   },
@@ -245,7 +269,8 @@
       "es": "A la derecha",
       "fr": "À droite",
       "it": "A destra",
-      "en": "To the right"
+      "en": "To the right",
+      "pt": "À direita"
     },
     "difficulty": "Beginner"
   },
@@ -255,7 +280,8 @@
       "es": "A la izquierda",
       "fr": "À gauche",
       "it": "A sinistra",
-      "en": "To the left"
+      "en": "To the left",
+      "pt": "À esquerda"
     },
     "difficulty": "Beginner"
   },
@@ -265,7 +291,8 @@
       "es": "Todo recto",
       "fr": "Tout droit",
       "it": "Dritto",
-      "en": "Straight ahead"
+      "en": "Straight ahead",
+      "pt": "Em frente"
     },
     "difficulty": "Beginner"
   },
@@ -275,7 +302,8 @@
       "es": "No sé",
       "fr": "Je ne sais pas",
       "it": "Non lo so",
-      "en": "I don't know"
+      "en": "I don't know",
+      "pt": "Eu não sei"
     },
     "difficulty": "Beginner"
   },
@@ -285,7 +313,8 @@
       "es": "Por supuesto",
       "fr": "Bien sûr",
       "it": "Certo",
-      "en": "Of course"
+      "en": "Of course",
+      "pt": "Claro"
     },
     "difficulty": "Beginner"
   },
@@ -295,7 +324,8 @@
       "es": "No hay problema",
       "fr": "Pas de problème",
       "it": "Nessun problema",
-      "en": "No problem"
+      "en": "No problem",
+      "pt": "Sem problemas"
     },
     "difficulty": "Beginner"
   },
@@ -305,7 +335,8 @@
       "es": "De acuerdo",
       "fr": "D'accord",
       "it": "Va bene",
-      "en": "Okay"
+      "en": "Okay",
+      "pt": "Ok"
     },
     "difficulty": "Beginner"
   },
@@ -315,7 +346,8 @@
       "es": "Espere, por favor",
       "fr": "Attendez, s'il vous plaît",
       "it": "Aspetti, per favore",
-      "en": "Wait, please"
+      "en": "Wait, please",
+      "pt": "Espere, por favor"
     },
     "difficulty": "Beginner"
   },
@@ -325,7 +357,8 @@
       "es": "Un momento",
       "fr": "Un moment",
       "it": "Un momento",
-      "en": "One moment"
+      "en": "One moment",
+      "pt": "Um momento"
     },
     "difficulty": "Beginner"
   },
@@ -335,7 +368,8 @@
       "es": "Estoy perdido",
       "fr": "Je suis perdu",
       "it": "Mi sono perso",
-      "en": "I am lost"
+      "en": "I am lost",
+      "pt": "Estou perdido"
     },
     "difficulty": "Beginner"
   },
@@ -345,7 +379,8 @@
       "es": "Ayúdeme, por favor",
       "fr": "Aidez-moi, s'il vous plaît",
       "it": "Aiutatemi, per favore",
-      "en": "Help me, please"
+      "en": "Help me, please",
+      "pt": "Me ajude, por favor"
     },
     "difficulty": "Beginner"
   },
@@ -355,7 +390,8 @@
       "es": "¿Dónde está el hospital?",
       "fr": "Où est l'hôpital?",
       "it": "Dov'è l'ospedale?",
-      "en": "Where is the hospital?"
+      "en": "Where is the hospital?",
+      "pt": "Onde fica o hospital?"
     },
     "difficulty": "Beginner"
   },
@@ -365,7 +401,8 @@
       "es": "Necesito un médico",
       "fr": "J'ai besoin d'un médecin",
       "it": "Ho bisogno di un dottore",
-      "en": "I need a doctor"
+      "en": "I need a doctor",
+      "pt": "Eu preciso de um médico"
     },
     "difficulty": "Beginner"
   },
@@ -375,7 +412,8 @@
       "es": "Llame a la policía",
       "fr": "Appelez la police",
       "it": "Chiamate la polizia",
-      "en": "Call the police"
+      "en": "Call the police",
+      "pt": "Chame a polícia"
     },
     "difficulty": "Beginner"
   },
@@ -385,7 +423,8 @@
       "es": "Es una emergencia",
       "fr": "C'est une urgence",
       "it": "È un'emergenza",
-      "en": "It's an emergency"
+      "en": "It's an emergency",
+      "pt": "É uma emergência"
     },
     "difficulty": "Beginner"
   },
@@ -395,7 +434,8 @@
       "es": "¿A qué hora abre el museo?",
       "fr": "À quelle heure ouvre le musée?",
       "it": "A che ora apre il museo?",
-      "en": "What time does the museum open?"
+      "en": "What time does the museum open?",
+      "pt": "Que horas o museu abre?"
     },
     "difficulty": "Beginner"
   },
@@ -405,7 +445,8 @@
       "es": "¿Está abierto hoy?",
       "fr": "C'est ouvert aujourd'hui?",
       "it": "È aperto oggi?",
-      "en": "Is it open today?"
+      "en": "Is it open today?",
+      "pt": "Está aberto hoje?"
     },
     "difficulty": "Beginner"
   },
@@ -415,7 +456,8 @@
       "es": "¿Dónde está el centro de la ciudad?",
       "fr": "Où est le centre-ville?",
       "it": "Dov'è il centro città?",
-      "en": "Where is the city center?"
+      "en": "Where is the city center?",
+      "pt": "Onde fica o centro da cidade?"
     },
     "difficulty": "Beginner"
   },
@@ -425,7 +467,8 @@
       "es": "Es hermoso aquí",
       "fr": "C'est beau ici",
       "it": "È bello qui",
-      "en": "It's beautiful here"
+      "en": "It's beautiful here",
+      "pt": "É bonito aqui"
     },
     "difficulty": "Beginner"
   },
@@ -435,7 +478,8 @@
       "es": "Me encanta Francia",
       "fr": "J'aime la France",
       "it": "Amo la Francia",
-      "en": "I love France"
+      "en": "I love France",
+      "pt": "Eu amo a França"
     },
     "difficulty": "Beginner"
   },
@@ -445,7 +489,8 @@
       "es": "¿Cómo está el tiempo?",
       "fr": "Quel temps fait-il?",
       "it": "Com'è il tempo?",
-      "en": "What's the weather like?"
+      "en": "What's the weather like?",
+      "pt": "Como está o tempo?"
     },
     "difficulty": "Beginner"
   },
@@ -455,7 +500,8 @@
       "es": "Hace buen tiempo",
       "fr": "Il fait beau",
       "it": "Fa bel tempo",
-      "en": "The weather is nice"
+      "en": "The weather is nice",
+      "pt": "O tempo está bom"
     },
     "difficulty": "Beginner"
   },
@@ -465,7 +511,8 @@
       "es": "Que tenga un buen día",
       "fr": "Bonne journée",
       "it": "Buona giornata",
-      "en": "Have a good day"
+      "en": "Have a good day",
+      "pt": "Tenha um bom dia"
     },
     "difficulty": "Beginner"
   },
@@ -475,7 +522,8 @@
       "es": "Que tenga una buena noche",
       "fr": "Bonne soirée",
       "it": "Buona serata",
-      "en": "Have a good evening"
+      "en": "Have a good evening",
+      "pt": "Tenha uma boa noite"
     },
     "difficulty": "Beginner"
   },
@@ -485,7 +533,8 @@
       "es": "Hasta pronto",
       "fr": "À bientôt",
       "it": "A presto",
-      "en": "See you soon"
+      "en": "See you soon",
+      "pt": "Até logo"
     },
     "difficulty": "Beginner"
   },
@@ -495,7 +544,8 @@
       "es": "Hasta mañana",
       "fr": "À demain",
       "it": "A domani",
-      "en": "See you tomorrow"
+      "en": "See you tomorrow",
+      "pt": "Até amanhã"
     },
     "difficulty": "Beginner"
   },
@@ -505,7 +555,8 @@
       "es": "Buena suerte",
       "fr": "Bonne chance",
       "it": "Buona fortuna",
-      "en": "Good luck"
+      "en": "Good luck",
+      "pt": "Boa sorte"
     },
     "difficulty": "Beginner"
   },
@@ -515,7 +566,8 @@
       "es": "Felicitaciones",
       "fr": "Félicitations",
       "it": "Congratulazioni",
-      "en": "Congratulations"
+      "en": "Congratulations",
+      "pt": "Parabéns"
     },
     "difficulty": "Beginner"
   },
@@ -525,7 +577,8 @@
       "es": "Hola / Adiós",
       "fr": "Salut / Au revoir",
       "it": "Ciao",
-      "en": "Hello / Bye"
+      "en": "Hello / Bye",
+      "pt": "Olá / Tchau"
     },
     "difficulty": "Beginner"
   },
@@ -535,7 +588,8 @@
       "es": "Buenos días",
       "fr": "Bonjour",
       "it": "Buongiorno",
-      "en": "Good morning"
+      "en": "Good morning",
+      "pt": "Bom dia"
     },
     "difficulty": "Beginner"
   },
@@ -545,7 +599,8 @@
       "es": "Gracias",
       "fr": "Merci",
       "it": "Grazie",
-      "en": "Thank you"
+      "en": "Thank you",
+      "pt": "Obrigado"
     },
     "difficulty": "Beginner"
   }

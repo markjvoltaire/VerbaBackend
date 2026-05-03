@@ -51,7 +51,13 @@ Be encouraging but accurate.`,
   return JSON.parse(response.choices[0].message.content);
 }
 
-const LANG_NAMES = { es: 'Spanish', fr: 'French', it: 'Italian', en: 'English' };
+const LANG_NAMES = {
+  es: 'Spanish',
+  fr: 'French',
+  it: 'Italian',
+  en: 'English',
+  pt: 'Portuguese',
+};
 
 async function getConversationResponse(scenario, messages, userTranscription, language = 'es') {
   const openai = getOpenAI();

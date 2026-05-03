@@ -5,7 +5,8 @@
       "es": "Veo las noticias",
       "en": "I watch the news",
       "fr": "Je regarde les informations",
-      "it": "Guardo il telegiornale"
+      "it": "Guardo il telegiornale",
+      "pt": "Eu assisto o jornal"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Leo las noticias",
       "en": "I read the news",
       "fr": "Je lis les informations",
-      "it": "Leggo le notizie"
+      "it": "Leggo le notizie",
+      "pt": "Eu leio as notícias"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Es una noticia importante",
       "en": "It is important news",
       "fr": "C'est une nouvelle importante",
-      "it": "È una notizia importante"
+      "it": "È una notizia importante",
+      "pt": "São notícias importantes"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "¿Qué pasó?",
       "en": "What happened?",
       "fr": "Que s'est-il passé ?",
-      "it": "Cosa è successo?"
+      "it": "Cosa è successo?",
+      "pt": "O que aconteceu?"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Pasó ayer",
       "en": "It happened yesterday",
       "fr": "C'est arrivé hier",
-      "it": "È successo ieri"
+      "it": "È successo ieri",
+      "pt": "Aconteceu ontem"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Está pasando ahora",
       "en": "It is happening now",
       "fr": "Ça se passe en ce moment",
-      "it": "Sta succedendo adesso"
+      "it": "Sta succedendo adesso",
+      "pt": "Está acontecendo agora"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Es una situación grave",
       "en": "It is a serious situation",
       "fr": "C'est une situation grave",
-      "it": "È una situazione grave"
+      "it": "È una situazione grave",
+      "pt": "É uma situação séria"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "La información es clara",
       "en": "The information is clear",
       "fr": "L'information est claire",
-      "it": "L'informazione è chiara"
+      "it": "L'informazione è chiara",
+      "pt": "A informação está clara"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "No tengo toda la información",
       "en": "I don't have all the information",
       "fr": "Je n'ai pas toutes les informations",
-      "it": "Non ho tutte le informazioni"
+      "it": "Non ho tutte le informazioni",
+      "pt": "Eu não tenho todas as informações"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Es difícil entender",
       "en": "It is difficult to understand",
       "fr": "C'est difficile à comprendre",
-      "it": "È difficile da capire"
+      "it": "È difficile da capire",
+      "pt": "É difícil de entender"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Hay diferentes opiniones",
       "en": "There are different opinions",
       "fr": "Il y a des opinions différentes",
-      "it": "Ci sono opinioni diverse"
+      "it": "Ci sono opinioni diverse",
+      "pt": "Existem opiniões diferentes"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy informado",
       "en": "I am informed",
       "fr": "Je suis informé",
-      "it": "Sono informato"
+      "it": "Sono informato",
+      "pt": "Estou informado"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "No estoy informado",
       "en": "I am not informed",
       "fr": "Je ne suis pas informé",
-      "it": "Non sono informato"
+      "it": "Non sono informato",
+      "pt": "Não estou informado"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Es un tema importante",
       "en": "It is an important topic",
       "fr": "C'est un sujet important",
-      "it": "È un argomento importante"
+      "it": "È un argomento importante",
+      "pt": "É um tópico importante"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "La noticia es reciente",
       "en": "The news is recent",
       "fr": "La nouvelle est récente",
-      "it": "La notizia è recente"
+      "it": "La notizia è recente",
+      "pt": "As notícias são recentes"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "La gente habla de eso",
       "en": "People talk about that",
       "fr": "Les gens en parlent",
-      "it": "La gente ne parla"
+      "it": "La gente ne parla",
+      "pt": "As pessoas falam sobre isso"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Es preocupante",
       "en": "It is concerning",
       "fr": "C'est préoccupant",
-      "it": "È preoccupante"
+      "it": "È preoccupante",
+      "pt": "É preocupante"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Es positivo",
       "en": "It is positive",
       "fr": "C'est positif",
-      "it": "È positivo"
+      "it": "È positivo",
+      "pt": "É positivo"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Es negativo",
       "en": "It is negative",
       "fr": "C'est négatif",
-      "it": "È negativo"
+      "it": "È negativo",
+      "pt": "É negativo"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Quiero saber más",
       "en": "I want to know more",
       "fr": "Je veux en savoir plus",
-      "it": "Voglio saperne di più"
+      "it": "Voglio saperne di più",
+      "pt": "Eu quero saber mais"
     },
     "difficulty": "Intermediate"
   }

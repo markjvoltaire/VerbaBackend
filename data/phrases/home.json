@@ -5,7 +5,8 @@
       "es": "Mi casa es grande",
       "en": "My house is big",
       "fr": "Ma maison est grande",
-      "it": "La mia casa è grande"
+      "it": "La mia casa è grande",
+      "pt": "Minha casa é grande"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Mi casa es pequeña",
       "en": "My house is small",
       "fr": "Ma maison est petite",
-      "it": "La mia casa è piccola"
+      "it": "La mia casa è piccola",
+      "pt": "Minha casa é pequena"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Vivo en un apartamento",
       "en": "I live in an apartment",
       "fr": "J'habite dans un appartement",
-      "it": "Vivo in un appartamento"
+      "it": "Vivo in un appartamento",
+      "pt": "Eu moro em um apartamento"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Vivo en una casa",
       "en": "I live in a house",
       "fr": "J'habite dans une maison",
-      "it": "Vivo in una casa"
+      "it": "Vivo in una casa",
+      "pt": "Eu moro em uma casa"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Tengo una cocina",
       "en": "I have a kitchen",
       "fr": "J'ai une cuisine",
-      "it": "Ho una cucina"
+      "it": "Ho una cucina",
+      "pt": "Eu tenho uma cozinha"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Tengo un baño",
       "en": "I have a bathroom",
       "fr": "J'ai une salle de bain",
-      "it": "Ho un bagno"
+      "it": "Ho un bagno",
+      "pt": "Eu tenho um banheiro"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Tengo un dormitorio",
       "en": "I have a bedroom",
       "fr": "J'ai une chambre",
-      "it": "Ho una camera da letto"
+      "it": "Ho una camera da letto",
+      "pt": "Eu tenho um quarto"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Tengo una sala",
       "en": "I have a living room",
       "fr": "J'ai un salon",
-      "it": "Ho un soggiorno"
+      "it": "Ho un soggiorno",
+      "pt": "Eu tenho uma sala de estar"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "La casa es bonita",
       "en": "The house is nice",
       "fr": "La maison est jolie",
-      "it": "La casa è bella"
+      "it": "La casa è bella",
+      "pt": "A casa é bonita"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "La casa es vieja",
       "en": "The house is old",
       "fr": "La maison est vieille",
-      "it": "La casa è vecchia"
+      "it": "La casa è vecchia",
+      "pt": "A casa é velha"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "La casa es nueva",
       "en": "The house is new",
       "fr": "La maison est neuve",
-      "it": "La casa è nuova"
+      "it": "La casa è nuova",
+      "pt": "A casa é nova"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Hay una mesa",
       "en": "There is a table",
       "fr": "Il y a une table",
-      "it": "C'è un tavolo"
+      "it": "C'è un tavolo",
+      "pt": "Tem uma mesa"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Hay una cama",
       "en": "There is a bed",
       "fr": "Il y a un lit",
-      "it": "C'è un letto"
+      "it": "C'è un letto",
+      "pt": "Tem uma cama"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Hay una silla",
       "en": "There is a chair",
       "fr": "Il y a une chaise",
-      "it": "C'è una sedia"
+      "it": "C'è una sedia",
+      "pt": "Tem uma cadeira"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Hay una puerta",
       "en": "There is a door",
       "fr": "Il y a une porte",
-      "it": "C'è una porta"
+      "it": "C'è una porta",
+      "pt": "Tem uma porta"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Hay una ventana",
       "en": "There is a window",
       "fr": "Il y a une fenêtre",
-      "it": "C'è una finestra"
+      "it": "C'è una finestra",
+      "pt": "Tem uma janela"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "La cocina es grande",
       "en": "The kitchen is big",
       "fr": "La cuisine est grande",
-      "it": "La cucina è grande"
+      "it": "La cucina è grande",
+      "pt": "A cozinha é grande"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "El baño es pequeño",
       "en": "The bathroom is small",
       "fr": "La salle de bain est petite",
-      "it": "Il bagno è piccolo"
+      "it": "Il bagno è piccolo",
+      "pt": "O banheiro é pequeno"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Me gusta mi casa",
       "en": "I like my house",
       "fr": "J'aime ma maison",
-      "it": "Mi piace la mia casa"
+      "it": "Mi piace la mia casa",
+      "pt": "Eu gosto da minha casa"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Estoy en casa",
       "en": "I am at home",
       "fr": "Je suis à la maison",
-      "it": "Sono a casa"
+      "it": "Sono a casa",
+      "pt": "Eu estou em casa"
     },
     "difficulty": "Beginner"
   }

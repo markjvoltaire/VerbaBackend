@@ -5,7 +5,8 @@
       "es": "Habla más despacio, por favor",
       "en": "Speak more slowly, please",
       "fr": "Parle plus lentement, s'il te plaît",
-      "it": "Parla più lentamente, per favore"
+      "it": "Parla più lentamente, per favore",
+      "pt": "Fale mais devagar, por favor"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "No entendí bien",
       "en": "I didn't understand well",
       "fr": "Je n'ai pas bien compris",
-      "it": "Non ho capito bene"
+      "it": "Non ho capito bene",
+      "pt": "Eu não entendi bem"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "¿Puedes repetir eso?",
       "en": "Can you repeat that?",
       "fr": "Tu peux répéter ?",
-      "it": "Puoi ripetere?"
+      "it": "Puoi ripetere?",
+      "pt": "Você pode repetir isso?"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Lo dije mal",
       "en": "I said it wrong",
       "fr": "Je l'ai mal dit",
-      "it": "L'ho detto male"
+      "it": "L'ho detto male",
+      "pt": "Eu disse errado"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Quiero mejorar mi pronunciación",
       "en": "I want to improve my pronunciation",
       "fr": "Je veux améliorer ma prononciation",
-      "it": "Voglio migliorare la mia pronuncia"
+      "it": "Voglio migliorare la mia pronuncia",
+      "pt": "Eu quero melhorar minha pronúncia"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Suena diferente",
       "en": "It sounds different",
       "fr": "Ça sonne différemment",
-      "it": "Suona diverso"
+      "it": "Suona diverso",
+      "pt": "Soa diferente"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "No suena natural",
       "en": "It doesn't sound natural",
       "fr": "Ça ne sonne pas naturel",
-      "it": "Non suona naturale"
+      "it": "Non suona naturale",
+      "pt": "Não soa natural"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "¿Cómo se pronuncia?",
       "en": "How is it pronounced?",
       "fr": "Comment ça se prononce ?",
-      "it": "Come si pronuncia?"
+      "it": "Come si pronuncia?",
+      "pt": "Como se pronuncia?"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Escucha esto",
       "en": "Listen to this",
       "fr": "Écoute ça",
-      "it": "Ascolta questo"
+      "it": "Ascolta questo",
+      "pt": "Escute isso"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Imita este sonido",
       "en": "Imitate this sound",
       "fr": "Imite ce son",
-      "it": "Imita questo suono"
+      "it": "Imita questo suono",
+      "pt": "Imite esse som"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Repite conmigo",
       "en": "Repeat after me",
       "fr": "Répète après moi",
-      "it": "Ripeti dopo di me"
+      "it": "Ripeti dopo di me",
+      "pt": "Repita depois de mim"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Más natural",
       "en": "More natural",
       "fr": "Plus naturel",
-      "it": "Più naturale"
+      "it": "Più naturale",
+      "pt": "Mais natural"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Eso suena mejor",
       "en": "That sounds better",
       "fr": "Ça sonne mieux",
-      "it": "Suona meglio"
+      "it": "Suona meglio",
+      "pt": "Isso soa melhor"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Casi perfecto",
       "en": "Almost perfect",
       "fr": "Presque parfait",
-      "it": "Quasi perfetto"
+      "it": "Quasi perfetto",
+      "pt": "Quase perfeito"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Inténtalo otra vez",
       "en": "Try it again",
       "fr": "Réessaie",
-      "it": "Riprova"
+      "it": "Riprova",
+      "pt": "Tente novamente"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Presta atención al sonido",
       "en": "Pay attention to the sound",
       "fr": "Fais attention au son",
-      "it": "Fai attenzione al suono"
+      "it": "Fai attenzione al suono",
+      "pt": "Preste atenção no som"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Es cuestión de práctica",
       "en": "It's a matter of practice",
       "fr": "C'est une question de pratique",
-      "it": "È questione di pratica"
+      "it": "È questione di pratica",
+      "pt": "É uma questão de prática"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Lo estás haciendo bien",
       "en": "You're doing well",
       "fr": "Tu t'en sors bien",
-      "it": "Stai andando bene"
+      "it": "Stai andando bene",
+      "pt": "Você está indo bem"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Suena más fluido",
       "en": "It sounds more fluent",
       "fr": "Ça sonne plus fluide",
-      "it": "Suona più fluido"
+      "it": "Suona più fluido",
+      "pt": "Soa mais fluente"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Ya suena natural",
       "en": "It already sounds natural",
       "fr": "Ça sonne déjà naturel",
-      "it": "Suona già naturale"
+      "it": "Suona già naturale",
+      "pt": "Já soa natural"
     },
     "difficulty": "Advanced"
   }

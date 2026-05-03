@@ -5,7 +5,8 @@
       "es": "Quiero hacer una queja",
       "en": "I want to make a complaint",
       "fr": "Je voudrais faire une réclamation",
-      "it": "Vorrei fare un reclamo"
+      "it": "Vorrei fare un reclamo",
+      "pt": "Eu quero fazer uma reclamação"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Esto no está bien",
       "en": "This is not okay",
       "fr": "Ce n'est pas acceptable",
-      "it": "Questo non va bene"
+      "it": "Questo non va bene",
+      "pt": "Isso não está certo"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Hay un problema aquí",
       "en": "There is a problem here",
       "fr": "Il y a un problème ici",
-      "it": "C'è un problema qui"
+      "it": "C'è un problema qui",
+      "pt": "Há um problema aqui"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "No funciona correctamente",
       "en": "It doesn't work properly",
       "fr": "Ça ne fonctionne pas correctement",
-      "it": "Non funziona correttamente"
+      "it": "Non funziona correttamente",
+      "pt": "Não está funcionando corretamente"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "No estoy contento",
       "en": "I am not happy",
       "fr": "Je ne suis pas satisfait",
-      "it": "Non sono contento"
+      "it": "Non sono contento",
+      "pt": "Eu não estou feliz"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Estoy frustrado",
       "en": "I am frustrated",
       "fr": "Je suis frustré",
-      "it": "Sono frustrato"
+      "it": "Sono frustrato",
+      "pt": "Estou frustrado"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Necesitamos arreglar esto",
       "en": "We need to fix this",
       "fr": "Nous devons régler ça",
-      "it": "Dobbiamo risolvere questo"
+      "it": "Dobbiamo risolvere questo",
+      "pt": "Precisamos resolver isso"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "¿Cómo solucionamos esto?",
       "en": "How do we solve this?",
       "fr": "Comment résolvons-nous cela ?",
-      "it": "Come risolviamo questo?"
+      "it": "Come risolviamo questo?",
+      "pt": "Como vamos resolver isso?"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Esto tomó demasiado tiempo",
       "en": "This took too long",
       "fr": "Cela a pris trop de temps",
-      "it": "Ci è voluto troppo tempo"
+      "it": "Ci è voluto troppo tempo",
+      "pt": "Isso demorou demais"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "No es aceptable",
       "en": "It is not acceptable",
       "fr": "Ce n'est pas acceptable",
-      "it": "Non è accettabile"
+      "it": "Non è accettabile",
+      "pt": "Isso não é aceitável"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Necesito una respuesta",
       "en": "I need an answer",
       "fr": "J'ai besoin d'une réponse",
-      "it": "Ho bisogno di una risposta"
+      "it": "Ho bisogno di una risposta",
+      "pt": "Eu preciso de uma resposta"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Quiero una solución",
       "en": "I want a solution",
       "fr": "Je veux une solution",
-      "it": "Voglio una soluzione"
+      "it": "Voglio una soluzione",
+      "pt": "Eu quero uma solução"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Esto debe cambiar",
       "en": "This must change",
       "fr": "Cela doit changer",
-      "it": "Questo deve cambiare"
+      "it": "Questo deve cambiare",
+      "pt": "Isso precisa mudar"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "No estoy de acuerdo con esto",
       "en": "I do not agree with this",
       "fr": "Je ne suis pas d'accord avec cela",
-      "it": "Non sono d'accordo con questo"
+      "it": "Non sono d'accordo con questo",
+      "pt": "Eu não concordo com isso"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Esto es injusto",
       "en": "This is unfair",
       "fr": "C'est injuste",
-      "it": "Questo è ingiusto"
+      "it": "Questo è ingiusto",
+      "pt": "Isso é injusto"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Espero una solución pronto",
       "en": "I expect a solution soon",
       "fr": "J'attends une solution rapidement",
-      "it": "Mi aspetto una soluzione presto"
+      "it": "Mi aspetto una soluzione presto",
+      "pt": "Eu espero uma solução em breve"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Esto es un inconveniente",
       "en": "This is an inconvenience",
       "fr": "C'est un désagrément",
-      "it": "Questo è un inconveniente"
+      "it": "Questo è un inconveniente",
+      "pt": "Isso é um incômodo"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "No es lo que pedí",
       "en": "This is not what I ordered",
       "fr": "Ce n'est pas ce que j'ai commandé",
-      "it": "Non è quello che ho ordinato"
+      "it": "Non è quello che ho ordinato",
+      "pt": "Isso não é o que eu pedi"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Necesito ayuda inmediata",
       "en": "I need immediate help",
       "fr": "J'ai besoin d'aide immédiatement",
-      "it": "Ho bisogno di aiuto immediato"
+      "it": "Ho bisogno di aiuto immediato",
+      "pt": "Eu preciso de ajuda imediata"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Gracias por resolverlo",
       "en": "Thank you for solving it",
       "fr": "Merci de l'avoir résolu",
-      "it": "Grazie per averlo risolto"
+      "it": "Grazie per averlo risolto",
+      "pt": "Obrigado por resolver isso"
     },
     "difficulty": "Intermediate"
   }

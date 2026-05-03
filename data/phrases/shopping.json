@@ -5,7 +5,8 @@
       "es": "Quiero comprar esto",
       "fr": "Je veux acheter ça",
       "it": "Voglio comprare questo",
-      "en": "I want to buy this"
+      "en": "I want to buy this",
+      "pt": "Eu quero comprar isso"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "¿Cuánto cuesta?",
       "fr": "Combien ça coûte ?",
       "it": "Quanto costa?",
-      "en": "How much does it cost?"
+      "en": "How much does it cost?",
+      "pt": "Quanto custa?"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Es muy caro",
       "fr": "C'est très cher",
       "it": "È molto caro",
-      "en": "It is very expensive"
+      "en": "It is very expensive",
+      "pt": "É muito caro"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Es barato",
       "fr": "C'est bon marché",
       "it": "È economico",
-      "en": "It is cheap"
+      "en": "It is cheap",
+      "pt": "É barato"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "¿Tienes esto?",
       "fr": "Vous avez ça ?",
       "it": "Avete questo?",
-      "en": "Do you have this?"
+      "en": "Do you have this?",
+      "pt": "Você tem isso?"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "No lo tengo",
       "fr": "Je ne l'ai pas",
       "it": "Non ce l'ho",
-      "en": "I don't have it"
+      "en": "I don't have it",
+      "pt": "Eu não tenho"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "¿Hay descuento?",
       "fr": "Il y a une réduction ?",
       "it": "C'è uno sconto?",
-      "en": "Is there a discount?"
+      "en": "Is there a discount?",
+      "pt": "Tem algum desconto?"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Lo compro",
       "fr": "Je le prends",
       "it": "Lo compro",
-      "en": "I buy it"
+      "en": "I buy it",
+      "pt": "Eu compro"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "No lo quiero",
       "fr": "Je n'en veux pas",
       "it": "Non lo voglio",
-      "en": "I don't want it"
+      "en": "I don't want it",
+      "pt": "Eu não quero"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Estoy mirando",
       "fr": "Je regarde juste",
       "it": "Sto solo guardando",
-      "en": "I am just looking"
+      "en": "I am just looking",
+      "pt": "Estou apenas olhando"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "¿Aceptas tarjeta?",
       "fr": "Vous acceptez la carte ?",
       "it": "Accettate la carta?",
-      "en": "Do you accept card?"
+      "en": "Do you accept card?",
+      "pt": "Você aceita cartão?"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Pago en efectivo",
       "fr": "Je paie en espèces",
       "it": "Pago in contanti",
-      "en": "I pay cash"
+      "en": "I pay cash",
+      "pt": "Eu pago em dinheiro"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Necesito ayuda",
       "fr": "J'ai besoin d'aide",
       "it": "Ho bisogno di aiuto",
-      "en": "I need help"
+      "en": "I need help",
+      "pt": "Eu preciso de ajuda"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "¿Dónde está la caja?",
       "fr": "Où est la caisse ?",
       "it": "Dov'è la cassa?",
-      "en": "Where is the register?"
+      "en": "Where is the register?",
+      "pt": "Onde fica o caixa?"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Solo eso",
       "fr": "C'est tout",
       "it": "È tutto",
-      "en": "That's all"
+      "en": "That's all",
+      "pt": "É só isso"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Quiero otro",
       "fr": "J'en veux un autre",
       "it": "Ne voglio un altro",
-      "en": "I want another one"
+      "en": "I want another one",
+      "pt": "Eu quero outro"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "¿Tienes otro tamaño?",
       "fr": "Vous avez une autre taille ?",
       "it": "Avete un'altra taglia?",
-      "en": "Do you have another size?"
+      "en": "Do you have another size?",
+      "pt": "Você tem outro tamanho?"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "¿Tienes otro color?",
       "fr": "Vous avez une autre couleur ?",
       "it": "Avete un altro colore?",
-      "en": "Do you have another color?"
+      "en": "Do you have another color?",
+      "pt": "Você tem outra cor?"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Está bien",
       "fr": "C'est bon",
       "it": "Va bene",
-      "en": "It's fine"
+      "en": "It's fine",
+      "pt": "Está bom"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Gracias por tu ayuda",
       "fr": "Merci pour votre aide",
       "it": "Grazie per il suo aiuto",
-      "en": "Thanks for your help"
+      "en": "Thanks for your help",
+      "pt": "Obrigado pela sua ajuda"
     },
     "difficulty": "Beginner"
   }

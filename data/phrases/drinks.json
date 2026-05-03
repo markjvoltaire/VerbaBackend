@@ -5,7 +5,8 @@
       "es": "Quiero agua",
       "en": "I want water",
       "fr": "Je veux de l'eau",
-      "it": "Voglio dell'acqua"
+      "it": "Voglio dell'acqua",
+      "pt": "Eu quero água"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Quiero café",
       "en": "I want coffee",
       "fr": "Je veux un café",
-      "it": "Voglio un caffè"
+      "it": "Voglio un caffè",
+      "pt": "Eu quero café"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Quiero té",
       "en": "I want tea",
       "fr": "Je veux un thé",
-      "it": "Voglio un tè"
+      "it": "Voglio un tè",
+      "pt": "Eu quero chá"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Quiero una cerveza",
       "en": "I want a beer",
       "fr": "Je veux une bière",
-      "it": "Voglio una birra"
+      "it": "Voglio una birra",
+      "pt": "Eu quero uma cerveja"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Quiero un jugo",
       "en": "I want a juice",
       "fr": "Je veux un jus",
-      "it": "Voglio un succo"
+      "it": "Voglio un succo",
+      "pt": "Eu quero um suco"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Bebo agua todos los días",
       "en": "I drink water every day",
       "fr": "Je bois de l'eau tous les jours",
-      "it": "Bevo acqua tutti i giorni"
+      "it": "Bevo acqua tutti i giorni",
+      "pt": "Eu bebo água todos os dias"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Bebo café por la mañana",
       "en": "I drink coffee in the morning",
       "fr": "Je bois du café le matin",
-      "it": "Bevo il caffè la mattina"
+      "it": "Bevo il caffè la mattina",
+      "pt": "Eu bebo café de manhã"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Prefiero té",
       "en": "I prefer tea",
       "fr": "Je préfère le thé",
-      "it": "Preferisco il tè"
+      "it": "Preferisco il tè",
+      "pt": "Eu prefiro chá"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Sin azúcar",
       "en": "No sugar",
       "fr": "Sans sucre",
-      "it": "Senza zucchero"
+      "it": "Senza zucchero",
+      "pt": "Sem açúcar"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Con azúcar",
       "en": "With sugar",
       "fr": "Avec du sucre",
-      "it": "Con zucchero"
+      "it": "Con zucchero",
+      "pt": "Com açúcar"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Con leche",
       "en": "With milk",
       "fr": "Avec du lait",
-      "it": "Con latte"
+      "it": "Con latte",
+      "pt": "Com leite"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Sin leche",
       "en": "No milk",
       "fr": "Sans lait",
-      "it": "Senza latte"
+      "it": "Senza latte",
+      "pt": "Sem leite"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Está frío",
       "en": "It is cold",
       "fr": "C'est froid",
-      "it": "È freddo"
+      "it": "È freddo",
+      "pt": "Está frio"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Está caliente",
       "en": "It is hot",
       "fr": "C'est chaud",
-      "it": "È caldo"
+      "it": "È caldo",
+      "pt": "Está quente"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Quiero algo de beber",
       "en": "I want something to drink",
       "fr": "Je veux quelque chose à boire",
-      "it": "Voglio qualcosa da bere"
+      "it": "Voglio qualcosa da bere",
+      "pt": "Eu quero algo para beber"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "¿Qué quieres beber?",
       "en": "What do you want to drink?",
       "fr": "Qu'est-ce que tu veux boire ?",
-      "it": "Cosa vuoi bere?"
+      "it": "Cosa vuoi bere?",
+      "pt": "O que você quer beber?"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Solo agua, gracias",
       "en": "Just water, thanks",
       "fr": "Juste de l'eau, merci",
-      "it": "Solo acqua, grazie"
+      "it": "Solo acqua, grazie",
+      "pt": "Só água, obrigado"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Una botella de agua",
       "en": "A bottle of water",
       "fr": "Une bouteille d'eau",
-      "it": "Una bottiglia d'acqua"
+      "it": "Una bottiglia d'acqua",
+      "pt": "Uma garrafa de água"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Un vaso de jugo",
       "en": "A glass of juice",
       "fr": "Un verre de jus",
-      "it": "Un bicchiere di succo"
+      "it": "Un bicchiere di succo",
+      "pt": "Um copo de suco"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Está delicioso",
       "en": "It is delicious",
       "fr": "C'est délicieux",
-      "it": "È delizioso"
+      "it": "È delizioso",
+      "pt": "É delicioso"
     },
     "difficulty": "Beginner"
   }

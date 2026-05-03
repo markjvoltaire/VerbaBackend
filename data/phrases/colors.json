@@ -5,7 +5,8 @@
       "es": "rojo",
       "en": "red",
       "fr": "rouge",
-      "it": "rosso"
+      "it": "rosso",
+      "pt": "vermelho"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "azul",
       "en": "blue",
       "fr": "bleu",
-      "it": "blu"
+      "it": "blu",
+      "pt": "azul"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "verde",
       "en": "green",
       "fr": "vert",
-      "it": "verde"
+      "it": "verde",
+      "pt": "verde"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "amarillo",
       "en": "yellow",
       "fr": "jaune",
-      "it": "giallo"
+      "it": "giallo",
+      "pt": "amarelo"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "negro",
       "en": "black",
       "fr": "noir",
-      "it": "nero"
+      "it": "nero",
+      "pt": "preto"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "blanco",
       "en": "white",
       "fr": "blanc",
-      "it": "bianco"
+      "it": "bianco",
+      "pt": "branco"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "gris",
       "en": "gray",
       "fr": "gris",
-      "it": "grigio"
+      "it": "grigio",
+      "pt": "cinza"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "naranja",
       "en": "orange",
       "fr": "orange",
-      "it": "arancione"
+      "it": "arancione",
+      "pt": "laranja"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "morado",
       "en": "purple",
       "fr": "violet",
-      "it": "viola"
+      "it": "viola",
+      "pt": "roxо"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "rosa",
       "en": "pink",
       "fr": "rose",
-      "it": "rosa"
+      "it": "rosa",
+      "pt": "rosa"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "El coche es rojo",
       "en": "The car is red",
       "fr": "La voiture est rouge",
-      "it": "L'auto è rossa"
+      "it": "L'auto è rossa",
+      "pt": "O carro é vermelho"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Me gusta el azul",
       "en": "I like blue",
       "fr": "J'aime le bleu",
-      "it": "Mi piace il blu"
+      "it": "Mi piace il blu",
+      "pt": "Eu gosto de azul"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "La casa es blanca",
       "en": "The house is white",
       "fr": "La maison est blanche",
-      "it": "La casa è bianca"
+      "it": "La casa è bianca",
+      "pt": "A casa é branca"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "El cielo es azul",
       "en": "The sky is blue",
       "fr": "Le ciel est bleu",
-      "it": "Il cielo è blu"
+      "it": "Il cielo è blu",
+      "pt": "O céu é azul"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "La hierba es verde",
       "en": "The grass is green",
       "fr": "L'herbe est verte",
-      "it": "L'erba è verde"
+      "it": "L'erba è verde",
+      "pt": "A grama é verde"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "El sol es amarillo",
       "en": "The sun is yellow",
       "fr": "Le soleil est jaune",
-      "it": "Il sole è giallo"
+      "it": "Il sole è giallo",
+      "pt": "O sol é amarelo"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Prefiero el negro",
       "en": "I prefer black",
       "fr": "Je préfère le noir",
-      "it": "Preferisco il nero"
+      "it": "Preferisco il nero",
+      "pt": "Eu prefiro preto"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "El vestido es rosa",
       "en": "The dress is pink",
       "fr": "La robe est rose",
-      "it": "Il vestito è rosa"
+      "it": "Il vestito è rosa",
+      "pt": "O vestido é rosa"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Es de color gris",
       "en": "It is gray colored",
       "fr": "C'est de couleur grise",
-      "it": "È di colore grigio"
+      "it": "È di colore grigio",
+      "pt": "É de cor cinza"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "¿Qué color es?",
       "en": "What color is it?",
       "fr": "Quelle couleur est-ce ?",
-      "it": "Che colore è?"
+      "it": "Che colore è?",
+      "pt": "Que cor é?"
     },
     "difficulty": "Beginner"
   }

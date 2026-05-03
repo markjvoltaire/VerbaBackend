@@ -5,7 +5,8 @@
       "es": "Trabajamos en equipo",
       "en": "We work as a team",
       "fr": "Nous travaillons en équipe",
-      "it": "Lavoriamo in squadra"
+      "it": "Lavoriamo in squadra",
+      "pt": "Trabalhamos em equipe"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Tenemos una reunión",
       "en": "We have a meeting",
       "fr": "Nous avons une réunion",
-      "it": "Abbiamo una riunione"
+      "it": "Abbiamo una riunione",
+      "pt": "Temos uma reunião"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Voy a presentar el proyecto",
       "en": "I am going to present the project",
       "fr": "Je vais présenter le projet",
-      "it": "Presenterò il progetto"
+      "it": "Presenterò il progetto",
+      "pt": "Vou apresentar o projeto"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Necesitamos resultados",
       "en": "We need results",
       "fr": "Nous avons besoin de résultats",
-      "it": "Abbiamo bisogno di risultati"
+      "it": "Abbiamo bisogno di risultati",
+      "pt": "Precisamos de resultados"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Es una prioridad",
       "en": "It is a priority",
       "fr": "C'est une priorité",
-      "it": "È una priorità"
+      "it": "È una priorità",
+      "pt": "É uma prioridade"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Estamos en proceso",
       "en": "We are in process",
       "fr": "Nous sommes en cours",
-      "it": "Siamo in corso"
+      "it": "Siamo in corso",
+      "pt": "Estamos em processo"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Cumplimos los objetivos",
       "en": "We meet the goals",
       "fr": "Nous atteignons les objectifs",
-      "it": "Raggiungiamo gli obiettivi"
+      "it": "Raggiungiamo gli obiettivi",
+      "pt": "Cumprimos as metas"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Necesitamos mejorar",
       "en": "We need to improve",
       "fr": "Nous devons nous améliorer",
-      "it": "Dobbiamo migliorare"
+      "it": "Dobbiamo migliorare",
+      "pt": "Precisamos melhorar"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "El rendimiento es alto",
       "en": "Performance is high",
       "fr": "La performance est élevée",
-      "it": "Le prestazioni sono elevate"
+      "it": "Le prestazioni sono elevate",
+      "pt": "O desempenho está alto"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "El rendimiento es bajo",
       "en": "Performance is low",
       "fr": "La performance est faible",
-      "it": "Le prestazioni sono basse"
+      "it": "Le prestazioni sono basse",
+      "pt": "O desempenho está baixo"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Es una oportunidad de negocio",
       "en": "It is a business opportunity",
       "fr": "C'est une opportunité d'affaires",
-      "it": "È un'opportunità di business"
+      "it": "È un'opportunità di business",
+      "pt": "É uma oportunidade de negócios"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Tomamos una decisión",
       "en": "We make a decision",
       "fr": "Nous prenons une décision",
-      "it": "Prendiamo una decisione"
+      "it": "Prendiamo una decisione",
+      "pt": "Tomamos uma decisão"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Analizamos los datos",
       "en": "We analyze the data",
       "fr": "Nous analysons les données",
-      "it": "Analizziamo i dati"
+      "it": "Analizziamo i dati",
+      "pt": "Analisamos os dados"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Es una estrategia efectiva",
       "en": "It is an effective strategy",
       "fr": "C'est une stratégie efficace",
-      "it": "È una strategia efficace"
+      "it": "È una strategia efficace",
+      "pt": "É uma estratégia eficaz"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Necesitamos un plan",
       "en": "We need a plan",
       "fr": "Nous avons besoin d'un plan",
-      "it": "Abbiamo bisogno di un piano"
+      "it": "Abbiamo bisogno di un piano",
+      "pt": "Precisamos de um plano"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "El proyecto avanza",
       "en": "The project progresses",
       "fr": "Le projet progresse",
-      "it": "Il progetto avanza"
+      "it": "Il progetto avanza",
+      "pt": "O projeto avança"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Hay un problema técnico",
       "en": "There is a technical problem",
       "fr": "Il y a un problème technique",
-      "it": "C'è un problema tecnico"
+      "it": "C'è un problema tecnico",
+      "pt": "Há um problema técnico"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Buscamos soluciones",
       "en": "We look for solutions",
       "fr": "Nous cherchons des solutions",
-      "it": "Cerchiamo soluzioni"
+      "it": "Cerchiamo soluzioni",
+      "pt": "Buscamos soluções"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Es un éxito",
       "en": "It is a success",
       "fr": "C'est un succès",
-      "it": "È un successo"
+      "it": "È un successo",
+      "pt": "É um sucesso"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Seguimos adelante",
       "en": "We move forward",
       "fr": "Nous avançons",
-      "it": "Andiamo avanti"
+      "it": "Andiamo avanti",
+      "pt": "Seguimos em frente"
     },
     "difficulty": "Advanced"
   }

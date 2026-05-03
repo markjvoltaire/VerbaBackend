@@ -5,7 +5,8 @@
       "es": "cero",
       "en": "zero",
       "fr": "zéro",
-      "it": "zero"
+      "it": "zero",
+      "pt": "zero"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "uno",
       "en": "one",
       "fr": "un",
-      "it": "uno"
+      "it": "uno",
+      "pt": "um"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "dos",
       "en": "two",
       "fr": "deux",
-      "it": "due"
+      "it": "due",
+      "pt": "dois"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "tres",
       "en": "three",
       "fr": "trois",
-      "it": "tre"
+      "it": "tre",
+      "pt": "três"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "cuatro",
       "en": "four",
       "fr": "quatre",
-      "it": "quattro"
+      "it": "quattro",
+      "pt": "quatro"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "cinco",
       "en": "five",
       "fr": "cinq",
-      "it": "cinque"
+      "it": "cinque",
+      "pt": "cinco"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "seis",
       "en": "six",
       "fr": "six",
-      "it": "sei"
+      "it": "sei",
+      "pt": "seis"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "siete",
       "en": "seven",
       "fr": "sept",
-      "it": "sette"
+      "it": "sette",
+      "pt": "sete"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "ocho",
       "en": "eight",
       "fr": "huit",
-      "it": "otto"
+      "it": "otto",
+      "pt": "oito"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "nueve",
       "en": "nine",
       "fr": "neuf",
-      "it": "nove"
+      "it": "nove",
+      "pt": "nove"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "diez",
       "en": "ten",
       "fr": "dix",
-      "it": "dieci"
+      "it": "dieci",
+      "pt": "dez"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "once",
       "en": "eleven",
       "fr": "onze",
-      "it": "undici"
+      "it": "undici",
+      "pt": "onze"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "doce",
       "en": "twelve",
       "fr": "douze",
-      "it": "dodici"
+      "it": "dodici",
+      "pt": "doze"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "trece",
       "en": "thirteen",
       "fr": "treize",
-      "it": "tredici"
+      "it": "tredici",
+      "pt": "treze"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "catorce",
       "en": "fourteen",
       "fr": "quatorze",
-      "it": "quattordici"
+      "it": "quattordici",
+      "pt": "quatorze"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "quince",
       "en": "fifteen",
       "fr": "quinze",
-      "it": "quindici"
+      "it": "quindici",
+      "pt": "quinze"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "veinte",
       "en": "twenty",
       "fr": "vingt",
-      "it": "venti"
+      "it": "venti",
+      "pt": "vinte"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "treinta",
       "en": "thirty",
       "fr": "trente",
-      "it": "trenta"
+      "it": "trenta",
+      "pt": "trinta"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "cincuenta",
       "en": "fifty",
       "fr": "cinquante",
-      "it": "cinquanta"
+      "it": "cinquanta",
+      "pt": "cinquenta"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "cien",
       "en": "one hundred",
       "fr": "cent",
-      "it": "cento"
+      "it": "cento",
+      "pt": "cem"
     },
     "difficulty": "Beginner"
   }

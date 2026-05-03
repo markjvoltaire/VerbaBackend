@@ -5,7 +5,8 @@
       "es": "Voy a viajar pronto",
       "en": "I am going to travel soon",
       "fr": "Je vais bientôt voyager",
-      "it": "Viaggerò presto"
+      "it": "Viaggerò presto",
+      "pt": "Vou viajar em breve"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Planeo estudiar más",
       "en": "I plan to study more",
       "fr": "Je compte étudier davantage",
-      "it": "Ho intenzione di studiare di più"
+      "it": "Ho intenzione di studiare di più",
+      "pt": "Planejo estudar mais"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Quiero aprender español",
       "en": "I want to learn Spanish",
       "fr": "Je veux apprendre l'espagnol",
-      "it": "Voglio imparare lo spagnolo"
+      "it": "Voglio imparare lo spagnolo",
+      "pt": "Quero aprender espanhol"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Voy a empezar un nuevo trabajo",
       "en": "I am going to start a new job",
       "fr": "Je vais commencer un nouveau travail",
-      "it": "Inizierò un nuovo lavoro"
+      "it": "Inizierò un nuovo lavoro",
+      "pt": "Vou começar um novo trabalho"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Voy a mudarme",
       "en": "I am going to move",
       "fr": "Je vais déménager",
-      "it": "Traslocherò"
+      "it": "Traslocherò",
+      "pt": "Vou me mudar"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Espero mejorar",
       "en": "I hope to improve",
       "fr": "J'espère m'améliorer",
-      "it": "Spero di migliorare"
+      "it": "Spero di migliorare",
+      "pt": "Espero melhorar"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Quiero viajar más",
       "en": "I want to travel more",
       "fr": "Je veux voyager davantage",
-      "it": "Voglio viaggiare di più"
+      "it": "Voglio viaggiare di più",
+      "pt": "Quero viajar mais"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Voy a ahorrar dinero",
       "en": "I am going to save money",
       "fr": "Je vais économiser de l'argent",
-      "it": "Risparmierò dei soldi"
+      "it": "Risparmierò dei soldi",
+      "pt": "Vou economizar dinheiro"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Voy a comenzar un proyecto",
       "en": "I am going to start a project",
       "fr": "Je vais lancer un projet",
-      "it": "Inizierò un progetto"
+      "it": "Inizierò un progetto",
+      "pt": "Vou começar um projeto"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Planeo salir este fin de semana",
       "en": "I plan to go out this weekend",
       "fr": "Je compte sortir ce week-end",
-      "it": "Ho intenzione di uscire questo fine settimana"
+      "it": "Ho intenzione di uscire questo fine settimana",
+      "pt": "Planejo sair neste fim de semana"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Quiero cambiar mi vida",
       "en": "I want to change my life",
       "fr": "Je veux changer ma vie",
-      "it": "Voglio cambiare la mia vita"
+      "it": "Voglio cambiare la mia vita",
+      "pt": "Quero mudar minha vida"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Voy a hacer ejercicio",
       "en": "I am going to exercise",
       "fr": "Je vais faire de l'exercice",
-      "it": "Farò esercizio"
+      "it": "Farò esercizio",
+      "pt": "Vou me exercitar"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Voy a aprender algo nuevo",
       "en": "I am going to learn something new",
       "fr": "Je vais apprendre quelque chose de nouveau",
-      "it": "Imparerò qualcosa di nuovo"
+      "it": "Imparerò qualcosa di nuovo",
+      "pt": "Vou aprender algo novo"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Espero tener éxito",
       "en": "I hope to succeed",
       "fr": "J'espère réussir",
-      "it": "Spero di avere successo"
+      "it": "Spero di avere successo",
+      "pt": "Espero ter sucesso"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Quiero ser mejor",
       "en": "I want to be better",
       "fr": "Je veux être meilleur",
-      "it": "Voglio essere migliore"
+      "it": "Voglio essere migliore",
+      "pt": "Quero ser melhor"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Voy a intentarlo",
       "en": "I am going to try",
       "fr": "Je vais essayer",
-      "it": "Ci proverò"
+      "it": "Ci proverò",
+      "pt": "Vou tentar"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Planeo visitar a mi familia",
       "en": "I plan to visit my family",
       "fr": "Je compte rendre visite à ma famille",
-      "it": "Ho intenzione di visitare la mia famiglia"
+      "it": "Ho intenzione di visitare la mia famiglia",
+      "pt": "Planejo visitar minha família"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Voy a estudiar mañana",
       "en": "I am going to study tomorrow",
       "fr": "Je vais étudier demain",
-      "it": "Domani studierò"
+      "it": "Domani studierò",
+      "pt": "Vou estudar amanhã"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Quiero mejorar mi español",
       "en": "I want to improve my Spanish",
       "fr": "Je veux améliorer mon espagnol",
-      "it": "Voglio migliorare il mio spagnolo"
+      "it": "Voglio migliorare il mio spagnolo",
+      "pt": "Quero melhorar meu espanhol"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Voy a lograr mis metas",
       "en": "I am going to achieve my goals",
       "fr": "Je vais atteindre mes objectifs",
-      "it": "Raggiungerò i miei obiettivi"
+      "it": "Raggiungerò i miei obiettivi",
+      "pt": "Vou alcançar meus objetivos"
     },
     "difficulty": "Intermediate"
   }

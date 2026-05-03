@@ -5,7 +5,8 @@
       "es": "Uso mi teléfono todos los días",
       "fr": "J'utilise mon téléphone tous les jours",
       "it": "Uso il mio telefono tutti i giorni",
-      "en": "I use my phone every day"
+      "en": "I use my phone every day",
+      "pt": "Eu uso meu telefone todos os dias"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Uso la computadora",
       "fr": "J'utilise l'ordinateur",
       "it": "Uso il computer",
-      "en": "I use the computer"
+      "en": "I use the computer",
+      "pt": "Eu uso o computador"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Trabajo en línea",
       "fr": "Je travaille en ligne",
       "it": "Lavoro online",
-      "en": "I work online"
+      "en": "I work online",
+      "pt": "Eu trabalho online"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Estudio en línea",
       "fr": "J'étudie en ligne",
       "it": "Studio online",
-      "en": "I study online"
+      "en": "I study online",
+      "pt": "Eu estudo online"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Uso internet mucho",
       "fr": "J'utilise beaucoup internet",
       "it": "Uso molto internet",
-      "en": "I use the internet a lot"
+      "en": "I use the internet a lot",
+      "pt": "Eu uso muito a internet"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Busco información",
       "fr": "Je cherche des informations",
       "it": "Cerco informazioni",
-      "en": "I search for information"
+      "en": "I search for information",
+      "pt": "Eu pesquiso por informações"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Descargo aplicaciones",
       "fr": "Je télécharge des applications",
       "it": "Scarico delle applicazioni",
-      "en": "I download apps"
+      "en": "I download apps",
+      "pt": "Eu baixo aplicativos"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Uso redes sociales",
       "fr": "J'utilise les réseaux sociaux",
       "it": "Uso i social media",
-      "en": "I use social media"
+      "en": "I use social media",
+      "pt": "Eu uso redes sociais"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Envio mensajes",
       "fr": "J'envoie des messages",
       "it": "Invio messaggi",
-      "en": "I send messages"
+      "en": "I send messages",
+      "pt": "Eu envio mensagens"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Hago videollamadas",
       "fr": "Je fais des appels vidéo",
       "it": "Faccio videochiamate",
-      "en": "I make video calls"
+      "en": "I make video calls",
+      "pt": "Eu faço chamadas de vídeo"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "La tecnología ayuda mucho",
       "fr": "La technologie aide beaucoup",
       "it": "La tecnologia aiuta molto",
-      "en": "Technology helps a lot"
+      "en": "Technology helps a lot",
+      "pt": "A tecnologia ajuda bastante"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "La tecnología cambia rápido",
       "fr": "La technologie évolue vite",
       "it": "La tecnologia cambia velocemente",
-      "en": "Technology changes fast"
+      "en": "Technology changes fast",
+      "pt": "A tecnologia muda rápido"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es fácil de usar",
       "fr": "C'est facile à utiliser",
       "it": "È facile da usare",
-      "en": "It is easy to use"
+      "en": "It is easy to use",
+      "pt": "É fácil de usar"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Es difícil de usar",
       "fr": "C'est difficile à utiliser",
       "it": "È difficile da usare",
-      "en": "It is difficult to use"
+      "en": "It is difficult to use",
+      "pt": "É difícil de usar"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Necesito conexión",
       "fr": "J'ai besoin d'une connexion",
       "it": "Ho bisogno di una connessione",
-      "en": "I need a connection"
+      "en": "I need a connection",
+      "pt": "Eu preciso de uma conexão"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "No tengo internet",
       "fr": "Je n'ai pas internet",
       "it": "Non ho internet",
-      "en": "I don't have internet"
+      "en": "I don't have internet",
+      "pt": "Eu não tenho internet"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Funciona bien",
       "fr": "Ça marche bien",
       "it": "Funziona bene",
-      "en": "It works well"
+      "en": "It works well",
+      "pt": "Funciona bem"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "No funciona",
       "fr": "Ça ne marche pas",
       "it": "Non funziona",
-      "en": "It doesn't work"
+      "en": "It doesn't work",
+      "pt": "Não funciona"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Es útil",
       "fr": "C'est utile",
       "it": "È utile",
-      "en": "It is useful"
+      "en": "It is useful",
+      "pt": "É útil"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Lo uso todos los días",
       "fr": "Je l'utilise tous les jours",
       "it": "Lo uso tutti i giorni",
-      "en": "I use it every day"
+      "en": "I use it every day",
+      "pt": "Eu uso isso todos os dias"
     },
     "difficulty": "Intermediate"
   }

@@ -5,7 +5,8 @@
       "es": "Hola",
       "en": "Hello",
       "fr": "Bonjour",
-      "it": "Ciao"
+      "it": "Ciao",
+      "pt": "Olá"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Buenos días",
       "en": "Good morning",
       "fr": "Bonjour",
-      "it": "Buongiorno"
+      "it": "Buongiorno",
+      "pt": "Bom dia"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Buenas tardes",
       "en": "Good afternoon",
       "fr": "Bon après-midi",
-      "it": "Buon pomeriggio"
+      "it": "Buon pomeriggio",
+      "pt": "Boa tarde"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Buenas noches",
       "en": "Good evening",
       "fr": "Bonsoir",
-      "it": "Buonasera"
+      "it": "Buonasera",
+      "pt": "Boa noite"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "¿Cómo estás?",
       "en": "How are you?",
       "fr": "Comment vas-tu ?",
-      "it": "Come stai?"
+      "it": "Come stai?",
+      "pt": "Como você está?"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "¿Cómo está usted?",
       "en": "How are you? (formal)",
       "fr": "Comment allez-vous ?",
-      "it": "Come sta?"
+      "it": "Come sta?",
+      "pt": "Como o senhor/a senhora está?"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "¿Qué tal?",
       "en": "How's it going?",
       "fr": "Comment ça va ?",
-      "it": "Come va?"
+      "it": "Come va?",
+      "pt": "Tudo bem?"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Mucho gusto",
       "en": "Nice to meet you",
       "fr": "Enchanté",
-      "it": "Piacere di conoscerti"
+      "it": "Piacere di conoscerti",
+      "pt": "Prazer em te conhecer"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Encantado de conocerte",
       "en": "Nice to meet you",
       "fr": "Ravi de te rencontrer",
-      "it": "Lieto di conoscerti"
+      "it": "Lieto di conoscerti",
+      "pt": "Prazer em conhecê-lo/a"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "¿Todo bien?",
       "en": "Everything good?",
       "fr": "Tout va bien ?",
-      "it": "Tutto bene?"
+      "it": "Tutto bene?",
+      "pt": "Tudo certo?"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "¿Qué pasa?",
       "en": "What's up?",
       "fr": "Quoi de neuf ?",
-      "it": "Che succede?"
+      "it": "Che succede?",
+      "pt": "E aí?"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "¡Bienvenido!",
       "en": "Welcome",
       "fr": "Bienvenue !",
-      "it": "Benvenuto!"
+      "it": "Benvenuto!",
+      "pt": "Bem-vindo"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Hola, ¿cómo te va?",
       "en": "Hi, how are things going?",
       "fr": "Salut, comment ça se passe ?",
-      "it": "Ciao, come vanno le cose?"
+      "it": "Ciao, come vanno le cose?",
+      "pt": "Oi, como estão as coisas?"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Me alegra verte",
       "en": "I'm glad to see you",
       "fr": "Je suis content de te voir",
-      "it": "Sono contento di vederti"
+      "it": "Sono contento di vederti",
+      "pt": "Fico feliz em te ver"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Hace tiempo que no te veo",
       "en": "Long time no see",
       "fr": "Ça fait longtemps qu'on ne s'est pas vus",
-      "it": "È da tanto che non ci vediamo"
+      "it": "È da tanto che non ci vediamo",
+      "pt": "Há quanto tempo!"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "¿Cómo va tu día?",
       "en": "How is your day going?",
       "fr": "Comment se passe ta journée ?",
-      "it": "Come sta andando la tua giornata?"
+      "it": "Come sta andando la tua giornata?",
+      "pt": "Como está seu dia?"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Encantado",
       "en": "Pleased to meet you",
       "fr": "Enchanté",
-      "it": "Piacere"
+      "it": "Piacere",
+      "pt": "Prazer em conhecê-lo/a"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Hola amigo",
       "en": "Hello friend",
       "fr": "Salut mon ami",
-      "it": "Ciao amico"
+      "it": "Ciao amico",
+      "pt": "Olá amigo"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Hola a todos",
       "en": "Hello everyone",
       "fr": "Bonjour à tous",
-      "it": "Ciao a tutti"
+      "it": "Ciao a tutti",
+      "pt": "Olá a todos"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Buenas",
       "en": "Hi / Hello (casual)",
       "fr": "Salut",
-      "it": "Ciao"
+      "it": "Ciao",
+      "pt": "Oi / Olá (casual)"
     },
     "difficulty": "Beginner"
   }

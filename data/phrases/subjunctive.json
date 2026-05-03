@@ -5,7 +5,8 @@
       "es": "Quiero que vengas",
       "fr": "Je veux que tu viennes",
       "it": "Voglio che tu venga",
-      "en": "I want you to come"
+      "en": "I want you to come",
+      "pt": "Eu quero que você venha"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Es importante que estudies",
       "fr": "Il est important que tu étudies",
       "it": "È importante che tu studi",
-      "en": "It is important that you study"
+      "en": "It is important that you study",
+      "pt": "É importante que você estude"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Espero que estés bien",
       "fr": "J'espère que tu vas bien",
       "it": "Spero che tu stia bene",
-      "en": "I hope you are well"
+      "en": "I hope you are well",
+      "pt": "Espero que você esteja bem"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Dudo que sea cierto",
       "fr": "Je doute que ce soit vrai",
       "it": "Dubito che sia vero",
-      "en": "I doubt that it is true"
+      "en": "I doubt that it is true",
+      "pt": "Eu duvido que isso seja verdade"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "No creo que funcione",
       "fr": "Je ne pense pas que ça marche",
       "it": "Non credo che funzioni",
-      "en": "I don't think it works"
+      "en": "I don't think it works",
+      "pt": "Eu não acho que funcione"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Ojalá tenga tiempo",
       "fr": "J'espère avoir le temps",
       "it": "Speriamo che abbia tempo",
-      "en": "Hopefully I have time"
+      "en": "Hopefully I have time",
+      "pt": "Tomara que eu tenha tempo"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Es posible que llueva",
       "fr": "Il est possible qu'il pleuve",
       "it": "È possibile che piova",
-      "en": "It is possible that it rains"
+      "en": "It is possible that it rains",
+      "pt": "É possível que chova"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Es necesario que lo hagas",
       "fr": "Il est nécessaire que tu le fasses",
       "it": "È necessario che tu lo faccia",
-      "en": "It is necessary that you do it"
+      "en": "It is necessary that you do it",
+      "pt": "É necessário que você faça isso"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Me alegra que estés aquí",
       "fr": "Je suis content que tu sois là",
       "it": "Sono contento che tu sia qui",
-      "en": "I am glad you are here"
+      "en": "I am glad you are here",
+      "pt": "Fico feliz que você esteja aqui"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Es raro que diga eso",
       "fr": "C'est étrange qu'il dise ça",
       "it": "È strano che dica questo",
-      "en": "It is strange that he says that"
+      "en": "It is strange that he says that",
+      "pt": "É estranho que ele diga isso"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Busco algo que sea útil",
       "fr": "Je cherche quelque chose qui soit utile",
       "it": "Cerco qualcosa che sia utile",
-      "en": "I look for something that is useful"
+      "en": "I look for something that is useful",
+      "pt": "Eu procuro algo que seja útil"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "No hay nadie que pueda hacerlo",
       "fr": "Il n'y a personne qui puisse le faire",
       "it": "Non c'è nessuno che possa farlo",
-      "en": "There is no one who can do it"
+      "en": "There is no one who can do it",
+      "pt": "Não há ninguém que possa fazer isso"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Antes de que llegues",
       "fr": "Avant que tu n'arrives",
       "it": "Prima che tu arrivi",
-      "en": "Before you arrive"
+      "en": "Before you arrive",
+      "pt": "Antes de você chegar"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Para que entiendas",
       "fr": "Pour que tu comprennes",
       "it": "Affinché tu capisca",
-      "en": "So that you understand"
+      "en": "So that you understand",
+      "pt": "Para que você entenda"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Sin que lo sepas",
       "fr": "Sans que tu le saches",
       "it": "Senza che tu lo sappia",
-      "en": "Without you knowing it"
+      "en": "Without you knowing it",
+      "pt": "Sem que você saiba"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Aunque sea difícil",
       "fr": "Même si c'est difficile",
       "it": "Anche se è difficile",
-      "en": "Even if it is difficult"
+      "en": "Even if it is difficult",
+      "pt": "Mesmo que seja difícil"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Cuando tengas tiempo",
       "fr": "Quand tu auras le temps",
       "it": "Quando avrai tempo",
-      "en": "When you have time"
+      "en": "When you have time",
+      "pt": "Quando você tiver tempo"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "En caso de que pase",
       "fr": "Au cas où ça arriverait",
       "it": "Nel caso in cui succeda",
-      "en": "In case it happens"
+      "en": "In case it happens",
+      "pt": "Caso isso aconteça"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Como si fuera verdad",
       "fr": "Comme si c'était vrai",
       "it": "Come se fosse vero",
-      "en": "As if it were true"
+      "en": "As if it were true",
+      "pt": "Como se fosse verdade"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Ojalá fuera más fácil",
       "fr": "Si seulement c'était plus facile",
       "it": "Magari fosse più facile",
-      "en": "I wish it were easier"
+      "en": "I wish it were easier",
+      "pt": "Eu gostaria que fosse mais fácil"
     },
     "difficulty": "Advanced"
   }

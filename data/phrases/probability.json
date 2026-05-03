@@ -5,7 +5,8 @@
       "es": "Puede que tenga razón",
       "en": "He might be right",
       "fr": "Il a peut-être raison",
-      "it": "Potrebbe avere ragione"
+      "it": "Potrebbe avere ragione",
+      "pt": "Ele pode estar certo"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Probablemente venga",
       "en": "He will probably come",
       "fr": "Il viendra probablement",
-      "it": "Probabilmente verrà"
+      "it": "Probabilmente verrà",
+      "pt": "Ele provavelmente virá"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Es probable que pase",
       "en": "It is likely to happen",
       "fr": "Il est probable que ça arrive",
-      "it": "È probabile che succeda"
+      "it": "È probabile che succeda",
+      "pt": "É provável que aconteça"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Tal vez sea verdad",
       "en": "Maybe it is true",
       "fr": "C'est peut-être vrai",
-      "it": "Forse è vero"
+      "it": "Forse è vero",
+      "pt": "Talvez seja verdade"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Quizás lo haga",
       "en": "Maybe he will do it",
       "fr": "Peut-être qu'il le fera",
-      "it": "Forse lo farà"
+      "it": "Forse lo farà",
+      "pt": "Talvez ele faça isso"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "No estoy seguro",
       "en": "I am not sure",
       "fr": "Je ne suis pas sûr",
-      "it": "Non sono sicuro"
+      "it": "Non sono sicuro",
+      "pt": "Não tenho certeza"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Lo dudo mucho",
       "en": "I highly doubt it",
       "fr": "J'en doute fort",
-      "it": "Ne dubito fortemente"
+      "it": "Ne dubito fortemente",
+      "pt": "Duvido muito disso"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Es poco probable",
       "en": "It is unlikely",
       "fr": "C'est peu probable",
-      "it": "È improbabile"
+      "it": "È improbabile",
+      "pt": "É improvável"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Seguro que sí",
       "en": "Surely yes",
       "fr": "Sûrement oui",
-      "it": "Sicuramente sì"
+      "it": "Sicuramente sì",
+      "pt": "Com certeza sim"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Seguro que no",
       "en": "Surely not",
       "fr": "Sûrement pas",
-      "it": "Sicuramente no"
+      "it": "Sicuramente no",
+      "pt": "Com certeza não"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Sin duda",
       "en": "Without a doubt",
       "fr": "Sans aucun doute",
-      "it": "Senza dubbio"
+      "it": "Senza dubbio",
+      "pt": "Sem dúvida"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy convencido",
       "en": "I am convinced",
       "fr": "J'en suis convaincu",
-      "it": "Sono convinto"
+      "it": "Sono convinto",
+      "pt": "Estou convencido"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "No cabe duda",
       "en": "There is no doubt",
       "fr": "Il n'y a aucun doute",
-      "it": "Non c'è alcun dubbio"
+      "it": "Non c'è alcun dubbio",
+      "pt": "Não há dúvida"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Es evidente",
       "en": "It is evident",
       "fr": "C'est évident",
-      "it": "È evidente"
+      "it": "È evidente",
+      "pt": "É evidente"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Parece que sí",
       "en": "It seems so",
       "fr": "Il semble que oui",
-      "it": "Sembra di sì"
+      "it": "Sembra di sì",
+      "pt": "Parece que sim"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Parece que no",
       "en": "It seems not",
       "fr": "Il semble que non",
-      "it": "Sembra di no"
+      "it": "Sembra di no",
+      "pt": "Parece que não"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Todo indica que",
       "en": "Everything indicates that",
       "fr": "Tout indique que",
-      "it": "Tutto indica che"
+      "it": "Tutto indica che",
+      "pt": "Tudo indica que"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "A lo mejor",
       "en": "Maybe",
       "fr": "Peut-être",
-      "it": "Forse"
+      "it": "Forse",
+      "pt": "Talvez"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Diría que sí",
       "en": "I would say yes",
       "fr": "Je dirais que oui",
-      "it": "Direi di sì"
+      "it": "Direi di sì",
+      "pt": "Eu diria sim"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Diría que no",
       "en": "I would say no",
       "fr": "Je dirais que non",
-      "it": "Direi di no"
+      "it": "Direi di no",
+      "pt": "Eu diria não"
     },
     "difficulty": "Advanced"
   }

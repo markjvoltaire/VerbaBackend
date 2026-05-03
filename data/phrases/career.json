@@ -5,7 +5,8 @@
       "es": "Busco trabajo",
       "en": "I am looking for a job",
       "fr": "Je cherche un emploi",
-      "it": "Sto cercando un lavoro"
+      "it": "Sto cercando un lavoro",
+      "pt": "Estou procurando um emprego"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Tengo experiencia",
       "en": "I have experience",
       "fr": "J'ai de l'expérience",
-      "it": "Ho esperienza"
+      "it": "Ho esperienza",
+      "pt": "Tenho experiência"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Trabajo en una empresa",
       "en": "I work in a company",
       "fr": "Je travaille dans une entreprise",
-      "it": "Lavoro in un'azienda"
+      "it": "Lavoro in un'azienda",
+      "pt": "Trabalho em uma empresa"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Me gusta mi trabajo",
       "en": "I like my job",
       "fr": "J'aime mon travail",
-      "it": "Mi piace il mio lavoro"
+      "it": "Mi piace il mio lavoro",
+      "pt": "Gosto do meu trabalho"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "No me gusta mi trabajo",
       "en": "I don't like my job",
       "fr": "Je n'aime pas mon travail",
-      "it": "Non mi piace il mio lavoro"
+      "it": "Non mi piace il mio lavoro",
+      "pt": "Não gosto do meu trabalho"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Quiero cambiar de trabajo",
       "en": "I want to change jobs",
       "fr": "Je veux changer de travail",
-      "it": "Voglio cambiare lavoro"
+      "it": "Voglio cambiare lavoro",
+      "pt": "Quero mudar de emprego"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Trabajo duro",
       "en": "I work hard",
       "fr": "Je travaille dur",
-      "it": "Lavoro sodo"
+      "it": "Lavoro sodo",
+      "pt": "Trabalho duro"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Trabajo en equipo",
       "en": "I work in a team",
       "fr": "Je travaille en équipe",
-      "it": "Lavoro in team"
+      "it": "Lavoro in team",
+      "pt": "Trabalho em equipe"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Tengo una entrevista",
       "en": "I have an interview",
       "fr": "J'ai un entretien",
-      "it": "Ho un colloquio"
+      "it": "Ho un colloquio",
+      "pt": "Tenho uma entrevista"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Estoy preparado",
       "en": "I am prepared",
       "fr": "Je suis préparé",
-      "it": "Sono preparato"
+      "it": "Sono preparato",
+      "pt": "Estou preparado"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Quiero crecer profesionalmente",
       "en": "I want to grow professionally",
       "fr": "Je veux grandir professionnellement",
-      "it": "Voglio crescere professionalmente"
+      "it": "Voglio crescere professionalmente",
+      "pt": "Quero crescer profissionalmente"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Aprendo nuevas habilidades",
       "en": "I learn new skills",
       "fr": "J'apprends de nouvelles compétences",
-      "it": "Imparo nuove abilità"
+      "it": "Imparo nuove abilità",
+      "pt": "Aprendo novas habilidades"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Mi trabajo es interesante",
       "en": "My job is interesting",
       "fr": "Mon travail est intéressant",
-      "it": "Il mio lavoro è interessante"
+      "it": "Il mio lavoro è interessante",
+      "pt": "Meu trabalho é interessante"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Mi trabajo es difícil",
       "en": "My job is difficult",
       "fr": "Mon travail est difficile",
-      "it": "Il mio lavoro è difficile"
+      "it": "Il mio lavoro è difficile",
+      "pt": "Meu trabalho é difícil"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Gano experiencia",
       "en": "I gain experience",
       "fr": "Je gagne de l'expérience",
-      "it": "Acquisisco esperienza"
+      "it": "Acquisisco esperienza",
+      "pt": "Adquiro experiência"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Trabajo muchas horas",
       "en": "I work many hours",
       "fr": "Je travaille beaucoup d'heures",
-      "it": "Lavoro molte ore"
+      "it": "Lavoro molte ore",
+      "pt": "Trabalho muitas horas"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Necesito un descanso",
       "en": "I need a break",
       "fr": "J'ai besoin d'une pause",
-      "it": "Ho bisogno di una pausa"
+      "it": "Ho bisogno di una pausa",
+      "pt": "Preciso de uma pausa"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Quiero tener éxito",
       "en": "I want to succeed",
       "fr": "Je veux réussir",
-      "it": "Voglio avere successo"
+      "it": "Voglio avere successo",
+      "pt": "Quero ter sucesso"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Mi meta es mejorar",
       "en": "My goal is to improve",
       "fr": "Mon objectif est de m'améliorer",
-      "it": "Il mio obiettivo è migliorare"
+      "it": "Il mio obiettivo è migliorare",
+      "pt": "Meu objetivo é melhorar"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Trabajo para el futuro",
       "en": "I work for the future",
       "fr": "Je travaille pour l'avenir",
-      "it": "Lavoro per il futuro"
+      "it": "Lavoro per il futuro",
+      "pt": "Trabalho pelo futuro"
     },
     "difficulty": "Intermediate"
   }

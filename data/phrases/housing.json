@@ -5,7 +5,8 @@
       "es": "Busco un apartamento",
       "en": "I am looking for an apartment",
       "fr": "Je cherche un appartement",
-      "it": "Sto cercando un appartamento"
+      "it": "Sto cercando un appartamento",
+      "pt": "Estou procurando um apartamento"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "¿Cuánto cuesta el alquiler?",
       "en": "How much is the rent?",
       "fr": "Combien coûte le loyer ?",
-      "it": "Quanto costa l'affitto?"
+      "it": "Quanto costa l'affitto?",
+      "pt": "Quanto é o aluguel?"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "El alquiler es caro",
       "en": "The rent is expensive",
       "fr": "Le loyer est cher",
-      "it": "L'affitto è caro"
+      "it": "L'affitto è caro",
+      "pt": "O aluguel é caro"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "El alquiler es barato",
       "en": "The rent is cheap",
       "fr": "Le loyer est bon marché",
-      "it": "L'affitto è economico"
+      "it": "L'affitto è economico",
+      "pt": "O aluguel é barato"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Quiero alquilar este lugar",
       "en": "I want to rent this place",
       "fr": "Je veux louer cet endroit",
-      "it": "Voglio affittare questo posto"
+      "it": "Voglio affittare questo posto",
+      "pt": "Quero alugar este lugar"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "¿Está disponible?",
       "en": "Is it available?",
       "fr": "C'est disponible ?",
-      "it": "È disponibile?"
+      "it": "È disponibile?",
+      "pt": "Está disponível?"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "¿Cuántas habitaciones tiene?",
       "en": "How many rooms does it have?",
       "fr": "Combien de pièces y a-t-il ?",
-      "it": "Quante stanze ha?"
+      "it": "Quante stanze ha?",
+      "pt": "Quantos quartos tem?"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Tiene dos habitaciones",
       "en": "It has two rooms",
       "fr": "Il a deux pièces",
-      "it": "Ha due stanze"
+      "it": "Ha due stanze",
+      "pt": "Tem dois quartos"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "Tiene un baño",
       "en": "It has one bathroom",
       "fr": "Il a une salle de bain",
-      "it": "Ha un bagno"
+      "it": "Ha un bagno",
+      "pt": "Tem um banheiro"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Está bien ubicado",
       "en": "It is well located",
       "fr": "C'est bien situé",
-      "it": "È ben posizionato"
+      "it": "È ben posizionato",
+      "pt": "É bem localizado"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Está lejos",
       "en": "It is far",
       "fr": "C'est loin",
-      "it": "È lontano"
+      "it": "È lontano",
+      "pt": "É longe"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Está cerca",
       "en": "It is close",
       "fr": "C'est près",
-      "it": "È vicino"
+      "it": "È vicino",
+      "pt": "É perto"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Necesito algo más grande",
       "en": "I need something bigger",
       "fr": "J'ai besoin de quelque chose de plus grand",
-      "it": "Ho bisogno di qualcosa di più grande"
+      "it": "Ho bisogno di qualcosa di più grande",
+      "pt": "Preciso de algo maior"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Necesito algo más pequeño",
       "en": "I need something smaller",
       "fr": "J'ai besoin de quelque chose de plus petit",
-      "it": "Ho bisogno di qualcosa di più piccolo"
+      "it": "Ho bisogno di qualcosa di più piccolo",
+      "pt": "Preciso de algo menor"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "¿Incluye servicios?",
       "en": "Does it include utilities?",
       "fr": "Les charges sont-elles incluses ?",
-      "it": "Le spese sono incluse?"
+      "it": "Le spese sono incluse?",
+      "pt": "Inclui despesas?"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "¿Se permite mascotas?",
       "en": "Are pets allowed?",
       "fr": "Les animaux sont-ils acceptés ?",
-      "it": "Sono ammessi gli animali domestici?"
+      "it": "Sono ammessi gli animali domestici?",
+      "pt": "Animais de estimação são permitidos?"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Quiero ver el lugar",
       "en": "I want to see the place",
       "fr": "Je veux voir l'endroit",
-      "it": "Voglio vedere il posto"
+      "it": "Voglio vedere il posto",
+      "pt": "Quero ver o lugar"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Me gusta este apartamento",
       "en": "I like this apartment",
       "fr": "Cet appartement me plaît",
-      "it": "Mi piace questo appartamento"
+      "it": "Mi piace questo appartamento",
+      "pt": "Gosto deste apartamento"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "No me gusta",
       "en": "I don't like it",
       "fr": "Ça ne me plaît pas",
-      "it": "Non mi piace"
+      "it": "Non mi piace",
+      "pt": "Não gostei"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Voy a pensarlo",
       "en": "I am going to think about it",
       "fr": "Je vais y réfléchir",
-      "it": "Ci penserò"
+      "it": "Ci penserò",
+      "pt": "Vou pensar sobre isso"
     },
     "difficulty": "Intermediate"
   }

@@ -5,7 +5,7 @@ const PHRASES_DIR = path.join(__dirname, '../data/phrases');
 
 /**
  * Loads and expands phrases from per-scenario JSON files.
- * New format: { phrase, translations: { es, fr, it, en }, difficulty }
+ * New format: { phrase, translations: { es, fr, it, en, pt }, difficulty }
  * Returns flat array: { id, target_lang, phrase, translation, scenario, difficulty }
  */
 function loadPhrases() {

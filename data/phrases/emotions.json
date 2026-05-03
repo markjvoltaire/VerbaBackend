@@ -5,7 +5,8 @@
       "es": "Me siento abrumado",
       "en": "I feel overwhelmed",
       "fr": "Je me sens submergé",
-      "it": "Mi sento sopraffatto"
+      "it": "Mi sento sopraffatto",
+      "pt": "Estou me sentindo sobrecarregado"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Estoy profundamente agradecido",
       "en": "I am deeply grateful",
       "fr": "Je suis profondément reconnaissant",
-      "it": "Sono profondamente grato"
+      "it": "Sono profondamente grato",
+      "pt": "Estou profundamente agradecido"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Me siento frustrado",
       "en": "I feel frustrated",
       "fr": "Je me sens frustré",
-      "it": "Mi sento frustrato"
+      "it": "Mi sento frustrato",
+      "pt": "Estou frustrado"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Estoy decepcionado",
       "en": "I am disappointed",
       "fr": "Je suis déçu",
-      "it": "Sono deluso"
+      "it": "Sono deluso",
+      "pt": "Estou decepcionado"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Me siento realizado",
       "en": "I feel fulfilled",
       "fr": "Je me sens épanoui",
-      "it": "Mi sento realizzato"
+      "it": "Mi sento realizzato",
+      "pt": "Estou realizado"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Estoy ansioso",
       "en": "I feel anxious",
       "fr": "Je me sens anxieux",
-      "it": "Mi sento ansioso"
+      "it": "Mi sento ansioso",
+      "pt": "Estou ansioso"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Me siento aliviado",
       "en": "I feel relieved",
       "fr": "Je me sens soulagé",
-      "it": "Mi sento sollevato"
+      "it": "Mi sento sollevato",
+      "pt": "Estou aliviado"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Estoy orgulloso de mí mismo",
       "en": "I am proud of myself",
       "fr": "Je suis fier de moi",
-      "it": "Sono orgoglioso di me stesso"
+      "it": "Sono orgoglioso di me stesso",
+      "pt": "Estou orgulhoso de mim mesmo"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Me siento inseguro",
       "en": "I feel insecure",
       "fr": "Je me sens en insécurité",
-      "it": "Mi sento insicuro"
+      "it": "Mi sento insicuro",
+      "pt": "Estou inseguro"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Estoy motivado",
       "en": "I feel motivated",
       "fr": "Je me sens motivé",
-      "it": "Mi sento motivato"
+      "it": "Mi sento motivato",
+      "pt": "Estou motivado"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Me siento perdido",
       "en": "I feel lost",
       "fr": "Je me sens perdu",
-      "it": "Mi sento perso"
+      "it": "Mi sento perso",
+      "pt": "Estou me sentindo perdido"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy emocionado",
       "en": "I am excited",
       "fr": "Je suis enthousiaste",
-      "it": "Sono entusiasta"
+      "it": "Sono entusiasta",
+      "pt": "Estou empolgado"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Me siento vacío",
       "en": "I feel empty",
       "fr": "Je me sens vide",
-      "it": "Mi sento vuoto"
+      "it": "Mi sento vuoto",
+      "pt": "Estou me sentindo vazio"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Estoy satisfecho",
       "en": "I am satisfied",
       "fr": "Je suis satisfait",
-      "it": "Sono soddisfatto"
+      "it": "Sono soddisfatto",
+      "pt": "Estou satisfeito"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Me siento culpable",
       "en": "I feel guilty",
       "fr": "Je me sens coupable",
-      "it": "Mi sento in colpa"
+      "it": "Mi sento in colpa",
+      "pt": "Estou me sentindo culpado"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Estoy confundido",
       "en": "I am confused",
       "fr": "Je suis confus",
-      "it": "Sono confuso"
+      "it": "Sono confuso",
+      "pt": "Estou confuso"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Me siento tranquilo",
       "en": "I feel calm",
       "fr": "Je me sens calme",
-      "it": "Mi sento tranquillo"
+      "it": "Mi sento tranquillo",
+      "pt": "Estou calmo"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Estoy preocupado",
       "en": "I am worried",
       "fr": "Je suis inquiet",
-      "it": "Sono preoccupato"
+      "it": "Sono preoccupato",
+      "pt": "Estou preocupado"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Me siento inspirado",
       "en": "I feel inspired",
       "fr": "Je me sens inspiré",
-      "it": "Mi sento ispirato"
+      "it": "Mi sento ispirato",
+      "pt": "Estou inspirado"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Estoy mentalmente agotado",
       "en": "I am mentally exhausted",
       "fr": "Je suis mentalement épuisé",
-      "it": "Sono mentalmente esausto"
+      "it": "Sono mentalmente esausto",
+      "pt": "Estou mentalmente exausto"
     },
     "difficulty": "Advanced"
   }

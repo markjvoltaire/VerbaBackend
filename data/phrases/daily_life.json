@@ -5,7 +5,8 @@
       "es": "Me despierto temprano",
       "en": "I wake up early",
       "fr": "Je me réveille tôt",
-      "it": "Mi sveglio presto"
+      "it": "Mi sveglio presto",
+      "pt": "Eu acordo cedo"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Me levanto",
       "en": "I get up",
       "fr": "Je me lève",
-      "it": "Mi alzo"
+      "it": "Mi alzo",
+      "pt": "Eu levanto"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Me ducho",
       "en": "I shower",
       "fr": "Je me douche",
-      "it": "Mi faccio la doccia"
+      "it": "Mi faccio la doccia",
+      "pt": "Eu tomo banho"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Desayuno",
       "en": "I eat breakfast",
       "fr": "Je prends le petit-déjeuner",
-      "it": "Faccio colazione"
+      "it": "Faccio colazione",
+      "pt": "Eu como café da manhã"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Voy al trabajo",
       "en": "I go to work",
       "fr": "Je vais au travail",
-      "it": "Vado al lavoro"
+      "it": "Vado al lavoro",
+      "pt": "Eu vou trabalhar"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Trabajo todo el día",
       "en": "I work all day",
       "fr": "Je travaille toute la journée",
-      "it": "Lavoro tutto il giorno"
+      "it": "Lavoro tutto il giorno",
+      "pt": "Eu trabalho o dia todo"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Almuerzo",
       "en": "I eat lunch",
       "fr": "Je déjeune",
-      "it": "Pranzo"
+      "it": "Pranzo",
+      "pt": "Eu almoço"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Termino el trabajo",
       "en": "I finish work",
       "fr": "Je finis le travail",
-      "it": "Finisco di lavorare"
+      "it": "Finisco di lavorare",
+      "pt": "Eu término o trabalho"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Llego a casa",
       "en": "I arrive home",
       "fr": "J'arrive à la maison",
-      "it": "Arrivo a casa"
+      "it": "Arrivo a casa",
+      "pt": "Eu chego em casa"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Ceno",
       "en": "I eat dinner",
       "fr": "Je dîne",
-      "it": "Ceno"
+      "it": "Ceno",
+      "pt": "Eu janto"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Veo televisión",
       "en": "I watch TV",
       "fr": "Je regarde la télévision",
-      "it": "Guardo la televisione"
+      "it": "Guardo la televisione",
+      "pt": "Eu assisto TV"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Uso mi teléfono",
       "en": "I use my phone",
       "fr": "J'utilise mon téléphone",
-      "it": "Uso il mio telefono"
+      "it": "Uso il mio telefono",
+      "pt": "Eu uso meu celular"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Me relajo",
       "en": "I relax",
       "fr": "Je me détends",
-      "it": "Mi rilasso"
+      "it": "Mi rilasso",
+      "pt": "Eu relaxo"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Salgo con amigos",
       "en": "I go out with friends",
       "fr": "Je sors avec des amis",
-      "it": "Esco con gli amici"
+      "it": "Esco con gli amici",
+      "pt": "Eu saio com amigos"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Hago ejercicio",
       "en": "I exercise",
       "fr": "Je fais de l'exercice",
-      "it": "Faccio esercizio"
+      "it": "Faccio esercizio",
+      "pt": "Eu malho"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Estudio español",
       "en": "I study Spanish",
       "fr": "J'étudie l'espagnol",
-      "it": "Studio lo spagnolo"
+      "it": "Studio lo spagnolo",
+      "pt": "Eu estudo espanhol"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Me acuesto",
       "en": "I go to bed",
       "fr": "Je me couche",
-      "it": "Vado a letto"
+      "it": "Vado a letto",
+      "pt": "Eu vou para a cama"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Duermo bien",
       "en": "I sleep well",
       "fr": "Je dors bien",
-      "it": "Dormo bene"
+      "it": "Dormo bene",
+      "pt": "Eu durmo bem"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Duermo poco",
       "en": "I sleep little",
       "fr": "Je dors peu",
-      "it": "Dormo poco"
+      "it": "Dormo poco",
+      "pt": "Eu durmo pouco"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Tengo un buen día",
       "en": "I have a good day",
       "fr": "Je passe une bonne journée",
-      "it": "Ho una bella giornata"
+      "it": "Ho una bella giornata",
+      "pt": "Eu espero que você tenha um bom dia"
     },
     "difficulty": "Beginner"
   }

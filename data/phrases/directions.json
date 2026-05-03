@@ -5,7 +5,8 @@
       "es": "¿Dónde está el baño?",
       "en": "Where is the bathroom?",
       "fr": "Où sont les toilettes ?",
-      "it": "Dov'è il bagno?"
+      "it": "Dov'è il bagno?",
+      "pt": "Onde fica o banheiro?"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "¿Dónde está el restaurante?",
       "en": "Where is the restaurant?",
       "fr": "Où est le restaurant ?",
-      "it": "Dov'è il ristorante?"
+      "it": "Dov'è il ristorante?",
+      "pt": "Onde fica o restaurante?"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "¿Dónde está el hotel?",
       "en": "Where is the hotel?",
       "fr": "Où est l'hôtel ?",
-      "it": "Dov'è l'hotel?"
+      "it": "Dov'è l'hotel?",
+      "pt": "Onde fica o hotel?"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "¿Cómo llego allí?",
       "en": "How do I get there?",
       "fr": "Comment y aller ?",
-      "it": "Come ci arrivo?"
+      "it": "Come ci arrivo?",
+      "pt": "Como eu chego lá?"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Sigue recto",
       "en": "Go straight",
       "fr": "Allez tout droit",
-      "it": "Vada dritto"
+      "it": "Vada dritto",
+      "pt": "Vá em frente"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Gira a la derecha",
       "en": "Turn right",
       "fr": "Tournez à droite",
-      "it": "Giri a destra"
+      "it": "Giri a destra",
+      "pt": "Vire à direita"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Gira a la izquierda",
       "en": "Turn left",
       "fr": "Tournez à gauche",
-      "it": "Giri a sinistra"
+      "it": "Giri a sinistra",
+      "pt": "Vire à esquerda"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Está cerca",
       "en": "It is close",
       "fr": "C'est près d'ici",
-      "it": "È vicino"
+      "it": "È vicino",
+      "pt": "É perto"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Está lejos",
       "en": "It is far",
       "fr": "C'est loin",
-      "it": "È lontano"
+      "it": "È lontano",
+      "pt": "É longe"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Está aquí",
       "en": "It is here",
       "fr": "C'est ici",
-      "it": "È qui"
+      "it": "È qui",
+      "pt": "Está aqui"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Está allí",
       "en": "It is there",
       "fr": "C'est là-bas",
-      "it": "È laggiù"
+      "it": "È laggiù",
+      "pt": "Está ali"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "¿Está lejos?",
       "en": "Is it far?",
       "fr": "C'est loin ?",
-      "it": "È lontano?"
+      "it": "È lontano?",
+      "pt": "É longe?"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "¿Está cerca?",
       "en": "Is it close?",
       "fr": "C'est près ?",
-      "it": "È vicino?"
+      "it": "È vicino?",
+      "pt": "É perto?"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Cruza la calle",
       "en": "Cross the street",
       "fr": "Traversez la rue",
-      "it": "Attraversi la strada"
+      "it": "Attraversi la strada",
+      "pt": "Atravesse a rua"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Está en la esquina",
       "en": "It is on the corner",
       "fr": "C'est au coin",
-      "it": "È all'angolo"
+      "it": "È all'angolo",
+      "pt": "Fica na esquina"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Gracias por la ayuda",
       "en": "Thanks for the help",
       "fr": "Merci pour l'aide",
-      "it": "Grazie per l'aiuto"
+      "it": "Grazie per l'aiuto",
+      "pt": "Obrigado pela ajuda"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "No entiendo",
       "en": "I don't understand",
       "fr": "Je ne comprends pas",
-      "it": "Non capisco"
+      "it": "Non capisco",
+      "pt": "Eu não entendo"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "¿Puedes repetir?",
       "en": "Can you repeat?",
       "fr": "Pouvez-vous répéter ?",
-      "it": "Può ripetere?"
+      "it": "Può ripetere?",
+      "pt": "Você pode repetir?"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Estoy perdido",
       "en": "I am lost",
       "fr": "Je suis perdu",
-      "it": "Mi sono perso"
+      "it": "Mi sono perso",
+      "pt": "Estou perdido"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Busco este lugar",
       "en": "I am looking for this place",
       "fr": "Je cherche cet endroit",
-      "it": "Sto cercando questo posto"
+      "it": "Sto cercando questo posto",
+      "pt": "Estou procurando este lugar"
     },
     "difficulty": "Beginner"
   }

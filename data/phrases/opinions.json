@@ -5,7 +5,8 @@
       "es": "Creo que es bueno",
       "en": "I think it is good",
       "fr": "Je pense que c'est bien",
-      "it": "Penso che sia buono"
+      "it": "Penso che sia buono",
+      "pt": "Eu acho que é bom"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Creo que es malo",
       "en": "I think it is bad",
       "fr": "Je pense que c'est mauvais",
-      "it": "Penso che sia cattivo"
+      "it": "Penso che sia cattivo",
+      "pt": "Eu acho que é ruim"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Pienso lo mismo",
       "en": "I think the same",
       "fr": "Je pense la même chose",
-      "it": "La penso allo stesso modo"
+      "it": "La penso allo stesso modo",
+      "pt": "Eu acho o mesmo"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "No estoy de acuerdo",
       "en": "I don't agree",
       "fr": "Je ne suis pas d'accord",
-      "it": "Non sono d'accordo"
+      "it": "Non sono d'accordo",
+      "pt": "Eu não concordo"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Estoy de acuerdo",
       "en": "I agree",
       "fr": "Je suis d'accord",
-      "it": "Sono d'accordo"
+      "it": "Sono d'accordo",
+      "pt": "Eu concordo"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "En mi opinión",
       "en": "In my opinion",
       "fr": "À mon avis",
-      "it": "Secondo me"
+      "it": "Secondo me",
+      "pt": "Na minha opinião"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Para mí",
       "en": "For me",
       "fr": "Pour moi",
-      "it": "Per me"
+      "it": "Per me",
+      "pt": "Pra mim"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Me parece interesante",
       "en": "It seems interesting to me",
       "fr": "Ça me semble intéressant",
-      "it": "Mi sembra interessante"
+      "it": "Mi sembra interessante",
+      "pt": "Parece interessante pra mim"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "No me parece bien",
       "en": "It doesn't seem right to me",
       "fr": "Ça ne me semble pas correct",
-      "it": "Non mi sembra giusto"
+      "it": "Non mi sembra giusto",
+      "pt": "Não me parece certo"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Creo que es importante",
       "en": "I think it is important",
       "fr": "Je pense que c'est important",
-      "it": "Penso che sia importante"
+      "it": "Penso che sia importante",
+      "pt": "Eu acho que é importante"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "No creo eso",
       "en": "I don't think that",
       "fr": "Je ne crois pas ça",
-      "it": "Non credo"
+      "it": "Non credo",
+      "pt": "Eu não acho que isso"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy seguro",
       "en": "I am sure",
       "fr": "J'en suis sûr",
-      "it": "Sono sicuro"
+      "it": "Sono sicuro",
+      "pt": "Eu tenho certeza"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "No estoy seguro",
       "en": "I am not sure",
       "fr": "Je ne suis pas sûr",
-      "it": "Non sono sicuro"
+      "it": "Non sono sicuro",
+      "pt": "Eu não tenho certeza"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Depende",
       "en": "It depends",
       "fr": "Ça dépend",
-      "it": "Dipende"
+      "it": "Dipende",
+      "pt": "Depende"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Es una buena idea",
       "en": "It is a good idea",
       "fr": "C'est une bonne idée",
-      "it": "È una buona idea"
+      "it": "È una buona idea",
+      "pt": "É uma boa ideia"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Es una mala idea",
       "en": "It is a bad idea",
       "fr": "C'est une mauvaise idée",
-      "it": "È una cattiva idea"
+      "it": "È una cattiva idea",
+      "pt": "É uma má ideia"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Tiene sentido",
       "en": "It makes sense",
       "fr": "Ça a du sens",
-      "it": "Ha senso"
+      "it": "Ha senso",
+      "pt": "Faz sentido"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "No tiene sentido",
       "en": "It doesn't make sense",
       "fr": "Ça n'a pas de sens",
-      "it": "Non ha senso"
+      "it": "Non ha senso",
+      "pt": "Não faz sentido"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Estoy totalmente de acuerdo",
       "en": "I totally agree",
       "fr": "Je suis tout à fait d'accord",
-      "it": "Sono completamente d'accordo"
+      "it": "Sono completamente d'accordo",
+      "pt": "Eu concordo totalmente"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "No estoy totalmente de acuerdo",
       "en": "I don't totally agree",
       "fr": "Je ne suis pas tout à fait d'accord",
-      "it": "Non sono del tutto d'accordo"
+      "it": "Non sono del tutto d'accordo",
+      "pt": "Eu não concordo totalmente"
     },
     "difficulty": "Intermediate"
   },
@@ -205,7 +225,8 @@
       "es": "Desde mi punto de vista",
       "en": "From my point of view",
       "fr": "De mon point de vue",
-      "it": "Dal mio punto di vista"
+      "it": "Dal mio punto di vista",
+      "pt": "Do meu ponto de vista"
     },
     "difficulty": "Advanced"
   },
@@ -215,7 +236,8 @@
       "es": "Considero que es fundamental",
       "en": "I consider it fundamental",
       "fr": "Je considère que c'est fondamental",
-      "it": "Lo considero fondamentale"
+      "it": "Lo considero fondamentale",
+      "pt": "Eu considero fundamental"
     },
     "difficulty": "Advanced"
   },
@@ -225,7 +247,8 @@
       "es": "No estoy del todo convencido",
       "en": "I am not entirely convinced",
       "fr": "Je ne suis pas entièrement convaincu",
-      "it": "Non sono del tutto convinto"
+      "it": "Non sono del tutto convinto",
+      "pt": "Não estou totalmente convencido"
     },
     "difficulty": "Advanced"
   },
@@ -235,7 +258,8 @@
       "es": "Tiene cierto sentido",
       "en": "It makes some sense",
       "fr": "Ça a un certain sens",
-      "it": "Ha un certo senso"
+      "it": "Ha un certo senso",
+      "pt": "Faz algum sentido"
     },
     "difficulty": "Advanced"
   },
@@ -245,7 +269,8 @@
       "es": "Es discutible",
       "en": "It is debatable",
       "fr": "C'est discutable",
-      "it": "È discutibile"
+      "it": "È discutibile",
+      "pt": "É discutível"
     },
     "difficulty": "Advanced"
   },
@@ -255,7 +280,8 @@
       "es": "Cabe destacar que",
       "en": "It is worth noting that",
       "fr": "Il convient de noter que",
-      "it": "Vale la pena notare che"
+      "it": "Vale la pena notare che",
+      "pt": "Vale a pena notar que"
     },
     "difficulty": "Advanced"
   },
@@ -265,7 +291,8 @@
       "es": "No comparto esa opinión",
       "en": "I do not share that opinion",
       "fr": "Je ne partage pas cet avis",
-      "it": "Non condivido quell'opinione"
+      "it": "Non condivido quell'opinione",
+      "pt": "Não compartilho dessa opinião"
     },
     "difficulty": "Advanced"
   },
@@ -275,7 +302,8 @@
       "es": "Estoy parcialmente de acuerdo",
       "en": "I partially agree",
       "fr": "Je suis partiellement d'accord",
-      "it": "Sono parzialmente d'accordo"
+      "it": "Sono parzialmente d'accordo",
+      "pt": "Concordo parcialmente"
     },
     "difficulty": "Advanced"
   },
@@ -285,7 +313,8 @@
       "es": "Es un tema complejo",
       "en": "It is a complex issue",
       "fr": "C'est un sujet complexe",
-      "it": "È una questione complessa"
+      "it": "È una questione complessa",
+      "pt": "É uma questão complexa"
     },
     "difficulty": "Advanced"
   },
@@ -295,7 +324,8 @@
       "es": "Depende del contexto",
       "en": "It depends on the context",
       "fr": "Ça dépend du contexte",
-      "it": "Dipende dal contesto"
+      "it": "Dipende dal contesto",
+      "pt": "Depende do contexto"
     },
     "difficulty": "Advanced"
   },
@@ -305,7 +335,8 @@
       "es": "No es tan simple",
       "en": "It is not that simple",
       "fr": "Ce n'est pas si simple",
-      "it": "Non è così semplice"
+      "it": "Non è così semplice",
+      "pt": "Não é tão simples assim"
     },
     "difficulty": "Advanced"
   },
@@ -315,7 +346,8 @@
       "es": "Se puede interpretar de varias maneras",
       "en": "It can be interpreted in various ways",
       "fr": "On peut l'interpréter de plusieurs façons",
-      "it": "Può essere interpretato in vari modi"
+      "it": "Può essere interpretato in vari modi",
+      "pt": "Pode ser interpretado de várias maneiras"
     },
     "difficulty": "Advanced"
   },
@@ -325,7 +357,8 @@
       "es": "Es una cuestión delicada",
       "en": "It is a delicate matter",
       "fr": "C'est une question délicate",
-      "it": "È una questione delicata"
+      "it": "È una questione delicata",
+      "pt": "É um assunto delicado"
     },
     "difficulty": "Advanced"
   },
@@ -335,7 +368,8 @@
       "es": "Hay múltiples factores",
       "en": "There are multiple factors",
       "fr": "Il y a de multiples facteurs",
-      "it": "Ci sono molteplici fattori"
+      "it": "Ci sono molteplici fattori",
+      "pt": "Há múltiplos fatores"
     },
     "difficulty": "Advanced"
   },
@@ -345,7 +379,8 @@
       "es": "No es blanco o negro",
       "en": "It is not black or white",
       "fr": "Ce n'est pas tout blanc ou tout noir",
-      "it": "Non è bianco o nero"
+      "it": "Non è bianco o nero",
+      "pt": "Não é preto e branco"
     },
     "difficulty": "Advanced"
   },
@@ -355,7 +390,8 @@
       "es": "Estoy totalmente en desacuerdo",
       "en": "I completely disagree",
       "fr": "Je suis en total désaccord",
-      "it": "Sono completamente in disaccordo"
+      "it": "Sono completamente in disaccordo",
+      "pt": "Discordo completamente"
     },
     "difficulty": "Advanced"
   },
@@ -365,7 +401,8 @@
       "es": "Es una perspectiva válida",
       "en": "It is a valid perspective",
       "fr": "C'est un point de vue valide",
-      "it": "È una prospettiva valida"
+      "it": "È una prospettiva valida",
+      "pt": "É uma perspectiva válida"
     },
     "difficulty": "Advanced"
   },
@@ -375,7 +412,8 @@
       "es": "No lo había pensado así",
       "en": "I hadn't thought of it that way",
       "fr": "Je n'y avais pas pensé de cette façon",
-      "it": "Non ci avevo pensato in questo modo"
+      "it": "Non ci avevo pensato in questo modo",
+      "pt": "Eu não tinha pensado dessa forma"
     },
     "difficulty": "Advanced"
   },
@@ -385,7 +423,8 @@
       "es": "Eso cambia mi perspectiva",
       "en": "That changes my perspective",
       "fr": "Ça change ma perspective",
-      "it": "Questo cambia la mia prospettiva"
+      "it": "Questo cambia la mia prospettiva",
+      "pt": "Isso muda minha perspectiva"
     },
     "difficulty": "Advanced"
   },
@@ -395,7 +434,8 @@
       "es": "Es difícil llegar a una conclusión",
       "en": "It is difficult to reach a conclusion",
       "fr": "Il est difficile d'arriver à une conclusion",
-      "it": "È difficile arrivare a una conclusione"
+      "it": "È difficile arrivare a una conclusione",
+      "pt": "É difícil chegar a uma conclusão"
     },
     "difficulty": "Advanced"
   }

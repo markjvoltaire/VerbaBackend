@@ -5,7 +5,8 @@
       "es": "Pa' qué",
       "en": "Para qué (why / what for)",
       "fr": "Pourquoi / pour quoi faire",
-      "it": "Perché / a che scopo"
+      "it": "Perché / a che scopo",
+      "pt": "Pra quê"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Pa' allá",
       "en": "Para allá (over there)",
       "fr": "Par là-bas",
-      "it": "Da quella parte"
+      "it": "Da quella parte",
+      "pt": "Pra lá"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "To' bien",
       "en": "Todo bien (all good)",
       "fr": "Tout va bien",
-      "it": "Tutto bene"
+      "it": "Tutto bene",
+      "pt": "Tudo certo"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Na' que ver",
       "en": "Nada que ver (not related at all)",
       "fr": "Rien à voir",
-      "it": "Non c'entra niente"
+      "it": "Non c'entra niente",
+      "pt": "Nada a ver"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "¿Qué más?",
       "en": "What's up?",
       "fr": "Quoi de neuf ?",
-      "it": "Come va?"
+      "it": "Come va?",
+      "pt": "E aí?"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Dime a ver",
       "en": "Tell me / let's see",
       "fr": "Dis-moi / voyons voir",
-      "it": "Dimmi / vediamo"
+      "it": "Dimmi / vediamo",
+      "pt": "Me fala / Vamos ver"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "O sea",
       "en": "I mean",
       "fr": "C'est-à-dire / enfin",
-      "it": "Cioè"
+      "it": "Cioè",
+      "pt": "Quer dizer"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "En plan",
       "en": "Like / kind of",
       "fr": "Genre / en quelque sorte",
-      "it": "Tipo / in un certo senso"
+      "it": "Tipo / in un certo senso",
+      "pt": "Tipo"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "¿Sabes?",
       "en": "You know?",
       "fr": "Tu sais ?",
-      "it": "Sai?"
+      "it": "Sai?",
+      "pt": "Sabe?"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Es que",
       "en": "It's just that",
       "fr": "C'est que",
-      "it": "È che"
+      "it": "È che",
+      "pt": "É que"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Pues",
       "en": "Well / so",
       "fr": "Eh bien / alors",
-      "it": "Beh / allora"
+      "it": "Beh / allora",
+      "pt": "Bom / Então"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Vale, pues",
       "en": "Alright then",
       "fr": "D'accord alors",
-      "it": "Va bene allora"
+      "it": "Va bene allora",
+      "pt": "Beleza então"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "A ver",
       "en": "Let's see",
       "fr": "Voyons voir",
-      "it": "Vediamo"
+      "it": "Vediamo",
+      "pt": "Vamos lá"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "¿Me entiendes?",
       "en": "Do you understand me?",
       "fr": "Tu me comprends ?",
-      "it": "Mi capisci?"
+      "it": "Mi capisci?",
+      "pt": "Você me entende?"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "¿Sí o qué?",
       "en": "Right or what?",
       "fr": "Oui ou quoi ?",
-      "it": "Sì o no?"
+      "it": "Sì o no?",
+      "pt": "Certo ou não?"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Ya está",
       "en": "That's it",
       "fr": "C'est tout / voilà",
-      "it": "Ecco fatto"
+      "it": "Ecco fatto",
+      "pt": "É isso"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Ya fue",
       "en": "It's over / forget it",
       "fr": "C'est fini / laisse tomber",
-      "it": "È finita / lascia perdere"
+      "it": "È finita / lascia perdere",
+      "pt": "Acabou / esquece"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "De una",
       "en": "Right away",
       "fr": "Tout de suite",
-      "it": "Subito"
+      "it": "Subito",
+      "pt": "Já já"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Dale pues",
       "en": "Alright then / go ahead",
       "fr": "Allez, vas-y",
-      "it": "Dai, vai pure"
+      "it": "Dai, vai pure",
+      "pt": "Beleza então / pode ir"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "Listo",
       "en": "Done / ready",
       "fr": "C'est fait / prêt",
-      "it": "Fatto / pronto"
+      "it": "Fatto / pronto",
+      "pt": "Feito / pronto"
     },
     "difficulty": "Advanced"
   }

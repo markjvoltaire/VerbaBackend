@@ -5,7 +5,8 @@
       "es": "Me gustaría añadir algo",
       "en": "I would like to add something",
       "fr": "J'aimerais ajouter quelque chose",
-      "it": "Vorrei aggiungere qualcosa"
+      "it": "Vorrei aggiungere qualcosa",
+      "pt": "Eu gostaria de adicionar algo"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Permíteme aclarar",
       "en": "Allow me to clarify",
       "fr": "Permettez-moi de clarifier",
-      "it": "Permettetemi di chiarire"
+      "it": "Permettetemi di chiarire",
+      "pt": "Permita-me esclarecer"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "Con todo respeto",
       "en": "With all due respect",
       "fr": "Avec tout le respect que je vous dois",
-      "it": "Con tutto il rispetto"
+      "it": "Con tutto il rispetto",
+      "pt": "Com todo o devido respeito"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "No es necesariamente así",
       "en": "That is not necessarily the case",
       "fr": "Ce n'est pas forcément le cas",
-      "it": "Non è necessariamente così"
+      "it": "Non è necessariamente così",
+      "pt": "Isso não é necessariamente o caso"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Hay evidencia que sugiere",
       "en": "There is evidence that suggests",
       "fr": "Il y a des preuves qui suggèrent",
-      "it": "Ci sono prove che suggeriscono"
+      "it": "Ci sono prove che suggeriscono",
+      "pt": "Há evidências que sugerem"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Es importante considerar",
       "en": "It is important to consider",
       "fr": "Il est important de considérer",
-      "it": "È importante considerare"
+      "it": "È importante considerare",
+      "pt": "É importante considerar"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "No podemos ignorar",
       "en": "We cannot ignore",
       "fr": "Nous ne pouvons pas ignorer",
-      "it": "Non possiamo ignorare"
+      "it": "Non possiamo ignorare",
+      "pt": "Não podemos ignorar"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Esto plantea una pregunta",
       "en": "This raises a question",
       "fr": "Cela soulève une question",
-      "it": "Questo solleva una domanda"
+      "it": "Questo solleva una domanda",
+      "pt": "Isso levanta uma questão"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "La cuestión principal es",
       "en": "The main issue is",
       "fr": "La question principale est",
-      "it": "La questione principale è"
+      "it": "La questione principale è",
+      "pt": "A questão principal é"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Desde una perspectiva diferente",
       "en": "From a different perspective",
       "fr": "D'un point de vue différent",
-      "it": "Da una prospettiva diversa"
+      "it": "Da una prospettiva diversa",
+      "pt": "De uma perspectiva diferente"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Es un argumento sólido",
       "en": "It is a solid argument",
       "fr": "C'est un argument solide",
-      "it": "È un argomento solido"
+      "it": "È un argomento solido",
+      "pt": "É um argumento sólido"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "No es un argumento convincente",
       "en": "It is not a convincing argument",
       "fr": "Ce n'est pas un argument convaincant",
-      "it": "Non è un argomento convincente"
+      "it": "Non è un argomento convincente",
+      "pt": "Não é um argumento convincente"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "Debemos analizar esto",
       "en": "We must analyze this",
       "fr": "Nous devons analyser cela",
-      "it": "Dobbiamo analizzare questo"
+      "it": "Dobbiamo analizzare questo",
+      "pt": "Precisamos analisar isso"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "Hay que profundizar",
       "en": "We must go deeper",
       "fr": "Il faut approfondir",
-      "it": "Bisogna approfondire"
+      "it": "Bisogna approfondire",
+      "pt": "Precisamos aprofundar"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Esto merece discusión",
       "en": "This deserves discussion",
       "fr": "Cela mérite d'être discuté",
-      "it": "Questo merita di essere discusso"
+      "it": "Questo merita di essere discusso",
+      "pt": "Isso merece discussão"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "No estoy convencido por ese argumento",
       "en": "I am not convinced by that argument",
       "fr": "Je ne suis pas convaincu par cet argument",
-      "it": "Non sono convinto da quell'argomento"
+      "it": "Non sono convinto da quell'argomento",
+      "pt": "Não estou convencido por esse argumento"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Es una generalización",
       "en": "It is a generalization",
       "fr": "C'est une généralisation",
-      "it": "È una generalizzazione"
+      "it": "È una generalizzazione",
+      "pt": "É uma generalização"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "Eso no siempre es cierto",
       "en": "That is not always true",
       "fr": "Ce n'est pas toujours vrai",
-      "it": "Non è sempre vero"
+      "it": "Non è sempre vero",
+      "pt": "Isso nem sempre é verdade"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "Hay excepciones",
       "en": "There are exceptions",
       "fr": "Il y a des exceptions",
-      "it": "Ci sono delle eccezioni"
+      "it": "Ci sono delle eccezioni",
+      "pt": "Existem exceções"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "En conclusión",
       "en": "In conclusion",
       "fr": "En conclusion",
-      "it": "In conclusione"
+      "it": "In conclusione",
+      "pt": "Em conclusão"
     },
     "difficulty": "Advanced"
   }

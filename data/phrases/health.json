@@ -5,7 +5,8 @@
       "es": "Estoy enfermo",
       "en": "I am sick",
       "fr": "Je suis malade",
-      "it": "Sono malato"
+      "it": "Sono malato",
+      "pt": "Estou doente"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Estoy bien",
       "en": "I am well",
       "fr": "Je vais bien",
-      "it": "Sto bene"
+      "it": "Sto bene",
+      "pt": "Estou bem"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Me duele la cabeza",
       "en": "My head hurts",
       "fr": "J'ai mal à la tête",
-      "it": "Mi fa male la testa"
+      "it": "Mi fa male la testa",
+      "pt": "Minha cabeça dói"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Me duele el estómago",
       "en": "My stomach hurts",
       "fr": "J'ai mal au ventre",
-      "it": "Mi fa male lo stomaco"
+      "it": "Mi fa male lo stomaco",
+      "pt": "Meu estômago dói"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Tengo fiebre",
       "en": "I have a fever",
       "fr": "J'ai de la fièvre",
-      "it": "Ho la febbre"
+      "it": "Ho la febbre",
+      "pt": "Estou com febre"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Tengo tos",
       "en": "I have a cough",
       "fr": "J'ai de la toux",
-      "it": "Ho la tosse"
+      "it": "Ho la tosse",
+      "pt": "Estou com tosse"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Necesito un médico",
       "en": "I need a doctor",
       "fr": "J'ai besoin d'un médecin",
-      "it": "Ho bisogno di un medico"
+      "it": "Ho bisogno di un medico",
+      "pt": "Preciso de um médico"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Voy al hospital",
       "en": "I go to the hospital",
       "fr": "Je vais à l'hôpital",
-      "it": "Vado all'ospedale"
+      "it": "Vado all'ospedale",
+      "pt": "Vou para o hospital"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Tomo medicina",
       "en": "I take medicine",
       "fr": "Je prends des médicaments",
-      "it": "Prendo le medicine"
+      "it": "Prendo le medicine",
+      "pt": "Estou tomando remédio"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Me siento mejor",
       "en": "I feel better",
       "fr": "Je me sens mieux",
-      "it": "Mi sento meglio"
+      "it": "Mi sento meglio",
+      "pt": "Estou me sentindo melhor"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Me siento mal",
       "en": "I feel bad",
       "fr": "Je me sens mal",
-      "it": "Mi sento male"
+      "it": "Mi sento male",
+      "pt": "Estou me sentindo mal"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy cansado",
       "en": "I am tired",
       "fr": "Je suis fatigué",
-      "it": "Sono stanco"
+      "it": "Sono stanco",
+      "pt": "Estou cansado"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Necesito descansar",
       "en": "I need to rest",
       "fr": "J'ai besoin de me reposer",
-      "it": "Ho bisogno di riposare"
+      "it": "Ho bisogno di riposare",
+      "pt": "Preciso descansar"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Estoy mejorando",
       "en": "I am getting better",
       "fr": "Je vais mieux",
-      "it": "Sto migliorando"
+      "it": "Sto migliorando",
+      "pt": "Estou melhorando"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "No estoy bien",
       "en": "I am not well",
       "fr": "Je ne vais pas bien",
-      "it": "Non sto bene"
+      "it": "Non sto bene",
+      "pt": "Não estou bem"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Me duele aquí",
       "en": "It hurts here",
       "fr": "J'ai mal ici",
-      "it": "Mi fa male qui"
+      "it": "Mi fa male qui",
+      "pt": "Dói aqui"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "¿Estás bien?",
       "en": "Are you okay?",
       "fr": "Tu vas bien ?",
-      "it": "Stai bene?"
+      "it": "Stai bene?",
+      "pt": "Você está bem?"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Cuídate",
       "en": "Take care",
       "fr": "Prends soin de toi",
-      "it": "Prenditi cura di te"
+      "it": "Prenditi cura di te",
+      "pt": "Se cuida"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Descansa",
       "en": "Rest",
       "fr": "Repose-toi",
-      "it": "Riposati"
+      "it": "Riposati",
+      "pt": "Descanse"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Bebe agua",
       "en": "Drink water",
       "fr": "Bois de l'eau",
-      "it": "Bevi acqua"
+      "it": "Bevi acqua",
+      "pt": "Beba água"
     },
     "difficulty": "Beginner"
   }

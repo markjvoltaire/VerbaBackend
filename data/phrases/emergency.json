@@ -5,7 +5,8 @@
       "es": "Necesito ayuda urgente",
       "en": "I need urgent help",
       "fr": "J'ai besoin d'aide urgente",
-      "it": "Ho bisogno di aiuto urgente"
+      "it": "Ho bisogno di aiuto urgente",
+      "pt": "Eu preciso de ajuda urgente"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Llama a la policía",
       "en": "Call the police",
       "fr": "Appelez la police",
-      "it": "Chiamate la polizia"
+      "it": "Chiamate la polizia",
+      "pt": "Chame a polícia"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "Llama a una ambulancia",
       "en": "Call an ambulance",
       "fr": "Appelez une ambulance",
-      "it": "Chiamate un'ambulanza"
+      "it": "Chiamate un'ambulanza",
+      "pt": "Chame uma ambulância"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "Hay una emergencia",
       "en": "There is an emergency",
       "fr": "Il y a une urgence",
-      "it": "C'è un'emergenza"
+      "it": "C'è un'emergenza",
+      "pt": "Tem uma emergência"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Estoy herido",
       "en": "I am injured",
       "fr": "Je suis blessé",
-      "it": "Sono ferito"
+      "it": "Sono ferito",
+      "pt": "Eu estou machucado"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Necesito un médico",
       "en": "I need a doctor",
       "fr": "J'ai besoin d'un médecin",
-      "it": "Ho bisogno di un medico"
+      "it": "Ho bisogno di un medico",
+      "pt": "Eu preciso de um médico"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "¿Dónde está el hospital?",
       "en": "Where is the hospital?",
       "fr": "Où est l'hôpital ?",
-      "it": "Dov'è l'ospedale?"
+      "it": "Dov'è l'ospedale?",
+      "pt": "Onde fica o hospital?"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Me duele mucho",
       "en": "It hurts a lot",
       "fr": "J'ai très mal",
-      "it": "Mi fa molto male"
+      "it": "Mi fa molto male",
+      "pt": "Dói muito"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "No puedo respirar",
       "en": "I can't breathe",
       "fr": "Je ne peux pas respirer",
-      "it": "Non riesco a respirare"
+      "it": "Non riesco a respirare",
+      "pt": "Eu não consigo respirar"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Perdí mi pasaporte",
       "en": "I lost my passport",
       "fr": "J'ai perdu mon passeport",
-      "it": "Ho perso il passaporto"
+      "it": "Ho perso il passaporto",
+      "pt": "Eu perdi meu passaporte"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Me robaron",
       "en": "I was robbed",
       "fr": "J'ai été volé",
-      "it": "Sono stato derubato"
+      "it": "Sono stato derubato",
+      "pt": "Eu fui roubado"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Necesito ayuda ahora",
       "en": "I need help now",
       "fr": "J'ai besoin d'aide maintenant",
-      "it": "Ho bisogno di aiuto adesso"
+      "it": "Ho bisogno di aiuto adesso",
+      "pt": "Eu preciso de ajuda agora"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Es muy grave",
       "en": "It is very serious",
       "fr": "C'est très grave",
-      "it": "È molto grave"
+      "it": "È molto grave",
+      "pt": "É muito sério"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Estoy perdido",
       "en": "I am lost",
       "fr": "Je suis perdu",
-      "it": "Mi sono perso"
+      "it": "Mi sono perso",
+      "pt": "Eu estou perdido"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "¿Puedes ayudarme?",
       "en": "Can you help me?",
       "fr": "Pouvez-vous m'aider ?",
-      "it": "Può aiutarmi?"
+      "it": "Può aiutarmi?",
+      "pt": "Você pode me ajudar?"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Necesito salir de aquí",
       "en": "I need to get out of here",
       "fr": "J'ai besoin de sortir d'ici",
-      "it": "Ho bisogno di uscire di qui"
+      "it": "Ho bisogno di uscire di qui",
+      "pt": "Eu preciso sair daqui"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Es peligroso",
       "en": "It is dangerous",
       "fr": "C'est dangereux",
-      "it": "È pericoloso"
+      "it": "È pericoloso",
+      "pt": "É perigoso"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "Mantén la calma",
       "en": "Stay calm",
       "fr": "Restez calme",
-      "it": "Stia calmo"
+      "it": "Stia calmo",
+      "pt": "Fique calmo"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Todo estará bien",
       "en": "Everything will be okay",
       "fr": "Tout ira bien",
-      "it": "Andrà tutto bene"
+      "it": "Andrà tutto bene",
+      "pt": "Vai dar tudo certo"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Estoy en peligro",
       "en": "I am in danger",
       "fr": "Je suis en danger",
-      "it": "Sono in pericolo"
+      "it": "Sono in pericolo",
+      "pt": "Eu estou em perigo"
     },
     "difficulty": "Intermediate"
   }

@@ -5,7 +5,8 @@
       "es": "Voy al aeropuerto",
       "fr": "Je vais à l'aéroport",
       "it": "Vado all'aeroporto",
-      "en": "I go to the airport"
+      "en": "I go to the airport",
+      "pt": "Eu vou para o aeroporto"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Tengo un vuelo",
       "fr": "J'ai un vol",
       "it": "Ho un volo",
-      "en": "I have a flight"
+      "en": "I have a flight",
+      "pt": "Eu tenho um voo"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "¿Dónde está la puerta?",
       "fr": "Où est la porte d'embarquement ?",
       "it": "Dov'è il gate?",
-      "en": "Where is the gate?"
+      "en": "Where is the gate?",
+      "pt": "Onde fica o portão?"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "¿A qué hora sale el vuelo?",
       "fr": "À quelle heure part le vol ?",
       "it": "A che ora parte il volo?",
-      "en": "What time does the flight leave?"
+      "en": "What time does the flight leave?",
+      "pt": "Que horas o voo sai?"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "El vuelo está retrasado",
       "fr": "Le vol est en retard",
       "it": "Il volo è in ritardo",
-      "en": "The flight is delayed"
+      "en": "The flight is delayed",
+      "pt": "O voo está atrasado"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "El vuelo está cancelado",
       "fr": "Le vol est annulé",
       "it": "Il volo è cancellato",
-      "en": "The flight is canceled"
+      "en": "The flight is canceled",
+      "pt": "O voo foi cancelado"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Necesito mi pasaporte",
       "fr": "J'ai besoin de mon passeport",
       "it": "Ho bisogno del mio passaporto",
-      "en": "I need my passport"
+      "en": "I need my passport",
+      "pt": "Eu preciso do meu passaporte"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Tengo equipaje",
       "fr": "J'ai des bagages",
       "it": "Ho dei bagagli",
-      "en": "I have luggage"
+      "en": "I have luggage",
+      "pt": "Eu tenho bagagem"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "¿Dónde recojo mi equipaje?",
       "fr": "Où est-ce que je récupère mes bagages ?",
       "it": "Dove ritiro i miei bagagli?",
-      "en": "Where do I pick up my luggage?"
+      "en": "Where do I pick up my luggage?",
+      "pt": "Onde eu pego minha bagagem?"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Voy a viajar",
       "fr": "Je vais voyager",
       "it": "Sto per viaggiare",
-      "en": "I am going to travel"
+      "en": "I am going to travel",
+      "pt": "Eu estou indo viajar"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "Es un viaje largo",
       "fr": "C'est un long voyage",
       "it": "È un viaggio lungo",
-      "en": "It is a long trip"
+      "en": "It is a long trip",
+      "pt": "É uma viagem longa"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Es un viaje corto",
       "fr": "C'est un court voyage",
       "it": "È un viaggio breve",
-      "en": "It is a short trip"
+      "en": "It is a short trip",
+      "pt": "É uma viagem curta"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "Estoy listo para viajar",
       "fr": "Je suis prêt à voyager",
       "it": "Sono pronto per viaggiare",
-      "en": "I am ready to travel"
+      "en": "I am ready to travel",
+      "pt": "Estou pronto para viajar"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Necesito ayuda",
       "fr": "J'ai besoin d'aide",
       "it": "Ho bisogno di aiuto",
-      "en": "I need help"
+      "en": "I need help",
+      "pt": "Eu preciso de ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "¿Dónde está la salida?",
       "fr": "Où est la sortie ?",
       "it": "Dov'è l'uscita?",
-      "en": "Where is the exit?"
+      "en": "Where is the exit?",
+      "pt": "Onde fica a saída?"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "¿Dónde está la entrada?",
       "fr": "Où est l'entrée ?",
       "it": "Dov'è l'ingresso?",
-      "en": "Where is the entrance?"
+      "en": "Where is the entrance?",
+      "pt": "Onde fica a entrada?"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Estoy esperando",
       "fr": "J'attends",
       "it": "Sto aspettando",
-      "en": "I am waiting"
+      "en": "I am waiting",
+      "pt": "Eu estou esperando"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "El vuelo es ahora",
       "fr": "Le vol est maintenant",
       "it": "Il volo è adesso",
-      "en": "The flight is now"
+      "en": "The flight is now",
+      "pt": "O voo é agora"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Todo está listo",
       "fr": "Tout est prêt",
       "it": "Tutto è pronto",
-      "en": "Everything is ready"
+      "en": "Everything is ready",
+      "pt": "Está tudo pronto"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Buen viaje",
       "fr": "Bon voyage",
       "it": "Buon viaggio",
-      "en": "Have a good trip"
+      "en": "Have a good trip",
+      "pt": "Tenha uma boa viagem"
     },
     "difficulty": "Intermediate"
   }

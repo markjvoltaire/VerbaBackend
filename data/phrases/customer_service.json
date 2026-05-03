@@ -5,7 +5,8 @@
       "es": "Necesito ayuda",
       "en": "I need help",
       "fr": "J'ai besoin d'aide",
-      "it": "Ho bisogno di aiuto"
+      "it": "Ho bisogno di aiuto",
+      "pt": "Eu preciso de ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -15,7 +16,8 @@
       "es": "Tengo un problema",
       "en": "I have a problem",
       "fr": "J'ai un problème",
-      "it": "Ho un problema"
+      "it": "Ho un problema",
+      "pt": "Eu tenho um problema"
     },
     "difficulty": "Intermediate"
   },
@@ -25,7 +27,8 @@
       "es": "¿Puedes ayudarme?",
       "en": "Can you help me?",
       "fr": "Pouvez-vous m'aider ?",
-      "it": "Può aiutarmi?"
+      "it": "Può aiutarmi?",
+      "pt": "Você pode me ajudar?"
     },
     "difficulty": "Intermediate"
   },
@@ -35,7 +38,8 @@
       "es": "No funciona",
       "en": "It doesn't work",
       "fr": "Ça ne marche pas",
-      "it": "Non funziona"
+      "it": "Non funziona",
+      "pt": "Não está funcionando"
     },
     "difficulty": "Intermediate"
   },
@@ -45,7 +49,8 @@
       "es": "Está roto",
       "en": "It is broken",
       "fr": "C'est cassé",
-      "it": "È rotto"
+      "it": "È rotto",
+      "pt": "Está quebrado"
     },
     "difficulty": "Intermediate"
   },
@@ -55,7 +60,8 @@
       "es": "Necesito un reemplazo",
       "en": "I need a replacement",
       "fr": "J'ai besoin d'un remplacement",
-      "it": "Ho bisogno di una sostituzione"
+      "it": "Ho bisogno di una sostituzione",
+      "pt": "Eu preciso de uma troca"
     },
     "difficulty": "Intermediate"
   },
@@ -65,7 +71,8 @@
       "es": "Quiero devolver esto",
       "en": "I want to return this",
       "fr": "Je voudrais rendre ceci",
-      "it": "Vorrei restituire questo"
+      "it": "Vorrei restituire questo",
+      "pt": "Eu quero devolver isso"
     },
     "difficulty": "Intermediate"
   },
@@ -75,7 +82,8 @@
       "es": "Quiero un reembolso",
       "en": "I want a refund",
       "fr": "Je voudrais un remboursement",
-      "it": "Vorrei un rimborso"
+      "it": "Vorrei un rimborso",
+      "pt": "Eu quero um reembolso"
     },
     "difficulty": "Intermediate"
   },
@@ -85,7 +93,8 @@
       "es": "¿Cuál es la solución?",
       "en": "What is the solution?",
       "fr": "Quelle est la solution ?",
-      "it": "Qual è la soluzione?"
+      "it": "Qual è la soluzione?",
+      "pt": "Qual é a solução?"
     },
     "difficulty": "Intermediate"
   },
@@ -95,7 +104,8 @@
       "es": "Esto es un error",
       "en": "This is an error",
       "fr": "C'est une erreur",
-      "it": "Questo è un errore"
+      "it": "Questo è un errore",
+      "pt": "Isto é um erro"
     },
     "difficulty": "Intermediate"
   },
@@ -105,7 +115,8 @@
       "es": "No estoy satisfecho",
       "en": "I am not satisfied",
       "fr": "Je ne suis pas satisfait",
-      "it": "Non sono soddisfatto"
+      "it": "Non sono soddisfatto",
+      "pt": "Eu não estou satisfeito"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Estoy satisfecho",
       "en": "I am satisfied",
       "fr": "Je suis satisfait",
-      "it": "Sono soddisfatto"
+      "it": "Sono soddisfatto",
+      "pt": "Eu estou satisfeito"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "¿Puedes explicarlo?",
       "en": "Can you explain it?",
       "fr": "Pouvez-vous l'expliquer ?",
-      "it": "Può spiegarlo?"
+      "it": "Può spiegarlo?",
+      "pt": "Você pode explicar isso?"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "Necesito hablar con el gerente",
       "en": "I need to speak with the manager",
       "fr": "J'ai besoin de parler au responsable",
-      "it": "Ho bisogno di parlare con il responsabile"
+      "it": "Ho bisogno di parlare con il responsabile",
+      "pt": "Eu preciso falar com o gerente"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Es urgente",
       "en": "It is urgent",
       "fr": "C'est urgent",
-      "it": "È urgente"
+      "it": "È urgente",
+      "pt": "É urgente"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Gracias por tu ayuda",
       "en": "Thanks for your help",
       "fr": "Merci pour votre aide",
-      "it": "Grazie per il suo aiuto"
+      "it": "Grazie per il suo aiuto",
+      "pt": "Obrigado pela sua ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "Lo aprecio",
       "en": "I appreciate it",
       "fr": "Je vous en suis reconnaissant",
-      "it": "Lo apprezzo"
+      "it": "Lo apprezzo",
+      "pt": "Eu agradeço"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "¿Qué puedo hacer?",
       "en": "What can I do?",
       "fr": "Que puis-je faire ?",
-      "it": "Cosa posso fare?"
+      "it": "Cosa posso fare?",
+      "pt": "O que eu posso fazer?"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Esto no es correcto",
       "en": "This is not correct",
       "fr": "Ce n'est pas correct",
-      "it": "Questo non è corretto"
+      "it": "Questo non è corretto",
+      "pt": "Isto não está correto"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Necesito una solución rápida",
       "en": "I need a quick solution",
       "fr": "J'ai besoin d'une solution rapide",
-      "it": "Ho bisogno di una soluzione rapida"
+      "it": "Ho bisogno di una soluzione rapida",
+      "pt": "Eu preciso de uma solução rápida"
     },
     "difficulty": "Intermediate"
   }

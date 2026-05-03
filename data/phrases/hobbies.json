@@ -5,7 +5,8 @@
       "es": "Me gusta leer",
       "en": "I like to read",
       "fr": "J'aime lire",
-      "it": "Mi piace leggere"
+      "it": "Mi piace leggere",
+      "pt": "Eu gosto de ler"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Me gusta escribir",
       "en": "I like to write",
       "fr": "J'aime écrire",
-      "it": "Mi piace scrivere"
+      "it": "Mi piace scrivere",
+      "pt": "Eu gosto de escrever"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Me gusta escuchar música",
       "en": "I like to listen to music",
       "fr": "J'aime écouter de la musique",
-      "it": "Mi piace ascoltare la musica"
+      "it": "Mi piace ascoltare la musica",
+      "pt": "Eu gosto de ouvir música"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Me gusta bailar",
       "en": "I like to dance",
       "fr": "J'aime danser",
-      "it": "Mi piace ballare"
+      "it": "Mi piace ballare",
+      "pt": "Eu gosto de dançar"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Me gusta viajar",
       "en": "I like to travel",
       "fr": "J'aime voyager",
-      "it": "Mi piace viaggiare"
+      "it": "Mi piace viaggiare",
+      "pt": "Eu gosto de viajar"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Me gusta cocinar",
       "en": "I like to cook",
       "fr": "J'aime cuisiner",
-      "it": "Mi piace cucinare"
+      "it": "Mi piace cucinare",
+      "pt": "Eu gosto de cozinhar"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Me gusta correr",
       "en": "I like to run",
       "fr": "J'aime courir",
-      "it": "Mi piace correre"
+      "it": "Mi piace correre",
+      "pt": "Eu gosto de correr"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Me gusta nadar",
       "en": "I like to swim",
       "fr": "J'aime nager",
-      "it": "Mi piace nuotare"
+      "it": "Mi piace nuotare",
+      "pt": "Eu gosto de nadar"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Juego fútbol",
       "en": "I play soccer",
       "fr": "Je joue au football",
-      "it": "Gioco a calcio"
+      "it": "Gioco a calcio",
+      "pt": "Eu jogo futebol"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Juego videojuegos",
       "en": "I play video games",
       "fr": "Je joue aux jeux vidéo",
-      "it": "Gioco ai videogiochi"
+      "it": "Gioco ai videogiochi",
+      "pt": "Eu jogo videogame"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Veo películas",
       "en": "I watch movies",
       "fr": "Je regarde des films",
-      "it": "Guardo dei film"
+      "it": "Guardo dei film",
+      "pt": "Eu assisto filmes"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Veo televisión",
       "en": "I watch TV",
       "fr": "Je regarde la télé",
-      "it": "Guardo la TV"
+      "it": "Guardo la TV",
+      "pt": "Eu assisto TV"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Salgo con amigos",
       "en": "I go out with friends",
       "fr": "Je sors avec des amis",
-      "it": "Esco con gli amici"
+      "it": "Esco con gli amici",
+      "pt": "Eu saio com os amigos"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Paso tiempo solo",
       "en": "I spend time alone",
       "fr": "Je passe du temps seul",
-      "it": "Passo del tempo da solo"
+      "it": "Passo del tempo da solo",
+      "pt": "Eu passo tempo sozinho"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Me gusta aprender idiomas",
       "en": "I like learning languages",
       "fr": "J'aime apprendre des langues",
-      "it": "Mi piace imparare le lingue"
+      "it": "Mi piace imparare le lingue",
+      "pt": "Eu gosto de aprender idiomas"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "No tengo mucho tiempo",
       "en": "I don't have much time",
       "fr": "Je n'ai pas beaucoup de temps",
-      "it": "Non ho molto tempo"
+      "it": "Non ho molto tempo",
+      "pt": "Eu não tenho muito tempo"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Lo hago todos los días",
       "en": "I do it every day",
       "fr": "Je le fais tous les jours",
-      "it": "Lo faccio tutti i giorni"
+      "it": "Lo faccio tutti i giorni",
+      "pt": "Eu faço isso todo dia"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Lo hago los fines de semana",
       "en": "I do it on weekends",
       "fr": "Je le fais le week-end",
-      "it": "Lo faccio nel fine settimana"
+      "it": "Lo faccio nel fine settimana",
+      "pt": "Eu faço isso nos fins de semana"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Es divertido",
       "en": "It is fun",
       "fr": "C'est amusant",
-      "it": "È divertente"
+      "it": "È divertente",
+      "pt": "É divertido"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Es aburrido",
       "en": "It is boring",
       "fr": "C'est ennuyeux",
-      "it": "È noioso"
+      "it": "È noioso",
+      "pt": "É chato"
     },
     "difficulty": "Beginner"
   }

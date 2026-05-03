@@ -12,7 +12,8 @@ Each file is named by scenario (e.g. `small_talk.json`, `restaurant.json`).
       "es": "Hola",
       "fr": "Bonjour",
       "it": "Ciao",
-      "en": "Hello"
+      "en": "Hello",
+      "pt": "Olá"
     },
     "difficulty": "Beginner"
   }
@@ -20,7 +21,7 @@ Each file is named by scenario (e.g. `small_talk.json`, `restaurant.json`).
 ```
 
 - **phrase**: English source / canonical text
-- **translations**: Object with language codes (`es`, `fr`, `it`, `en`) as keys and the translated phrase as value
+- **translations**: Object with language codes (`es`, `fr`, `it`, `en`, `pt`) as keys and the translated phrase as value
 - **difficulty**: `Beginner`, `Intermediate`, or `Advanced`
 
 ## Adding Content

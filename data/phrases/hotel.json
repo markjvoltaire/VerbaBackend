@@ -5,7 +5,8 @@
       "es": "Tengo una reserva a nombre de...",
       "fr": "J'ai une réservation au nom de...",
       "it": "Ho una prenotazione a nome di...",
-      "en": "I have a reservation under the name of..."
+      "en": "I have a reservation under the name of...",
+      "pt": "Eu tenho uma reserva em nome de..."
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "¿A qué hora es el check-out?",
       "fr": "À quelle heure est le check-out?",
       "it": "A che ora è il check-out?",
-      "en": "What time is check-out?"
+      "en": "What time is check-out?",
+      "pt": "Que horas é o check-out?"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "¿Hay WiFi en la habitación?",
       "fr": "Y a-t-il le WiFi dans la chambre?",
       "it": "C'è il WiFi in camera?",
-      "en": "Is there WiFi in the room?"
+      "en": "Is there WiFi in the room?",
+      "pt": "Tem WiFi no quarto?"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Necesito una habitación para esta noche",
       "fr": "J'ai besoin d'une chambre pour ce soir",
       "it": "Ho bisogno di una camera per stanotte",
-      "en": "I need a room for tonight"
+      "en": "I need a room for tonight",
+      "pt": "Eu preciso de um quarto para hoje à noite"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "La llave de mi habitación, por favor",
       "fr": "La clé de ma chambre, s'il vous plaît",
       "it": "La chiave della mia camera, per favore",
-      "en": "The key to my room, please"
+      "en": "The key to my room, please",
+      "pt": "A chave do meu quarto, por favor"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "¿Dónde está la piscina?",
       "fr": "Où est la piscine?",
       "it": "Dov'è la piscina?",
-      "en": "Where is the pool?"
+      "en": "Where is the pool?",
+      "pt": "Onde fica a piscina?"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "¿Está incluido el desayuno?",
       "fr": "Le petit-déjeuner est inclus?",
       "it": "La colazione è inclusa?",
-      "en": "Is breakfast included?"
+      "en": "Is breakfast included?",
+      "pt": "O café da manhã está incluído?"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "La habitación no está limpia",
       "fr": "La chambre n'est pas propre",
       "it": "La camera non è pulita",
-      "en": "The room is not clean"
+      "en": "The room is not clean",
+      "pt": "O quarto não está limpo"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "El aire acondicionado no funciona",
       "fr": "Le climatiseur ne fonctionne pas",
       "it": "L'aria condizionata non funziona",
-      "en": "The air conditioning doesn't work"
+      "en": "The air conditioning doesn't work",
+      "pt": "O ar-condicionado não está funcionando"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "¿Puede despertarme a las siete?",
       "fr": "Pouvez-vous me réveiller à sept heures?",
       "it": "Potete svegliarmi alle sette?",
-      "en": "Can you wake me at seven o'clock?"
+      "en": "Can you wake me at seven o'clock?",
+      "pt": "Você pode me acordar às sete horas?"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Quiero reservar una habitación",
       "en": "I want to book a room",
       "fr": "Je voudrais réserver une chambre",
-      "it": "Vorrei prenotare una camera"
+      "it": "Vorrei prenotare una camera",
+      "pt": "Eu quero reservar um quarto"
     },
     "difficulty": "Intermediate"
   },
@@ -115,7 +126,8 @@
       "es": "Tengo una reserva",
       "en": "I have a reservation",
       "fr": "J'ai une réservation",
-      "it": "Ho una prenotazione"
+      "it": "Ho una prenotazione",
+      "pt": "Eu tenho uma reserva"
     },
     "difficulty": "Intermediate"
   },
@@ -125,7 +137,8 @@
       "es": "¿Hay habitaciones disponibles?",
       "en": "Are there rooms available?",
       "fr": "Y a-t-il des chambres disponibles ?",
-      "it": "Ci sono camere disponibili?"
+      "it": "Ci sono camere disponibili?",
+      "pt": "Tem quartos disponíveis?"
     },
     "difficulty": "Intermediate"
   },
@@ -135,7 +148,8 @@
       "es": "¿Cuánto cuesta por noche?",
       "en": "How much is it per night?",
       "fr": "Combien ça coûte par nuit ?",
-      "it": "Quanto costa a notte?"
+      "it": "Quanto costa a notte?",
+      "pt": "Quanto custa por noite?"
     },
     "difficulty": "Intermediate"
   },
@@ -145,7 +159,8 @@
       "es": "Quiero una habitación individual",
       "en": "I want a single room",
       "fr": "Je voudrais une chambre simple",
-      "it": "Vorrei una camera singola"
+      "it": "Vorrei una camera singola",
+      "pt": "Eu quero um quarto individual"
     },
     "difficulty": "Intermediate"
   },
@@ -155,7 +170,8 @@
       "es": "Quiero una habitación doble",
       "en": "I want a double room",
       "fr": "Je voudrais une chambre double",
-      "it": "Vorrei una camera doppia"
+      "it": "Vorrei una camera doppia",
+      "pt": "Eu quero um quarto duplo"
     },
     "difficulty": "Intermediate"
   },
@@ -165,7 +181,8 @@
       "es": "¿Incluye desayuno?",
       "en": "Does it include breakfast?",
       "fr": "Le petit-déjeuner est-il inclus ?",
-      "it": "La colazione è inclusa?"
+      "it": "La colazione è inclusa?",
+      "pt": "Inclui café da manhã?"
     },
     "difficulty": "Intermediate"
   },
@@ -175,7 +192,8 @@
       "es": "¿A qué hora es el check-in?",
       "en": "What time is check-in?",
       "fr": "À quelle heure est le check-in ?",
-      "it": "A che ora è il check-in?"
+      "it": "A che ora è il check-in?",
+      "pt": "Que horas é o check-in?"
     },
     "difficulty": "Intermediate"
   },
@@ -185,7 +203,8 @@
       "es": "Me quedo dos noches",
       "en": "I stay two nights",
       "fr": "Je reste deux nuits",
-      "it": "Resto due notti"
+      "it": "Resto due notti",
+      "pt": "Eu vou ficar duas noites"
     },
     "difficulty": "Intermediate"
   },
@@ -195,7 +214,8 @@
       "es": "Necesito wifi",
       "en": "I need wifi",
       "fr": "J'ai besoin du wifi",
-      "it": "Ho bisogno del wifi"
+      "it": "Ho bisogno del wifi",
+      "pt": "Eu preciso de wifi"
     },
     "difficulty": "Intermediate"
   },
@@ -205,7 +225,8 @@
       "es": "La habitación está limpia",
       "en": "The room is clean",
       "fr": "La chambre est propre",
-      "it": "La camera è pulita"
+      "it": "La camera è pulita",
+      "pt": "O quarto está limpo"
     },
     "difficulty": "Intermediate"
   },
@@ -215,7 +236,8 @@
       "es": "La habitación está sucia",
       "en": "The room is dirty",
       "fr": "La chambre est sale",
-      "it": "La camera è sporca"
+      "it": "La camera è sporca",
+      "pt": "O quarto está sujo"
     },
     "difficulty": "Intermediate"
   },
@@ -225,7 +247,8 @@
       "es": "Hay un problema",
       "en": "There is a problem",
       "fr": "Il y a un problème",
-      "it": "C'è un problema"
+      "it": "C'è un problema",
+      "pt": "Há um problema"
     },
     "difficulty": "Intermediate"
   },
@@ -235,7 +258,8 @@
       "es": "Necesito ayuda",
       "en": "I need help",
       "fr": "J'ai besoin d'aide",
-      "it": "Ho bisogno di aiuto"
+      "it": "Ho bisogno di aiuto",
+      "pt": "Preciso de ajuda"
     },
     "difficulty": "Intermediate"
   },
@@ -245,7 +269,8 @@
       "es": "¿Puedo cambiar de habitación?",
       "en": "Can I change rooms?",
       "fr": "Puis-je changer de chambre ?",
-      "it": "Posso cambiare camera?"
+      "it": "Posso cambiare camera?",
+      "pt": "Posso trocar de quarto?"
     },
     "difficulty": "Intermediate"
   },
@@ -255,7 +280,8 @@
       "es": "Todo está bien",
       "en": "Everything is fine",
       "fr": "Tout va bien",
-      "it": "Va tutto bene"
+      "it": "Va tutto bene",
+      "pt": "Está tudo bem"
     },
     "difficulty": "Intermediate"
   },
@@ -265,7 +291,8 @@
       "es": "Gracias por el servicio",
       "en": "Thanks for the service",
       "fr": "Merci pour le service",
-      "it": "Grazie per il servizio"
+      "it": "Grazie per il servizio",
+      "pt": "Obrigado pelo serviço"
     },
     "difficulty": "Intermediate"
   },
@@ -275,7 +302,8 @@
       "es": "Voy a quedarme aquí",
       "en": "I am going to stay here",
       "fr": "Je vais rester ici",
-      "it": "Resterò qui"
+      "it": "Resterò qui",
+      "pt": "Vou ficar aqui"
     },
     "difficulty": "Intermediate"
   },
@@ -285,7 +313,8 @@
       "es": "Quiero cancelar",
       "en": "I want to cancel",
       "fr": "Je voudrais annuler",
-      "it": "Vorrei cancellare"
+      "it": "Vorrei cancellare",
+      "pt": "Quero cancelar"
     },
     "difficulty": "Intermediate"
   }

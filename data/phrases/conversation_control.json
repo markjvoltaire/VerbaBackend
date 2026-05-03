@@ -5,7 +5,8 @@
       "es": "Cambiando de tema",
       "en": "Changing the subject",
       "fr": "Pour changer de sujet",
-      "it": "Cambiando argomento"
+      "it": "Cambiando argomento",
+      "pt": "Mudando de assunto"
     },
     "difficulty": "Advanced"
   },
@@ -15,7 +16,8 @@
       "es": "Volviendo a lo anterior",
       "en": "Going back to what we said",
       "fr": "Pour revenir à ce qu'on disait",
-      "it": "Tornando a quello che dicevamo"
+      "it": "Tornando a quello che dicevamo",
+      "pt": "Voltando ao que dissemos"
     },
     "difficulty": "Advanced"
   },
@@ -25,7 +27,8 @@
       "es": "A lo que iba",
       "en": "Back to my point",
       "fr": "Pour en revenir à ce que je disais",
-      "it": "Tornando al punto"
+      "it": "Tornando al punto",
+      "pt": "Voltando ao meu ponto"
     },
     "difficulty": "Advanced"
   },
@@ -35,7 +38,8 @@
       "es": "Eso me recuerda",
       "en": "That reminds me",
       "fr": "Ça me rappelle",
-      "it": "Questo mi ricorda"
+      "it": "Questo mi ricorda",
+      "pt": "Isso me lembra"
     },
     "difficulty": "Advanced"
   },
@@ -45,7 +49,8 @@
       "es": "Hablando de eso",
       "en": "Speaking of that",
       "fr": "En parlant de ça",
-      "it": "A proposito di questo"
+      "it": "A proposito di questo",
+      "pt": "Falando nisso"
     },
     "difficulty": "Advanced"
   },
@@ -55,7 +60,8 @@
       "es": "Por cierto",
       "en": "By the way",
       "fr": "Au fait",
-      "it": "A proposito"
+      "it": "A proposito",
+      "pt": "A propósito"
     },
     "difficulty": "Advanced"
   },
@@ -65,7 +71,8 @@
       "es": "Antes de que se me olvide",
       "en": "Before I forget",
       "fr": "Avant que j'oublie",
-      "it": "Prima che mi dimentichi"
+      "it": "Prima che mi dimentichi",
+      "pt": "Antes que eu me esqueça"
     },
     "difficulty": "Advanced"
   },
@@ -75,7 +82,8 @@
       "es": "Déjame preguntarte algo",
       "en": "Let me ask you something",
       "fr": "Laisse-moi te demander quelque chose",
-      "it": "Lascia che ti chieda una cosa"
+      "it": "Lascia che ti chieda una cosa",
+      "pt": "Deixa eu te perguntar uma coisa"
     },
     "difficulty": "Advanced"
   },
@@ -85,7 +93,8 @@
       "es": "Te digo algo",
       "en": "Let me tell you something",
       "fr": "Laisse-moi te dire quelque chose",
-      "it": "Ti dico una cosa"
+      "it": "Ti dico una cosa",
+      "pt": "Deixa eu te contar uma coisa"
     },
     "difficulty": "Advanced"
   },
@@ -95,7 +104,8 @@
       "es": "Escucha esto",
       "en": "Listen to this",
       "fr": "Écoute ça",
-      "it": "Ascolta un po'"
+      "it": "Ascolta un po'",
+      "pt": "Ouça isso"
     },
     "difficulty": "Advanced"
   },
@@ -105,7 +115,8 @@
       "es": "Mira, la cosa es así",
       "en": "Look, here's the thing",
       "fr": "Écoute, voilà le truc",
-      "it": "Guarda, il punto è questo"
+      "it": "Guarda, il punto è questo",
+      "pt": "Olha, aqui está a questão"
     },
     "difficulty": "Advanced"
   },
@@ -115,7 +126,8 @@
       "es": "Te explico rápido",
       "en": "I'll explain quickly",
       "fr": "Je t'explique vite fait",
-      "it": "Ti spiego in breve"
+      "it": "Ti spiego in breve",
+      "pt": "Vou explicar rapidinho"
     },
     "difficulty": "Advanced"
   },
@@ -125,7 +137,8 @@
       "es": "No te quiero aburrir pero",
       "en": "I don't want to bore you but",
       "fr": "Je ne veux pas t'ennuyer mais",
-      "it": "Non voglio annoiarti ma"
+      "it": "Non voglio annoiarti ma",
+      "pt": "Não quero te entediar, mas"
     },
     "difficulty": "Advanced"
   },
@@ -135,7 +148,8 @@
       "es": "En pocas palabras",
       "en": "In a few words",
       "fr": "En quelques mots",
-      "it": "In poche parole"
+      "it": "In poche parole",
+      "pt": "Em poucas palavras"
     },
     "difficulty": "Advanced"
   },
@@ -145,7 +159,8 @@
       "es": "Resumiendo",
       "en": "Summing up",
       "fr": "En résumé",
-      "it": "Riassumendo"
+      "it": "Riassumendo",
+      "pt": "Resumindo"
     },
     "difficulty": "Advanced"
   },
@@ -155,7 +170,8 @@
       "es": "Para terminar",
       "en": "To finish",
       "fr": "Pour finir",
-      "it": "Per finire"
+      "it": "Per finire",
+      "pt": "Para finalizar"
     },
     "difficulty": "Advanced"
   },
@@ -165,7 +181,8 @@
       "es": "Eso es todo",
       "en": "That's all",
       "fr": "C'est tout",
-      "it": "È tutto"
+      "it": "È tutto",
+      "pt": "É isso"
     },
     "difficulty": "Advanced"
   },
@@ -175,7 +192,8 @@
       "es": "¿Me sigues?",
       "en": "Are you following me?",
       "fr": "Tu me suis ?",
-      "it": "Mi stai seguendo?"
+      "it": "Mi stai seguendo?",
+      "pt": "Você está me acompanhando?"
     },
     "difficulty": "Advanced"
   },
@@ -185,7 +203,8 @@
       "es": "¿Tiene sentido?",
       "en": "Does it make sense?",
       "fr": "Ça a du sens ?",
-      "it": "Ha senso?"
+      "it": "Ha senso?",
+      "pt": "Isso faz sentido?"
     },
     "difficulty": "Advanced"
   },
@@ -195,7 +214,8 @@
       "es": "¿Vas conmigo?",
       "en": "Are you with me?",
       "fr": "Tu es avec moi ?",
-      "it": "Sei con me?"
+      "it": "Sei con me?",
+      "pt": "Você está comigo?"
     },
     "difficulty": "Advanced"
   }

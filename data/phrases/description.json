@@ -5,7 +5,8 @@
       "es": "Es grande",
       "en": "It is big",
       "fr": "C'est grand",
-      "it": "È grande"
+      "it": "È grande",
+      "pt": "É grande"
     },
     "difficulty": "Beginner"
   },
@@ -15,7 +16,8 @@
       "es": "Es pequeño",
       "en": "It is small",
       "fr": "C'est petit",
-      "it": "È piccolo"
+      "it": "È piccolo",
+      "pt": "É pequeno"
     },
     "difficulty": "Beginner"
   },
@@ -25,7 +27,8 @@
       "es": "Es bueno",
       "en": "It is good",
       "fr": "C'est bien",
-      "it": "È buono"
+      "it": "È buono",
+      "pt": "É bom"
     },
     "difficulty": "Beginner"
   },
@@ -35,7 +38,8 @@
       "es": "Es malo",
       "en": "It is bad",
       "fr": "C'est mauvais",
-      "it": "È cattivo"
+      "it": "È cattivo",
+      "pt": "É ruim"
     },
     "difficulty": "Beginner"
   },
@@ -45,7 +49,8 @@
       "es": "Es bonito",
       "en": "It is pretty",
       "fr": "C'est joli",
-      "it": "È carino"
+      "it": "È carino",
+      "pt": "É bonito"
     },
     "difficulty": "Beginner"
   },
@@ -55,7 +60,8 @@
       "es": "Es feo",
       "en": "It is ugly",
       "fr": "C'est laid",
-      "it": "È brutto"
+      "it": "È brutto",
+      "pt": "É feio"
     },
     "difficulty": "Beginner"
   },
@@ -65,7 +71,8 @@
       "es": "Es rápido",
       "en": "It is fast",
       "fr": "C'est rapide",
-      "it": "È veloce"
+      "it": "È veloce",
+      "pt": "É rápido"
     },
     "difficulty": "Beginner"
   },
@@ -75,7 +82,8 @@
       "es": "Es lento",
       "en": "It is slow",
       "fr": "C'est lent",
-      "it": "È lento"
+      "it": "È lento",
+      "pt": "É devagar"
     },
     "difficulty": "Beginner"
   },
@@ -85,7 +93,8 @@
       "es": "Es fácil",
       "en": "It is easy",
       "fr": "C'est facile",
-      "it": "È facile"
+      "it": "È facile",
+      "pt": "É fácil"
     },
     "difficulty": "Beginner"
   },
@@ -95,7 +104,8 @@
       "es": "Es difícil",
       "en": "It is difficult",
       "fr": "C'est difficile",
-      "it": "È difficile"
+      "it": "È difficile",
+      "pt": "É difícil"
     },
     "difficulty": "Beginner"
   },
@@ -105,7 +115,8 @@
       "es": "Es nuevo",
       "en": "It is new",
       "fr": "C'est nouveau",
-      "it": "È nuovo"
+      "it": "È nuovo",
+      "pt": "É novo"
     },
     "difficulty": "Beginner"
   },
@@ -115,7 +126,8 @@
       "es": "Es viejo",
       "en": "It is old",
       "fr": "C'est vieux",
-      "it": "È vecchio"
+      "it": "È vecchio",
+      "pt": "É velho"
     },
     "difficulty": "Beginner"
   },
@@ -125,7 +137,8 @@
       "es": "Es caro",
       "en": "It is expensive",
       "fr": "C'est cher",
-      "it": "È caro"
+      "it": "È caro",
+      "pt": "É caro"
     },
     "difficulty": "Beginner"
   },
@@ -135,7 +148,8 @@
       "es": "Es barato",
       "en": "It is cheap",
       "fr": "C'est bon marché",
-      "it": "È economico"
+      "it": "È economico",
+      "pt": "É barato"
     },
     "difficulty": "Beginner"
   },
@@ -145,7 +159,8 @@
       "es": "Es interesante",
       "en": "It is interesting",
       "fr": "C'est intéressant",
-      "it": "È interessante"
+      "it": "È interessante",
+      "pt": "É interessante"
     },
     "difficulty": "Beginner"
   },
@@ -155,7 +170,8 @@
       "es": "Es aburrido",
       "en": "It is boring",
       "fr": "C'est ennuyeux",
-      "it": "È noioso"
+      "it": "È noioso",
+      "pt": "É chato"
     },
     "difficulty": "Beginner"
   },
@@ -165,7 +181,8 @@
       "es": "Es importante",
       "en": "It is important",
       "fr": "C'est important",
-      "it": "È importante"
+      "it": "È importante",
+      "pt": "É importante"
     },
     "difficulty": "Beginner"
   },
@@ -175,7 +192,8 @@
       "es": "Es diferente",
       "en": "It is different",
       "fr": "C'est différent",
-      "it": "È diverso"
+      "it": "È diverso",
+      "pt": "É diferente"
     },
     "difficulty": "Beginner"
   },
@@ -185,7 +203,8 @@
       "es": "Es igual",
       "en": "It is the same",
       "fr": "C'est pareil",
-      "it": "È uguale"
+      "it": "È uguale",
+      "pt": "É igual"
     },
     "difficulty": "Beginner"
   },
@@ -195,7 +214,8 @@
       "es": "Es perfecto",
       "en": "It is perfect",
       "fr": "C'est parfait",
-      "it": "È perfetto"
+      "it": "È perfetto",
+      "pt": "É perfeito"
     },
     "difficulty": "Beginner"
   }

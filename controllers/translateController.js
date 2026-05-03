@@ -20,7 +20,13 @@ async function translate(req, res) {
     }
 
     const lang = targetLang || 'es';
-    const langNames = { es: 'Spanish', fr: 'French', it: 'Italian', en: 'English' };
+    const langNames = {
+      es: 'Spanish',
+      fr: 'French',
+      it: 'Italian',
+      en: 'English',
+      pt: 'Portuguese',
+    };
     const targetName = langNames[lang] || 'Spanish';
     const wordForWord = literal === true;
 
